@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "카카오모빌리티",
+    "status": "시범운행",
+    "zones": ["강남·서초"],
+    "vehicle_model": "현대 아이오닉5",
+    "partner": "현대자동차",
+    "commercialize_date": null,
+    "level": 4,
+    "notes": "2023년부터 강남·서초 구역에서 유상 시범운행 중. 국내 최대 로보택시 운영사.",
+    "updated_at": "2026-03-30T00:00:00+00:00"
+  },
+  {
+    "id": 2,
+    "name": "42dot",
+    "status": "시범운행",
+    "zones": ["상암"],
+    "vehicle_model": "현대 아이오닉5",
+    "partner": "현대자동차그룹",
+    "commercialize_date": null,
+    "level": 4,
+    "notes": "현대자동차그룹 자율주행 소프트웨어 자회사. 상암 DMC 구역 중심 운행.",
+    "updated_at": "2026-03-30T00:00:00+00:00"
+  },
+  {
+    "id": 3,
+    "name": "SWM",
+    "status": "시범운행",
+    "zones": ["상암"],
+    "vehicle_model": "KG 모빌리티 토레스",
+    "partner": "KG 모빌리티",
+    "commercialize_date": null,
+    "level": 4,
+    "notes": "상암 DMC 지구에서 운행 중. KG 모빌리티와 협력.",
+    "updated_at": "2026-03-30T00:00:00+00:00"
+  },
+  {
+    "id": 4,
+    "name": "PlanV",
+    "status": "개발 중",
+    "zones": [],
+    "vehicle_model": "미정",
+    "partner": "LG전자",
+    "commercialize_date": null,
+    "level": 3,
+    "notes": "LG전자 계열 자율주행 스타트업. 상용화 서비스 진행 전 단계.",
+    "updated_at": "2026-03-30T00:00:00+00:00"
+  }
+]

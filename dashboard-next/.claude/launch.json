@@ -2,9 +2,9 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "robotaxi-dashboard",
+      "name": "dashboard",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev", "--prefix", "dashboard-next"],
+      "runtimeArgs": ["run", "dev"],
       "port": 3000
     }
   ]

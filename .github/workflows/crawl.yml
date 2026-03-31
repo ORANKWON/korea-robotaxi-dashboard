@@ -35,6 +35,8 @@ jobs:
             echo "No changes in data/ — skipping commit"
             exit 0
           fi
-          git add data/news.json data/companies.json
+          # dashboard-next에도 데이터 동기화
+          cp data/*.json dashboard-next/src/data/
+          git add data/news.json data/companies.json dashboard-next/src/data/
           git commit -m "chore: auto-update robotaxi data [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
           git push

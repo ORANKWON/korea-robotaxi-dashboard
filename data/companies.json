@@ -1,50 +1,74 @@
 [
   {
     "id": 1,
-    "name": "카카오모빌리티",
+    "name": "SWM (서울자율차)",
     "status": "시범운행",
-    "zones": ["강남·서초"],
+    "zones": ["강남"],
     "vehicle_model": "현대 아이오닉5",
-    "partner": "현대자동차",
-    "commercialize_date": null,
+    "partner": "서울시",
+    "commercialize_date": "2026-04-06",
     "level": 4,
-    "notes": "2023년부터 강남·서초 구역에서 유상 시범운행 중. 국내 최대 로보택시 운영사.",
-    "updated_at": "2026-03-30T00:00:00+00:00"
+    "notes": "2024.11부터 강남 심야 로보택시 운행. 17개월 무사고 7,754회 운행. 2026.4.6 유료화 전환. NVIDIA GTC 2026 전시.",
+    "updated_at": "2026-03-31T00:00:00+00:00"
   },
   {
     "id": 2,
-    "name": "42dot",
+    "name": "카카오모빌리티",
     "status": "시범운행",
-    "zones": ["상암"],
+    "zones": ["강남"],
+    "vehicle_model": "자체 자율주행차",
+    "partner": "서울시",
+    "commercialize_date": "2026-04-06",
+    "level": 4,
+    "notes": "2026.3.16부터 강남 심야 자율주행택시 합류. 카카오T 앱 '서울자율차' 메뉴로 호출. 차량 합산 7대로 확대.",
+    "updated_at": "2026-03-31T00:00:00+00:00"
+  },
+  {
+    "id": 3,
+    "name": "42dot (포티투닷)",
+    "status": "시범운행",
+    "zones": ["청계천", "상암"],
     "vehicle_model": "현대 아이오닉5",
     "partner": "현대자동차그룹",
     "commercialize_date": null,
     "level": 4,
-    "notes": "현대자동차그룹 자율주행 소프트웨어 자회사. 상암 DMC 구역 중심 운행.",
-    "updated_at": "2026-03-30T00:00:00+00:00"
-  },
-  {
-    "id": 3,
-    "name": "SWM",
-    "status": "시범운행",
-    "zones": ["상암"],
-    "vehicle_model": "KG 모빌리티 토레스",
-    "partner": "KG 모빌리티",
-    "commercialize_date": null,
-    "level": 4,
-    "notes": "상암 DMC 지구에서 운행 중. KG 모빌리티와 협력.",
-    "updated_at": "2026-03-30T00:00:00+00:00"
+    "notes": "현대차그룹 자율주행 SW 자회사. 청계천 도심순환 자율주행버스 운행(4.8km 왕복). Atria AI 엔드투엔드 자율주행 기술 개발 중.",
+    "updated_at": "2026-03-31T00:00:00+00:00"
   },
   {
     "id": 4,
-    "name": "PlanV",
-    "status": "개발 중",
-    "zones": [],
-    "vehicle_model": "미정",
-    "partner": "LG전자",
+    "name": "포니링크",
+    "status": "시험운행",
+    "zones": ["강남"],
+    "vehicle_model": "미공개",
+    "partner": "Pony.ai (중국)",
     "commercialize_date": null,
-    "level": 3,
-    "notes": "LG전자 계열 자율주행 스타트업. 상용화 서비스 진행 전 단계.",
-    "updated_at": "2026-03-30T00:00:00+00:00"
+    "level": 4,
+    "notes": "2025.12 국토부 임시운행 허가 취득. 강남에서 Level 4 로보택시 3대 시험운행 중. 무사고 누적 3만km.",
+    "updated_at": "2026-03-31T00:00:00+00:00"
+  },
+  {
+    "id": 5,
+    "name": "오토노머스에이투지",
+    "status": "시범운행",
+    "zones": ["다수"],
+    "vehicle_model": "다수",
+    "partner": "전국택시운송사업조합연합회",
+    "commercialize_date": null,
+    "level": 4,
+    "notes": "국내 최다 62대 자율주행차 운영 경험. 2026.2 택시 자율주행 전환 업무협약 체결. 하이브리드형 E2E 기술 개발 중.",
+    "updated_at": "2026-03-31T00:00:00+00:00"
+  },
+  {
+    "id": 6,
+    "name": "모셔널 (현대차그룹)",
+    "status": "준비 중",
+    "zones": ["마포"],
+    "vehicle_model": "현대 아이오닉5",
+    "partner": "현대자동차그룹",
+    "commercialize_date": null,
+    "level": 4,
+    "notes": "2026 하반기 마포 지역에서 안전요원 미탑승 Level 4 완전 자율주행택시 운영 계획.",
+    "updated_at": "2026-03-31T00:00:00+00:00"
   }
 ]

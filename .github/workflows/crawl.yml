@@ -26,6 +26,9 @@ jobs:
       - name: Run crawler
         run: python robotaxi_crawler.py
 
+      - name: Validate data
+        run: python validate_data.py
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
@@ -35,8 +38,6 @@ jobs:
             echo "No changes in data/ — skipping commit"
             exit 0
           fi
-          # dashboard-next에도 데이터 동기화
-          cp data/*.json dashboard-next/src/data/
-          git add data/news.json data/companies.json dashboard-next/src/data/
+          git add data/
           git commit -m "chore: auto-update robotaxi data [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
           git push

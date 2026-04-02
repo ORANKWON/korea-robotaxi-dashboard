@@ -1,5 +1,5 @@
 import type { TimelineEvent } from "@/types";
-import timelineData from "@/data/timeline.json";
+import timelineData from "@data/timeline.json";
 
 const events = (timelineData as TimelineEvent[]).sort(
   (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()

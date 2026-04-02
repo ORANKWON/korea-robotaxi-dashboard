@@ -1,0 +1,28 @@
+name: Validate Data
+
+on:
+  push:
+    paths:
+      - "data/**"
+      - "validate_data.py"
+  pull_request:
+    paths:
+      - "data/**"
+      - "validate_data.py"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate data files
+        run: python validate_data.py

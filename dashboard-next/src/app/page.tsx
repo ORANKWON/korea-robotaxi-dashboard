@@ -1,7 +1,7 @@
 import type { Company, NewsItem, Zone } from "@/types";
-import companiesData from "@/data/companies.json";
-import newsData from "@/data/news.json";
-import zonesData from "@/data/zones.json";
+import companiesData from "@data/companies.json";
+import newsData from "@data/news.json";
+import zonesData from "@data/zones.json";
 
 const companies = companiesData as Company[];
 const news = (newsData as NewsItem[]).slice(0, 10);

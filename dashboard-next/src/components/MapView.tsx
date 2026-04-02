@@ -3,7 +3,7 @@
 import { MapContainer, TileLayer, CircleMarker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import type { Zone } from "@/types";
-import zonesData from "@/data/zones.json";
+import zonesData from "@data/zones.json";
 
 const zones = zonesData as Zone[];
 
@@ -15,8 +15,8 @@ const statusColor: Record<string, string> = {
 export default function MapView() {
   return (
     <MapContainer
-      center={[37.5, 127.0]}
-      zoom={11}
+      center={[37.45, 127.0]}
+      zoom={10}
       style={{ height: "100%", width: "100%" }}
       scrollWheelZoom
     >

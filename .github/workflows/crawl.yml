@@ -23,8 +23,11 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run crawler
+      - name: Run news crawler
         run: python robotaxi_crawler.py
+
+      - name: Run company page change detection
+        run: python crawl_company_updates.py
 
       - name: Validate data
         run: python validate_data.py

@@ -1,0 +1,59 @@
+{
+  "sources": {
+    "molit_autonomous": {
+      "name": "국토부 자율주행 보도자료",
+      "url": "https://www.molit.go.kr/USR/NEWS/m_71/lst.jsp?search_type=title&search_text=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89",
+      "hash": null,
+      "last_checked_at": "2026-04-02T01:46:24.039733+00:00",
+      "last_status": "error",
+      "bytes": 0,
+      "last_changed_at": null
+    },
+    "seoul_autonomous": {
+      "name": "서울시 자율주행 뉴스",
+      "url": "https://news.seoul.go.kr/traffic/archives/category/autonomous",
+      "hash": "3f58f05552df8f1191be6b86375be61e4f2443d03d5b23d5fd64a394174f226f",
+      "last_checked_at": "2026-04-02T01:46:24.039733+00:00",
+      "last_status": "new",
+      "bytes": 1573,
+      "last_changed_at": "2026-04-02T01:46:24.039733+00:00"
+    },
+    "42dot": {
+      "name": "42dot 뉴스",
+      "url": "https://42dot.ai/news",
+      "hash": "e0ced866cbd09fdf6ec98142685c66c49cb5846554e55744c94018cbc5e6e2ef",
+      "last_checked_at": "2026-04-02T01:46:24.039733+00:00",
+      "last_status": "new",
+      "bytes": 512791,
+      "last_changed_at": "2026-04-02T01:46:24.039733+00:00"
+    },
+    "rideflux": {
+      "name": "라이드플럭스",
+      "url": "https://rideflux.com",
+      "hash": "ae12e1193ce1f8c2f7caf0029d511fb65f21010b39b1692d212224d03d1e4e07",
+      "last_checked_at": "2026-04-02T01:46:24.039733+00:00",
+      "last_status": "new",
+      "bytes": 665665,
+      "last_changed_at": "2026-04-02T01:46:24.039733+00:00"
+    },
+    "swm": {
+      "name": "SWM (서울자율차)",
+      "url": "https://swm.co.kr",
+      "hash": null,
+      "last_checked_at": "2026-04-02T01:46:24.039733+00:00",
+      "last_status": "error",
+      "bytes": 0,
+      "last_changed_at": null
+    },
+    "google_news_robotaxi": {
+      "name": "Google News 로보택시",
+      "url": "https://news.google.com/rss/search?q=%EB%A1%9C%EB%B3%B4%ED%83%9D%EC%8B%9C+%ED%95%9C%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko",
+      "hash": "b1b4096accb5b1661f9ebe9451317cc0fee4b15f83c25a5500f08ff3437fcec5",
+      "last_checked_at": "2026-04-02T01:46:24.039733+00:00",
+      "last_status": "new",
+      "bytes": 123329,
+      "last_changed_at": "2026-04-02T01:46:24.039733+00:00"
+    }
+  },
+  "last_run": "2026-04-02T01:46:24.039733+00:00"
+}

@@ -1,5 +1,309 @@
 [
   {
+    "headline": "차선 변경도, 유턴도 '척척'‥강남 누빌 '자율주행 택시' 타 봤더니 - MBC 뉴스",
+    "summary": "차선 변경도, 유턴도 '척척'‥강남 누빌 '자율주행 택시' 타 봤더니  MBC 뉴스",
+    "source": "MBC 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QN0w5MENRdDBNTHlkOGxIdk5nUlFsa2tHNkNiZGNJdnpqUEVEZFp3M0E1WTVyMTc5TWtna2F1SVA5NzlBbkExaGMyZVpjYUJodWNFamhDYnNXWEQyUnFEakIxSnJiM0RtTE1IbXZIUEp4bnlQUXBsdNIBeEFVX3lxTE5Tc3FwZU9jTEZsOGhTNGw4aEJ0d3VXb3NQOF9NU2RtcTh1Q2ttS2xCYVc1cEJjWWk1SlRDRzRpbnRNX1V3UkhVRGdyT2RBSG14QUhRcE9YUVpUaG1IQ2JlQVg4ZUpZSGh0bGZDTTNhTWZPejkyeVlrMA?oc=5",
+    "published_at": "2026-04-03T11:31:16+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "테슬라 로보택시, 전미 확대 예고…美 인구 70% 겨냥 - 네이트",
+    "summary": "테슬라 로보택시, 전미 확대 예고…美 인구 70% 겨냥  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ud0ZEV3dJVjliQlRRQUsycE1aYW1tYWJZeV9DSlZPSXBYNzBmSjBaT2pMZjVFeGU4ZUpFNVVLZkFDcGRmLTA3aEc2NzE3QjREalE0?oc=5",
+    "published_at": "2026-04-03T03:00:00+00:00",
+    "tags": [
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "中 바이두 로보택시 100여대, 중국 시내서 갑자기 멈췄다 - 전자신문",
+    "summary": "中 바이두 로보택시 100여대, 중국 시내서 갑자기 멈췄다  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02a3B1ZGM4bTVpSVZDMFd6WVVQZXJhS3AyU0laLXpSMUU1cld1YU90Vy1aZjktbUcyR2xjcmd3eFlUUFBoajNneHZTUWVUdw?oc=5",
+    "published_at": "2026-04-02T01:07:32+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "택시 100여 대 동시에 '오작동'…아수라장 된 퇴근길 - v.daum.net",
+    "summary": "택시 100여 대 동시에 '오작동'…아수라장 된 퇴근길  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GVW5vMWJQdVBpN0xXUEVPSVpwblRlNFcyTmNxWkQtZUVMN2J5a0t5SVhaVDFtTi0yZHdnX0dqZnRLdmt4d0JGSzJaTDQ3TVE?oc=5",
+    "published_at": "2026-04-01T22:00:05+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "테슬라 로보택시, 전미 확대 예고…美 인구 70% 겨냥 - 디지털투데이",
+    "summary": "테슬라 로보택시, 전미 확대 예고…美 인구 70% 겨냥  디지털투데이",
+    "source": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OVFFnTnJPRkNId05Bc3Fua3p0MTQwUzN0T2xlX2tzUndSdFpXZ1NnS1dYWTBOM2FWR2lmVXc4Qi14b2JUSW1WendvNjNlMWltQ0k1TXFOSEhDZ1FWcEM3MGZ4RmhnYXh5VXh1QzNlLW51ZFk?oc=5",
+    "published_at": "2026-04-03T03:00:00+00:00",
+    "tags": [
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "100대 동시 셧다운…멈춰 선 로보택시에 승객들 발 동동 - mbn.co.kr",
+    "summary": "100대 동시 셧다운…멈춰 선 로보택시에 승객들 발 동동  mbn.co.kr",
+    "source": "mbn.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11LXR3enlIOHRBenYtaFVfb3Jvb1pwX1N3U0NkeFdSbDE0SUxvdFd6LXMwUmpRSHpTZ2NWWS1vaUtVRFdGYzV2MGVjTzBSN0xZcUHSAUxBVV95cUxNVE5sT1lNRUZRb1NrY3NzZzZaV0JfUjlPSU9BMFhoWFgybjdzZm43cTc1R0ZYU0JNMTZPOGwwQ3M5ZHhQa29hVW5YRzhO?oc=5",
+    "published_at": "2026-04-01T22:54:44+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "\"지도 12배 넓혔는데 차량은 8대뿐\" 테슬라 로보택시의 뼈아픈 현실 - 디지털투데이",
+    "summary": "\"지도 12배 넓혔는데 차량은 8대뿐\" 테슬라 로보택시의 뼈아픈 현실  디지털투데이",
+    "source": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMTdIQ0hEUm9UaVA5TUdCdTBMekF0Sm1HaG8tajN6dmRNOGJXUFFQVFJDZXJWb0tvcTZ4Vy1GWGFjZnk3V29BWWhRWktmWXVEVzU2U0pMMDZFdWY2UXd3eWZobkRPMnNmQXpBN3RpbTFONzA?oc=5",
+    "published_at": "2026-04-01T02:19:45+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "中 우한 도심서 바이두 무인택시 100대 '먹통'…승객 고립·사고까지 - 디지털투데이",
+    "summary": "中 우한 도심서 바이두 무인택시 100대 '먹통'…승객 고립·사고까지  디지털투데이",
+    "source": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FWHZiWHRkamhELXl4cGVyVjduU1F1NU1fdWZHR3NjeER0QTdUa3BoS21nYkRzRWRXSjkwSkl3b3VZMmQwaU9PN0J3aHJMUkFweVlmN2RTMS0xRTJJeFR4ZzE0RnVUMFZQUFp1czdaRVhRQU0?oc=5",
+    "published_at": "2026-04-02T01:32:07+00:00",
+    "tags": [
+      "사고"
+    ]
+  },
+  {
+    "headline": "강남 심야 자율주행 택시, 4월 6일부터 유료 전환 - LG헬로비전",
+    "summary": "강남 심야 자율주행 택시, 4월 6일부터 유료 전환  LG헬로비전",
+    "source": "LG헬로비전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YSFlPamJ1bHBUY01MUUhIR25YZFJQUjl2YkhWSG5nV1RwWHVPX3FnMVcwZFR2U3dxQzFVYmFaRXJvRUJzaEd3aS1RaVFaWUk5dkhWSUpuandJSk90ellxbTlzaXlZVkl0TUY2cHgzZ2NTUdIBdkFVX3lxTE1qUnVzYk4zZE50SUFxN0owS1NaTnpXS012NjV3LTR6U2tpWUxwaTZSV0RLd2cwa0w2VVMyTnJQTVRkdmhsMm8zZmd0WHBFY2UwQnVTUjlqMUFmZGR6RHhLSEg5bllvSHgyaDc0MDJwckxBbFZoclE?oc=5",
+    "published_at": "2026-03-16T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "中 자율주행 무인택시 100여대 멈춰…승객 1시간 넘게 갇히기도 - 네이트",
+    "summary": "中 자율주행 무인택시 100여대 멈춰…승객 1시간 넘게 갇히기도  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfUXJLTnhRaTdsbkFFeU5MdnFaMVlsd3BzZG1iT2FBdU1rV1oxc2dJeU42Q0FtcnRjRUdlN2xqZ05Ib2ktajdpemczUjcwdmpCbGdZajUxY3FqRXlHUU1GR1NVMzZHdzM3enNxUXlqWFZVMlk5bE5qdQ?oc=5",
+    "published_at": "2026-04-01T05:12:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "중국서 바이두 로보택시 100여대, 돌연 멈춰섰다…승객들 고립 - v.daum.net",
+    "summary": "중국서 바이두 로보택시 100여대, 돌연 멈춰섰다…승객들 고립  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QVVNRZ2h3YmY1MGpreUFWQ19ZQ1lSTUdwT2o0TFl2cXBHNkJobm5PYTRpcGh2UnJmOXBkU3plRFVkZ214b3hvT2hiLWlRQVU?oc=5",
+    "published_at": "2026-04-01T02:46:02+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "현대차 자율주행기업 모셔널, 베이거스서 우버 로봇택시 서비스 - 연합뉴스",
+    "summary": "현대차 자율주행기업 모셔널, 베이거스서 우버 로봇택시 서비스  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84NE03LWZJU0VaS29rdTd5aGJEUFhlU0JuZ0lVLUZjU2ExMlhQdTdJbjN6Ym5xRS1lMkxmMkY1NmhabTQ5NmlxZEg2ZkRWM21OOWNCeExWci1sVknSAWBBVV95cUxQZllhZmJGWXlkNmJzSmZ3cjg4cUU4YzRocWNpX2RWdDIzZmp4TDdUeFd3aDZFbmd6S2I5RjhFMlRkbU80NU1aR2tMQ0VRUllKVk5ITTBlSWtYZ2lnam96cVQ?oc=5",
+    "published_at": "2026-03-14T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "“고가도로 한복판서 멈췄다”…中 바이두 로보택시 집단 먹통 - 동아일보",
+    "summary": "“고가도로 한복판서 멈췄다”…中 바이두 로보택시 집단 먹통  동아일보",
+    "source": "동아일보",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nT2lMMGtqUmFDOTN2TFV0c3VZTERmMU1KYnNQVkppYjRjTzVjb0tYZHpDU1JlY2NadndVcWRhUlZ1TXNxdk9QQllEN3k4MGprUEdHNlJkT2tadF9xSjU4UThvRmJfczlfdVJ4WkZ2dnVzVlXSAWZBVV95cUxNQjNGenFWcU9zcTFWSUlpcV9fcDUzbENocEpmRkpjUm91U2s0LU5tOE5vQ1ZFcUFGX29pb3FtcDJNZ0ZBV0NjUXNoYnh2MEVoTUZLVTRPRlRMWDR1SS1MWFhZeDI2WFE?oc=5",
+    "published_at": "2026-04-01T06:43:23+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 16일부터 서울 강남에서 자율주행 택시 운영 - v.daum.net",
+    "summary": "카카오모빌리티, 16일부터 서울 강남에서 자율주행 택시 운영  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50dC1Nb2JwMW02Z0hJSk83MTVObUt6WDFTbU1mOVA3R2ZycmRnQjh1bmFKVks0aHBpOEljM0RrdjJGbmV4eXhIY1REMk9BQUxqTHRBaQ?oc=5",
+    "published_at": "2026-03-16T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "\"국내 자율주행 상용화, 로보택시보다 버스가 빠를 것\" - v.daum.net",
+    "summary": "\"국내 자율주행 상용화, 로보택시보다 버스가 빠를 것\"  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnbUlqRjVxS25lMjlfU2lOSnBtUWpHMlZycFNJOEpHQVducmZFbjE4QnZ3SXRpejNUeFBlb3dLMmZITlpZOHVNVDBuQQ?oc=5",
+    "published_at": "2026-03-20T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "타다도 우버도 막혔던 한국, 로보택시는 언제쯤? - 조선일보",
+    "summary": "타다도 우버도 막혔던 한국, 로보택시는 언제쯤?  조선일보",
+    "source": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTUU2SXVKakZOQTZwM3Awa2JVN3JvZ1pnRDZkYzg4ekRDSUxaX0s5azNPNHQ3TTA3bUVLVTA2Y3A5U0lkOVN5NmpuNUE3NldfaW5RWVhhUHJBWTIzYWFycEtRQUZrcVI2X0l4Rm9mNTBQQl90bDhxbzlWTWR2RGNhYjRkdUdzZ9IBmgFBVV95cUxQR0N0WTc5RlU1ckdHRlVaWWpoWHBzVUY2QVNCTXJ1UTlMRmhLV0FFYlQ5ZmN0bF9GY1NaSm1FRnZ1WDNsQ25YTVl0NFlYLWQ1Ukh2eWVNVEk2dkdHQk9zVTZOeWtNWUlXWFUtZXhEMF90MFQyNTExZ3hGalJzZGFiNGxEWGdGdEVQZk9wNi1rNEhjY0huLWhIdHZB?oc=5",
+    "published_at": "2026-02-12T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "한국에선 로보택시 못 달리는 이유 - 한국경제",
+    "summary": "한국에선 로보택시 못 달리는 이유  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vN0RIMGJuUnZObnVTWFprMEduQVJPWS1zUi1HUG5vUjBFSldTazFicWJzR1JKa1RCbDlmZXVEaVBYQnlJRkxJT3pYQWgtMlc5RERRTzdEVklWQdIBVEFVX3lxTFBULTJLelY5M2ZfSkU1bnhySDBmZk9GLVI1MFkwNHRDMHRtYmY0Ry1fZUVtZ1VORVI4TjlPbGZ5U3hiajRhZXpaV210NU9JRjlmaElubg?oc=5",
+    "published_at": "2025-08-28T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "‘주차요금까지 알아서 정산’...로보택시 기술력, 최종 격전지는 바로 ‘여기’ - 조선일보",
+    "summary": "‘주차요금까지 알아서 정산’...로보택시 기술력, 최종 격전지는 바로 ‘여기’  조선일보",
+    "source": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONk5adEI1cmoyU0hpazVfNVNOTHJ3UWRyTEVwSS1GRnVPYmJtdFFFazNjV3RSSnVfR2lIYnppeDdPdjJzZWgxb2VocHdidmo3MGJIYWw5cmxlM09GelItU2w3OVpUbWJFd2lSN0dOZU44QW41WjRnTnhUNlY1ZWRjWDNMVHJud9IBmgFBVV95cUxQbEtwV19iMTQtZ0p6NnBCRmJUVGJjVE5DS2owNVJFalloVzNLUFhiUF9VNDlkT1FobDNqaE9IbFYxcldDT2w5WWw1RVp3RlRDMm9Ha0IzanJsMVZUMk9lQkI1OER1U1lYQlItVnItbmZaejB4eUhmcWxidWFLNFp2X04yWk0yS0duRUpJbkFvZ3AwZS0xVmlSTnF3?oc=5",
+    "published_at": "2026-02-12T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "자율주행 서비스, 로보택시 앱… 테슬라의 공습 - 조선일보",
+    "summary": "자율주행 서비스, 로보택시 앱… 테슬라의 공습  조선일보",
+    "source": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTDRZOHd3c0F1eFZyc0tiYmx2VW5HeFBTTTFrRFhobktMdzlPN1NXcE13d01xRWFkdGg5b21IbXlUTmJoWHgydW0xOHdZbk0xNkZ1eEVMR2VsX0I4Ml9VUGJFQV9OWDdVa0MxbHpwUWdXaEsxb0RPU18yU1BVLVFwTHNEVDJYZzh2eDVQOG1Id9IBowFBVV95cUxQcGtleUlsOVB5bHMtWDlNWVREZjBfRC1UOVI4bnU3aU1RUjAwS0tpMnAzMnhsNUNEU2VhWGdmZ3AxZVRuR0RTTjZ0RU1BNUtxc29vQVdrc3U1UTJraXZSc1pYQkcweHdJUGF5ZGpXblZXTWxtSlF5bG1CdjJJQmJDVE5DZkwwTHhBQ3dCQlVjUlRVU2ZIZlFWcFZfclMyeTRLS19R?oc=5",
+    "published_at": "2025-12-08T08:00:00+00:00",
+    "tags": [
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "[이수화의 마켓 나우] 경쟁국들 로보택시는 질주, 한국은 멈칫 - 중앙일보",
+    "summary": "[이수화의 마켓 나우] 경쟁국들 로보택시는 질주, 한국은 멈칫  중앙일보",
+    "source": "중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92dnFra1VJb2wwRS1VYzQ2dUNHd3VnZ2ZwQVdwVFlsNENLNFA1b29vb1FmUzhMWDVoaldfanctSWNFYzZJdVNFdDBLbEMyUV9TVTFRLTdB?oc=5",
+    "published_at": "2025-10-22T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "서울 강남에도 로보택시가 달린다!SWM.AI, 3500만 달러로 국내 자율주행의 새 역사 써 - 전자신문",
+    "summary": "서울 강남에도 로보택시가 달린다!SWM.AI, 3500만 달러로 국내 자율주행의 새 역사 써  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94R2tLVksyMnlmWFhZT1RScEJtVmRZaXZzaHQ1Sk9GU2wwajNtUVNQSVM1VkdXMHp6akt1amZWMFBxSGc0VHk5N1VKS2c1dw?oc=5",
+    "published_at": "2025-08-22T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "에스더블유엠, '엔비디아 GTC 2026'서 '강남 로보택시' 공개 - 한국경제",
+    "summary": "에스더블유엠, '엔비디아 GTC 2026'서 '강남 로보택시' 공개  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4TFg0MFNrU0pTeGxsancyVzhReHFnZlZaaWg1aHRjbmU3bzFCQ01uNEZpSjI5M2JFNHBqU2NIOFVOR3NZNWRGakV4Ukx5dVQtbmhSZ09LMUNmZ9IBVEFVX3lxTE1Zakp0RTZ6VFF2VnA5WnRlVVFJTXZOYnJDRkVjal8yT2NsUGhwV0ZrdzBSSnlnVExyWlhXZTN4RUVVOHE3Tkx3dVVaSEw0dkVHTW92Mw?oc=5",
+    "published_at": "2026-03-17T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "두바이와 싱가포르, 무인 로보택시 시대 개막 - 브랜드경제신문",
+    "summary": "두바이와 싱가포르, 무인 로보택시 시대 개막  브랜드경제신문",
+    "source": "브랜드경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CVV9qRlRGZlhLYVE1WERJNXJoYlR2MGJkcWhDRktXYjVRQ05mMm9rdXZiSEtvVHhfSndlMFAwNlotVzliWVdSN0lnLXY?oc=5",
+    "published_at": "2026-04-02T20:23:31+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "[단독] FSD 韓 상륙 다음은 로보택시?…테슬라, 앱스토어에 앱 출시 - 뉴스1",
+    "summary": "[단독] FSD 韓 상륙 다음은 로보택시?…테슬라, 앱스토어에 앱 출시  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WVk9kQ3lXV3VSRVhUa1VHSVM0c3YwQzQta0JMQWltRG5Bc1p2WEZ3TjFOU1BtbXNaTkctcFVXT284WldfTVdlQUFoTXZFTFF3aWlONUItNTZBUDlzRkdoYg?oc=5",
+    "published_at": "2025-12-07T08:00:00+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "미·중 틈새서 `K로보택시` 뜰까…출발 늦은 한국, 추격 가속 - 매일신문",
+    "summary": "미·중 틈새서 `K로보택시` 뜰까…출발 늦은 한국, 추격 가속  매일신문",
+    "source": "매일신문",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DNm5KcFYzbmFSR2U1RW1pa2xnZ1dDMk1VZmZqT1ZlcFYxZjZmUVlVWXg2TFBIYVQtd3BOdHpDN093MGFJYTdwVmxTdGdCMUM1Sk40M21ZWmtrWDJNTFVVUW1R?oc=5",
+    "published_at": "2026-02-15T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "현대차 합작법인 모셔널, 우버와 로보택시 운영 - 한국경제",
+    "summary": "현대차 합작법인 모셔널, 우버와 로보택시 운영  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zNzRTYTZfVFdwY1Y5SzFzSHIyYWQ1QVdySk5oYTlnZlJhNF9iRnkyRVh6WGo0cTVGc0p2Z1otZmFrajZEY2Z6ZE5yc2tEWm85a0JJeUhHVklsd9IBVEFVX3lxTE1MeUJRMUFGM2pYUmZmWDZ3V2JDeHp4eU1Ea2tTRVlRY0JNUGtLcl93dnVyamp2cmRVYWU1S3dXT2Y1WGx1MU5oSXVsU1Bjd2p0RXlaMQ?oc=5",
+    "published_at": "2026-03-15T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "아마존 죽스, 韓 기업에 로보택시 전장·부품 '러브콜' - 전자신문",
+    "summary": "아마존 죽스, 韓 기업에 로보택시 전장·부품 '러브콜'  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LQ3ZEc091QzUwNk0xejdLNEZYV2FQdnh4M1VnSnJSRy1NU0EtMzJlQUFIM0g5ZXozcDc5MjZwVG9kdTRicU1TRi1LY21iZw?oc=5",
+    "published_at": "2026-01-23T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "\"엔비디아, 로보택시 진출\"…우버·리프트 미소 - 한국경제",
+    "summary": "\"엔비디아, 로보택시 진출\"…우버·리프트 미소  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WYXNLQ0lkTTVHOXRxd0w5bjN6aC1KcTlpVElGckVtbVdhekt5aUhxQ3NCd2ExRk5PWHF0TXJ1d0ZGSjFpdjQ2SS1vX01xLUxlb3V3NTh1dUoyZ9IBVEFVX3lxTE9HR0Q2RmdMTFEwUEZYQ3VjdGlXVDdnMk1xRzhkY01mSGgtNzQxbTYyZHlnWVJEdTNOYm90VXE0VU5tajJpTVA5U01hWm9NYnl5eFBvMA?oc=5",
+    "published_at": "2026-03-18T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "한국에도 테슬라 로보택시 나올까?…韓앱스토어 등록 - kmib.co.kr",
+    "summary": "한국에도 테슬라 로보택시 나올까?…韓앱스토어 등록  kmib.co.kr",
+    "source": "kmib.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96TlBJRmNPdXBLZFJGTUUxVlhMVDNBZjR0NmMzMkhRNDF6SHVSeVlfa0t0VjgyVTlnVzkybjFTRVlrLXJRX2tINk5Lc1N0aTI1MEx2WjZFcXl3NWZOc3BhcnllelpXamPSAWxBVV95cUxNdXBhWERKV21UZk5TV29rRDZmU28yYnF0cm4ydk16aHNqem1UNGxSLWVWUW42cV93aVlveVJRSU9vU0ZrbDJmUjlQRFJhTjYzdVF2U3RuelRSSUgySjB2RDVQTlFjX21Wek5Nc2o?oc=5",
+    "published_at": "2025-12-07T08:00:00+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "로보택시의 마지막 허들 - 한국경제",
+    "summary": "로보택시의 마지막 허들 - 한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UNjd4ZEhlVUlPbVRKaGlnVlNEZGVrWERIRmloVHlZWlVUZGhmRlFTQ0lqVWtpaXl5RWNwT3ZjQWNrUUxkc1hTdjVTczh1ZlYtbC1wOXZIWTctZ9IBVEFVX3lxTE9fQkpxbUJDdzZsdkdHdktzaFNPaVJxTGQ2M0lubTlVNFVQbHhfMVRBZ0ZXMzVOamFoaDV0aHFWdWQxTEZSTS1mRzlmSzcyeGtveE1ZZQ?oc=5",
+    "published_at": "2025-12-28T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
     "headline": "자율주행 택시가 단체 파업? 100대 동시 멈춤에 도로 아수라장[아하 중국] - 문화일보",
     "summary": "자율주행 택시가 단체 파업? 100대 동시 멈춤에 도로 아수라장[아하 중국]  문화일보中 바이두 로보택시 100여대, 중국 시내서 갑자기 멈췄다  전자신문중국 로보택시 100여대 도로서 ‘집단멈춤’…승객 고립도 [이런뉴스]  KBS 뉴스[쇼츠] 中 바이두 로보택시 '집단 멈춤'…도로 한복판 승객들 고립  연합뉴스“고가도로 한복판서 멈췄다”…中 바이두 로보택시 집단 먹통  동아일보중국 우한서 바이두 자율주행택시 '집단 멈춤'  v.daum.net\"차 쌩쌩 고가도로서 멈췄다\"…中 로보택시 100대 '집단 먹통' 공포  v.daum.ne",
     "source": "문화일보",

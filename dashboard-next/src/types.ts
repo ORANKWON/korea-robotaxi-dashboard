@@ -30,6 +30,7 @@ export interface Zone {
   status: string;
   companies: string[];
   description: string;
+  boundary: [number, number][];
 }
 
 export interface TimelineEvent {

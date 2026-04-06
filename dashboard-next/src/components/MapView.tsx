@@ -3,12 +3,13 @@
 import {
   MapContainer,
   TileLayer,
-  CircleMarker,
+  Polygon,
   Tooltip,
   useMap,
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import { useEffect } from "react";
+import type { LatLngExpression } from "leaflet";
 import type { Zone } from "@/types";
 import zonesData from "@data/zones.json";
 import {
@@ -68,41 +69,48 @@ export default function MapView({
       {filtered.map((zone) => {
         const color = getZoneColor(zone);
         const isActive = zone.status === "운행 중";
+        const positions = zone.boundary as LatLngExpression[];
         return (
-          <CircleMarker
+          <Polygon
             key={zone.id}
-            center={[zone.lat, zone.lng]}
-            radius={Math.sqrt(zone.area_km2) * 8}
+            positions={positions}
             pathOptions={{
               color,
               fillColor: color,
-              fillOpacity: isActive ? 0.35 : 0.15,
+              fillOpacity: isActive ? 0.25 : 0.1,
               weight: 2,
+              opacity: 0.8,
             }}
             eventHandlers={{
               click: () => onZoneClick(zone),
               mouseover: (e) => {
-                const marker = e.target;
-                marker.setStyle({
-                  fillOpacity: isActive ? 0.55 : 0.35,
+                e.target.setStyle({
+                  fillOpacity: isActive ? 0.45 : 0.3,
                   weight: 3,
+                  opacity: 1,
                 });
               },
               mouseout: (e) => {
-                const marker = e.target;
-                marker.setStyle({
-                  fillOpacity: isActive ? 0.35 : 0.15,
+                e.target.setStyle({
+                  fillOpacity: isActive ? 0.25 : 0.1,
                   weight: 2,
+                  opacity: 0.8,
                 });
               },
             }}
           >
-            <Tooltip className="dark-tooltip" direction="top" offset={[0, -10]}>
+            <Tooltip
+              className="dark-tooltip"
+              direction="center"
+              permanent={false}
+            >
               <span className="font-medium">{zone.name}</span>
               <br />
-              <span className="text-zinc-400">{zone.region}</span>
+              <span className="text-zinc-400">
+                {zone.area_km2} km² · {zone.companies.length > 0 ? zone.companies.join(", ") : "운행사 미정"}
+              </span>
             </Tooltip>
-          </CircleMarker>
+          </Polygon>
         );
       })}
     </MapContainer>

@@ -1,5 +1,308 @@
 [
   {
+    "headline": "KGM, 강남 자율주행 로보택시 서비스 확대…토레스 EVX 추가공급 - 연합뉴스",
+    "summary": "KGM, 강남 자율주행 로보택시 서비스 확대…토레스 EVX 추가공급  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ybmkzdWxoZkh6dTZQOEhNelpRa2prX2NaZVl6MDZoNlFEZTNHenZJTjRwNjVtWm5sVGVSNWlTMS0wQUVPSDBHbzVoYzRBRklEQTRkdDhFaWtydDjSAWBBVV95cUxQOHlmcl9lclVXNTNDcFNEdnJCc0hpYWg3RVVmS2NKaDFKN3Q4X2F1TDZLSzg4TWR1b1A1bEkwd3d5ZWJ2bFhaWVRJUV9DcHdJUzdKVkEteUZ0ZWFEdkh4T3Q?oc=5",
+    "published_at": "2026-04-06T01:28:52+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, SWM과 자율주행 로보택시 서비스 확대…토레스 EVX 추가 - 뉴스1",
+    "summary": "KGM, SWM과 자율주행 로보택시 서비스 확대…토레스 EVX 추가  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16cURUbWctUmtQeE42UHdoQjM2b0RuaDNuTkp3aU40WFBuVVBqSl8xZ3AzN2RyZnNjY2JxZzdvU0xSME5uSFFyeVV6ZHh5dHN5cGNMVndJRXl1Xy1XekpRVw?oc=5",
+    "published_at": "2026-04-06T01:21:01+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 로보택시 확대 토레스 EVX 추가 - v.daum.net",
+    "summary": "KGM, 구역형 자율주행 로보택시 확대 토레스 EVX 추가  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zLTVxWnFteW56T0pLXzFJZ0NzcWY4Tkd4Z1g3WnUtbWxZVkdTeUZXekZqSXVaaVg5bVBWUDlmWGJjSGk3aFhtZjE0aVpmX1E?oc=5",
+    "published_at": "2026-04-06T00:48:02+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "강남서 자율주행택시 타보니…'사람이 운전하듯' 속도 줄여 멈췄다 우회전 - 네이트",
+    "summary": "강남서 자율주행택시 타보니…'사람이 운전하듯' 속도 줄여 멈췄다 우회전  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwTjFkUloxQm5Ta2xpNjRtazhjTmRVRFNlbGJWSXF6OFF1enVIdWpmQXBUV2k2eTEyUVJRTkFiX3I3ZGRoczN5NVQwWDFuN1pXSExKRE9RVFItWXBSbWNxSVo1cW1jSU9uU0I4WHdMRWI4bmlwME1FNg?oc=5",
+    "published_at": "2026-04-05T12:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "KGM, 자율주행 로보택시 강남 전역으로 확대…토레스 EVX 투입 - 헤럴드경제",
+    "summary": "KGM, 자율주행 로보택시 강남 전역으로 확대…토레스 EVX 투입  헤럴드경제",
+    "source": "헤럴드경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LQUVKbTBUYTYtQmJqbF8tLU91S2w5UUNYcTBWcWhXX2RSTkdLVzBwaGV0b09KWTJZMDNVSjA0Qjd5UVB1eEM2TGpqM0dqWWhiZjFYdm9n?oc=5",
+    "published_at": "2026-04-06T00:53:32+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "강남서 KGM '자율주행 로보택시' 확대 운영…누적 7700여명 탔다 - 데일리안",
+    "summary": "강남서 KGM '자율주행 로보택시' 확대 운영…누적 7700여명 탔다  데일리안",
+    "source": "데일리안",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KckltaGVCRjRQMERHMUwtZklCRHRGUUhGR1lvTS1Yc1hBSjBBTEJwbVpUd2FVYWtCcE1fRUxUYnJfTE40REZORGFFck1fT3dTeWROY05qUdIBhgJBVV95cUxOZ3ZJLVRtOTNWZlAxU3U3dkFGcG1uemFvc0Z5ekJLNWZYNVdkUkNFOUNnYVFxWmFBYTVyaTNwcWRpNXA3YzRqVUtFZFMtM19TVmJ0SWNJVy1scWdmaDJDQ0k0cnEwWm1FZjAtbXpJU2NSR3BGSGJSWURXc3ZfSkpZSVFwY0duemVrblpITEJVeGVsdzJCU2VMdHNTTE5fQ0RFdDZMeTNIbDRLWWZIeEpNLWJfdlJUQkJHUUhvQ1lfekliSXlhQ3NaS2FSNDFaTVpOY3pmZndESW15dXJsVnJFc1VBaU5WMmszR0JnTm9fNUw4a3Z2U0FrbU9BZTJYdHQ2UVc4UjNR?oc=5",
+    "published_at": "2026-04-06T01:03:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 로보택시 확대…\"토레스 EVX 투입\" - 머니투데이",
+    "summary": "KGM, 구역형 자율주행 로보택시 확대…\"토레스 EVX 투입\"  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wLS1fa2E1WHo0d0xuczhidzRKWF9KTTdmMUQ4Q0lfck5IdjVaaG9DTF9aT2xuYTZYSVRHRmY4bFVfVlVqdmJYZHo4YkpqS3VVYWJ5M1FwNXZESHI5eUlORVp1dlljaHdqektIeQ?oc=5",
+    "published_at": "2026-04-06T01:52:38+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 로보택시 운영 확대…토레스 EVX 추가 - 아주경제",
+    "summary": "KGM, 구역형 자율주행 로보택시 운영 확대…토레스 EVX 추가  아주경제",
+    "source": "아주경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBidUk0ZGFIeEp0S0JVWVFNbkNqRDhvWGZzdExtZUVLMFBBajlVZkdGOTRFMTl5d1V2cThqVkpta3pNcGRqdmQyalhTaTFKTUVSQWxLRGVuelFpUdIBWEFVX3lxTFBzc1QwYmhmQlVkajY2cHN0RkVqd053VU5aOTg1SFg4UlZjTlI1OG5OUXVyNGJKTjUyYmFBZVVkZXRyNGk5cDF0WEVzbldYUFl6NDlWNUVrZ1M?oc=5",
+    "published_at": "2026-04-06T00:57:53+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KG모빌리티, 구역형 자율주행 로보택시 확대 - PRESS9",
+    "summary": "KG모빌리티, 구역형 자율주행 로보택시 확대  PRESS9",
+    "source": "PRESS9",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oUWJGOEk4Zk05a0oxVjY0RGRmU25xeTZwX1ZkY0k5LVJhM3N0YWJVU21SbVgzdDJPSEFUbTZyX1huNzRBZm1OSDRLYU1ueENyX3g0VEVueFZSZE1XVzlUcDRHY2U?oc=5",
+    "published_at": "2026-04-06T01:14:12+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 강남 자율주행 로보택시 확대…토레스 EVX 투입 - 모터트렌드",
+    "summary": "KGM, 강남 자율주행 로보택시 확대…토레스 EVX 투입  모터트렌드",
+    "source": "모터트렌드",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NSGQyQ05vNVZYUGt4S3JTZTBWY2YyTEZRUVdKRzdGMXpXUURueFdKZGNrUGtPQ3FmR2QyaldUdWgtUXk1ZjFkVjU5c3B6TjlhcWJhUHN1VVRzRG5vMXd4U0tqRmJ3RVlvb1E?oc=5",
+    "published_at": "2026-04-06T01:13:54+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 자율주행 로보택시 ‘토레스 EVX’ 추가 운영 - 한국금융신문",
+    "summary": "KGM, 자율주행 로보택시 ‘토레스 EVX’ 추가 운영  한국금융신문",
+    "source": "한국금융신문",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qbk1GN01rYUpEcDUtbEo5bFFNdDBLUnYxWWlwYW1PYm5LZ19nMENuV0dXbnMwSXRCS0JhNGY5M2VaMklad011Tl9IRHJ6MS1qNlVGWXZLUHo5SHhCT05XQkk0VmpEcmZuNEpxelYxNG9VYkdBcnFsSW5rOA?oc=5",
+    "published_at": "2026-04-06T01:42:07+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 로보택시 확대…레벨4 기반 도심 자율주행 고도화 - 더테크",
+    "summary": "KGM, 구역형 자율주행 로보택시 확대…레벨4 기반 도심 자율주행 고도화  더테크",
+    "source": "더테크",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tclRrTUdvaHo0RlNYbW5XMng4a3hkMWNLMWk0TVRjblBTem5KX0JMbWNrTUdZb2taT2pBbHRpY1p4bjJOMWVtdkZOclhZanRvYkRkd1V5a2tid1NLeExZelF2OA?oc=5",
+    "published_at": "2026-04-06T01:11:34+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 로보택시 확대…토레스 EVX 추가 운영 - 컨슈머타임스",
+    "summary": "KGM, 구역형 자율주행 로보택시 확대…토레스 EVX 추가 운영  컨슈머타임스",
+    "source": "컨슈머타임스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZRXZLdkl1TG9EU3hLcExDRlVGN3BibjBDTTg1d2laTG1PX21wbHRqWVhiTzNkX2hsRzFQemNUMGI3Ym1ZYmdqYmRkRGNybXBUWWNBZ3ZWaGtubVRTYm9XaldLeGc5Rnpyd3c?oc=5",
+    "published_at": "2026-04-06T00:54:49+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 택시 강남 전역으로 확대…토레스 EVX 추가 운영 - 네이트",
+    "summary": "KGM, 구역형 자율주행 택시 강남 전역으로 확대…토레스 EVX 추가 운영  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EZktYMlE1NzVqTW4xVFpCOFdrNGNYaGRMZkdocTVCUmxtU1g5eWdxM1FDVDZGajRmM2dkRm1NS1dhaHh4MEpVSlZGRzBNeHVwZjFz?oc=5",
+    "published_at": "2026-04-06T01:10:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM 토레스 EVX, 자율주행 택시로 달린다 - 데일리한국",
+    "summary": "KGM 토레스 EVX, 자율주행 택시로 달린다  데일리한국",
+    "source": "데일리한국",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwYzV5M3E4S3U5bXNSRVlIeUtKdks4NjVnM3NFalVENzBKYmpRNDRmYk43OHVBUl9nM2FXTEVrUW1FSWpaNFhLaDdoaHZfOG81VHpxdWJ3SWFjbkpuZVhzZUxIVUQ0dU93ZFNnVUloQdIBc0FVX3lxTE5hOGhFRU5MakRLQjFmdENfVmlkMkdXMnRMSXh4c3NDRHZuWnBJX2pOZG5wUU9RS1FxOUVQS1BYUmJEbXFtMkJBYzg1U2tnWUt0YXdtYmwxV0hVOWdwaS1kTUo5OXF1NE5oei1SWkNGM3phNTQ?oc=5",
+    "published_at": "2026-04-06T01:38:02+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "KGM 구역형 자율주행 로보택시 확대… 토레스 EVX 추가 투입 - 직썰",
+    "summary": "KGM 구역형 자율주행 로보택시 확대… 토레스 EVX 추가 투입  직썰",
+    "source": "직썰",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84NUMxU1U3WkU1dmVGV2d3X1RWaW11VDRIS3F4MWgwekRIeGduZWtUMm50REFKWHFpT2x5b3p0ck9jY3J1ZHh5UXpxRWU3ZmdEZXo1ZnRaZV8tbDN4ZFE3NGhtbW41enB40gFsQVVfeXFMT1dCNHV1RzZ3VFhvM1dNTUpLVVJHZkpzQW9XTGQwUlNNVVlNVFVoVEtBRnk0b0RVWHVCZ1JXS3FadlhHYUI2Z2x5bWsxTDQweXN0ZXZob1FkOXlmV2VpUnBDQVlZeEl2RUdVZjNW?oc=5",
+    "published_at": "2026-04-06T01:19:46+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, '토레스 EVX' 투입…강남 로보택시 확대 - 한스경제",
+    "summary": "KGM, '토레스 EVX' 투입…강남 로보택시 확대  한스경제",
+    "source": "한스경제",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3MXV0elFTWTlSRmQ2YkZMa09hYmVBand3d3NpanItY0I2Q09NZXl3cmxIODZLbWx3X1ZiRE9vRnQ3MjJFbVlpLVJ2bjlKYm9MTHNVN0tRM05FRXVMbjJZNVVUeFJpbXh6blgw0gFvQVVfeXFMTzZScU93elAtZkktLTBiMGlYd2Y1S0FZWWRhcFRaZ1dZVUdPMWNMYjBzdXNtTzNXSmpxQURtajNmNGU3Q04yUTJrS0F5V1dZNUg3dzVBbUYzSDBlMGMydXNDTHFVa0c0VXdqVnphZFg4?oc=5",
+    "published_at": "2026-04-06T01:38:36+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 로보택시 확대…\"토레스 EVX 투입\" - 네이트",
+    "summary": "KGM, 구역형 자율주행 로보택시 확대…\"토레스 EVX 투입\"  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsQ0dBQ0tPTXM3T2VnLUNqdFVaaVF2WWVPY2N3QnJEQXgzbmlvUmZ0R0ZxUG5vZ2ZqMVctVG94QjdnNGhoSURZTDA0WW1mczd2Ym1z?oc=5",
+    "published_at": "2026-04-06T01:53:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 자율주행 로보택시 강남 전역으로 확대…토레스 EVX 투입 - 네이트",
+    "summary": "KGM, 자율주행 로보택시 강남 전역으로 확대…토레스 EVX 투입  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04QW05LTNVYnhnVkxSUzExRnpXQnRKd1FFanlRU1ZqckRxdDIyMEIyTEZhUXNJVlhqT3d5ZGQwM19rT3VFY3d3VWg1ZHVCd0U0S3I4?oc=5",
+    "published_at": "2026-04-06T00:54:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 자율주행 로보택시 확대…토레스EVX 추가 운영 - 네이트",
+    "summary": "KGM, 자율주행 로보택시 확대…토레스EVX 추가 운영  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrdDRZbDZTVXAteXdlLV9BRUJQYVJXRk1LMnRjbG9ob3RSeG1LYWNJUXBRckNCdnRFMDhKMjcyNnl3aTQtcVdWTFdoMndzSXpLOUdz?oc=5",
+    "published_at": "2026-04-06T01:25:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 로보택시 확대…토레스 EVX 추가 운영 - 네이트",
+    "summary": "KGM, 구역형 자율주행 로보택시 확대…토레스 EVX 추가 운영  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aMnRwQTJOdTVWY3dLNjdoSlJWRk53anoxakxDQ0ZtRnphVzV6SHdMODV4cU5fVWtRZWF3cVptd3k3ZURFd3N2NzhlWFVvX2FiRDY4?oc=5",
+    "published_at": "2026-04-06T00:55:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 로보택시 강남 전역 확대로 자율주행 고도화…토레스 EVX 투입 - seoultimes.news",
+    "summary": "KGM, 로보택시 강남 전역 확대로 자율주행 고도화…토레스 EVX 투입  seoultimes.news",
+    "source": "seoultimes.news",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nbUwtQzNBcENsYjgxa0gwRVBJNUhwRXdfODFaUElwWlFsdVhBZlBiVWg3UzFLOExiWmUyQjBSRTVvYUdKNmpVZlhORDFEUXBoRVdaSDdnUDFtUDlVUDFzN2hWRkwwcVl2M0R3?oc=5",
+    "published_at": "2026-04-06T01:37:08+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM 토레스 EVX, SWM과 자율주행 부문 협력 강화 '서울 강남까지 서비스 확대' - 네이트",
+    "summary": "KGM 토레스 EVX, SWM과 자율주행 부문 협력 강화 '서울 강남까지 서비스 확대'  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GQ3hLSXRndFRndWJiNXBzWkV5RHZiMFItMUFXeUNsbmNpYTZzdjlhTW56Q3R6dmkxWHVTM3ZSM0trVlpUamkyUFQ0VGdmQTJIMWlV?oc=5",
+    "published_at": "2026-04-06T01:37:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 로보택시 운영 확대…'토레스 EVX' 추가 - 네이트",
+    "summary": "KGM, 구역형 자율주행 로보택시 운영 확대…'토레스 EVX' 추가  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmTnN6TFRTeXJ1X1Y5Z241bGRoTjQtLUhfdndQN3V1RDRWTlZRSjJkOEhNRXNFMkoxY2xIbHY0THpzTVIwczhtVzgwanRBTUtoSThR?oc=5",
+    "published_at": "2026-04-06T00:58:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 강남 전역으로 로보택시 확대…토레스 EVX 투입 - 뉴스핌",
+    "summary": "KGM, 강남 전역으로 로보택시 확대…토레스 EVX 투입  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnTzZlWXpEeHlsYU9XQkJsaUlqeXN5Ymo5d2Z4TFZ3UHFZWllEOTNyVnBteVNxM2dhVXFuYmpMQ2ZMQ003MEVzX1k2WVlZSFozeGJUTjVwRkNSXzFv?oc=5",
+    "published_at": "2026-04-06T01:20:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 자율주행 로보택시 확대 나서…토레스 EVX 추가 공급 - 네이트",
+    "summary": "KGM, 자율주행 로보택시 확대 나서…토레스 EVX 추가 공급  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43bTFoRS0ydXJtZC0zc2RYMWRZMGRXWXFTZU94eHFFWkhCT1k5NHp0c0RITmNtN05xdmhOQlVKaWRUWWFxYVU4YTFEdERaZENwT3dV?oc=5",
+    "published_at": "2026-04-06T00:58:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "주간 모빌리티 뉴스: 테슬라의 1분기 실적 부진, 우버의 로보택시 야망 등 - Benzinga",
+    "summary": "주간 모빌리티 뉴스: 테슬라의 1분기 실적 부진, 우버의 로보택시 야망 등  Benzinga",
+    "source": "Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNQk51M1pWeW5lUThEWG56cWl5VjVmQmxOWng0SFRDVUMzVzdpeHZGbUxKQ0swcVNRQkFaMHV3VjNCSWk5UGlkc2h5eG1qc29sMDlzMVRkdUtrMHJYU21aeGRFXzhmY1hrdEdVOTFkRkdfWDB3dFVwR0hNbXdFT0FGM2xBOHEtazR2ejVrNmdLSWJkdU5rREdWaktNdVZBZ3RpeVJSUFBadUNma2NOU2ZXdjljZTFXTzhtdElQNTdqVTRQTE5fUmJYc2s0THVKUG13c2RnX3lFQ1M2aUMxbjVwbFJkeDczUE10LWpKRWh2dWFfV0ZaQl9JeXBnZG5MVHVSTmFwYkNXRnlWdmxiVENzRmJiOXlhQnF0TFNzUFNaT05paFhUdG1qcTlocnZVS3pQNkdCZ05qSC1mNThDak05Sy10eGZ0N1hiOVQ4NExiRzh0RXRiSUZpdXNKLUppTjNDRFE?oc=5",
+    "published_at": "2026-04-05T23:31:39+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "'AI 기사님'이 모는 자율주행 택시 타보니…택시업계 반발은 걸림돌 - 네이트",
+    "summary": "'AI 기사님'이 모는 자율주행 택시 타보니…택시업계 반발은 걸림돌  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mWjNXc1JOX0xoZU9TUDlVTjMxamtWME9LRDZfRkhQNEZZTlB1d3UwcVVTUDZiMFozYURwR1RaRE9PWEpnanVob3NGeGRDdzl5cXZr?oc=5",
+    "published_at": "2026-03-31T11:19:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "SWM “밤 10시, 강남 달리는 심야 자율주행 택시…4월 유료화 및 범위 확대” - 전자신문",
+    "summary": "SWM “밤 10시, 강남 달리는 심야 자율주행 택시…4월 유료화 및 범위 확대”  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CLVhvVlNtdi1lRWFOMHRwTHRDaEdWN0NMSUY0eFE0eHJ0QThzdTNiNGpnTE5EYzA2YlY2REQ5S3kxRGd6SlN2bWhCRi01QQ?oc=5",
+    "published_at": "2026-03-17T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "\"차 쌩쌩 고가도로서 멈췄다\"…中 로보택시 100대 '집단 먹통' 공포 - v.daum.net",
+    "summary": "\"차 쌩쌩 고가도로서 멈췄다\"…中 로보택시 100대 '집단 먹통' 공포  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52RmJGbzFjUFg4c04xdG9RU2Z0ZGt4OFptbEszdE9ncU0tMFplTXpZRjlETzc1MWxPSDkySGNEQ1Y3a3ZNM3RlSHNFSmdNSUk?oc=5",
+    "published_at": "2026-04-01T04:10:26+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
     "headline": "우버 CEO, 테슬라 로보택시 파트너십 제안... 자율주행 모빌리티 시장 재편 신호탄 - sisadays.co.kr",
     "summary": "우버 CEO, 테슬라 로보택시 파트너십 제안... 자율주행 모빌리티 시장 재편 신호탄  sisadays.co.kr",
     "source": "sisadays.co.kr",

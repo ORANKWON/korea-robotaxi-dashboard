@@ -3,8 +3,9 @@
   "configurations": [
     {
       "name": "robotaxi-dashboard",
-      "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev", "--prefix", "dashboard-next"],
+      "runtimeExecutable": "/usr/local/bin/node",
+      "runtimeArgs": ["/usr/local/bin/npx", "next", "dev"],
+      "cwd": "dashboard-next",
       "port": 3000
     }
   ]

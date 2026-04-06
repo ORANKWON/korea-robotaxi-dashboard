@@ -1,55 +1,110 @@
 "use client";
 
-import { MapContainer, TileLayer, CircleMarker, Popup } from "react-leaflet";
+import {
+  MapContainer,
+  TileLayer,
+  CircleMarker,
+  Tooltip,
+  useMap,
+} from "react-leaflet";
 import "leaflet/dist/leaflet.css";
+import { useEffect } from "react";
 import type { Zone } from "@/types";
 import zonesData from "@data/zones.json";
+import {
+  COMPANY_COLORS,
+  DEFAULT_COLOR,
+  DARK_TILE_URL,
+  DARK_TILE_ATTR,
+  REGIONS,
+  type RegionKey,
+} from "@/lib/map-constants";
 
 const zones = zonesData as Zone[];
 
-const statusColor: Record<string, string> = {
-  "운행 중": "#22c55e",
-  "준비 중": "#eab308",
-};
+function getZoneColor(zone: Zone): string {
+  if (zone.companies.length === 0) return DEFAULT_COLOR;
+  for (const company of zone.companies) {
+    if (COMPANY_COLORS[company]) return COMPANY_COLORS[company];
+  }
+  return DEFAULT_COLOR;
+}
 
-export default function MapView() {
+function FlyToHandler({ region }: { region: RegionKey }) {
+  const map = useMap();
+  useEffect(() => {
+    const r = REGIONS[region];
+    map.flyTo(r.center, r.zoom, { duration: 1 });
+  }, [region, map]);
+  return null;
+}
+
+interface MapViewProps {
+  activeCompany: string | null;
+  activeRegion: RegionKey;
+  onZoneClick: (zone: Zone) => void;
+}
+
+export default function MapView({
+  activeCompany,
+  activeRegion,
+  onZoneClick,
+}: MapViewProps) {
+  const filtered = activeCompany
+    ? zones.filter((z) => z.companies.includes(activeCompany))
+    : zones;
+
   return (
     <MapContainer
-      center={[37.45, 127.0]}
-      zoom={10}
+      center={REGIONS.capital.center}
+      zoom={REGIONS.capital.zoom}
       style={{ height: "100%", width: "100%" }}
       scrollWheelZoom
+      zoomControl={false}
+      className="dark-map"
     >
-      <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-      />
-      {zones.map((zone) => (
-        <CircleMarker
-          key={zone.id}
-          center={[zone.lat, zone.lng]}
-          radius={Math.sqrt(zone.area_km2) * 8}
-          pathOptions={{
-            color: statusColor[zone.status] || "#9ca3af",
-            fillColor: statusColor[zone.status] || "#9ca3af",
-            fillOpacity: 0.3,
-            weight: 2,
-          }}
-        >
-          <Popup>
-            <div className="text-sm">
-              <p className="font-bold">{zone.name}</p>
-              <p className="text-gray-600">{zone.region}</p>
-              <p>면적: {zone.area_km2}km²</p>
-              <p>상태: {zone.status}</p>
-              {zone.companies.length > 0 && (
-                <p>운행사: {zone.companies.join(", ")}</p>
-              )}
-              <p className="text-gray-500 mt-1">{zone.description}</p>
-            </div>
-          </Popup>
-        </CircleMarker>
-      ))}
+      <TileLayer attribution={DARK_TILE_ATTR} url={DARK_TILE_URL} />
+      <FlyToHandler region={activeRegion} />
+      {filtered.map((zone) => {
+        const color = getZoneColor(zone);
+        const isActive = zone.status === "운행 중";
+        return (
+          <CircleMarker
+            key={zone.id}
+            center={[zone.lat, zone.lng]}
+            radius={Math.sqrt(zone.area_km2) * 8}
+            pathOptions={{
+              color,
+              fillColor: color,
+              fillOpacity: isActive ? 0.35 : 0.15,
+              weight: 2,
+            }}
+            eventHandlers={{
+              click: () => onZoneClick(zone),
+              mouseover: (e) => {
+                const marker = e.target;
+                marker.setStyle({
+                  fillOpacity: isActive ? 0.55 : 0.35,
+                  weight: 3,
+                });
+              },
+              mouseout: (e) => {
+                const marker = e.target;
+                marker.setStyle({
+                  fillOpacity: isActive ? 0.35 : 0.15,
+                  weight: 2,
+                });
+              },
+            }}
+          >
+            <Tooltip className="dark-tooltip" direction="top" offset={[0, -10]}>
+              <span className="font-medium">{zone.name}</span>
+              <br />
+              <span className="text-zinc-400">{zone.region}</span>
+            </Tooltip>
+          </CircleMarker>
+        );
+      })}
     </MapContainer>
   );
 }

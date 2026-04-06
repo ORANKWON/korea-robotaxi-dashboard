@@ -25,3 +25,40 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Map: pulse animation for active zones */
+@keyframes zone-pulse {
+  0%,
+  100% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
+
+/* Map: dark theme overrides for Leaflet tooltip */
+.leaflet-tooltip.dark-tooltip {
+  background: rgba(24, 24, 27, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #e4e4e7;
+  font-size: 0.75rem;
+  padding: 4px 8px;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.leaflet-tooltip.dark-tooltip::before {
+  border-top-color: rgba(24, 24, 27, 0.9);
+}
+
+/* Map: hide default Leaflet attribution styling on dark map */
+.dark-map .leaflet-control-attribution {
+  background: rgba(0, 0, 0, 0.6) !important;
+  color: #71717a !important;
+  font-size: 0.625rem;
+}
+
+.dark-map .leaflet-control-attribution a {
+  color: #a1a1aa !important;
+}

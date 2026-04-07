@@ -75,6 +75,18 @@ export default function ZoneDetailPanel({
               </div>
             </div>
 
+            {/* Designated date */}
+            {zone.designated && (
+              <div className="mt-3 bg-white/5 rounded-lg p-3">
+                <div className="text-zinc-500 text-[10px] uppercase tracking-wider">
+                  지정시기
+                </div>
+                <div className="text-white font-semibold mt-0.5 text-sm">
+                  {zone.designated}
+                </div>
+              </div>
+            )}
+
             {/* Companies */}
             {zone.companies.length > 0 && (
               <div className="mt-5">

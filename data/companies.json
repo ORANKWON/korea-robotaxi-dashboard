@@ -87,7 +87,7 @@
     "id": 8,
     "name": "SUM (에스유엠)",
     "status": "시범운행",
-    "zones": ["서울"],
+    "zones": ["중앙버스전용차로"],
     "vehicle_model": "자율주행버스",
     "partner": "카카오모빌리티, 서울시",
     "commercialize_date": null,

@@ -30,6 +30,7 @@ export interface Zone {
   status: string;
   companies: string[];
   description: string;
+  designated?: string;
   boundary: [number, number][];
 }
 

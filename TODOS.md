@@ -41,3 +41,47 @@
 **Context:** 오토노머스에이투지는 국내 최다 62대 운영 경험. 판교, 세종, 대구 등에서 운행한 이력이 있으나 현재 활성 구역 확인 필요. 웹 검색 후 확정.
 **Depends on:** 없음 (독립적으로 수행 가능)
 **Added by:** /plan-eng-review 2026-04-01
+
+---
+
+## TODO-005: 기업 투자/차량 구조화 필드 추가
+**What:** companies.json에 `total_funding_krw` (누적 투자액 억원), `fleet_size` (차량 수), `founded_year`, `website`, `key_milestone` 필드 추가
+**Why:** 투자자가 가장 먼저 보는 숫자가 notes 텍스트에 묻혀 있음. 구조화하면 기업 카드에 바로 표시 가능
+**Pros:** 투자 메모 수준의 기업 카드. validate_data.py 검증 추가 가능
+**Cons:** 7개 기업 데이터 수동 수집 필요
+**Context:** robotaxitracker.com 참고. 그쪽은 차량 개별 추적까지 하지만 우리는 기업 단위 구조화가 적합. 라이드플럭스 "누적 투자 752억원"이 notes에만 있는 상태.
+**Depends on:** 없음
+**Added by:** /plan-ceo-review 2026-04-02
+
+---
+
+## TODO-006: 기업 상세 페이지 (/company/[id])
+**What:** 기업 카드 클릭 → 상세 페이지. 투자 이력, 해당 기업 타임라인 이벤트, 관련 뉴스, 운행 구역 지도
+**Why:** 현재 기업 카드 클릭해도 아무 일도 안 일어남. 투자자가 특정 기업을 깊게 보는 플로우가 없음
+**Pros:** 투자자 UX 대폭 개선. Next.js dynamic route로 간단 구현
+**Cons:** TODO-005 (구조화 필드) 선행 필요
+**Context:** robotaxitracker.com은 차량별 상세 페이지가 있음. 우리는 기업별 상세 페이지가 자연스러움.
+**Depends on:** TODO-005
+**Added by:** /plan-ceo-review 2026-04-02
+
+---
+
+## TODO-007: 글로벌 비교 페이지 팩트체크
+**What:** compare 페이지 하드코딩 데이터 최신화. Waymo 차량 수, 준비도 스코어, 마일스톤 등
+**Why:** 현재 데이터가 2024년 기준으로 낡았음 (Waymo 700대 → 실제 훨씬 많음). 투자자에게 잘못된 비교 제공 중
+**Pros:** 15분이면 수정 가능. 데이터 신뢰도 향상
+**Cons:** 정기적 업데이트 메커니즘 없음 (수동)
+**Context:** robotaxitracker.com 데이터 참고 가능. Tesla Austin 런치, Waymo 20M+ trips 등 반영 필요
+**Depends on:** 없음
+**Added by:** /plan-ceo-review 2026-04-02
+
+---
+
+## TODO-008: 뉴스 태그 필터
+**What:** 뉴스 목록에 기업/정책/서비스 태그 필터 UI 추가
+**Why:** 현재 뉴스가 시간순으로만 나열됨. 투자자가 특정 기업이나 정책 뉴스만 보고 싶을 때 필터 없음
+**Pros:** UX 개선. 기존 infer_tags() 함수가 이미 태그를 생성하고 있어 데이터는 준비됨
+**Cons:** 프론트엔드 UI 작업 필요
+**Context:** robotaxitracker.com은 차량/도시/상태별 필터 제공. 우리는 기업/정책/서비스 카테고리가 적합.
+**Depends on:** 없음
+**Added by:** /plan-ceo-review 2026-04-02

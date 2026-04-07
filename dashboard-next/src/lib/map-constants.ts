@@ -12,6 +12,7 @@ export const REGIONS = {
   all: { label: "전체", center: [36.5, 127.5] as [number, number], zoom: 7 },
   capital: { label: "수도권", center: [37.45, 127.0] as [number, number], zoom: 11 },
   sejong: { label: "세종", center: [36.48, 127.0] as [number, number], zoom: 12 },
+  daejeon: { label: "대전", center: [36.36, 127.36] as [number, number], zoom: 13 },
   jeju: { label: "제주", center: [33.4, 126.57] as [number, number], zoom: 11 },
 } as const;
 

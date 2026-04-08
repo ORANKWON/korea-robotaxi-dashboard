@@ -21,7 +21,7 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent / "data"
 
 COMPANY_STATUS_VALUES = {"시범운행", "시험운행", "준비 중", "개발 중"}
-ZONE_STATUS_VALUES = {"운행 중", "준비 중"}
+ZONE_STATUS_VALUES = {"운행 중", "준비 중", "지정완료"}
 VALID_LEVELS = {3, 4, 5}
 
 LAT_MIN, LAT_MAX = 33.0, 38.5

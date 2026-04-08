@@ -38,30 +38,6 @@ export default function Home() {
         <KpiCard label="SAE 최고 레벨" value={`Level ${Math.max(...companies.map((c) => c.level))}`} sub="국내 기준" />
       </div>
 
-      {/* Companies */}
-      <section>
-        <h2 className="text-xl font-bold mb-4">기업 현황</h2>
-        <div className="grid md:grid-cols-2 gap-4">
-          {companies.map((c) => (
-            <div key={c.id} className="bg-white rounded-xl border border-gray-200 p-5 shadow-sm">
-              <div className="flex items-center justify-between mb-2">
-                <h3 className="font-semibold text-lg">{c.name}</h3>
-                <span className={`text-xs font-medium px-2.5 py-0.5 rounded-full ${statusColor[c.status] || "bg-gray-100 text-gray-700"}`}>
-                  {c.status}
-                </span>
-              </div>
-              <div className="text-sm text-gray-600 space-y-1">
-                <p><span className="font-medium">차량:</span> {c.vehicle_model}</p>
-                <p><span className="font-medium">파트너:</span> {c.partner}</p>
-                <p><span className="font-medium">구역:</span> {c.zones.join(", ") || "미정"}</p>
-                <p><span className="font-medium">SAE Level:</span> {c.level}</p>
-              </div>
-              <p className="mt-3 text-sm text-gray-500">{c.notes}</p>
-            </div>
-          ))}
-        </div>
-      </section>
-
       {/* News Feed */}
       <section>
         <h2 className="text-xl font-bold mb-4">최근 뉴스</h2>
@@ -90,6 +66,30 @@ export default function Home() {
                 </div>
               </div>
             </a>
+          ))}
+        </div>
+      </section>
+
+      {/* Companies */}
+      <section>
+        <h2 className="text-xl font-bold mb-4">기업 현황</h2>
+        <div className="grid md:grid-cols-2 gap-4">
+          {companies.map((c) => (
+            <div key={c.id} className="bg-white rounded-xl border border-gray-200 p-5 shadow-sm">
+              <div className="flex items-center justify-between mb-2">
+                <h3 className="font-semibold text-lg">{c.name}</h3>
+                <span className={`text-xs font-medium px-2.5 py-0.5 rounded-full ${statusColor[c.status] || "bg-gray-100 text-gray-700"}`}>
+                  {c.status}
+                </span>
+              </div>
+              <div className="text-sm text-gray-600 space-y-1">
+                <p><span className="font-medium">차량:</span> {c.vehicle_model}</p>
+                <p><span className="font-medium">파트너:</span> {c.partner}</p>
+                <p><span className="font-medium">구역:</span> {c.zones.join(", ") || "미정"}</p>
+                <p><span className="font-medium">SAE Level:</span> {c.level}</p>
+              </div>
+              <p className="mt-3 text-sm text-gray-500">{c.notes}</p>
+            </div>
           ))}
         </div>
       </section>

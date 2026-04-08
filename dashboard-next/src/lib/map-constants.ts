@@ -12,7 +12,7 @@ export const DEFAULT_COLOR = "#9ca3af";
 
 export const REGIONS = {
   all: { label: "전체", center: [36.5, 127.5] as [number, number], zoom: 7 },
-  capital: { label: "수도권", center: [37.45, 127.0] as [number, number], zoom: 10 },
+  capital: { label: "수도권", center: [37.5, 126.95] as [number, number], zoom: 10 },
   seoul: { label: "서울", center: [37.54, 126.97] as [number, number], zoom: 12 },
   sejong: { label: "세종", center: [36.50, 126.95] as [number, number], zoom: 12 },
   daejeon: { label: "대전", center: [36.36, 127.36] as [number, number], zoom: 13 },

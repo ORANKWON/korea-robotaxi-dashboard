@@ -3,6 +3,7 @@ import companiesData from "@data/companies.json";
 import newsData from "@data/news.json";
 import zonesData from "@data/zones.json";
 import NewsFeed from "@/components/NewsFeed";
+import Link from "next/link";
 
 const companies = companiesData as Company[];
 const news = (newsData as NewsItem[]).slice(0, 30);
@@ -39,15 +40,9 @@ export default function Home() {
         <h2 className="text-xl font-bold mb-4">기업 현황</h2>
         <div className="grid md:grid-cols-2 gap-4">
           {companies.map((c) => (
-            <div key={c.id} className="bg-white rounded-xl border border-gray-200 p-5 shadow-sm">
+            <Link key={c.id} href={`/company/${c.id}`} className="block bg-white rounded-xl border border-gray-200 p-5 shadow-sm hover:border-blue-300 hover:shadow transition-all">
               <div className="flex items-center justify-between mb-2">
-                <h3 className="font-semibold text-lg">
-                  {c.website ? (
-                    <a href={c.website} target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors">
-                      {c.name}
-                    </a>
-                  ) : c.name}
-                </h3>
+                <h3 className="font-semibold text-lg">{c.name}</h3>
                 <span className={`text-xs font-medium px-2.5 py-0.5 rounded-full ${statusColor[c.status] || "bg-gray-100 text-gray-700"}`}>
                   {c.status}
                 </span>
@@ -83,7 +78,7 @@ export default function Home() {
                 )}
               </div>
               <p className="mt-3 text-sm text-gray-500 line-clamp-2">{c.notes}</p>
-            </div>
+            </Link>
           ))}
         </div>
       </section>

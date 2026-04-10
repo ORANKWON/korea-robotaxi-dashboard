@@ -16,6 +16,11 @@ export interface Company {
   partner: string;
   commercialize_date: string | null;
   level: number;
+  founded_year?: number | null;
+  total_funding_krw?: number | null;
+  fleet_size?: number | null;
+  website?: string | null;
+  key_milestone?: string | null;
   notes: string;
   updated_at: string;
 }

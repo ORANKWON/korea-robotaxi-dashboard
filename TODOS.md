@@ -11,14 +11,8 @@
 
 ---
 
-## TODO-005: 기업 투자/차량 구조화 필드 추가
-**What:** companies.json에 `total_funding_krw` (누적 투자액 억원), `fleet_size` (차량 수), `founded_year`, `website`, `key_milestone` 필드 추가
-**Why:** 투자자가 가장 먼저 보는 숫자가 notes 텍스트에 묻혀 있음. 구조화하면 기업 카드에 바로 표시 가능
-**Pros:** 투자 메모 수준의 기업 카드. validate_data.py 검증 추가 가능
-**Cons:** 7개 기업 데이터 수동 수집 필요
-**Context:** robotaxitracker.com 참고. 그쪽은 차량 개별 추적까지 하지만 우리는 기업 단위 구조화가 적합. 라이드플럭스 "누적 투자 752억원"이 notes에만 있는 상태.
-**Depends on:** 없음
-**Added by:** /plan-ceo-review 2026-04-02
+## ~~TODO-005: 기업 투자/차량 구조화 필드 추가~~ ✅ 완료
+**Resolved:** 2026-04-10 — founded_year, total_funding_krw, fleet_size, website, key_milestone 추가. 기업 카드 UI에 투자/차량/설립 배지 표시.
 
 ---
 
@@ -38,11 +32,5 @@
 
 ---
 
-## TODO-008: 뉴스 태그 필터
-**What:** 뉴스 목록에 기업/정책/서비스 태그 필터 UI 추가
-**Why:** 현재 뉴스가 시간순으로만 나열됨. 투자자가 특정 기업이나 정책 뉴스만 보고 싶을 때 필터 없음
-**Pros:** UX 개선. 기존 infer_tags() 함수가 이미 태그를 생성하고 있어 데이터는 준비됨
-**Cons:** 프론트엔드 UI 작업 필요
-**Context:** robotaxitracker.com은 차량/도시/상태별 필터 제공. 우리는 기업/정책/서비스 카테고리가 적합.
-**Depends on:** 없음
-**Added by:** /plan-ceo-review 2026-04-02
+## ~~TODO-008: 뉴스 태그 필터~~ ✅ 완료
+**Resolved:** 2026-04-10 — NewsFeed 클라이언트 컴포넌트 분리. 전체/정책/기업/서비스/사고/해외/일반 필터 버튼 추가. 뉴스 30개로 확대.

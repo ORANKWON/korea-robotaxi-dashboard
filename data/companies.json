@@ -8,8 +8,13 @@
     "partner": "서울시",
     "commercialize_date": "2026-04-06",
     "level": 4,
+    "founded_year": 2010,
+    "total_funding_krw": 220,
+    "fleet_size": 3,
+    "website": "https://www.swm.ai",
+    "key_milestone": "2026.4 강남 로보택시 유료화 전환",
     "notes": "2024.11부터 강남 심야 로보택시 운행. 17개월 무사고 7,754회 운행. 2026.4.6 유료화 전환. KGM 토레스 EVX 기반. NVIDIA GTC 2026 전시.",
-    "updated_at": "2026-03-31T00:00:00+00:00"
+    "updated_at": "2026-04-10T00:00:00+00:00"
   },
   {
     "id": 2,
@@ -20,8 +25,13 @@
     "partner": "서울시",
     "commercialize_date": "2026-04-06",
     "level": 4,
+    "founded_year": 2017,
+    "total_funding_krw": null,
+    "fleet_size": 4,
+    "website": "https://www.kakaomobility.com",
+    "key_milestone": "2026.3 강남 심야 로보택시 합류",
     "notes": "2026.3.16부터 강남 심야 자율주행택시 합류. 카카오T 앱 '서울자율차' 메뉴로 호출. 차량 합산 7대로 확대.",
-    "updated_at": "2026-03-31T00:00:00+00:00"
+    "updated_at": "2026-04-10T00:00:00+00:00"
   },
   {
     "id": 3,
@@ -32,8 +42,13 @@
     "partner": "현대자동차그룹",
     "commercialize_date": null,
     "level": 4,
-    "notes": "현대차그룹 자율주행 SW 자회사. 청계천 도심순환 자율주행버스 운행(4.8km 왕복). Atria AI 엔드투엔드 자율주행 기술 개발 중.",
-    "updated_at": "2026-03-31T00:00:00+00:00"
+    "founded_year": 2019,
+    "total_funding_krw": 14000,
+    "fleet_size": 10,
+    "website": "https://42dot.ai",
+    "key_milestone": "2026 E2E 자율주행 페이스카 공개 예정",
+    "notes": "현대차그룹 자율주행 SW 자회사. 누적 투자 1.4조원. 청계천 도심순환 자율주행버스 운행(4.8km 왕복). Atria AI 엔드투엔드 자율주행 기술 개발 중.",
+    "updated_at": "2026-04-10T00:00:00+00:00"
   },
   {
     "id": 4,
@@ -44,8 +59,13 @@
     "partner": "Pony.ai (중국)",
     "commercialize_date": null,
     "level": 4,
-    "notes": "2025.12 국토부 임시운행 허가 취득. 강남에서 Level 4 로보택시 9대 시험운행 중. 무사고 누적 4만km. 자회사 퓨처링크 설립.",
-    "updated_at": "2026-03-31T00:00:00+00:00"
+    "founded_year": 2024,
+    "total_funding_krw": 350,
+    "fleet_size": 9,
+    "website": "https://pony.ai",
+    "key_milestone": "2024.12 국토부 임시운행 허가 취득",
+    "notes": "Pony.ai-GemVaxLink 합작법인. 강남에서 Level 4 로보택시 9대 시험운행 중. 무사고 누적 4만km. 자회사 퓨처링크 설립.",
+    "updated_at": "2026-04-10T00:00:00+00:00"
   },
   {
     "id": 5,
@@ -56,8 +76,13 @@
     "partner": "전국택시운송사업조합연합회",
     "commercialize_date": null,
     "level": 4,
-    "notes": "국내 최다 62대 자율주행차 운영 경험. 세종 BRT 자율주행(2021~), 대구 테크노폴리스 28.2km 노선, 안양 Level4 셔틀(2026.3 개시). 2026.2 택시 자율주행 전환 업무협약 체결.",
-    "updated_at": "2026-03-31T00:00:00+00:00"
+    "founded_year": 2018,
+    "total_funding_krw": 820,
+    "fleet_size": 81,
+    "website": "https://autoa2z.co.kr",
+    "key_milestone": "시리즈C 300억 유치, 누적 820억",
+    "notes": "국내 최다 81대 자율주행차 운영, 14개 시범운행지구. 세종 BRT(2021~), 대구 테크노폴리스 28.2km, 안양 Level4 셔틀(2026.3). UAE 바야낫AI 합작사 설립.",
+    "updated_at": "2026-04-10T00:00:00+00:00"
   },
   {
     "id": 6,
@@ -68,8 +93,13 @@
     "partner": "현대자동차그룹",
     "commercialize_date": null,
     "level": 4,
-    "notes": "2026 하반기 마포 지역에서 안전요원 미탑승 Level 4 완전 자율주행택시 운영 계획.",
-    "updated_at": "2026-03-31T00:00:00+00:00"
+    "founded_year": 2020,
+    "total_funding_krw": 50000,
+    "fleet_size": null,
+    "website": "https://motional.com",
+    "key_milestone": "2026 하반기 마포 무인 로보택시 예정",
+    "notes": "현대차-앱티브 합작법인. 누적 투자 약 5조원. 2026 하반기 마포 지역에서 안전요원 미탑승 Level 4 완전 자율주행택시 운영 계획.",
+    "updated_at": "2026-04-10T00:00:00+00:00"
   },
   {
     "id": 7,
@@ -80,8 +110,13 @@
     "partner": "세종시, 대전시",
     "commercialize_date": null,
     "level": 4,
+    "founded_year": 2018,
+    "total_funding_krw": 752,
+    "fleet_size": null,
+    "website": "https://www.rideflux.com",
+    "key_milestone": "프리IPO 200억 유치, 누적 752억",
     "notes": "국내 풀스택 자율주행 SW 기업. 누적 투자 752억원, 2026 프리IPO 200억 확보. 2027 K-로보택시 상용화 목표. B2G에서 B2B 전환 원년.",
-    "updated_at": "2026-04-01T00:00:00+00:00"
+    "updated_at": "2026-04-10T00:00:00+00:00"
   },
   {
     "id": 8,
@@ -92,7 +127,12 @@
     "partner": "카카오모빌리티, 서울시, 용인시",
     "commercialize_date": null,
     "level": 4,
-    "notes": "서울대 스핀아웃. SMOBI 솔루션(차량제어 HW + 자율주행 SW) 개발. 서울 새벽동행버스 자율주행 운행(2024.11~). 용인 동백동 자율주행버스 시범운행(2026.3~). 카카오모빌리티와 파트너십.",
-    "updated_at": "2026-03-31T00:00:00+00:00"
+    "founded_year": null,
+    "total_funding_krw": null,
+    "fleet_size": 2,
+    "website": "https://smobi.ai",
+    "key_milestone": "2024.11 서울 새벽동행버스 자율주행 개시",
+    "notes": "서울대 스핀아웃. SMOBI 솔루션(차량제어 HW + 자율주행 SW) 개발. 서울 새벽동행버스 자율주행 운행(2024.11~). 용인 동백동 자율주행버스 시범운행(2026.3~).",
+    "updated_at": "2026-04-10T00:00:00+00:00"
   }
 ]

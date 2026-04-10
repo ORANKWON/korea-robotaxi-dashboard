@@ -90,6 +90,19 @@ def validate_companies(path: Path) -> list[str]:
         if not isinstance(ua, str) or not is_iso8601(ua):
             errors.append(f"{prefix}: 'updated_at' must be ISO 8601, got '{ua}'")
 
+        # Optional structured fields
+        funding = c.get("total_funding_krw")
+        if funding is not None and not isinstance(funding, (int, float)):
+            errors.append(f"{prefix}: 'total_funding_krw' must be null or number, got {type(funding).__name__}")
+
+        fleet = c.get("fleet_size")
+        if fleet is not None and (not isinstance(fleet, int) or fleet < 0):
+            errors.append(f"{prefix}: 'fleet_size' must be null or non-negative int, got {fleet}")
+
+        fy = c.get("founded_year")
+        if fy is not None and (not isinstance(fy, int) or fy < 1990 or fy > 2030):
+            errors.append(f"{prefix}: 'founded_year' must be null or 1990-2030, got {fy}")
+
     return errors
 
 

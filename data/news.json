@@ -1,5 +1,305 @@
 [
   {
+    "headline": "휴맥스모빌리티, '자율주행 택시 생태계' 만든다 - v.daum.net",
+    "summary": "휴맥스모빌리티, '자율주행 택시 생태계' 만든다  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14UFUyWkVQdE5nMDRhMHNMMlBJbUx3RWFMOVA3MXM1RkcyMzF6V3RDYWM3c1pwY1dGOWVPUVBQbzZmejBPT3VuYk9nMEpFanc?oc=5",
+    "published_at": "2026-04-14T01:25:24+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "강남 누비는 ‘AI 택시’…기사들은 “퇴출 걱정” - 한겨레",
+    "summary": "강남 누비는 ‘AI 택시’…기사들은 “퇴출 걱정”  한겨레",
+    "source": "한겨레",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lTjlqSFpTXzYycFJqdGE1VFh6aHpqSmZOQXo3bEVBUFRRVTkxTHBLYmJaSC0tMkZEZEkzV3FNQk5lNlNZMkpLSExOLTVxc1BrNlRDWW5vOTNhZVY0bjM3Zw?oc=5",
+    "published_at": "2026-04-13T22:04:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "에이투지, 개인택시연합과 'K-자율주행 택시' 생태계 구축 착수 - 뉴스1",
+    "summary": "에이투지, 개인택시연합과 'K-자율주행 택시' 생태계 구축 착수  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ONmYya2xCM3owT0VBamR3SmRadlpZcGs2ZEFjdjFkMTg0Q3NmYUNZV1g4V0FQM2FaUTJVWTcwYi05aDZ1THpzNTQxOXRmZnl2d09OT3FWcmVTWDVsN0pfSw?oc=5",
+    "published_at": "2026-04-13T23:46:13+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 전국개인택시연합회와 자율주행 전환 업무협약 체결 - 아시아경제",
+    "summary": "오토노머스에이투지, 전국개인택시연합회와 자율주행 전환 업무협약 체결  아시아경제",
+    "source": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqLVl0YmU5cEZTNkg1NUxDZzJhVmljMGRGc2taZ3JQY1lmcGRoem8wd2VaMFF3UGRqMnJKM1RQTXFVcV85a0g2ZVRCQXJrVXpVNURXVDlCYjBybHBQMVlIQg?oc=5",
+    "published_at": "2026-04-13T23:12:29+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "에이투지, 개인택시연합과 'K-자율주행 택시' 생태계 구축 착수 - 네이트",
+    "summary": "에이투지, 개인택시연합과 'K-자율주행 택시' 생태계 구축 착수  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83cUJ1ZThBZzNPVW5RQTdTRUpQb3ZrS29ZY2xtSUsyMk1vZTRQRzIxOWFtRVkxMjFJTEVtdmd5SDlXb1hDUjNnRzhVNTBFQzB0VnRB?oc=5",
+    "published_at": "2026-04-13T23:47:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "휴맥스모빌리티, 개인택시연합회·현대차 등과 ‘자율주행택시 생태계 구축’ 협력 - 브릿지경제",
+    "summary": "휴맥스모빌리티, 개인택시연합회·현대차 등과 ‘자율주행택시 생태계 구축’ 협력  브릿지경제",
+    "source": "브릿지경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVjNPajdObWxFa1ZRcm5EYlpUaS1HcmhKb1h6RTZFS1ZQUVoyNUhOamV6WkpnTzA4dlM3MGV5QXNXdXJfaFVKRnZvTS1GT3M5aWRrOHhTUS1BUQ?oc=5",
+    "published_at": "2026-04-14T00:03:00+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "개인택시, 자율주행에 손 내밀었다…배제 아닌 참여 7개 기관과 협력 - 아주경제",
+    "summary": "개인택시, 자율주행에 손 내밀었다…배제 아닌 참여 7개 기관과 협력  아주경제",
+    "source": "아주경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FcHhvd3NCLXNKVDB4UDRmbHE1SFFQWGhsZENNekU1V0k0RUg0ZUo0c1FvZnRSY3lUcDdJN241MmNXYURDTE43OWNHdk5jb0pSMFZxUkNyMnI0UdIBWEFVX3lxTE1lVWhfWVBrdkpsRkVzMTh1QVpGNkszUUZsWEFteUtrVkNCOGFFSm5Ka2x0RDJ3NkNXMVRwdERnUk02ektmM21XRGRaV0p4U0lKT1Y2c1NTX1M?oc=5",
+    "published_at": "2026-04-13T06:21:43+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "자율주행 시대 성큼…휴맥스모빌리티, '택시 인프라 허브' 맡는다 - 더팩트",
+    "summary": "자율주행 시대 성큼…휴맥스모빌리티, '택시 인프라 허브' 맡는다  더팩트",
+    "source": "더팩트",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lOTRYcFFwZkhWZTBNY3BMVGVzaENWd18ySkdWTnAyUkRUTHc4b0djVVhHbmh4SFNENWxxQmZvZFhtZ2FzdDROOGpLRzRrRHlFbC1EeWQ3Smc3UdIBVEFVX3lxTE9DRFpPTVFLOVZqT1VNQk1uTDdtaEs3ZnZ5ZlNuQ0hhbUlkb0NOZ1BtVWszX28zYlo1SUM5UjA0bW1RZUFSS3NIOHJFRDkxZ3VYc3N0QQ?oc=5",
+    "published_at": "2026-04-14T01:19:28+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "개인택시업계, 7개 기관과 '면허 기반' 자율주행 상생 모델 구축 MOU - 아이뉴스24",
+    "summary": "개인택시업계, 7개 기관과 '면허 기반' 자율주행 상생 모델 구축 MOU  아이뉴스24",
+    "source": "아이뉴스24",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwM2pQaXZ2aUVQQzIzVWE0U3BrNDNjNE9JbTIxT09JUlQtckhfMmlZbUZrQi14WGJ6WHpOQkRLNHZldXZQQzJCVzdGYWQ?oc=5",
+    "published_at": "2026-04-13T09:06:26+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "\"개인택시 자율주행 시대 연다\"…오토노머스에이투지, 개인택시 업계와 'K-자율주행 택시' 전환 맞손 - 네이트",
+    "summary": "\"개인택시 자율주행 시대 연다\"…오토노머스에이투지, 개인택시 업계와 'K-자율주행 택시' 전환 맞손  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wei1ZSWRzSThWSVU3MFJZaUQ0MEpIZmVycEpBUnBKTnZ3YzZ5QlFYb0hTRXlWSGYzZU52VHBYT3c2TDZwYUVNRmhxc2pDc25KVjlj?oc=5",
+    "published_at": "2026-04-14T01:27:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 전국개인택시연합회와 자율주행 MOU 체결 - 디일렉",
+    "summary": "오토노머스에이투지, 전국개인택시연합회와 자율주행 MOU 체결  디일렉",
+    "source": "디일렉",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RVGlHU2lWYm1hcXpRVnZ4T19OanBSQ19lN1dXUnhtLWRqRXhUU0ktNXlmY2x0U094UzhIdXdITUZ2bnA1U0FQckw2c3NDVmtQOEVQc3E5d2VJanR4SEhoX3VXbWV1UQ?oc=5",
+    "published_at": "2026-04-14T00:51:23+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 개인택시업계와 '자율주행 택시' 전환 MOU - 유니콘팩토리",
+    "summary": "오토노머스에이투지, 개인택시업계와 '자율주행 택시' 전환 MOU  유니콘팩토리",
+    "source": "유니콘팩토리",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aUFZaa3B2MlY1UW9TQlFFNmtpNmVyUkNzWFVCLUZHQ0ZiejV3MFExZUc4VXBsd2J0cGVGbk1TWENPRU8zRG81WGcwSXgxekZISEZtNkFpaGQxVzZnWFpPOE1Vd0hZMDI5NFZGbw?oc=5",
+    "published_at": "2026-04-14T01:30:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "\"개인택시 자율주행 전환 본격화\" 오토노머스에이투지, K-로보택시 모델 구축 - 엠투데이",
+    "summary": "\"개인택시 자율주행 전환 본격화\" 오토노머스에이투지, K-로보택시 모델 구축  엠투데이",
+    "source": "엠투데이",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OMFQ3eVZkSUpyZWRSSjlVUWtWVEUzUExxY1RrdGdybUE2bDBYQlYza3IwX2FzZWJheFJGN1RYeV8tcWhVSmowN0h5TVY4OHFTcUdLMlJyRlZNRkdiVm9MR1ZHZnc3OVVpUEY1UFpIdw?oc=5",
+    "published_at": "2026-04-13T23:36:08+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "휴맥스모빌리티, ‘K-자율주행택시’ 인프라 맡는다…7개 기관 협력 - 이데일리",
+    "summary": "휴맥스모빌리티, ‘K-자율주행택시’ 인프라 맡는다…7개 기관 협력  이데일리",
+    "source": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONW9fN3M3MmpKQ2p0azZRQXdRNmEySlVLYmtwbjFWejQ1VlB3aW56cmVUMk9sbV85clZDQWxybnRJc3gzemJ3cF9XOURodGxiT2FST3JwbW90WkphTFRKakZSV0l6SGRLaFl3LXI5M2hoYWZIdU9tYUt5ZzVGQzliRg?oc=5",
+    "published_at": "2026-04-14T00:48:27+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "휴맥스모빌리티, '자율주행 택시 생태계' 만든다 - 일간스포츠",
+    "summary": "휴맥스모빌리티, '자율주행 택시 생태계' 만든다  일간스포츠",
+    "source": "일간스포츠",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zU3o1YlhBNXI4TGNkV093aVFxR3FjNU1sYlg1TVM4X1RLZ2NqNXNCOTdWUGY4Y0l1VURpX0trdmRxZ3FTeWVsbXhnUjFIZmwwY1pvT1N4Qk1xbEk?oc=5",
+    "published_at": "2026-04-14T01:23:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 전국개인택시연합회와 자율주행 전환 맞손 - 아주경제",
+    "summary": "오토노머스에이투지, 전국개인택시연합회와 자율주행 전환 맞손  아주경제",
+    "source": "아주경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxTEZDYjR3NmJCMTdYWFQ5b19FNWNvTjU4VkxXOGNTR0RVSGtCQnItRkVIMVQ3RXU4UlN5N01FdkNleW1OVUZsSUFaYVpQenhibzlhd1NIWmM1Z9IBWEFVX3lxTFBGa2ZaUTRlNklSb0VEejFibGFlTmV6dHE5OXp5YjV3MktnZ2JUWDBwOHM5Q1hHeDY3N3F6Z1FkRTB0MUl3UkZoTDRsbEdoUk8wMHo5MU5ZR2E?oc=5",
+    "published_at": "2026-04-13T23:42:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "휴맥스모빌리티, 자율주행 택시 인프라 허브 맡는다 - 아주경제",
+    "summary": "휴맥스모빌리티, 자율주행 택시 인프라 허브 맡는다  아주경제",
+    "source": "아주경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBScTdWcDhOY3hoaFVmbVpRcFlsMERJZFdYUXpVam10Ym5tSkhmM18xQkVGa0NvRDJ2ZUIzQXpLWjJLcmNCX3RGUlhQSThtMkl6dmxlbTNMd1VZQdIBWEFVX3lxTE9QSnlwajAtUjhLa0tBYjdqSm84dVkwcU1yVUpvN3l3bGlhV1VTNWJNN2MwWDZSWk02YURDd0FKckpwa1FNam1jWjhDOHBZelRPTmJ2bThQaFg?oc=5",
+    "published_at": "2026-04-14T00:00:37+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "에이투지, 전국개인택시연합회와 자율주행 전환 MOU - 이데일리",
+    "summary": "에이투지, 전국개인택시연합회와 자율주행 전환 MOU  이데일리",
+    "source": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM1hqQnhhUW5aZnhTVFFfM1hwNzVpbmFvRXI0WWVlZjNsSXZXem15TGdScTI3ZlRCNWZWRjhvZzFlTGpJLS04SXo4dDc1OVNJeWd6V1g1YjBQRmJwV3Noc0t1M09qSEdPTDdIbFZmUFBpV3R1cEhFMjE3U09kR29ySQ?oc=5",
+    "published_at": "2026-04-13T23:10:59+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "휴맥스모빌리티, 자율주행 택시 '인프라 허브' 맡는다 - 네이트",
+    "summary": "휴맥스모빌리티, 자율주행 택시 '인프라 허브' 맡는다  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBma3BEMzZORElKUzNhcF9MLW9ianhldTM5Nlo3V09UQldzSXNnSEdNMWRFMDZGYVY5b2ZRZUYxbnFQNVZVaFNmUHJyQS1aWFlJUF9N?oc=5",
+    "published_at": "2026-04-14T00:01:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "서울 강남 자율주행 택시 유료 전환…버스 노선도 확대 - 뉴스21일간",
+    "summary": "서울 강남 자율주행 택시 유료 전환…버스 노선도 확대  뉴스21일간",
+    "source": "뉴스21일간",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBReENZb2RqRDQtY05SZ2JrVE5LVkRjbWZGdHM4ZUE2WXlTRjZreG1PMEkyMTFxVFo1T1hvR3dVS3JZcFozdnNEYVlyekdIUQ?oc=5",
+    "published_at": "2026-04-13T04:37:53+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "전국개인택시聯·현대차·오토노머스 A2Z·휴맥스모빌리티 등 7개 기관과 상생 협력 관계 구축 - 오토투데이",
+    "summary": "전국개인택시聯·현대차·오토노머스 A2Z·휴맥스모빌리티 등 7개 기관과 상생 협력 관계 구축  오토투데이",
+    "source": "오토투데이",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3Vjd2bzI1YWgtenJ5bVJjWHBuNUdYRE11WmhYWWFIVkFtQmlGWmRISTc5VUZVN0ZnYzh4UjRfZVpqY1Y5dmpPLUxCMjBtbWRBVlhsZGI1dFowbUQ0ZmFHaFUzMjZyUmVVUXpoRDBR?oc=5",
+    "published_at": "2026-04-13T11:35:16+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "한국 진출 선언한 中 로보택시… 기아, 오늘 ‘미래 전략’ 공개 - v.daum.net",
+    "summary": "한국 진출 선언한 中 로보택시… 기아, 오늘 ‘미래 전략’ 공개  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hSFh4UmM5T0FUZHpCVmJmTGw5dF9RcnhpQURlbEJaZnRKbWNzb3BfaUFVd0oxanBkaVk3SGNySDRER0NsWFE?oc=5",
+    "published_at": "2026-04-08T15:33:26+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "KGM, 강남 자율주행 로보택시 확대 - v.daum.net",
+    "summary": "KGM, 강남 자율주행 로보택시 확대  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZR0RMSzhOVEx1d19YNlFWR0VIZlJ0ZGdERHRqczVyMkhjdU9Ea1ZmX0JJOWg2LU1sZUxxTFI4SHcycjRRZE1pNjYycllVS00?oc=5",
+    "published_at": "2026-04-06T07:30:02+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "중국 자율주행 택시 100대 집단 멈춤…승객들 ‘분통’ - v.daum.net",
+    "summary": "중국 자율주행 택시 100대 집단 멈춤…승객들 ‘분통’  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5ak44UWF6MGVsSWpoYjY0WkVvSEp2TVM4SFo0RGhhQjBDZXNlZWRLakVrQ0dEdGItUnJkMWtycGVXWUptOXc?oc=5",
+    "published_at": "2026-04-01T07:00:00+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "중국 자율주행 택시 100대 집단 멈춤…승객들 ‘분통’ - v.daum.net",
+    "summary": "중국 자율주행 택시 100대 집단 멈춤…승객들 ‘분통’  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAzcHZ5a0lkVzczYURNSHJhMFg0ODF6VVZLVzlzYzh6LWJYY1ZOVVZram5pQXdWSUFqeXRwZHFVRjFmemZ1VFE?oc=5",
+    "published_at": "2026-04-01T07:00:00+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "4800원에 강남 누비는 자율주행 택시… 서울, 4월 6일 유료화 - mstoday.co.kr",
+    "summary": "4800원에 강남 누비는 자율주행 택시… 서울, 4월 6일 유료화  mstoday.co.kr",
+    "source": "mstoday.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb2pOUVpCTUVPZ0syQV9DMmxJMnhtOVRVWHV5cUVkTkhRVFV0TkRhd21jV3cxbTNja2NCQm1nODBSeUI0QVRyUFNkUEpDNE9NRVZ4RVlWRFRpWUNIbHRHWFlFOXVxOHo5WGpzNC0zRWczVFhBUWFJaTIxb1dYWGEzZm8yaTRqTi1mMTRKNk5qUHFvaXl0Wml3ckt6RWF2VXcwdGVXbndYWGN4cklRc1pNQnFDX1lKQUNqbm84ZGk4NHVmbXZsYk9mX2hpZw?oc=5",
+    "published_at": "2026-03-30T02:47:33+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "한국 로보택시, 누가 왕좌를 차지할까 - 한국경제",
+    "summary": "한국 로보택시, 누가 왕좌를 차지할까  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVWF3WEFmRFBLc2poNk96dXRyQWlJRzJSeTlfSzFZeXhoNUljWnR1VEhhWWVTMVVxRm9kd1JkUlRyVEpLUEx4SjB1RWhza2xxOUpsY2RzaGtFZw?oc=5",
+    "published_at": "2026-03-24T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "美·中 주도 로보택시…韓·日·유럽 '도전장' - v.daum.net",
+    "summary": "美·中 주도 로보택시…韓·日·유럽 '도전장'  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Fa3B6MHVPSER0c3dBVUY3VE5fNDZDN0x0X2tvQnA5UUx3UnFVT1dxRURjOFUtTEVCSDVxendWcmJOUFhJdGlWc2FzMUwwQzQybFpEbQ?oc=5",
+    "published_at": "2026-01-12T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "8개 부처 합동 연구단 중국 베이징 파견 … 로보택시·실증도시 등 국내 정책에 반영 - 뉴스데일리",
+    "summary": "8개 부처 합동 연구단 중국 베이징 파견 … 로보택시·실증도시 등 국내 정책에 반영  뉴스데일리",
+    "source": "뉴스데일리",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxRTRKR043S25rdDZ1U3VybF85TldMTVRsVU44RkdDWk1COWkxSk9pRDdNa2lNOTlaN1hMNXcteFltQWRwbGlGVll4dE5QamcwaExZdnVVeW9OSGxvYndQMDg5d2ZoX1Jjd0RN?oc=5",
+    "published_at": "2026-03-18T07:00:00+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "우버·닛산·웨이브, 도쿄 ‘로보택시’ 전격 출격 - Benzinga",
+    "summary": "우버·닛산·웨이브, 도쿄 ‘로보택시’ 전격 출격  Benzinga",
+    "source": "Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOVnJxQ0tuM09EaW5YYm83NEhGVFJueXNEcnhfS2wtVDQwS0xXWlBZdkxFWDFIekI3ek5pbjJuWV8wTGR3ajA3eVdTalJlSDlmVjd3NVV6UWZPN1FZTWpMenBjTDgxV0k2VkpBRjNIUTQtMmhWQ1VRMTAyUFBkWXJaNWFxT1QyTy1aQzFLalB6eFpaWDBFWE83ak9xSEZWWEFFVkxzcEtnRjMyMDFzMWJSalluT01taURnVjNVX005d1Q2R2o1ZUJaYmxxMTZPeVNfMVFycDNTMUFzTC1XWC1GZDdNbkp6MG40ZEtIUHI0ODhTMi1GSjdDaHphNE94eXpHNzhfcGh6OFAwSHU5dTVWX1c5dUk5TW9nVHhPUUpPbmRXUW1JdTdsVW9zczI?oc=5",
+    "published_at": "2026-03-12T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
     "headline": "‘사람처럼’ 반대편 차 빨리 오자 우회전 멈칫 - 캐나다 한국일보",
     "summary": "‘사람처럼’ 반대편 차 빨리 오자 우회전 멈칫  캐나다 한국일보",
     "source": "캐나다 한국일보",

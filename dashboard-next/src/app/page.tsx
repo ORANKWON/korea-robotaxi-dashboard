@@ -6,7 +6,10 @@ import NewsFeed from "@/components/NewsFeed";
 import Link from "next/link";
 
 const companies = companiesData as Company[];
-const news = (newsData as NewsItem[]).slice(0, 30);
+const news = (newsData as NewsItem[])
+  .slice()
+  .sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime())
+  .slice(0, 30);
 const zones = zonesData as Zone[];
 
 const statusColor: Record<string, string> = {

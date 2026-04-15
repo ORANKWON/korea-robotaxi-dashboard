@@ -7,6 +7,7 @@ export const COMPANY_COLORS: Record<string, string> = {
   "오토노머스에이투지": "#10b981",
   SUM: "#f472b6",
   Pony: "#ef4444",
+  "쏘카": "#a855f7",
 };
 export const DEFAULT_COLOR = "#9ca3af";
 

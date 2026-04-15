@@ -14,9 +14,76 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://korea-robotaxi-dashboard.vercel.app";
+
 export const metadata: Metadata = {
-  title: "한국 로보택시 대시보드",
-  description: "한국 자율주행택시(로보택시) 도입 현황 대시보드 — 기업, 운행 구역, 규제, 뉴스를 한눈에",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: "한국 로보택시 대시보드 — 자율주행택시 현황 한눈에",
+    template: "%s | 한국 로보택시 대시보드",
+  },
+  description:
+    "한국 자율주행택시(로보택시) 도입 현황 실시간 대시보드. 기업별 운행 구역, SAE Level, 투자 현황, 시범운행지구, 정책 타임라인, 관련 뉴스를 한곳에서 확인하세요.",
+  keywords: [
+    "로보택시",
+    "자율주행택시",
+    "자율주행",
+    "한국 자율주행",
+    "로보택시 한국",
+    "SWM",
+    "카카오모빌리티 자율주행",
+    "42dot",
+    "라이드플럭스",
+    "오토노머스에이투지",
+    "모셔널",
+    "쏘카 자율주행",
+    "자율주행 시범운행지구",
+    "Level 4 자율주행",
+  ],
+  authors: [{ name: "KR Robotaxi Dashboard" }],
+  creator: "KR Robotaxi Dashboard",
+  publisher: "KR Robotaxi Dashboard",
+  alternates: {
+    canonical: SITE_URL,
+  },
+  openGraph: {
+    type: "website",
+    locale: "ko_KR",
+    url: SITE_URL,
+    siteName: "한국 로보택시 대시보드",
+    title: "한국 로보택시 대시보드 — 자율주행택시 현황 한눈에",
+    description:
+      "한국 자율주행택시 도입 현황 실시간 대시보드. 기업, 운행 구역, 규제, 뉴스를 한눈에.",
+    images: [
+      {
+        url: "/og-image.svg",
+        width: 1200,
+        height: 630,
+        alt: "한국 로보택시 대시보드",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "한국 로보택시 대시보드",
+    description:
+      "한국 자율주행택시(로보택시) 도입 현황 실시간 대시보드.",
+    images: ["/og-image.svg"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+  },
 };
 
 const navItems = [
@@ -26,6 +93,22 @@ const navItems = [
   { href: "/compare", label: "글로벌 비교" },
 ];
 
+const websiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "한국 로보택시 대시보드",
+  alternateName: "KR Robotaxi Dashboard",
+  url: SITE_URL,
+  description:
+    "한국 자율주행택시(로보택시) 도입 현황 실시간 대시보드. 기업, 운행 구역, 규제, 뉴스를 한눈에.",
+  inLanguage: "ko-KR",
+  publisher: {
+    "@type": "Organization",
+    name: "KR Robotaxi Dashboard",
+    url: SITE_URL,
+  },
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -33,6 +116,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko">
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+        />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gray-50 text-gray-900`}
       >

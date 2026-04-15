@@ -25,8 +25,26 @@ export function generateStaticParams() {
 
 export function generateMetadata({ params }: { params: { id: string } }) {
   const company = companies.find((c) => c.id === Number(params.id));
+  if (!company) return { title: "기업 상세" };
+
+  const zoneText = company.zones.length > 0 ? ` ${company.zones.join(", ")} 구역 운행.` : "";
+  const description = `${company.name} 자율주행 현황. 상태: ${company.status}, SAE Level ${company.level}, 파트너: ${company.partner}.${zoneText} ${company.key_milestone || ""}`.slice(0, 155);
+
   return {
-    title: company ? `${company.name} — 한국 로보택시 대시보드` : "기업 상세",
+    title: `${company.name} — 자율주행 현황`,
+    description,
+    alternates: { canonical: `/company/${company.id}` },
+    openGraph: {
+      title: `${company.name} — 한국 로보택시 대시보드`,
+      description,
+      url: `/company/${company.id}`,
+      type: "article",
+    },
+    twitter: {
+      card: "summary",
+      title: company.name,
+      description,
+    },
   };
 }
 
@@ -51,8 +69,23 @@ export default function CompanyDetail({ params }: { params: { id: string } }) {
     nameKeywords.some((kw) => n.headline.includes(kw) || n.summary.includes(kw))
   ).slice(0, 10);
 
+  // JSON-LD Organization schema
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: company.name,
+    url: company.website || undefined,
+    foundingDate: company.founded_year ? `${company.founded_year}` : undefined,
+    description: company.notes,
+    areaServed: company.zones.length > 0 ? company.zones.join(", ") : undefined,
+  };
+
   return (
     <div className="space-y-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Breadcrumb */}
       <nav className="text-sm text-gray-500">
         <Link href="/" className="hover:text-blue-600">대시보드</Link>

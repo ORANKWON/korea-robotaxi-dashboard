@@ -1,5 +1,18 @@
+import type { Metadata } from "next";
 import type { TimelineEvent } from "@/types";
 import timelineData from "@data/timeline.json";
+
+export const metadata: Metadata = {
+  title: "타임라인 — 한국 자율주행 정책·서비스 연표",
+  description:
+    "한국 자율주행택시 산업의 주요 이벤트 연대기. 2020년 임시운행 허가부터 2027년 전국 확대까지, 정책·규제·서비스 개시 일정을 시간순으로 확인하세요.",
+  alternates: { canonical: "/timeline" },
+  openGraph: {
+    title: "한국 자율주행 타임라인",
+    description: "2020~2027 한국 로보택시 정책·서비스 주요 이벤트 연표.",
+    url: "/timeline",
+  },
+};
 
 const events = (timelineData as TimelineEvent[]).sort(
   (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()

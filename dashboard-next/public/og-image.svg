@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="900" cy="315" r="300" fill="url(#glow)"/>
+  <text x="80" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="32" font-weight="500" fill="#93c5fd" letter-spacing="4">KR ROBOTAXI DASHBOARD</text>
+  <text x="80" y="330" font-family="system-ui, -apple-system, sans-serif" font-size="80" font-weight="800" fill="white">한국 로보택시</text>
+  <text x="80" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="80" font-weight="800" fill="white">대시보드</text>
+  <text x="80" y="500" font-family="system-ui, -apple-system, sans-serif" font-size="32" font-weight="400" fill="#cbd5e1">자율주행택시 도입 현황 · 기업 · 구역 · 규제 · 뉴스</text>
+  <rect x="80" y="540" width="60" height="6" fill="#facc15"/>
+</svg>

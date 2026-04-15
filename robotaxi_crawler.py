@@ -47,8 +47,23 @@ NEWS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "ne
 COMPANIES_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "companies.json")
 MAX_ITEMS_PER_RUN = 50
 BASE_QUERIES = [
+    # 핵심 주제
     "자율주행택시",
     "로보택시 한국",
+    "로보택시 상용화",
+    # 2026 현재 트렌드
+    "자율주행 유료 운행",
+    "Level 4 자율주행",
+    "무인 자율주행",
+    # 제도·구역
+    "자율주행 시범운행지구",
+    "자율주행 임시운행",
+    # 지역 핫스팟
+    "강남 자율주행택시",
+    "심야 자율주행",
+    # 글로벌 맥락
+    "웨이모 한국",
+    "포니에이아이 한국",
 ]
 QUERY_DELAY = 1  # seconds between RSS fetches
 
@@ -84,9 +99,16 @@ def load_company_keywords(companies_file: str) -> tuple[list[str], list[str]]:
         parts = re.split(r"[\s()（）]+", name)
         parts = [p for p in parts if len(p) >= 2]
         keywords.extend(parts)
-        # Use first part as query (most recognizable name)
-        if parts:
-            queries.append(f"{parts[0]} 자율주행")
+        if not parts:
+            continue
+        # Primary query: most recognizable name + "자율주행"
+        queries.append(f"{parts[0]} 자율주행")
+        # Secondary query: vary term based on vehicle type for better coverage
+        vehicle = c.get("vehicle_model", "")
+        if "버스" in vehicle or "셔틀" in vehicle:
+            queries.append(f"{parts[0]} 자율주행버스")
+        else:
+            queries.append(f"{parts[0]} 로보택시")
     return queries, keywords
 
 

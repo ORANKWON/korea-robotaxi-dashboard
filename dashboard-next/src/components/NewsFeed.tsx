@@ -13,13 +13,15 @@ const tagColor: Record<string, string> = {
 };
 
 const ALL_TAGS = ["전체", "정책", "기업", "서비스", "사고", "해외", "일반"];
+const DISPLAY_LIMIT = 30;
 
 export default function NewsFeed({ news }: { news: NewsItem[] }) {
   const [activeTag, setActiveTag] = useState("전체");
 
-  const filtered = activeTag === "전체"
+  const filtered = (activeTag === "전체"
     ? news
-    : news.filter((n) => n.tags.includes(activeTag));
+    : news.filter((n) => n.tags.includes(activeTag))
+  ).slice(0, DISPLAY_LIMIT);
 
   return (
     <section>

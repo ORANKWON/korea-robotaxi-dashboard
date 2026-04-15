@@ -2,8 +2,8 @@ name: Robotaxi Crawler
 
 on:
   schedule:
-    # 매일 09:00 KST (UTC 00:00)
-    - cron: "0 0 * * *"
+    # 매 6시간 (00:00, 06:00, 12:00, 18:00 UTC = 09:00, 15:00, 21:00, 03:00 KST)
+    - cron: "0 */6 * * *"
   workflow_dispatch:  # 수동 실행 허용
 
 permissions:

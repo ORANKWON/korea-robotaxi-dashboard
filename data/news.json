@@ -1,5 +1,373 @@
 [
   {
+    "headline": "휴맥스모빌리티, '자율주행 택시 생태계' 만든다",
+    "summary": "휴맥스모빌리티, '자율주행 택시 생태계' 만든다  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pT1c5T09KYlFrdWYxQ29NOG5kbHh5c25UVzNSejZIYU9vVU1pTmtXSDUzVmQxd2E5NWhjNVNuV2hDNUNRU1E?oc=5",
+    "published_at": "2026-04-14T01:25:24+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "테슬라, 댈러스·휴스턴으로 로봇택시 확장…美 4개도시 운영",
+    "summary": "테슬라, 댈러스·휴스턴으로 로봇택시 확장…美 4개도시 운영  연합뉴스 한민족센터",
+    "source": "연합뉴스 한민족센터",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PdzYzV0JMWk9fWGNpVWRYQm9ockRtYW9GcHo3bDN6VVRTWGJsLUY3ZXF1c3l2N3lQWDgyYS14Ml9aMVNtZ3ZmOHBTMkhsUERkT0hseVFGRXZ5allrektpNzdNQWZMN1d5ajFTVFc0dDdtcnpp?oc=5",
+    "published_at": "2026-04-18T21:06:00+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "원하는 곳에서 타고 내리는 자율주행 택시 현실로",
+    "summary": "원하는 곳에서 타고 내리는 자율주행 택시 현실로  투데이안",
+    "source": "투데이안",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80bElVeWs0clo5eVh2b2ZkSGMxcnVaUHdZX1E4VW9SSW1sVWM1N1BQWGdoVzVSZll1alYxOHJtOGRZSjNfZkxSR1dKSUUtNUZYbS1Wd2tOaWJTdzRSb0E?oc=5",
+    "published_at": "2026-04-07T23:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "테슬라, 로보택시 서비스 美 댈러스·휴스턴서 시작",
+    "summary": "테슬라, 로보택시 서비스 美 댈러스·휴스턴서 시작  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92X3dpZ003ZWN0QlRKNHg3Q3NNWGFMMTdUR0JZTzRtcUQwbGJuWjhHaVZDVGdiSnhTNV9xSW13bEhEYktDdEY4cXJlYnZQdTU0UDdV?oc=5",
+    "published_at": "2026-04-19T00:25:00+00:00",
+    "tags": [
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "로보택시 실망, 4% 급등했던 테슬라 하락 반전",
+    "summary": "로보택시 실망, 4% 급등했던 테슬라 하락 반전  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1icjBFWTN1c0ZiV1Vsd2lYSVpYcVQ0OEJKczhDOW5BcHVNSmZYOVhPWlZva2owYnMxOXhkV3NRUUdyVEhGendNQkFHMWRDX0dmWEZSVNIBVEFVX3lxTE1icjBFWTN1c0ZiV1Vsd2lYSVpYcVQ0OEJKczhDOW5BcHVNSmZYOVhPWlZva2owYnMxOXhkV3NRUUdyVEhGendNQkFHMWRDX0dmWEZSVA?oc=5",
+    "published_at": "2026-04-22T22:02:22+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "현대차 \"연말 로보택시 상용화\"...자율주행 전쟁에 도전장",
+    "summary": "현대차 \"연말 로보택시 상용화\"...자율주행 전쟁에 도전장  YTN",
+    "source": "YTN",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHV0tRWldnbEFIMTAySkFzNVM2OEhXSlMwX3l6NDdpMFhIWWp1ZEdUc3FUbGxDTU5hZ3Q1UjBvRExLQ2E4eVRIQi11WFB6bTkteHQxdTdEWDRncUZTMVE?oc=5",
+    "published_at": "2026-01-12T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "청와대 자율주행버스, 7월 1일부터 유료로 달린다",
+    "summary": "청와대 자율주행버스, 7월 1일부터 유료로 달린다  TBS 서울",
+    "source": "TBS 서울",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qNXZXSFhuQkZZbllvMXY5RUtfVjlGVmdVeFIxMmhxLTBuNWZKTmFUTnNQV1FKc0E0MXhlWHNiSUFWdHEyd3phVEczbmlPQW1XbE1NWVhpQTFFZFZwdkpkMHdvTFJyZGdzZUJtakR6NGRoSk5fRGxhWA?oc=5",
+    "published_at": "2024-06-25T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 자율주행 레벨4 청사진 공개 ....\"기술 내재화로 서비스 신뢰 확보할 것”",
+    "summary": "카카오모빌리티, 자율주행 레벨4 청사진 공개 ....\"기술 내재화로 서비스 신뢰 확보할 것”  워크투데이",
+    "source": "워크투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pVkZzNnlSYi1RbTNCSWk3elNFQnVMUVk5WWUyVHhqWnVGMThpWTZmRHZ5bXdPdmdCT3dhZjBjYURpLXFid09jQWVkUGd1RUdyclpJbzhZdVhwYTFFdk5zUTBJRHJmYW9RREtsbg?oc=5",
+    "published_at": "2026-04-23T16:19:13+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 자율주행 ‘레벨4’ 비전 공개",
+    "summary": "카카오모빌리티, 자율주행 ‘레벨4’ 비전 공개  웹이코노미",
+    "source": "웹이코노미",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RMlpfLVZpaU9sV2pIVEszMTFBR3FRck8yRHNNNGpUSERYLTQ5aldTU3d6NktoRjNkX1Npd3FqTEhRaV9yN1VwNnVGZFFWVUdtSlk5R21KdDFlQXk0TWI4R1ZQOWY0aUtMdnpZVG1MdENpUQ?oc=5",
+    "published_at": "2026-04-23T18:20:00+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 자율주행 레벨4 기술 내재화⋯'K-오픈 생태계' 구축",
+    "summary": "카카오모빌리티, 자율주행 레벨4 기술 내재화⋯'K-오픈 생태계' 구축  브릿지경제",
+    "source": "브릿지경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LZG96TDhybU9VT1hieUhLTGRGZmVudHNhVGEtYkpBV2h6S0VNQ2FVTXAyc2g1eGtxc1pLTmZQSDluT2s1Nlk3dHN4TWl6OHUyZHRyYW1LaEtpUQ?oc=5",
+    "published_at": "2026-04-23T07:27:00+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "봄바람과 함께 불어온 대륙의 공습… 테슬라 FSD 턱밑까지 쫓아왔다",
+    "summary": "봄바람과 함께 불어온 대륙의 공습… 테슬라 FSD 턱밑까지 쫓아왔다  뉴스와",
+    "source": "뉴스와",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVRrTlNoNWU4dUp1eXRGZER1d3BoNUUxbXJyNXhkeEp1TDhMQTAwandOdkhGam9yZVRkY0pDZ0RPa2VXZjhLeS1Lcmtxb0VkenJBcEd1LWJKdzdveTlrc1p6c1RXQkV0NWZQNS1sc1lXMlY0NXRwbVM1bERtSnRDWjdpaw?oc=5",
+    "published_at": "2026-04-23T14:09:00+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "KGM·에이투지, 레벨4 자율주행 맞손…전기버스부터 양산 추진",
+    "summary": "KGM·에이투지, 레벨4 자율주행 맞손…전기버스부터 양산 추진  dt.co.kr",
+    "source": "dt.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6N1NOcDYxV3dQWlFQZUNFRU1ueTloTy1jM0hxdTBRcExGTmhDWTJCR0ZEWmstSk81SjlaRktYNWZ4M0hyT3FKVFVSTlZhdw?oc=5",
+    "published_at": "2026-04-20T10:11:24+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지-KGM-KGMC, 레벨4 자율주행 상용화 위한 '전략적 동맹'... 자율주행 플랫폼 글로벌 경쟁력 강화!",
+    "summary": "오토노머스에이투지-KGM-KGMC, 레벨4 자율주행 상용화 위한 '전략적 동맹'... 자율주행 플랫폼 글로벌 경쟁력 강화!  에이빙",
+    "source": "에이빙",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05U2lEV3hXZ01PRGxhbEk0RWowSTZscS1iNl9GeUdnNi1jUk9yZVRCNFZ5SzlHNERwTFFWRTlVQk14Wk5RYnNuNWhnQW5vME52VVZtbG5nRDN5QmhYbjBhM0E5cWY4Ym_SAWtBVV95cUxQU2UxWWl5YlFGS1Y3U1ktYUt1bXpiLTVUYkcyNTJWTUxMMVpCOFBXZnRpei1WdXZEOEhPNS1weVNUcUE2cDFCZmJSOXBwUVp1N3hfZDI0ek4zeXE4V1JQS29NUWUxaHpVTWcxbw?oc=5",
+    "published_at": "2026-04-20T04:41:07+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, '레벨4' 자율주행 보폭 넓힌다···승용차 넘어 전기버스까지",
+    "summary": "KGM, '레벨4' 자율주행 보폭 넓힌다···승용차 넘어 전기버스까지  smartbizn.com",
+    "source": "smartbizn.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8weEVJNi1ER3g1ZkkwMGFBaFhPdjN1V0R2ZkgxMlpGaVlKZ25sc3J6T3ZvTTJtUTlKS2hwa2xWRnRXRTBtTzZvR3RHMFF0Z3YwdTBnYUJ3RDFEcVZnWWpndmJRRTZXbE9naWxjTw?oc=5",
+    "published_at": "2026-04-20T02:41:25+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "웨이모, 런던 자율주행 운영 본격화… 연내 완전 무인 서비스 승인 목표",
+    "summary": "웨이모, 런던 자율주행 운영 본격화… 연내 완전 무인 서비스 승인 목표  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LNmpDSkIzaHZhUkZNTXBWeEh6enJiY1FKb2cyQ2ZnR1ZTa3ktaXZPSmdOYXBOWTBnQ1lmUGt0VE9FNFBpZFN1S2VTRWlueU9TeFU3MWk5M2JGajMteFFpckdBUjhvRmQ3TDNZRzJpci1wajZReEdHVXhKaw?oc=5",
+    "published_at": "2026-04-20T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "운전석 없는 완전 자율주행 '무인 전기 트랙터'…中 농촌서 실전 투입",
+    "summary": "운전석 없는 완전 자율주행 '무인 전기 트랙터'…中 농촌서 실전 투입  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tYk9Scm5XVGlNbTBFZ195ZDZreHV0clljaHlZRURla1pnVmZGNzMxakctX3FWOVhqNjB0dnNORGtjUFVKb2Q4T0pNYnN3Zw?oc=5",
+    "published_at": "2025-12-09T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "[특집-무인화] 무인화 시스템의 경제적 가치는?",
+    "summary": "[특집-무인화] 무인화 시스템의 경제적 가치는?  elec4",
+    "source": "elec4",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40a0ZDZjV5Q2ZDMWpUT1JVelBYSm05VDVMRDJFanBZQTVaNVNuUldrVzM3UUlaeTlXRXNicEJkR0c2NlJDSEFjclphNENjWTRRSklTZVZmMVFjZEJHdVBfQ3RUbkJPMDBOUEU2VzZR?oc=5",
+    "published_at": "2025-12-30T01:55:10+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "바이두·샤오미 자율주행차 눈으로 본다…정부 연구단 中 파견",
+    "summary": "바이두·샤오미 자율주행차 눈으로 본다…정부 연구단 中 파견  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tbVphNlNPUUhFMmE3OWV2SnFRbXZXREdxRGoyRU9vT3JUNVhEUGRScFFlRGM4bzAyLW9HX0V2Yk1sMlNWVEdDVDA4dHQtUHNPNGR5ZHk4TlBoazg?oc=5",
+    "published_at": "2026-03-18T07:00:00+00:00",
+    "tags": [
+      "정책"
+    ]
+  },
+  {
+    "headline": "강릉시·현대자동차, 교통소외지역 자율주행 DRT 실증 협약",
+    "summary": "강릉시·현대자동차, 교통소외지역 자율주행 DRT 실증 협약  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vSWVIdDJEVkt4LW5YUEZLRzdpQS1QcmwtTFlHZjBLYy16Nzc4RmVqMlVtTzRTdlBHRlhZZVJxN0hUZWdYTm1Lc3RpdGFMdw?oc=5",
+    "published_at": "2026-02-05T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "아마존 죽스의 자율 주행 무인 로보 택시",
+    "summary": "아마존 죽스의 자율 주행 무인 로보 택시  조선일보",
+    "source": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUDJTZHVmSGlUcERsQkVtbjI4aU02enpRQmRGU2hPN2t3VFY3LWg1MW1yMnBuNjJYcklwVE50RDVRWXRjM3hTcHh2OWdPdlNhQm9EcE1vNk9QZURZZDVac0pEczFzR0oydTRVdzZwT3JGa2hobUR2MGFUWl9zdHI0cFhwRQ?oc=5",
+    "published_at": "2025-11-21T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "파주 운정·교하·금촌, 자율주행자동차 시범운행지구됐다",
+    "summary": "파주 운정·교하·금촌, 자율주행자동차 시범운행지구됐다  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hXzQ0dGszbkx1TURSa05HcE9hS1VaYl9Eam1HOFlFMXBkczY5S0hSTURibjl2UTZLdVNDdGpkUXB1bzZBdVVwdi1wM0ZiVEpqZVowLXpkejZnS1o3ZnhXOUM0OUdWYl9ZYm9GbkhReWQtWU5kTDhCUdIBeEFVX3lxTE1hXzQ0dGszbkx1TURSa05HcE9hS1VaYl9Eam1HOFlFMXBkczY5S0hSTURibjl2UTZLdVNDdGpkUXB1bzZBdVVwdi1wM0ZiVEpqZVowLXpkejZnS1o3ZnhXOUM0OUdWYl9ZYm9GbkhReWQtWU5kTDhCUQ?oc=5",
+    "published_at": "2025-12-09T08:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "\"자율주행차 사고 증가세\" 국토부, 올해 9월까지 47건 발생",
+    "summary": "\"자율주행차 사고 증가세\" 국토부, 올해 9월까지 47건 발생  티제이비",
+    "source": "티제이비",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XUy1YcVJJUUI3aDd4ckdPZjNRYTJ6bDR6STBoVTI2QlhpZmppQnd5UUJBaVpkdXRfM1BrUHBZdGtCTEI0cHhfNjlNMjFlX0IwekRoWVpSTFVYd2V6dFpLcVgtVUZvYzFFLTk3ZXRB?oc=5",
+    "published_at": "2025-11-28T08:00:00+00:00",
+    "tags": [
+      "사고"
+    ]
+  },
+  {
+    "headline": "강릉·횡성 ‘자율주행차 시범운행지구’ 추가 지정",
+    "summary": "강릉·횡성 ‘자율주행차 시범운행지구’ 추가 지정  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GM000Z3NEeEgwY05XRnluNnlhOWJoQjMxNV91RllxTkh0cGJJUUI0cXVlRm9QYjREcUV4T3hHdG11Sk8tcm9wOUhQOA?oc=5",
+    "published_at": "2025-07-03T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "자율주행차 상용화 속도 내는 美·中…규제에 발목잡힌 韓",
+    "summary": "자율주행차 상용화 속도 내는 美·中…규제에 발목잡힌 韓  ntoday.co.kr",
+    "source": "ntoday.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sY3ZScUdBMFllY2dFZmdRRVBTUDk3aUNzY1dmTjN4LUUtUVBuRmdIcEc5N0tWUklBbFlBelVPNkxwb2c5NFVwZnZzY3V1dXJ4SWprbXd2N1d6eXFPV1hTNThCY3VMOTRWY0pJ0gFvQVVfeXFMT1dKcFQ1SzlHRjAzaEwwQVpzM3ZXV2hYQWloUW9rX2M4NzhyVWh2dDk2NXpJcUQ0TUhkWnZFeUlJNHdKdDJrQmlVZ0xIYjdudWF0TW8yc2N0VTdTU2lsMWQxTHNvbTFvM1FJRm5jbm1B?oc=5",
+    "published_at": "2025-06-27T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, '韓 최초' 싱가포르 자율주행 면허 취득",
+    "summary": "오토노머스에이투지, '韓 최초' 싱가포르 자율주행 면허 취득  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LZlVNakJ0NTQ0US12bFhxMkhEcDFEUnptS2t4SnNXY1c4ajRqVXp3NzZMWE5nazlWVTNTUFNFdWExYXJSN2R4Q0xiZVZGUQ?oc=5",
+    "published_at": "2025-05-13T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "국산 무인 자율주행차, 4분기엔 일반도로 달린다",
+    "summary": "국산 무인 자율주행차, 4분기엔 일반도로 달린다  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93YUFzMUtMQzhvbjlldUlxaVZIZV82NGR0TmtmaUgyV1UzUUVPMWlQai1fTzlpYUFEcmkzNnFhdUZKS3E2aXBLNHp5bFdoczNBVllxX3JB?oc=5",
+    "published_at": "2024-06-12T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "라이드플럭스, 국내 첫 안전요원 없는 무인 자율주행 운행",
+    "summary": "라이드플럭스, 국내 첫 안전요원 없는 무인 자율주행 운행  AI타임스",
+    "source": "AI타임스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qam10QmQxVVVpTnZKOWdQcldld0s0Nnl5a0JYZTA0US1VVzdBdUVDbUJIekV3ay1qaTNpOHRpOU5kOE1NMVhudndOb0JXbkQwb0lpZWdzZThHeFU2dEZnZE5BaDdsMm5YSnc?oc=5",
+    "published_at": "2024-06-12T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "자율주행차 임시운행 허가 절차, 빠르고 간편해진다",
+    "summary": "자율주행차 임시운행 허가 절차, 빠르고 간편해진다  문화일보",
+    "source": "문화일보",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JM3l3YlpwTzBEWlhrbVN2Y2FKenVRRE9kRFZyTm1qRzNVeHdnZC10eGJqN0I5bzlBZ0Rjdi1ucUJuRjJoeFlady1jUFJxc2Rk?oc=5",
+    "published_at": "2023-10-29T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "자율차 임시운행허가 받으면 버스·택시 등 유상 여객·화물운송도",
+    "summary": "자율차 임시운행허가 받으면 버스·택시 등 유상 여객·화물운송도  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DZzJzdXVkdHpNU0xjSXVoVWk2YzhHNGdwTUdEeDNlSW50dkZwb3cxbFZ5eExISVJYTU5uaXl0SDh0cUlyeXlONlV6dGk5WE0zamlSRFBR?oc=5",
+    "published_at": "2022-10-25T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "[위기를 기회로!] 운전석 없는 자율주행셔틀 임시운행허가 취득",
+    "summary": "[위기를 기회로!] 운전석 없는 자율주행셔틀 임시운행허가 취득  중앙일보",
+    "source": "중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GMTJoVi10VDk4UXBvZ0ctQk5XV01SbktJTzNlY1R1dmFiYWk4S0dXTi14U1dlaGFESVZhTmkzSDVHemF2ZkxPRU5nemZUWFdFcXVCMVpB?oc=5",
+    "published_at": "2021-06-29T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "강릉시, 관광형 자율주행자동차 임시운행 사업자 선정 착수",
+    "summary": "강릉시, 관광형 자율주행자동차 임시운행 사업자 선정 착수  로봇신문",
+    "source": "로봇신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VUE1ZTmRtMXFXR01JaWNTbE5PXy1BWHJyMTdkb2g5TWVTckE1dVVtV2xvR3pKLVJUYldRSE91Rnl3ZWtaMlN1aEVNYnJ2RmVPeUtFRmtwMWJZV0NVM19nbVdHZU5LdjR6UHdidA?oc=5",
+    "published_at": "2022-07-05T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "'탑승자' 없는 완전 무인 자율주행 시대 열린다",
+    "summary": "'탑승자' 없는 완전 무인 자율주행 시대 열린다  마켓인",
+    "source": "마켓인",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3UUhENm9VendxU3NPWWVXaXNHRGsyX3ZjNzNiMHJuTEdLdDF4Z3FBVzAzakNMVzBZVWtIS2N3SWVhWE1pdlJvY0FBdE9ySGdzYzRvMU83cjd3dlBRTGN1dEVyM1JxVEN0a2ZEWElWOS0xUUU?oc=5",
+    "published_at": "2025-01-13T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "“최고 시속 50㎞” 무인 승용차 이르면 4분기 운행···미국에선 “안전 위협” 우려",
+    "summary": "“최고 시속 50㎞” 무인 승용차 이르면 4분기 운행···미국에선 “안전 위협” 우려  경향신문",
+    "source": "경향신문",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xN284ZTRjVzNKdFhGc2dBTjVtQ0hoS1VPdmtiR2FGX0d0ekF1X2lSSlRjazhCN3ZzYTd6Mi11c2FwZ1pGVXVHWmFiUkg4aW5rZ2wxamgtRU1Yd9IBX0FVX3lxTE42VUpzLXJjdFdVaVlubTcwbXVpd3lkU1Z0ZDRSOVNCLTZDWGRxdHZWeGx5WkVaS3QxT0pvZk9iUG5WaFBNOEI5YUJQOGdxdVdiVWh2X3A0SnotVHRVTlg4?oc=5",
+    "published_at": "2024-06-12T07:00:00+00:00",
+    "tags": [
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "국민대, 자율주행 미니버스 임시운행허가 면허취득",
+    "summary": "국민대, 자율주행 미니버스 임시운행허가 면허취득  로봇신문",
+    "source": "로봇신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MUnFRV094TUtDYW1XVnRhUF9lcmwtWHFzenFFRTZxSktRUGwyN1BaYTNEak5udlZ2TWNKc0xvQXdXNnFCS2NIV2lkU1BBNW13bE8yYkFpWThkTGM3YVlvSnI4Z0hlLTQyMTVleQ?oc=5",
+    "published_at": "2022-09-20T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "포니링크, 국토부 임시운행 허가 앞둬…“이달 중 강남서 임시운행”",
+    "summary": "포니링크, 국토부 임시운행 허가 앞둬…“이달 중 강남서 임시운행”  이투데이",
+    "source": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92ZEIwMTFTcEZKSllvdklDWEFmSHJ5NVp0RVpOMXFWdzZJYjc1NEZ2T2Nldmk0QjZiMFhYXzJsMkdpamVHSWdqMGx3ckllTHFRUFVfZg?oc=5",
+    "published_at": "2024-12-11T08:00:00+00:00",
+    "tags": [
+      "정책",
+      "기업",
+      "서비스"
+    ]
+  },
+  {
     "headline": "테슬라 실적발표에 월가 시선집중…'로보택시' 성적표와 '테라팹' 청사진 주목",
     "summary": "테슬라 실적발표에 월가 시선집중…'로보택시' 성적표와 '테라팹' 청사진 주목  KB Think",
     "source": "KB Think",

@@ -1,0 +1,120 @@
+name: News Backfill (manual)
+
+# Manual trigger ONLY. Locked-in by /plan-eng-review 2026-04-17 (delta #4):
+#   Layer 3 of the 3-layer guard against backfill ↔ cron crawler races.
+#   The cron crawler (.github/workflows/crawl.yml) checks data/.crawl.lock
+#   on startup and exits cleanly if it finds it. The backfill script
+#   creates the lock on entry and removes it in `finally`.
+#
+# Always runs in dry-run mode by default. To actually mutate news.json,
+# set the `apply` input to `true` when triggering the workflow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      apply:
+        description: "Mutate data/news.json (false = dry-run only)"
+        type: boolean
+        required: true
+        default: false
+      limit:
+        description: "Process only first N items (0 = all 696+)"
+        type: number
+        required: false
+        default: 0
+      no_unwrap:
+        description: "Skip URL unwrap (fast preview, no network)"
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+
+      - name: Show plan
+        run: |
+          echo "=== Backfill Plan ==="
+          echo "  apply:     ${{ inputs.apply }}"
+          echo "  limit:     ${{ inputs.limit }}"
+          echo "  no-unwrap: ${{ inputs.no_unwrap }}"
+
+      - name: Run backfill
+        run: |
+          ARGS=""
+          if [ "${{ inputs.apply }}" = "true" ]; then
+            ARGS="$ARGS --apply"
+          fi
+          if [ "${{ inputs.limit }}" != "0" ] && [ -n "${{ inputs.limit }}" ]; then
+            ARGS="$ARGS --limit ${{ inputs.limit }}"
+          fi
+          if [ "${{ inputs.no_unwrap }}" = "true" ]; then
+            ARGS="$ARGS --no-unwrap"
+          fi
+          echo "Running: python backfill_news.py $ARGS"
+          python backfill_news.py $ARGS
+
+      - name: Validate data
+        if: ${{ inputs.apply == true }}
+        run: python validate_data.py
+
+      - name: Commit backfilled data
+        if: ${{ inputs.apply == true }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet data/; then
+            echo "No changes — skipping commit"
+            exit 0
+          fi
+          git add data/news.json
+          git commit -m "chore: backfill news (re-derive headline/source/companies/final_url) [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+          git pull --rebase origin main || true
+          git push
+
+      - name: Revalidate Vercel ISR cache
+        if: ${{ inputs.apply == true && success() }}
+        continue-on-error: true
+        env:
+          REVALIDATE_URL: ${{ secrets.REVALIDATE_URL }}
+          REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}
+        run: |
+          if [ -z "$REVALIDATE_URL" ] || [ -z "$REVALIDATE_SECRET" ]; then
+            echo "REVALIDATE_URL/REVALIDATE_SECRET not set — skipping cache bust"
+            exit 0
+          fi
+          http_code=$(curl -sS -o /tmp/reval.out -w "%{http_code}" \
+            -X POST "$REVALIDATE_URL" \
+            -H "x-revalidate-secret: $REVALIDATE_SECRET" \
+            -H "content-type: application/json" \
+            -d '{}' || echo "000")
+          echo "Revalidate response: HTTP $http_code"
+          cat /tmp/reval.out || true
+          case "$http_code" in 200|207) exit 0 ;; *) exit 1 ;; esac
+
+      - name: Cleanup orphaned lock
+        # Defensive — backfill_news.py removes the lock in `finally` already.
+        # This catches the case where the runner was killed mid-run.
+        if: always()
+        run: |
+          if [ -f data/.crawl.lock ]; then
+            echo "Removing orphaned lock"
+            rm -f data/.crawl.lock
+          fi

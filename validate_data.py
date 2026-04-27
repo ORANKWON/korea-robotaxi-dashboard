@@ -155,6 +155,87 @@ def validate_zones(path: Path) -> list[str]:
     return errors
 
 
+def validate_news(path: Path) -> tuple[list[str], list[str]]:
+    """Validate data/news.json. Returns (errors, warnings).
+
+    Errors fail CI. Warnings print but don't fail — they signal a quality
+    regression (e.g. crawler returning mostly '일반' tags = expanded keyword
+    list might be missing entries) but aren't broken data.
+
+    Locked-in by /plan-eng-review 2026-04-17 (news-list-v2 plan):
+      - hard checks: required fields exist + correct types
+      - soft check: tag_quality < 70% → WARN (TODO-016 alerting hook)
+    """
+    errors: list[str] = []
+    warnings: list[str] = []
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        # news.json is allowed to not exist on a fresh checkout
+        warnings.append("news.json: file not found (skipping)")
+        return errors, warnings
+    except json.JSONDecodeError as e:
+        return [f"news.json: {e}"], warnings
+
+    if not isinstance(data, list):
+        return ["news.json: root must be an array"], warnings
+
+    non_default_tag_count = 0
+    for i, item in enumerate(data):
+        prefix = f"news.json[{i}]"
+        if not isinstance(item, dict):
+            errors.append(f"{prefix}: must be an object")
+            continue
+
+        # Required string fields
+        for field in ("headline", "summary", "source", "url", "published_at"):
+            v = item.get(field)
+            if not isinstance(v, str) or not v.strip():
+                errors.append(f"{prefix}: '{field}' must be a non-empty string")
+
+        # tags: required array of strings
+        tags = item.get("tags")
+        if not isinstance(tags, list) or not all(isinstance(t, str) for t in tags):
+            errors.append(f"{prefix}: 'tags' must be an array of strings")
+        elif tags and tags != ["일반"]:
+            non_default_tag_count += 1
+
+        # Optional: final_url
+        if "final_url" in item:
+            fu = item["final_url"]
+            if not isinstance(fu, str) or not fu.startswith(("http://", "https://")):
+                errors.append(f"{prefix}: 'final_url' must be an http(s) URL when present")
+            if isinstance(fu, str) and "news.google.com" in fu:
+                # final_url must be the UNWRAPPED publisher URL — never the
+                # original Google News redirect. If we see a Google URL here,
+                # the unwrap pipeline regressed.
+                errors.append(f"{prefix}: 'final_url' must not point at news.google.com")
+
+        # Optional: companies
+        if "companies" in item:
+            cs = item["companies"]
+            if not isinstance(cs, list) or not all(isinstance(c, str) and c for c in cs):
+                errors.append(f"{prefix}: 'companies' must be an array of non-empty strings")
+
+        # published_at must be ISO 8601-ish
+        pa = item.get("published_at")
+        if isinstance(pa, str) and not is_iso8601(pa):
+            errors.append(f"{prefix}: 'published_at' must be ISO 8601, got '{pa}'")
+
+    # Soft check: tag_quality (% items with non-default tag).
+    # Threshold 70% per plan; if it drops, the keyword expansion likely missed
+    # a category the crawler is now seeing more of. TODO-016 follow-up.
+    if data:
+        tag_quality = 100.0 * non_default_tag_count / len(data)
+        if tag_quality < 70.0:
+            warnings.append(
+                f"news.json: tag_quality={tag_quality:.1f}% (< 70% target). "
+                f"Consider expanding infer_tags keywords."
+            )
+
+    return errors, warnings
+
+
 def validate_timeline(path: Path) -> list[str]:
     errors = []
     try:
@@ -187,10 +268,20 @@ def validate_timeline(path: Path) -> list[str]:
 
 def main() -> int:
     all_errors: list[str] = []
+    all_warnings: list[str] = []
 
     all_errors.extend(validate_companies(DATA_DIR / "companies.json"))
     all_errors.extend(validate_zones(DATA_DIR / "zones.json"))
     all_errors.extend(validate_timeline(DATA_DIR / "timeline.json"))
+
+    news_errors, news_warnings = validate_news(DATA_DIR / "news.json")
+    all_errors.extend(news_errors)
+    all_warnings.extend(news_warnings)
+
+    if all_warnings:
+        print(f"⚠️  {len(all_warnings)} warning(s):", file=sys.stderr)
+        for w in all_warnings:
+            print(f"  - {w}", file=sys.stderr)
 
     if all_errors:
         print(f"❌ Validation failed with {len(all_errors)} error(s):", file=sys.stderr)

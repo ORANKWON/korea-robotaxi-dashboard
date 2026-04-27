@@ -114,20 +114,43 @@ def load_company_keywords(companies_file: str) -> tuple[list[str], list[str]]:
 
 # ─── Title/Source Parsing ────────────────────────────────────────────────────
 
+# Delimiters tried in order. End-anchored: only the LAST occurrence of any
+# of these counts as a source separator.
+_TITLE_DELIMITERS = (" - ", " | ", " · ")
+
+
 def parse_title_source(raw_title: str) -> tuple[str, str]:
-    """Split Google News RSS title 'Article Title - 매체명' into (headline, source).
-    Returns (cleaned_headline, parsed_source). parsed_source may be empty.
+    """Split RSS title into (headline, source).
+
+    Recognized formats:
+      "헤드라인 - 매체명"
+      "헤드라인 | 매체명"
+      "헤드라인 · 매체명"
+
+    Source must be ≤30 chars, non-empty, and contain no parens
+    (avoids matching '(법안명)' or '(2026)' as a publication name).
+    Returns (raw_title, "") when no clean split is possible.
     """
     raw_title = strip_html(raw_title)
-    idx = raw_title.rfind(" - ")
-    if idx < 0:
+    # Pick the rightmost split across all delimiters (last delim wins, then
+    # within same delim the rightmost occurrence wins — matches "A - B - 매체명").
+    best_idx = -1
+    best_delim_len = 0
+    for delim in _TITLE_DELIMITERS:
+        idx = raw_title.rfind(delim)
+        if idx > best_idx:
+            best_idx = idx
+            best_delim_len = len(delim)
+    if best_idx < 0:
         return raw_title, ""
-    candidate_source = raw_title[idx + 3:].strip()
-    headline = raw_title[:idx].strip()
-    # Source names are typically short (매체명). Skip if too long.
-    if len(candidate_source) <= 30 and len(headline) > 0:
-        return headline, candidate_source
-    return raw_title, ""
+    candidate_source = raw_title[best_idx + best_delim_len:].strip()
+    headline = raw_title[:best_idx].strip()
+    if not (0 < len(candidate_source) <= 30) or not headline:
+        return raw_title, ""
+    # Reject parens — likely not a publisher name
+    if "(" in candidate_source or ")" in candidate_source:
+        return raw_title, ""
+    return headline, candidate_source
 
 
 # ─── RSS Fetch ───────────────────────────────────────────────────────────────
@@ -289,33 +312,72 @@ def _bigrams(s: str) -> set[str]:
 
 
 def are_similar_headlines(h1: str, h2: str, threshold: float = 0.5) -> bool:
-    """Check if two headlines are similar using bigram Jaccard similarity."""
+    """Check if two headlines are similar using bigram Jaccard similarity.
+
+    The default threshold (0.5) is conservative for backward compatibility.
+    deduplicate_similar() picks per-pair thresholds based on source match.
+    Calibration script (scripts/calibrate_dedup.py) writes the production
+    thresholds to tests/fixtures/dedup_thresholds.json.
+    """
     b1, b2 = _bigrams(h1), _bigrams(h2)
     if not b1 or not b2:
         return False
     return len(b1 & b2) / len(b1 | b2) >= threshold
 
 
-def deduplicate_similar(items: list[dict], existing_headlines: list[str]) -> list[dict]:
-    """Remove items with headlines similar to each other or recent existing headlines.
-    When duplicates found, keep the one with the longer summary.
+# Production thresholds — calibrated by scripts/calibrate_dedup.py against
+# the live news.json corpus on 2026-04-17 (see tests/fixtures/dedup_thresholds.json).
+# Lower threshold = MORE aggressive dedup.
+#   - Same-source: re-posts by the same publisher are common (safe to drop).
+#   - Cross-source: different angles on the same event add value (be conservative).
+# Plan originally guessed 0.45/0.6; calibration nudged same-source up to ~0.51
+# to avoid false positives on the actual Korean headline distribution.
+# Re-run calibration quarterly (TODO-015) and after major crawler changes.
+DEDUP_THRESHOLD_CROSS_SOURCE = 0.6
+DEDUP_THRESHOLD_SAME_SOURCE = 0.51
+
+
+def deduplicate_similar(
+    items: list[dict],
+    existing_headlines: list,
+    threshold_cross: float = DEDUP_THRESHOLD_CROSS_SOURCE,
+    threshold_same: float = DEDUP_THRESHOLD_SAME_SOURCE,
+) -> list[dict]:
+    """Remove items with headlines similar to each other or recent existing.
+
+    `existing_headlines` accepts either:
+      - list[str] — legacy, treated as cross-source comparisons (no source info)
+      - list[tuple[str, str]] — (headline, source) for source-aware threshold
+
+    When in-batch duplicates are found, keep the item with the longer summary.
     """
     result: list[dict] = []
-    reference = list(existing_headlines)
 
     for item in items:
         headline = item.get("headline", "")
+        source = item.get("source", "")
+
         # Check against existing (external) headlines — cannot replace these
-        dup_of_existing = any(
-            are_similar_headlines(headline, ref) for ref in existing_headlines
-        )
+        dup_of_existing = False
+        for ref in existing_headlines:
+            if isinstance(ref, tuple):
+                ref_h, ref_s = ref
+                t = threshold_same if (ref_s and source and source == ref_s) else threshold_cross
+            else:
+                ref_h = ref
+                t = threshold_cross
+            if are_similar_headlines(headline, ref_h, t):
+                dup_of_existing = True
+                break
         if dup_of_existing:
             continue
 
         # Check against already-accepted items in this batch
         dup_idx = -1
         for i, accepted in enumerate(result):
-            if are_similar_headlines(headline, accepted.get("headline", "")):
+            accepted_source = accepted.get("source", "")
+            t = threshold_same if (accepted_source and source and source == accepted_source) else threshold_cross
+            if are_similar_headlines(headline, accepted.get("headline", ""), t):
                 dup_idx = i
                 break
 
@@ -341,25 +403,44 @@ def strip_html(text: str) -> str:
 
 
 def infer_tags(headline: str, company_keywords: list[str] | None = None) -> list[str]:
-    """Keyword-based tag inference. Dynamically includes company keywords."""
-    base_company_kw = ["현대", "기아", "네이버", "웨이모", "휴맥스"]
-    if company_keywords:
-        all_company_kw = base_company_kw + company_keywords
-    else:
-        all_company_kw = base_company_kw + [
-            "카카오", "42dot", "swm", "포니링크", "pony",
-            "오토노머스", "autoa2z", "모셔널", "motional",
-            "라이드플럭스", "rideflux", "쏘카", "socar",
-            "SUM", "에스유엠",
-        ]
+    """Keyword-based tag inference. Dynamically includes company keywords.
+
+    Returns high-level taxonomy tags (정책/기업/사고/서비스/해외).
+    For specific company entity matching, use infer_companies() instead.
+    """
+    # Base domestic + global player keywords for the 기업 tag
+    base_company_kw = [
+        # Domestic
+        "현대", "기아", "네이버", "휴맥스", "카카오", "42dot", "포티투닷",
+        "swm", "포니링크", "pony", "오토노머스", "autoa2z", "모셔널", "motional",
+        "라이드플럭스", "rideflux", "쏘카", "socar", "SUM", "에스유엠",
+        # Global players (relevant to Korean market context)
+        "웨이모", "waymo", "우버", "uber", "GM", "cruise", "zoox", "wayve",
+        "aurora", "mobileye", "nvidia", "apollo", "바이두", "baidu", "텐센트",
+        "tencent", "비야디", "BYD", "샤오펑", "xpeng", "니오", "nio", "리오토",
+        "li auto", "tesla", "테슬라", "구글",
+    ]
+    all_company_kw = base_company_kw + (company_keywords or [])
 
     tag_map: dict[str, list[str]] = {
-        "정책": ["국토교통부", "법안", "규제", "허가", "승인", "정부", "molit",
-                "국회", "시범운행지구", "임시운행"],
+        "정책": [
+            "국토교통부", "법안", "규제", "허가", "승인", "정부", "molit",
+            "국회", "시범운행지구", "임시운행", "도로교통법", "자동차관리법",
+            "운수사업법", "임시운행허가", "지정", "고시", "공포", "입법",
+        ],
         "기업": all_company_kw,
-        "사고": ["사고", "충돌", "추돌", "위반"],
-        "서비스": ["운행", "시범", "상용화", "서비스", "확대"],
-        "해외": ["미국", "중국", "일본", "구글", "테슬라", "waymo", "baidu"],
+        "사고": [
+            "사고", "충돌", "추돌", "위반", "사망", "부상", "탑승자", "보행자",
+            "신호위반", "무인 사고",
+        ],
+        "서비스": [
+            "운행", "시범", "상용화", "서비스", "확대", "유료", "요금",
+            "24시간", "심야", "무인", "원격",
+        ],
+        "해외": [
+            "미국", "중국", "일본", "유럽", "독일", "영국", "구글",
+            "테슬라", "waymo", "baidu", "san francisco", "샌프란시스코",
+        ],
     }
     tags = []
     lower = headline.lower()
@@ -369,8 +450,105 @@ def infer_tags(headline: str, company_keywords: list[str] | None = None) -> list
     return tags or ["일반"]
 
 
+# Aliases that are too short or too generic to safely substring-match against
+# Korean text. Bare "현대" matches 현대백화점/현대카드/현대제철 etc — we only
+# want to match it when it's part of a longer canonical name like 현대차.
+_DANGEROUS_BARE_ALIASES = frozenset({"현대", "기아", "GM", "SUM", "현"})
+
+
+def _is_latin(s: str) -> bool:
+    """Check if a string is purely ASCII alphanumeric (and dots/hyphens)."""
+    return bool(re.match(r"^[A-Za-z0-9.\-]+$", s))
+
+
+def infer_companies(headline: str, companies_data: list[dict]) -> list[str]:
+    """Hangul-aware company entity matching.
+
+    Returns canonical company names matched in the headline.
+
+    Matching rules:
+      - Latin aliases (e.g. "Pony", "Motional"): regex with negative
+        lookbehind/lookahead for [A-Za-z0-9] — matches "Pony" but not "PonyExpress".
+      - Hangul aliases (e.g. "쏘카", "포티투닷"): substring match (Korean has
+        no whitespace word boundaries — \\b is unsafe).
+      - Dangerous bare aliases ("현대", "기아", "GM") are filtered out — too
+        ambiguous to match safely.
+
+    Each company contributes its `name` field plus any `aliases` from companies.json.
+    """
+    if not companies_data:
+        return []
+
+    matched: list[str] = []
+    for company in companies_data:
+        canonical = company.get("name", "")
+        if not canonical:
+            continue
+        # Build candidate alias list: explicit aliases + tokens from canonical name
+        alias_set: set[str] = set(company.get("aliases", []) or [])
+        for part in re.split(r"[\s()（）/,]+", canonical):
+            part = part.strip()
+            if len(part) >= 2:
+                alias_set.add(part)
+        # Drop dangerous bare aliases
+        aliases = [a for a in alias_set if a and a not in _DANGEROUS_BARE_ALIASES]
+
+        for alias in aliases:
+            if _is_latin(alias):
+                pattern = rf"(?<![A-Za-z0-9]){re.escape(alias)}(?![A-Za-z0-9])"
+                if re.search(pattern, headline, re.IGNORECASE):
+                    matched.append(canonical)
+                    break
+            else:
+                # Hangul or mixed — substring is safe given dangerous aliases removed
+                if alias in headline:
+                    matched.append(canonical)
+                    break
+    return matched
+
+
+def unwrap_redirect_url(url: str, timeout: int = 5) -> tuple[str, bool]:
+    """Unwrap Google News redirect URL to publisher URL.
+
+    Returns (final_url, success).
+    - Non-Google URLs: returned unchanged with success=True (already direct).
+    - Google News URLs: decoded via googlenewsdecoder if available.
+    - On any failure: returns (original_url, False).
+
+    Why this matters:
+      Google News RSS encodes publisher URLs as base64 inside
+      `https://news.google.com/rss/articles/CBMi…`. Fetching the meta description
+      against the redirect URL returns Google's interstitial blurb, NOT the article.
+      That junk would then be cached as `summary` forever. The unwrap-first guard
+      in extract_summary depends on this function to know whether meta-fetch is safe.
+    """
+    if not url:
+        return url, False
+    if "news.google.com" not in url:
+        return url, True
+    try:
+        # Lazy import — keeps the package optional in dev environments.
+        from googlenewsdecoder import gnewsdecoder  # type: ignore
+        result = gnewsdecoder(url, interval=1)
+        if result and result.get("status") and result.get("decoded_url"):
+            return result["decoded_url"], True
+    except ImportError:
+        logger.warning("googlenewsdecoder not installed; URL unwrap disabled")
+    except Exception as e:
+        logger.debug("Unwrap failed for %s: %s", url[:80], e)
+    return url, False
+
+
 def fetch_meta_description(url: str, timeout: int = 5) -> str:
-    """Fetch article page and extract meta description. Returns empty string on failure."""
+    """Fetch article page and extract meta description. Returns empty string on failure.
+
+    SAFETY: callers must NOT pass Google News redirect URLs here. The redirect
+    page returns Google's generic interstitial blurb which would be cached as junk.
+    Use unwrap_redirect_url() first; if unwrap fails, skip this entirely.
+    """
+    if not url or "news.google.com" in url:
+        # Defensive: refuse to fetch against the redirect page even if a caller forgot.
+        return ""
     try:
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
         with urllib.request.urlopen(req, timeout=timeout) as resp:
@@ -391,50 +569,102 @@ def fetch_meta_description(url: str, timeout: int = 5) -> str:
         return ""
 
 
-def extract_summary(description: str, headline: str, url: str = "", feed: str = "") -> str:
+def extract_summary(
+    description: str,
+    headline: str,
+    url: str = "",
+    feed: str = "",
+    final_url: str = "",
+) -> str:
     """
-    Use RSS description as summary. Falls back to meta description or headline.
-    Naver RSS usually has good descriptions; Google News often duplicates headline.
+    Pipeline (locked-in by /plan-eng-review 2026-04-17):
+
+        raw description (RSS)
+          → if non-empty + meaningfully differs from headline → use it
+          → else if final_url is direct (not Google redirect) → fetch_meta_description(final_url)
+          → else → truncated headline (NEVER fetch meta against redirect URL)
+
+    The unwrap-first guard ensures we never cache Google's interstitial blurb
+    as summary. Failure path explicitly returns truncated headline rather than junk.
+
+    Naver RSS already has good descriptions, so meta fetch is skipped for naver feed.
     """
     cleaned = strip_html(description)
 
-    # Check if description is meaningfully different from headline
+    # Path 1: RSS description is meaningful and not a headline copy
     if len(cleaned) > 20:
         desc_normalized = re.sub(r"\s+", "", cleaned)
         head_normalized = re.sub(r"\s+", "", headline)
         if desc_normalized != head_normalized:
             return cleaned[:300]
 
-    # For Google News with useless description, try meta description
-    if url and feed != "naver":
-        meta = fetch_meta_description(url)
-        if meta:
-            return meta
+    # Path 2: Direct fetch only against unwrapped (non-Google) URL
+    if feed != "naver":
+        # Prefer explicit final_url (caller already unwrapped). Fall back to
+        # url ONLY if it's already a direct publisher URL.
+        fetchable = final_url if final_url else (url if url and "news.google.com" not in url else "")
+        if fetchable:
+            meta = fetch_meta_description(fetchable)
+            if meta:
+                return meta
 
+    # Path 3: Truncated headline — better than caching junk
     return headline[:200]
 
 
 # ─── News Item Construction ─────────────────────────────────────────────────
 
-def build_news_item(raw: dict, company_keywords: list[str] | None = None) -> dict:
-    """Convert RSS item into our news.json schema."""
+def build_news_item(
+    raw: dict,
+    company_keywords: list[str] | None = None,
+    companies_data: list[dict] | None = None,
+    *,
+    do_unwrap: bool = True,
+) -> dict:
+    """Convert RSS item into our news.json schema.
+
+    Pipeline (locked-in by /plan-eng-review 2026-04-17):
+      1. parse_title_source → headline, optional source from title
+      2. unwrap_redirect_url → final_url + success flag
+      3. source priority: <source> XML > title suffix > domain of FINAL url
+      4. extract_summary with unwrap-first guard (no junk Google interstitial)
+      5. infer_tags + infer_companies (separate concerns: taxonomy vs entity)
+
+    Optional fields written only when present:
+      - final_url: only if unwrap succeeded AND yielded a different URL
+      - companies: only if infer_companies returned matches
+    """
     raw_title = raw.get("title", "")
     url = raw.get("link", "")
     xml_source = raw.get("source", "")
     feed = raw.get("feed", "google")
 
-    # Parse headline and source from title
     headline, title_source = parse_title_source(raw_title)
 
-    # Source priority: XML <source> element > title suffix > domain fallback
+    # Step 2: unwrap BEFORE meta-fetch and BEFORE source-from-domain fallback.
+    if do_unwrap:
+        final_url, unwrap_ok = unwrap_redirect_url(url)
+    else:
+        final_url, unwrap_ok = url, ("news.google.com" not in (url or ""))
+
+    # Step 3: source priority. For domain fallback, prefer the unwrapped URL
+    # so we get '한국경제' instead of 'news.google.com'.
     if xml_source:
         source = xml_source
     elif title_source:
         source = title_source
     else:
-        source = urllib.parse.urlparse(url).netloc.replace("www.", "")
+        source_url = final_url if unwrap_ok else url
+        source = urllib.parse.urlparse(source_url).netloc.replace("www.", "")
 
-    summary = extract_summary(raw.get("description", ""), headline, url, feed)
+    # Step 4: extract_summary with the unwrap-first guard.
+    summary = extract_summary(
+        raw.get("description", ""),
+        headline,
+        url=url,
+        feed=feed,
+        final_url=final_url if unwrap_ok else "",
+    )
 
     pub_date_str = raw.get("pubDate", "")
     try:
@@ -443,7 +673,7 @@ def build_news_item(raw: dict, company_keywords: list[str] | None = None) -> dic
     except Exception:
         published_at = datetime.now(tz=timezone.utc).isoformat()
 
-    return {
+    item: dict = {
         "headline": headline,
         "summary": summary,
         "source": source,
@@ -451,6 +681,14 @@ def build_news_item(raw: dict, company_keywords: list[str] | None = None) -> dic
         "published_at": published_at,
         "tags": infer_tags(headline, company_keywords),
     }
+    # Optional fields — only attached when present (keep schema lean)
+    if unwrap_ok and final_url and final_url != url:
+        item["final_url"] = final_url
+    if companies_data:
+        companies = infer_companies(headline, companies_data)
+        if companies:
+            item["companies"] = companies
+    return item
 
 
 # ─── Atomic Write ────────────────────────────────────────────────────────────
@@ -504,13 +742,51 @@ def update_companies_notes(companies_file: str, updates: dict[str, str]) -> None
 
 # ─── Main ────────────────────────────────────────────────────────────────────
 
+def _check_crawl_lock() -> bool:
+    """Check for backfill lockfile. Returns True if safe to run, False if locked."""
+    lock_path = os.path.join(os.path.dirname(NEWS_FILE), ".crawl.lock")
+    if os.path.exists(lock_path):
+        try:
+            with open(lock_path, "r", encoding="utf-8") as f:
+                contents = f.read().strip()
+        except IOError:
+            contents = "(unreadable)"
+        logger.warning(
+            "Backfill lockfile present at %s (contents: %s) — exiting cleanly. "
+            "Re-run after backfill completes.",
+            lock_path, contents,
+        )
+        return False
+    return True
+
+
+def _load_companies_data() -> list[dict]:
+    """Load companies.json. Returns empty list on missing/corrupt file."""
+    if not os.path.exists(COMPANIES_FILE):
+        return []
+    try:
+        with open(COMPANIES_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, IOError):
+        return []
+
+
 def main() -> None:
     logger.info("=== Robotaxi Crawler Start ===")
 
-    # 0. Load company data for dynamic queries and tags
+    # 0a. Backfill safety: refuse to run if backfill is in progress.
+    # See /plan-eng-review 2026-04-17 — 3-layer guard against races.
+    if not _check_crawl_lock():
+        return
+
+    # 0b. Load company data for dynamic queries, tags, and entity matching.
     company_queries, company_keywords = load_company_keywords(COMPANIES_FILE)
+    companies_data = _load_companies_data()
     all_queries = BASE_QUERIES + company_queries
-    logger.info("Search queries: %d base + %d company-specific", len(BASE_QUERIES), len(company_queries))
+    logger.info(
+        "Search queries: %d base + %d company-specific (%d companies loaded)",
+        len(BASE_QUERIES), len(company_queries), len(companies_data),
+    )
 
     # 1. Fetch from Google News + Naver News RSS
     raw_items = fetch_all_queries(all_queries)
@@ -527,27 +803,44 @@ def main() -> None:
     to_process = new_items[:MAX_ITEMS_PER_RUN]
     logger.info("Processing %d articles (cap=%d)", len(to_process), MAX_ITEMS_PER_RUN)
 
-    # 4. Build news items
+    # 4. Build news items (unwrap + summary + tags + companies)
     processed = []
+    unwrap_attempted = 0
+    unwrap_success = 0
     for i, item in enumerate(to_process):
-        headline, _ = parse_title_source(strip_html(item.get("title", "")))
-        logger.info("[%d/%d] %s", i + 1, len(to_process), headline[:80])
-        news_item = build_news_item(item, company_keywords)
+        headline_preview, _ = parse_title_source(strip_html(item.get("title", "")))
+        logger.info("[%d/%d] %s", i + 1, len(to_process), headline_preview[:80])
+        news_item = build_news_item(item, company_keywords, companies_data)
+        # Track unwrap success rate for crawl_log observability (TODO-016)
+        if "news.google.com" in (item.get("link") or ""):
+            unwrap_attempted += 1
+            if "final_url" in news_item:
+                unwrap_success += 1
         processed.append(news_item)
 
-    # 5. Deduplicate similar headlines
-    existing_headlines = []
+    if unwrap_attempted:
+        rate = 100.0 * unwrap_success / unwrap_attempted
+        logger.info(
+            "URL unwrap success: %d/%d (%.1f%%)",
+            unwrap_success, unwrap_attempted, rate,
+        )
+
+    # 5. Deduplicate similar headlines (source-aware thresholds).
+    existing_news: list[dict] = []
+    existing_pairs: list[tuple[str, str]] = []
     if os.path.exists(NEWS_FILE):
         try:
             with open(NEWS_FILE, "r", encoding="utf-8") as f:
                 existing_news = json.load(f)
-            existing_headlines = [n.get("headline", "") for n in existing_news[:50]]
+            # Compare against the most recent 50 — bounded cost, recent matters most
+            existing_pairs = [
+                (n.get("headline", ""), n.get("source", ""))
+                for n in existing_news[:50]
+            ]
         except (json.JSONDecodeError, IOError):
             existing_news = []
-    else:
-        existing_news = []
 
-    processed = deduplicate_similar(processed, existing_headlines)
+    processed = deduplicate_similar(processed, existing_pairs)
 
     if not processed:
         logger.info("All articles were duplicates after similarity check — exiting")

@@ -22,6 +22,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
+
+      - name: Install Python deps
+        # googlenewsdecoder is required for unwrap_redirect_url to work.
+        # Without it, the crawler still runs (ImportError is caught) but
+        # all news items lack `final_url` and meta-description fallback
+        # is disabled. See requirements.txt for why this matters.
+        run: pip install -r requirements.txt
 
       - name: Run news crawler
         run: python robotaxi_crawler.py
@@ -46,3 +54,31 @@ jobs:
           # pull --rebase to handle concurrent pushes
           git pull --rebase origin main || true
           git push
+
+      - name: Revalidate Vercel ISR cache
+        # On-demand cache bust so readers see fresh news within seconds
+        # instead of waiting for the next 6h ISR window. Locked-in by
+        # /plan-eng-review delta #3 (news-list-v2 plan).
+        # continue-on-error: caching is a UX optimization, not correctness —
+        # if the webhook is down, ISR will catch up within 6h.
+        if: success()
+        continue-on-error: true
+        env:
+          REVALIDATE_URL: ${{ secrets.REVALIDATE_URL }}
+          REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}
+        run: |
+          if [ -z "$REVALIDATE_URL" ] || [ -z "$REVALIDATE_SECRET" ]; then
+            echo "REVALIDATE_URL/REVALIDATE_SECRET not set — skipping cache bust"
+            exit 0
+          fi
+          # Never echo $REVALIDATE_SECRET. -sS suppresses progress, shows errors.
+          # --fail-with-body returns non-zero on 4xx/5xx but still prints body.
+          http_code=$(curl -sS -o /tmp/reval.out -w "%{http_code}" \
+            -X POST "$REVALIDATE_URL" \
+            -H "x-revalidate-secret: $REVALIDATE_SECRET" \
+            -H "content-type: application/json" \
+            -d '{}' || echo "000")
+          echo "Revalidate response: HTTP $http_code"
+          cat /tmp/reval.out || true
+          # Treat 200 and 207 (multi-status) as success
+          case "$http_code" in 200|207) exit 0 ;; *) exit 1 ;; esac

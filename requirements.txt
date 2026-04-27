@@ -1,2 +1,8 @@
 pytest>=8.0.0
 pytest-mock>=3.12.0
+# Google News RSS publisher URL decoder. Used by robotaxi_crawler.unwrap_redirect_url
+# to extract the publisher URL from `https://news.google.com/rss/articles/CBMi...` redirects.
+# Without this, summaries fall back to truncated headlines (still valid, lower quality).
+# Pin minor version: Google has historically broken decoders; if unwrap_success_rate
+# drops below 50% (TODO-016), audit this package's release notes.
+googlenewsdecoder>=0.1.7

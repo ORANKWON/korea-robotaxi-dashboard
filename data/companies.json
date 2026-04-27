@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "SWM (서울자율차)",
+    "aliases": ["SWM", "서울자율차"],
     "status": "시범운행",
     "zones": ["강남"],
     "vehicle_model": "KGM 토레스 EVX",
@@ -19,6 +20,7 @@
   {
     "id": 2,
     "name": "카카오모빌리티",
+    "aliases": ["카카오모빌리티", "카카오 모빌리티", "카카오T", "카카오 T"],
     "status": "시범운행",
     "zones": ["강남"],
     "vehicle_model": "자체 자율주행차",
@@ -36,6 +38,7 @@
   {
     "id": 3,
     "name": "42dot (포티투닷)",
+    "aliases": ["42dot", "포티투닷", "포티투 닷"],
     "status": "시범운행",
     "zones": ["청계천", "상암"],
     "vehicle_model": "현대 아이오닉5",
@@ -53,6 +56,7 @@
   {
     "id": 4,
     "name": "포니링크",
+    "aliases": ["포니링크", "Pony.ai", "Pony", "포니에이아이", "포니AI", "퓨처링크"],
     "status": "시험운행",
     "zones": ["강남"],
     "vehicle_model": "미공개",
@@ -70,6 +74,7 @@
   {
     "id": 5,
     "name": "오토노머스에이투지",
+    "aliases": ["오토노머스에이투지", "오토노머스 에이투지", "Autonomous a2z", "autoa2z", "a2z"],
     "status": "시범운행",
     "zones": ["세종", "대구", "안양"],
     "vehicle_model": "다수",
@@ -87,6 +92,7 @@
   {
     "id": 6,
     "name": "모셔널 (현대차그룹)",
+    "aliases": ["모셔널", "Motional", "현대모셔널"],
     "status": "준비 중",
     "zones": ["마포"],
     "vehicle_model": "현대 아이오닉5",
@@ -104,6 +110,7 @@
   {
     "id": 7,
     "name": "라이드플럭스 (RideFlux)",
+    "aliases": ["라이드플럭스", "RideFlux", "rideflux"],
     "status": "시범운행",
     "zones": ["세종", "대전", "제주"],
     "vehicle_model": "다수",
@@ -121,6 +128,7 @@
   {
     "id": 8,
     "name": "SUM (에스유엠)",
+    "aliases": ["에스유엠", "SMOBI", "smobi"],
     "status": "시범운행",
     "zones": ["중앙버스전용차로", "용인동백"],
     "vehicle_model": "자율주행버스 (14인승)",
@@ -138,6 +146,7 @@
   {
     "id": 9,
     "name": "쏘카 (SOCAR)",
+    "aliases": ["쏘카", "SOCAR", "Socar"],
     "status": "시범운행",
     "zones": ["제주"],
     "vehicle_model": "크라이슬러 퍼시피카",

@@ -1,13 +1,12 @@
-import type { Company, NewsItem, Zone, TimelineEvent } from "@/types";
+import type { Company, Zone, TimelineEvent } from "@/types";
 import companiesData from "@data/companies.json";
-import newsData from "@data/news.json";
 import zonesData from "@data/zones.json";
 import timelineData from "@data/timeline.json";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import RelatedNews from "@/components/news/RelatedNews";
 
 const companies = companiesData as Company[];
-const allNews = newsData as NewsItem[];
 const zones = zonesData as Zone[];
 const timeline = timelineData as TimelineEvent[];
 
@@ -64,10 +63,10 @@ export default function CompanyDetail({ params }: { params: { id: string } }) {
     nameKeywords.some((kw) => t.title.includes(kw) || t.description.includes(kw))
   );
 
-  // Related news: match by company name keywords
-  const relatedNews = allNews.filter((n) =>
-    nameKeywords.some((kw) => n.headline.includes(kw) || n.summary.includes(kw))
-  ).slice(0, 10);
+  // Related news is rendered by <RelatedNews /> below — primary path uses
+  // NewsItem.companies (post-Phase-1 backfill), with a keyword fallback for
+  // pre-backfill items so the section is never empty just because the crawler
+  // hasn't re-processed yet.
 
   // JSON-LD Organization schema
   const jsonLd = {
@@ -204,28 +203,13 @@ export default function CompanyDetail({ params }: { params: { id: string } }) {
         </section>
       )}
 
-      {/* Related news */}
-      {relatedNews.length > 0 && (
-        <section className="bg-white rounded-xl border border-gray-200 p-6 shadow-sm">
-          <h2 className="text-lg font-bold mb-4">관련 뉴스</h2>
-          <div className="space-y-2">
-            {relatedNews.map((n, i) => (
-              <a
-                key={i}
-                href={n.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="block rounded-lg border border-gray-100 p-3 hover:border-blue-300 hover:shadow transition-all"
-              >
-                <h3 className="text-sm font-medium line-clamp-1">{n.headline}</h3>
-                <p className="text-xs text-gray-500 mt-1">
-                  {n.source} · {new Date(n.published_at).toLocaleDateString("ko-KR")}
-                </p>
-              </a>
-            ))}
-          </div>
-        </section>
-      )}
+      {/* Related news (primary: companies field; fallback: keyword match) */}
+      <RelatedNews
+        companyName={company.name}
+        fallbackKeywords={nameKeywords}
+        companyId={company.id}
+        limit={10}
+      />
     </div>
   );
 }

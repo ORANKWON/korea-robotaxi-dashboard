@@ -88,6 +88,7 @@ export const metadata: Metadata = {
 
 const navItems = [
   { href: "/", label: "대시보드" },
+  { href: "/news", label: "뉴스" },
   { href: "/map", label: "지도" },
   { href: "/timeline", label: "타임라인" },
   { href: "/compare", label: "글로벌 비교" },

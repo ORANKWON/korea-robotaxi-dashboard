@@ -505,8 +505,15 @@ function main(): void {
   const serialized = prettyStringify(outputZones) + "\n";
 
   if (CHECK_MODE) {
+    // boundary_built_at is set to `new Date()` per run, so two builds at
+    // different wall-clock times produce different bytes even with identical
+    // dong_codes. Strip the timestamp from both sides before comparing —
+    // the whole point of --check is "did the source/data change?", not
+    // "did time pass?".
+    const stripBuiltAt = (s: string): string =>
+      s.replace(/"boundary_built_at": "[^"]+",?\n\s*/g, "");
     const existing = readFileSync(ZONES_OUT, "utf8");
-    if (existing !== serialized) {
+    if (stripBuiltAt(existing) !== stripBuiltAt(serialized)) {
       console.error(
         `\n[×] data/zones.json is out of date.\n` +
           `    Run: bun scripts/build-zones.ts\n` +
@@ -514,7 +521,7 @@ function main(): void {
       );
       process.exit(1);
     }
-    console.log("[✓] zones.json matches build output.");
+    console.log("[✓] zones.json matches build output (timestamp ignored).");
   } else {
     atomicWrite(ZONES_OUT, serialized);
     console.log(`[✓] wrote ${ZONES_OUT}`);

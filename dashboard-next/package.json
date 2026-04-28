@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "build:zones": "bun scripts/build-zones.ts",
+    "check:zones": "bun scripts/build-zones.ts --check",
+    "spike:zones": "bun scripts/build-zones.ts --fixture"
   },
   "dependencies": {
     "@react-leaflet/core": "^2.1.0",
@@ -19,6 +22,8 @@
     "recharts": "^3.8.1"
   },
   "devDependencies": {
+    "@turf/turf": "^7.3.5",
+    "@types/geojson": "^7946.0.16",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",

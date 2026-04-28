@@ -152,6 +152,53 @@ def validate_zones(path: Path) -> list[str]:
         if not isinstance(z.get("companies"), list):
             errors.append(f"{prefix}: 'companies' must be an array")
 
+        # ── zones-v1 build artifact fields (optional during migration) ──────
+        # Locked-in by /plan-eng-review 2026-04-17 (zone-polygons-v1 plan,
+        # Phase 4 — validate_data.py 확장). dong_codes triggers the build
+        # script's union pipeline; the three boundary_* / area_km2_computed
+        # fields are the script's output and should appear together.
+        dong_codes = z.get("dong_codes")
+        if dong_codes is not None:
+            if not isinstance(dong_codes, list) or not all(
+                isinstance(c, str) and len(c) == 10 and c.isdigit()
+                for c in dong_codes
+            ):
+                errors.append(
+                    f"{prefix}: 'dong_codes' must be a list of 10-digit "
+                    f"행정동 BJDONG strings (vuski adm_cd2 format)"
+                )
+
+            # If dong_codes is set, the build artifact fields must also exist
+            # — otherwise someone edited zones.json without re-running the
+            # script.
+            if not z.get("boundary_source"):
+                errors.append(
+                    f"{prefix}: zones with 'dong_codes' must also have "
+                    f"'boundary_source' (run: bun run build:zones)"
+                )
+            if not z.get("boundary_built_at"):
+                errors.append(
+                    f"{prefix}: zones with 'dong_codes' must also have "
+                    f"'boundary_built_at' (run: bun run build:zones)"
+                )
+
+            computed = z.get("area_km2_computed")
+            if computed is None:
+                errors.append(
+                    f"{prefix}: zones with 'dong_codes' must also have "
+                    f"'area_km2_computed' (run: bun run build:zones)"
+                )
+            elif isinstance(area, (int, float)) and isinstance(
+                computed, (int, float)
+            ):
+                drift_pct = abs(computed - area) / area * 100
+                if drift_pct > 10:
+                    errors.append(
+                        f"{prefix}: area_km2_computed={computed} drifts "
+                        f"{drift_pct:.1f}% from declared area_km2={area} "
+                        f"(threshold 10%). Recheck dong_codes."
+                    )
+
     return errors
 
 

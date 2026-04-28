@@ -63,6 +63,27 @@ export interface Company {
   updated_at: string;
 }
 
+/**
+ * A `[lat, lng]` ring (Leaflet convention — note the swap from GeoJSON's
+ * `[lng, lat]`). Closed (first === last) but consumers shouldn't rely on it.
+ */
+export type ZoneRing = [number, number][];
+
+/**
+ * A zone boundary is either:
+ *   - a single ring (simple polygon) — most zones
+ *   - an array of rings (MultiPolygon) — zones spanning non-adjacent
+ *     행정동 (e.g. 제주공항 + 중문) where turf.union returns MultiPolygon
+ *
+ * Locked-in by /plan-eng-review 2026-04-17 (zone-polygons-v1 plan, Phase 1
+ * MultiPolygon spike + Action Item #3 — MapView narrows this via
+ * `Array.isArray(boundary[0][0])` and renders each ring as its own <Polygon>).
+ *
+ * The single-ring shape is retained as the primary form so existing
+ * hand-drawn zones keep working until they migrate to dong_codes.
+ */
+export type ZoneBoundary = ZoneRing | ZoneRing[];
+
 export interface Zone {
   id: number;
   name: string;
@@ -74,7 +95,18 @@ export interface Zone {
   companies: string[];
   description: string;
   designated?: string;
-  boundary: [number, number][];
+  boundary: ZoneBoundary;
+  /**
+   * Build-script-managed fields (zones-v1 행정동 union). Optional during
+   * migration — zones still on hand-drawn `boundary` won't have these.
+   */
+  dong_codes?: string[];
+  /** e.g. "행정동 union (vuski/admdongkor 2025-08-05)". Build artifact. */
+  boundary_source?: string;
+  /** ISO timestamp when scripts/build-zones.ts last regenerated `boundary`. */
+  boundary_built_at?: string;
+  /** Computed area from `boundary` polygon. Compared to `area_km2` for drift. */
+  area_km2_computed?: number;
 }
 
 export interface TimelineEvent {

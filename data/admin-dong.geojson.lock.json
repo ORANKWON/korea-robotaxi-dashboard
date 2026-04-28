@@ -1,0 +1,19 @@
+{
+  "_comment": "Lockfile for data/admin-dong.geojson.gz. Build script verifies sha256 of the .gz file before reading; mismatch → exit 1 with restore guidance. Locked-in by /plan-eng-review 2026-04-17 (zone-polygons-v1, Action Item #2: data source lockfile).",
+  "source": "https://github.com/vuski/admdongkor",
+  "version": "ver20260401",
+  "version_dir_url": "https://github.com/vuski/admdongkor/tree/master/ver20260401",
+  "geojson_filename": "HangJeongDong_ver20260401.geojson",
+  "vuski_commit": "e24f80c67e1fd87fb124afe2e5532f7b1bb5b0d1",
+  "vuski_commit_date": "2026-04-23T11:24:33Z",
+  "raw_sha256": "6a63d079ba8af4701ab200ad0b54ebdea8689808b6e0e9f17973b9ba7883dc6a",
+  "raw_size_bytes": 34641788,
+  "gz_sha256": "a8cf3ec34e1d7011d6e2789b19b256f8d1f446309bc30c419fb34c7f51a54723",
+  "gz_size_bytes": 10872111,
+  "downloaded_at": "2026-04-28T06:49:00Z",
+  "license": "MIT",
+  "feature_count": 3558,
+  "crs": "urn:ogc:def:crs:OGC:1.3:CRS84",
+  "_storage_note": "Committed gzipped (-22MB vs raw) to keep clone size sane. scripts/build-zones.ts streams through zlib.gunzipSync on read.",
+  "_id_field_note": "Use properties.adm_cd2 (10-digit BJDONG code) as dong_codes; properties.adm_cd is the 8-digit short form."
+}

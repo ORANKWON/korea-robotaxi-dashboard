@@ -10,7 +10,7 @@ import {
 import "leaflet/dist/leaflet.css";
 import { useEffect } from "react";
 import type { LatLngExpression } from "leaflet";
-import type { Zone } from "@/types";
+import type { Zone, ZoneBoundary, ZoneRing } from "@/types";
 import zonesData from "@data/zones.json";
 import {
   COMPANY_COLORS,
@@ -22,6 +22,26 @@ import {
 } from "@/lib/map-constants";
 
 const zones = zonesData as Zone[];
+
+/**
+ * Narrow `ZoneBoundary` (single ring | array of rings) to an array of rings
+ * we can render. Locked-in by /plan-eng-review 2026-04-17 (zone-polygons-v1
+ * Action Item #3 — `boundary` may be MultiPolygon when turf.union returns one
+ * for non-adjacent 행정동, e.g. 제주공항 + 중문).
+ *
+ * Detection: a single ring has shape `[[lat, lng], ...]` so `boundary[0][0]`
+ * is a number. A MultiPolygon has `[[[lat, lng], ...], ...]` so `[0][0]` is
+ * an array. Stable runtime check — Leaflet's `<Polygon>` accepts either, but
+ * mouseover handlers + key uniqueness are easier with one ring per component.
+ */
+function asRings(boundary: ZoneBoundary): ZoneRing[] {
+  if (boundary.length === 0) return [];
+  const first = boundary[0] as unknown[];
+  if (first.length > 0 && Array.isArray(first[0])) {
+    return boundary as ZoneRing[];
+  }
+  return [boundary as ZoneRing];
+}
 
 function getZoneColor(zone: Zone): string {
   if (zone.companies.length === 0) return DEFAULT_COLOR;
@@ -66,14 +86,14 @@ export default function MapView({
     >
       <TileLayer attribution={DARK_TILE_ATTR} url={DARK_TILE_URL} />
       <FlyToHandler region={activeRegion} />
-      {filtered.map((zone) => {
+      {filtered.flatMap((zone) => {
         const color = getZoneColor(zone);
         const isActive = zone.status === "운행 중";
-        const positions = zone.boundary as LatLngExpression[];
-        return (
+        const rings = asRings(zone.boundary);
+        return rings.map((ring, ringIdx) => (
           <Polygon
-            key={zone.id}
-            positions={positions}
+            key={`${zone.id}-${ringIdx}`}
+            positions={ring as LatLngExpression[]}
             pathOptions={{
               color,
               fillColor: color,
@@ -111,7 +131,7 @@ export default function MapView({
               </span>
             </Tooltip>
           </Polygon>
-        );
+        ));
       })}
     </MapContainer>
   );

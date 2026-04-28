@@ -1,0 +1,63 @@
+name: Check Zones
+
+# Locked-in by /plan-eng-review 2026-04-17 (zone-polygons-v1 plan, Phase 4
+# Action Item — CI gate so zones.json can't drift from zones.source.json
+# without someone rerunning `bun run build:zones`).
+#
+# Runs on every PR/push that touches the zone build pipeline. Two
+# verifications:
+#   1. admin-dong.geojson.gz checksum matches lockfile (vuski drift detection)
+#   2. zones.json is byte-identical to what build-zones.ts would write
+#
+# Fast (~30s) because we only install bun + the npm deps; we never run `next build`.
+
+on:
+  push:
+    paths:
+      - "data/zones.source.json"
+      - "data/zones.json"
+      - "data/admin-dong.geojson.gz"
+      - "data/admin-dong.geojson.lock.json"
+      - "dashboard-next/scripts/build-zones.ts"
+      - "dashboard-next/package.json"
+      - ".github/workflows/check-zones.yml"
+  pull_request:
+    paths:
+      - "data/zones.source.json"
+      - "data/zones.json"
+      - "data/admin-dong.geojson.gz"
+      - "data/admin-dong.geojson.lock.json"
+      - "dashboard-next/scripts/build-zones.ts"
+      - "dashboard-next/package.json"
+      - ".github/workflows/check-zones.yml"
+
+jobs:
+  check-zones:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.3.11"
+
+      - name: Install npm deps (dashboard-next)
+        working-directory: dashboard-next
+        run: npm ci
+
+      - name: Verify zones.json matches build output
+        # If this fails, the contributor edited zones.source.json (or the
+        # vuski geojson) but didn't run `bun run build:zones`. The error
+        # message points them at the fix.
+        working-directory: dashboard-next
+        run: bun run check:zones
+
+      - name: Validate data
+        # Re-runs validate_data.py with the now-extended zones checks
+        # (boundary_source / boundary_built_at / area_km2_computed required
+        # when dong_codes is present, area drift < 10%).
+        run: python3 validate_data.py

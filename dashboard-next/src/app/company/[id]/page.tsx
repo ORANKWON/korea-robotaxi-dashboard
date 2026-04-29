@@ -5,6 +5,7 @@ import timelineData from "@data/timeline.json";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import RelatedNews from "@/components/news/RelatedNews";
+import { canonicalPair } from "@/lib/companies";
 
 const companies = companiesData as Company[];
 const zones = zonesData as Zone[];
@@ -91,6 +92,19 @@ export default function CompanyDetail({ params }: { params: { id: string } }) {
         <span className="mx-2">/</span>
         <span className="text-gray-900">{company.name}</span>
       </nav>
+
+      {/* "다른 기업과 비교" — quick links to /vs/[a]/[b] for the 1순위 user
+          who wants to benchmark against a competitor without navigating away.
+          Shown only when this company has a slug AND there's at least one
+          other comparable company (i.e. always, until n drops below 2). */}
+      {company.slug && (
+        <CompareLinks
+          currentSlug={company.slug}
+          others={companies.filter(
+            (c) => c.id !== company.id && c.slug,
+          )}
+        />
+      )}
 
       {/* Header */}
       <div className="bg-white rounded-xl border border-gray-200 p-6 shadow-sm">
@@ -225,6 +239,41 @@ function MetricCard({ label, value, color }: { label: string; value: string; col
     <div className={`rounded-lg px-4 py-3 ${colorMap[color] || colorMap.gray}`}>
       <p className="text-xs opacity-70">{label}</p>
       <p className="text-lg font-bold mt-0.5">{value}</p>
+    </div>
+  );
+}
+
+/**
+ * Inline pill row of "vs OtherCompany" links. URL is the canonical
+ * lex-sorted /vs/[a]/[b]. Server-renderable — no client state needed.
+ */
+function CompareLinks({
+  currentSlug,
+  others,
+}: {
+  currentSlug: string;
+  others: Company[];
+}) {
+  return (
+    <div className="bg-white rounded-xl border border-gray-200 shadow-sm p-4">
+      <p className="text-xs text-gray-500 mb-2 font-medium uppercase tracking-wider">
+        다른 기업과 비교
+      </p>
+      <div className="flex flex-wrap gap-1.5">
+        {others.map((other) => {
+          const slug = other.slug as string;
+          const [a, b] = canonicalPair(currentSlug, slug);
+          return (
+            <Link
+              key={slug}
+              href={`/vs/${a}/${b}`}
+              className="text-xs px-2.5 py-1 rounded-full bg-gray-100 text-gray-700 hover:bg-blue-100 hover:text-blue-700 transition-colors"
+            >
+              vs {other.name}
+            </Link>
+          );
+        })}
+      </div>
     </div>
   );
 }

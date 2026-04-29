@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import companiesData from "@data/companies.json";
+import { getAllCompanyPairs } from "@/lib/companies";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://korea-robotaxi-dashboard.vercel.app";
 
@@ -28,5 +29,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticPages, ...companyPages];
+  // /vs/[a]/[b] — every C(n,2) pair, canonical lex order. Lower priority
+  // than the /company/[id] hubs since these are derived views, but still
+  // useful for long-tail "X vs Y" search intent.
+  const versusPages: MetadataRoute.Sitemap = getAllCompanyPairs().map(([a, b]) => ({
+    url: `${SITE_URL}/vs/${a}/${b}`,
+    lastModified: now,
+    changeFrequency: "weekly" as const,
+    priority: 0.6,
+  }));
+
+  return [...staticPages, ...companyPages, ...versusPages];
 }

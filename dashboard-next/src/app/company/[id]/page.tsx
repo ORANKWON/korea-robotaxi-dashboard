@@ -5,6 +5,7 @@ import timelineData from "@data/timeline.json";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import RelatedNews from "@/components/news/RelatedNews";
+import BookmarkButton from "@/components/BookmarkButton";
 import { canonicalPair } from "@/lib/companies";
 
 const companies = companiesData as Company[];
@@ -119,9 +120,18 @@ export default function CompanyDetail({ params }: { params: { id: string } }) {
             </h1>
             <p className="text-gray-500 mt-1">{company.vehicle_model} · {company.partner}</p>
           </div>
-          <span className={`text-sm font-medium px-3 py-1 rounded-full ${statusColor[company.status] || "bg-gray-100 text-gray-700"}`}>
-            {company.status}
-          </span>
+          <div className="flex flex-col sm:flex-row sm:items-center gap-2 shrink-0">
+            <span className={`text-sm font-medium px-3 py-1 rounded-full text-center ${statusColor[company.status] || "bg-gray-100 text-gray-700"}`}>
+              {company.status}
+            </span>
+            {company.slug && (
+              <BookmarkButton
+                namespace="companies"
+                bookmarkId={company.slug}
+                variant="with-label"
+              />
+            )}
+          </div>
         </div>
 
         {/* Key metrics */}

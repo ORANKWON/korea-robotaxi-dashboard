@@ -15,9 +15,9 @@ export default function CompanyFilter({
   onToggle,
 }: CompanyFilterProps) {
   return (
-    <div className="absolute top-4 right-4 z-10">
-      <div className="bg-zinc-900/80 backdrop-blur-md border border-white/10 rounded-xl px-3 py-2 shadow-lg">
-        <div className="text-[10px] text-zinc-500 uppercase tracking-wider mb-1.5 font-medium">
+    <div className="absolute top-4 right-4 z-10 max-w-[calc(100vw-2rem)]">
+      <div className="bg-white/90 backdrop-blur-md border border-gray-200 rounded-xl px-3 py-2 shadow-lg">
+        <div className="text-[10px] text-gray-500 uppercase tracking-wider mb-1.5 font-medium">
           기업 필터
         </div>
         <div className="flex flex-wrap gap-1.5">
@@ -25,8 +25,8 @@ export default function CompanyFilter({
             onClick={() => onToggle(null)}
             className={`px-2.5 py-1 rounded-full text-xs font-medium transition-all ${
               activeCompany === null
-                ? "bg-white/15 text-white border border-white/20"
-                : "text-zinc-400 border border-white/5 hover:border-white/15"
+                ? "bg-blue-600 text-white border border-blue-600"
+                : "text-gray-600 border border-gray-200 hover:border-blue-300 hover:bg-blue-50"
             }`}
           >
             전체
@@ -40,8 +40,8 @@ export default function CompanyFilter({
                 onClick={() => onToggle(isActive ? null : company)}
                 className={`px-2.5 py-1 rounded-full text-xs font-medium transition-all flex items-center gap-1.5 ${
                   isActive
-                    ? "bg-white/15 text-white border border-white/20"
-                    : "text-zinc-400 border border-white/5 hover:border-white/15"
+                    ? "bg-gray-900 text-white border border-gray-900"
+                    : "text-gray-600 border border-gray-200 hover:border-blue-300 hover:bg-blue-50"
                 }`}
               >
                 <span

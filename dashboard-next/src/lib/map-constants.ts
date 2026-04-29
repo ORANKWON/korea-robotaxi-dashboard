@@ -28,7 +28,11 @@ export const REGIONS = {
 
 export type RegionKey = keyof typeof REGIONS;
 
-export const DARK_TILE_URL =
-  "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png";
-export const DARK_TILE_ATTR =
+// Switched to CARTO Light (Voyager) 2026-04-29 — was dark_all. The dark theme
+// made /map the only dark page in an otherwise light dashboard, breaking
+// theme consistency with /, /news, /compare, /timeline. Voyager keeps labels
+// readable + place names visible without the eye-strain of pure dark mode.
+export const LIGHT_TILE_URL =
+  "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png";
+export const LIGHT_TILE_ATTR =
   '&copy; <a href="https://carto.com/">CARTO</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>';

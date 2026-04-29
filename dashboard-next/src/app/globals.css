@@ -24,6 +24,15 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+  /* Used on the mobile nav row so it can scroll horizontally without showing
+   * a scrollbar. Tailwind doesn't ship this; cross-browser variants needed. */
+  .scrollbar-none {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
 }
 
 /* Map: pulse animation for active zones */
@@ -37,28 +46,31 @@ body {
   }
 }
 
-/* Map: dark theme overrides for Leaflet tooltip */
-.leaflet-tooltip.dark-tooltip {
-  background: rgba(24, 24, 27, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  color: #e4e4e7;
+/* Map: Leaflet tooltip styling on the light Voyager basemap. Switched from
+ * dark to light 2026-04-29 — /map was the only dark page, breaking theme
+ * consistency with the rest of the dashboard. */
+.leaflet-tooltip.light-tooltip {
+  background: rgba(255, 255, 255, 0.96);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  color: #18181b;
   font-size: 0.75rem;
   padding: 4px 8px;
   border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }
 
-.leaflet-tooltip.dark-tooltip::before {
-  border-top-color: rgba(24, 24, 27, 0.9);
+.leaflet-tooltip.light-tooltip::before {
+  border-top-color: rgba(255, 255, 255, 0.96);
 }
 
-/* Map: hide default Leaflet attribution styling on dark map */
-.dark-map .leaflet-control-attribution {
-  background: rgba(0, 0, 0, 0.6) !important;
+/* Map: subtler attribution on the light basemap so it doesn't compete with
+ * zone labels. Override Leaflet's default high-contrast styling. */
+.light-map .leaflet-control-attribution {
+  background: rgba(255, 255, 255, 0.7) !important;
   color: #71717a !important;
   font-size: 0.625rem;
 }
 
-.dark-map .leaflet-control-attribution a {
-  color: #a1a1aa !important;
+.light-map .leaflet-control-attribution a {
+  color: #525252 !important;
 }

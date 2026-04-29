@@ -4,7 +4,7 @@
       "name": "국토부 자율주행 보도자료",
       "url": "https://www.molit.go.kr/USR/NEWS/m_71/lst.jsp?search_type=title&search_text=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89",
       "hash": null,
-      "last_checked_at": "2026-04-29T03:42:54.556406+00:00",
+      "last_checked_at": "2026-04-29T08:29:27.850058+00:00",
       "last_status": "error",
       "bytes": 0,
       "last_changed_at": null
@@ -13,7 +13,7 @@
       "name": "서울시 자율주행 뉴스",
       "url": "https://news.seoul.go.kr/traffic/archives/category/autonomous",
       "hash": "3f58f05552df8f1191be6b86375be61e4f2443d03d5b23d5fd64a394174f226f",
-      "last_checked_at": "2026-04-29T03:42:54.556406+00:00",
+      "last_checked_at": "2026-04-29T08:29:27.850058+00:00",
       "last_status": "error",
       "bytes": 0,
       "last_changed_at": "2026-04-02T01:46:24.039733+00:00"
@@ -22,7 +22,7 @@
       "name": "42dot 뉴스",
       "url": "https://42dot.ai/news",
       "hash": "e0ced866cbd09fdf6ec98142685c66c49cb5846554e55744c94018cbc5e6e2ef",
-      "last_checked_at": "2026-04-29T03:42:54.556406+00:00",
+      "last_checked_at": "2026-04-29T08:29:27.850058+00:00",
       "last_status": "unchanged",
       "bytes": 512791,
       "last_changed_at": "2026-04-25T07:27:42.412494+00:00"
@@ -30,17 +30,17 @@
     "rideflux": {
       "name": "라이드플럭스",
       "url": "https://rideflux.com",
-      "hash": "c226688af6bf4777e65a217d1306bf0791902493c43ddd2444d76414f5c97302",
-      "last_checked_at": "2026-04-29T03:42:54.556406+00:00",
+      "hash": "4a21ce63d0ffd58793d6a3ea1da9fa92068df8ec0dd1bdb33e903e67f15d6fbf",
+      "last_checked_at": "2026-04-29T08:29:27.850058+00:00",
       "last_status": "changed",
-      "bytes": 660555,
-      "last_changed_at": "2026-04-29T03:42:54.556406+00:00"
+      "bytes": 660501,
+      "last_changed_at": "2026-04-29T08:29:27.850058+00:00"
     },
     "swm": {
       "name": "SWM (서울자율차)",
       "url": "https://swm.co.kr",
       "hash": null,
-      "last_checked_at": "2026-04-29T03:42:54.556406+00:00",
+      "last_checked_at": "2026-04-29T08:29:27.850058+00:00",
       "last_status": "error",
       "bytes": 0,
       "last_changed_at": null
@@ -48,12 +48,12 @@
     "google_news_robotaxi": {
       "name": "Google News 로보택시",
       "url": "https://news.google.com/rss/search?q=%EB%A1%9C%EB%B3%B4%ED%83%9D%EC%8B%9C+%ED%95%9C%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko",
-      "hash": "ef2ff6b0b2cafd08efefbe44ce490e51f194b1d1770439c505d64618d0c18ffb",
-      "last_checked_at": "2026-04-29T03:42:54.556406+00:00",
+      "hash": "d3639322ae4c4b756ab1362d26a07d0a3e36964ed3e250ab917dded1a526311a",
+      "last_checked_at": "2026-04-29T08:29:27.850058+00:00",
       "last_status": "changed",
-      "bytes": 118945,
-      "last_changed_at": "2026-04-29T03:42:54.556406+00:00"
+      "bytes": 118956,
+      "last_changed_at": "2026-04-29T08:29:27.850058+00:00"
     }
   },
-  "last_run": "2026-04-29T03:42:54.556406+00:00"
+  "last_run": "2026-04-29T08:29:27.850058+00:00"
 }

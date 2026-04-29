@@ -1,5 +1,567 @@
 [
   {
+    "headline": "\"韓, 로보택시 대중화 위해 과감한 인프라·사업화 지원 필요\"",
+    "summary": "\"韓, 로보택시 대중화 위해 과감한 인프라·사업화 지원 필요\"  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CVWhhWU5lTzhzN2NBYy02TUdmNnViR0JFZnI4MUNxTTVXalpoNjYtS09tdnROYXoxSHcxNU12ZFRCd0tMdXk2VERsVGhmSHM?oc=5",
+    "published_at": "2026-04-28T21:03:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/20260429060306109"
+  },
+  {
+    "headline": "자율주행 기업 한국으로 ‘집결’…왜?",
+    "summary": "자율주행 기업 한국으로 ‘집결’…왜?  KBS 뉴스",
+    "source": "KBS 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XZjdTM1dsSFUtTktSN0xaSFNGa1puTk5uX0ZERzJVUm10T2U4aWRneV9TRUVDVDJMNU9GM0xFSjZWbmhDaERGaVJVbk9HS1Y4WGNaczV3T3VTaE0?oc=5",
+    "published_at": "2026-03-25T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.kbs.co.kr/news/view.do?ncd=8517190"
+  },
+  {
+    "headline": "자율주행차 관련주, 로보택시 상용화 수혜주는 어디일까 : 네이버 블로그",
+    "summary": "자율주행차 관련주, 로보택시 상용화 수혜주는 어디일까 : 네이버 블로그  Naver Blog",
+    "source": "Naver Blog",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpeUc1bnNRNU8yR2ZOdjR0WlVwNXBqTUVEYVcxYmJnUmVoaWFUbXhha0hlcmVua3ZkYVVSQ2JWQTV5SXNWV3NPdmcwRGducU1ETkRvSWxaVVVWcFlCVzBqVzBpNEw4eXlVdWVJSEVVUWFiaXlxZGNZWk9JeXlKaDg?oc=5",
+    "published_at": "2026-04-21T15:10:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://blog.naver.com/goldmap7/224260121635?fromRss=true&trackingCode=rss"
+  },
+  {
+    "headline": "국토교통부, 자율주행 실증도시에서 펼쳐질 무한질주 … 국가대표 자율주행 기업 선정",
+    "summary": "국토교통부, 자율주행 실증도시에서 펼쳐질 무한질주 … 국가대표 자율주행 기업 선정  시사일보",
+    "source": "시사일보",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXb29FOElYNXdRc3hVSk9HZklzZ2ZpbTZUMlJVNEl5LWUyeVVPVjVXTU5KTTVYSDRxdXM0WTNNNllPMFVobG5NcDFvQ3Y?oc=5",
+    "published_at": "2026-04-28T02:28:00+00:00",
+    "tags": [
+      "정책"
+    ],
+    "final_url": "http://www.koreasisailbo.com/2230407"
+  },
+  {
+    "headline": "광주서 자율주행차 200대 달린다…현대차 실증 사업 선정",
+    "summary": "광주서 자율주행차 200대 달린다…현대차 실증 사업 선정  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hODZSbkRsQnBYUXE2RDBqbXdsRVM5bWZuMGdoeDFTT1VCWkJUZTR3WWZBWHhET082UGxESDk1Sm56ekQyOGZMNTdZS01hRjRTRUxv?oc=5",
+    "published_at": "2026-04-28T04:48:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260428n18697",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "KG모빌리티, 오토노머스에이투지와 레벨4 자율주행 기술 경쟁력 제고 위한 MOU 체결",
+    "summary": "KG모빌리티, 오토노머스에이투지와 레벨4 자율주행 기술 경쟁력 제고 위한 MOU 체결  PRESS9",
+    "source": "PRESS9",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11VEpCUjN2OGV4bEtXVnhMV1hYUmluWHRJb2p2TmRMaldpdmJjVGthaDBzTU8tUVZFTmlzUXNtVk11Z2pwMDhkQ2pYTUJ4N2ZRQ3lKNm9YMjJYcERwUG0xTkhLQU4?oc=5",
+    "published_at": "2026-04-20T23:34:56+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "http://www.press9.kr/news/articleView.html?idxno=75293",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "국토부, 자율주행 실증도시 참여기업에 현대차·A2Z·라이드플럭스 선정",
+    "summary": "국토부, 자율주행 실증도시 참여기업에 현대차·A2Z·라이드플럭스 선정  IT비즈뉴스",
+    "source": "IT비즈뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LX2k5ZUZPcDlnZHdPUklESlIyZ1FZMTZmTzY4Y2FMOWdFQVRWOHl5ZERvODZ3WXhBNHYtNlZWR05MbmlHaV9tUGRoRmdiSWZUaHk1V195bDl0MkdmQVB5VFRXRUFWOWhXNk1hcw?oc=5",
+    "published_at": "2026-04-29T00:45:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.itbiznews.com/news/articleView.html?idxno=211274",
+    "companies": [
+      "현대자동차",
+      "라이드플럭스 (RideFlux)",
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "“청계천 달리는 무인버스 보고 놀라지 마세요 완전자율주행은 인프라 산업 핵심은 사회적 수용성”",
+    "summary": "“청계천 달리는 무인버스 보고 놀라지 마세요 완전자율주행은 인프라 산업 핵심은 사회적 수용성”  gonggam.korea.kr",
+    "source": "gonggam.korea.kr",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWnhPc1ZlRGY2eXVlLUo1eXhCcXgtdFVlakhoaGZlWEpyajA0MUQ2N0FQekxSdzdZNVYzOEF6clFOcTFzSHRSSnQ3ejhneFFiVzlZeW1DVW9IVlhOeHlpS3dGYmNRd2YwUFdDY3gwZ3RSTmFQWlRHUUxIX1lmTnJrdlNtdERjUUplUmdkdk5uSjQ1UVg4cTBfeFBKUThJenFQem9lZ2hZUDJjNUFNSUhTZHFvUlFVQWtv?oc=5",
+    "published_at": "2026-03-12T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://gonggam.korea.kr/newsContentView.es?mid=a12602000000&section_id=&news_id=fd3d738c-2cbe-4fc8-b683-4617968dd1de"
+  },
+  {
+    "headline": "라이드플럭스, 국내 최초 '자율주행트럭 유상 화물운송' 허가 획득",
+    "summary": "라이드플럭스, 국내 최초 '자율주행트럭 유상 화물운송' 허가 획득  이데일리",
+    "source": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb0p3cmhWang4ZW93NDBOb295alh4d3NIb0xSdVFqclNtZk1RcWNNNUJSYTBjV0JxaHZlQ2hCVTFDT2loZDhiZ0gycUhCWmVnVHo3M1VrandnWEx5OWZmN2xDcWhuVjJ1R19WZkptbFBjVDFTWkExZW43QjFTWXF1OA?oc=5",
+    "published_at": "2026-04-16T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "기업"
+    ],
+    "final_url": "https://www.edaily.co.kr/News/Read?newsId=02853606645416776&mediaCodeNo=257",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "미래를 달리는 세종, ‘시민의 안전과 편의’ 위에 자율주행을 설계하다",
+    "summary": "미래를 달리는 세종, ‘시민의 안전과 편의’ 위에 자율주행을 설계하다  충청뉴스",
+    "source": "충청뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwZ1FmUnZHS08yenNBZmVJU1lmemlDMG10NkVaMVdJSGhHWmhKNlU1MVZHNTBkd3dnckc0bVAtS0Q0SDUwaGZrMHZSaU5GbVI0V19lV0o4MnVEM0s3eTNxd2NBVU1URzRKQV9zUw?oc=5",
+    "published_at": "2026-03-17T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.ccnnews.co.kr/news/articleView.html?idxno=404278"
+  },
+  {
+    "headline": "세종 BRT 노선서 국내 첫 레벨4 무인 자율주행 버스 상용화",
+    "summary": "세종 BRT 노선서 국내 첫 레벨4 무인 자율주행 버스 상용화  매일경제 마켓",
+    "source": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jaDNnUGNQYmFQandUMjU4WWRSYWh6U1BNQkRPd0l5cE5EZFk2d1Vja1I1alJ3SU5mZjhMTnpjTGNncHZodDc3MWc2UER4REdn?oc=5",
+    "published_at": "2026-02-04T08:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://stock.mk.co.kr/news/view/987852"
+  },
+  {
+    "headline": "세종시, 국내 첫 ‘레벨4’ 무인 자율주행 버스 상용화 추진",
+    "summary": "세종시, 국내 첫 ‘레벨4’ 무인 자율주행 버스 상용화 추진  뉴스엔톡",
+    "source": "뉴스엔톡",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PNWtUZDlMTUVGZmJETDdhemNJRy1hR28wbWx2UHRwcl9xekFNMkJ2Qmlwa3lqQlc0azl0VkNHaDhKclQ0c3hxdEtGTC1wcXJDb1hoTmpSelZWTUlSYUVZSjIzYUlfQnptd3lBbw?oc=5",
+    "published_at": "2026-02-04T08:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.newsntalk.co.kr/news/articleView.html?idxno=3876"
+  },
+  {
+    "headline": "모셔널 “연말 무인 로보택시 상용화”…AI 기반 자율주행 전략 공개",
+    "summary": "모셔널 “연말 무인 로보택시 상용화”…AI 기반 자율주행 전략 공개  ER 이코노믹리뷰",
+    "source": "ER 이코노믹리뷰",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tOGdOVnNyeXBDTnNLRGg5c21VcS1FZ0dEaG5RWnd6aHFzZm1HSFlVWG5JY1R6YWpMYV8yZmdwTE5SVFEtcUNEczg1eHVCcmpfUTY1aHZFTVBlQlh2SnRxLTF6ZG4xblJSWlg4ZQ?oc=5",
+    "published_at": "2026-03-09T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.econovill.com/news/articleView.html?idxno=732274",
+    "companies": [
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차그룹 모셔널, 올해 말 美 라스베이거스서 무인 로보택시 상용화",
+    "summary": "현대차그룹 모셔널, 올해 말 美 라스베이거스서 무인 로보택시 상용화  파이낸셜신문",
+    "source": "파이낸셜신문",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UMm1Wc2RRbm1LeFlvSU9nZ2JuMEs0OHpiMV96cnVaNWp4QWx5TlNNTTY4c2FMaWdIX0lFbUZUdGdwUWZ2TmFYM1RzYmVBMUo0cW5WZlNCbWE1WGpjMXg2cmVKN3RaQ0xBaGow?oc=5",
+    "published_at": "2026-01-12T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.efnews.co.kr/news/articleView.html?idxno=126630",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "라이드플럭스, 투자 한파 속 프리 IPO 흥행 '주목'",
+    "summary": "라이드플럭스, 투자 한파 속 프리 IPO 흥행 '주목'  헬로티",
+    "source": "헬로티",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YX1ZiWnNPX2plZjRQU3hLc1h2ajVPRTlTcnNLNWlYNW9GaXUxY1hialg1N0tZcExhV3RqTU13RXNscjNDNDFZQTduSm1maGlTT3pGQUhwWmlQSjFZaEpJ?oc=5",
+    "published_at": "2026-01-04T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.hellot.net/news/article.html?no=108720",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "\"현대차 무인 택시 라스베이거스 달린다\", 실제 타 보니…",
+    "summary": "\"현대차 무인 택시 라스베이거스 달린다\", 실제 타 보니…  MBC 뉴스",
+    "source": "MBC 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxVmxUSVlmQ1J2TUNucE8wNEhseDAzRzR0blJvZVd0WXZ5am5nb1IxVlFYTGxtX2lzVmhOZ19CVEZES3QyaG1HT3lwLTcxR2M3Rl9FM21CYTcxOWh0S2hfX2hYSFlHNThkcy0xcG12ZHF4YjFIVi0ybNIBeEFVX3lxTFAyVXNoQkF6UHNTNVJjR2pjemxnV2M1QVhxcmRDN19DeGVZd3E0c0xEWkpVZi1UOGZBV29YTTVQX0l1MjJBbDRuMkozdm1mR25XWldGeEtZbjRhcWZlQjUtWjF2Wm5iek9pU3VPSmlrSF9RM2VGbG9Kdg?oc=5",
+    "published_at": "2026-01-12T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6792999_37004.html",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "테슬라, 사상 최고가 랠리...\"무인 자율주행 시험이 랠리 촉매\"",
+    "summary": "테슬라, 사상 최고가 랠리...\"무인 자율주행 시험이 랠리 촉매\"  초이스스탁",
+    "source": "초이스스탁",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XUkxJY2p5YUZmQkZoMEtNUDdLWnlaNTYyejhvOUlpcEtvVmlVU3FJamNkeHAtemNPeFEzYjlNb2czZS1DU051czdXbFRNYmsxSGFOZ1d3djVhY3k4dFBiLQ?oc=5",
+    "published_at": "2025-12-17T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://www.choicestock.co.kr/stock/news_view/84207"
+  },
+  {
+    "headline": "머스크 \"탑승자 없는 주행\" 선언 … 국내 자율주행株 동반 강세",
+    "summary": "머스크 \"탑승자 없는 주행\" 선언 … 국내 자율주행株 동반 강세  매일신문",
+    "source": "매일신문",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Fb3dGaW5VTXpJQWxWa3ZrTDM3ZUVZUE1sdGMtY0ZNdGo2N3VWYWF3U2Vmb3dmZldELW1MSGxfanRfRjRGUnp2a3lnOFVUa2o0Sl8xckd0VDdLekZHcWs2U0R3?oc=5",
+    "published_at": "2025-12-16T08:00:00+00:00",
+    "tags": [
+      "사고"
+    ],
+    "final_url": "https://www.imaeil.com/page/view/2025121609472117723"
+  },
+  {
+    "headline": "우체국물류지원단, 자율주행 트럭 화물운송 기술개발 컨소시엄 참여",
+    "summary": "우체국물류지원단, 자율주행 트럭 화물운송 기술개발 컨소시엄 참여  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51THhXMHhHVkpUbERhSWxhN1VHbDk5WFplcXhmeEtLOEZ2emw2NGJ1QW9MRThnbWs5RG95dWlCeTVaSm5DZ0stc1JQZFNDcE1DcHUxRTln?oc=5",
+    "published_at": "2025-11-06T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://zdnet.co.kr/view/?no=20251106165526"
+  },
+  {
+    "headline": "웨이모, 미국 첫 고속도로 무인 로보택시 운행 시작",
+    "summary": "웨이모, 미국 첫 고속도로 무인 로보택시 운행 시작  마켓인",
+    "source": "마켓인",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wSXVGbmwwZmZaVXptTXBzSW44T0x4c0U2eExrSERDRUJfVTlfanJmSHYzVkxQVGgwZElKR240Ti01NlVqNXZuaElBb3hRbGZVUkk4cVM5Z3dWMG5WdkczVTduUURnMjQ0ZmhmRUFEdEVZZFk?oc=5",
+    "published_at": "2025-11-13T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01167686642365392"
+  },
+  {
+    "headline": "광주 전체가 자율주행 실증 무대 된다",
+    "summary": "광주 전체가 자율주행 실증 무대 된다  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zeXRwekxLQW10Y2IxX25uRGlwWFVNSE1jdHNVMFRva1daYlR0VXVOeENJR3QyMUVrSHdHSWwwdnRGOFBrbDBDOHNvWW9Db3M?oc=5",
+    "published_at": "2026-04-29T03:22:50+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/20260429122250288"
+  },
+  {
+    "headline": "대전시, 자율주행버스 A5 노선 5월부터 유상 전환",
+    "summary": "대전시, 자율주행버스 A5 노선 5월부터 유상 전환  신아일보",
+    "source": "신아일보",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11ZnpjYlFWMnNtdk1fMG8yU1ViNlVldG1JTzdPQlZ0ZkhPbFQ1bjJQeFp6eUlVV3lPbW45akVqa2ZhMURHeVRCSnlpMDZKcUlEQlF3ODI5WTEzeHR5RDhaMUFPRnZYMXlFNmlDeEZCU2I?oc=5",
+    "published_at": "2026-04-28T23:28:35+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5016119"
+  },
+  {
+    "headline": "현대차, 광주 대규모 자율주행 실증에 참여한다 |",
+    "summary": "현대차, 광주 대규모 자율주행 실증에 참여한다 |  연합인포맥스",
+    "source": "연합인포맥스",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EUDNUbEVOWE52M2h3cGdyQkx2S1lKQkJiYmFoS2lfaVlTTjdKY0xwSVctSWM4SFl4WFZ6aFR0TmlFYy0ySlJ5VW52ZE9GMXo3ZHByajl4Y2c2NzNGbzI5bWJfOW0tZ29iM3QzYnEyc2NlakFx?oc=5",
+    "published_at": "2026-04-28T02:07:17+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4412070",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "대전~세종 자율주행버스 A5, 5월 4일부터 유료 전환",
+    "summary": "대전~세종 자율주행버스 A5, 5월 4일부터 유료 전환  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aUm80eHB0N1hpVFRmM1gxR2xCamtMb0ZkWng3MzNtc1F0MHdFTEJZRzBtc3Z6em11TlZWQXpuMDlDM3hMQVFNWS1FbHgxdVViSS1r?oc=5",
+    "published_at": "2026-04-29T01:32:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260429n11603"
+  },
+  {
+    "headline": "대전시, 자율주행버스 유료화 전환",
+    "summary": "대전시, 자율주행버스 유료화 전환  헤럴드경제",
+    "source": "헤럴드경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSlNXc2txdXhWcVhZbG1QWEdXT2FlUm1RWURmYnYweEtjRnZudjdxOUFsYnRZRXlHUTFJSVExT1ZWcEp6Y2MxUXh5Z1lrdk81UGdIWlVB?oc=5",
+    "published_at": "2026-04-28T23:47:23+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://biz.heraldcorp.com/article/10727914"
+  },
+  {
+    "headline": "대전시, 대전~세종 자율주행버스 상용화 돌입",
+    "summary": "대전시, 대전~세종 자율주행버스 상용화 돌입  타임뉴스",
+    "source": "타임뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmdkFPOUU0NkFhRUZwOTBqZWVkRm5XdWdONVNHMEZJazVqTFRZY1FZU05VRU05RHNtNGpXNnJCUkVvQ0tOVnVacUtTR21IekhKUmJJaA?oc=5",
+    "published_at": "2026-04-29T00:18:27+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.timenews.co.kr/article/1697679"
+  },
+  {
+    "headline": "대전시 세계노동절 집회로 교통 통제",
+    "summary": "대전시 세계노동절 집회로 교통 통제  미디어투데이",
+    "source": "미디어투데이",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmlnQlBTd05PZ0VyVzN4d3I3UUljbERTSWRGZGQxVkN2OEF4NXA2Qk4xb0E3aGs1YjZWaFZOQjFqbXZUMlVoc1huelJJYXhYN3l0bWtjdWRnbFZVTlJPOUxLQ21NcjB4T2ZVRzlpRi02NVlBMzEtNzM5LUpRNkZvLXFaUk1uMV9lX1FEMDBKeDlhdTZPNUVMTnZrTTFoTmRHQjEyYQ?oc=5",
+    "published_at": "2026-04-28T21:35:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "http://www.mediatoday.asia/sub_read.html?uid=1710315&section=sc65&section2=%EB%8C%80%EC%A0%84%EC%8B%9C"
+  },
+  {
+    "headline": "대전∼세종 잇는 자율주행버스 A5, 내달 4일부터 유상운송 전환",
+    "summary": "대전∼세종 잇는 자율주행버스 A5, 내달 4일부터 유상운송 전환  뉴스엔톡",
+    "source": "뉴스엔톡",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xYlZ3TU9FNjNFYXVobDBJYUhka2RiQnBCNkdTU2tncHNOdTZ4X0R3MjMzUWR2azBna3FPdkZFbWt4UWgtMFVIZlFSU19fLUstczltQ0w3eFc2REgwVTRPX2V4bklPWTFyWmVNYw?oc=5",
+    "published_at": "2026-04-29T00:50:03+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.newsntalk.co.kr/news/articleView.html?idxno=4461"
+  },
+  {
+    "headline": "대전~세종 잇는 자율주행버스 A5, 5월 4일부터 유상운송 정식 개시 > 뉴스",
+    "summary": "대전~세종 잇는 자율주행버스 A5, 5월 4일부터 유상운송 정식 개시 > 뉴스  더코리아",
+    "source": "더코리아",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1lSVh3bXFDVTJuR3NJcFhyUkFCRldCN2RDNjFMelV6UzdzQkQ4WGpDQ0tiLU03QXNzdTJBOGVkcXM5aU0?oc=5",
+    "published_at": "2026-04-28T21:59:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "http://www.thekorea.kr/491914"
+  },
+  {
+    "headline": "‘자율주행버스 유료화·침수 우회 안내’…대전 교통서비스 실전 전환",
+    "summary": "‘자율주행버스 유료화·침수 우회 안내’…대전 교통서비스 실전 전환  공뉴스",
+    "source": "공뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8teEN6UTFjdV8zaWxNZkR4Y0dHQ1hlSzVnU0gwcEczNVFwU1kxc1ZabmJqclRIUUhLODhVUV9kMy0yN2E0dWN2WTlVcUlZOTJabGItemFpWjVac08xUzR1UzVlaGgzMmh2VGRpMw?oc=5",
+    "published_at": "2026-04-28T21:21:55+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.bzeronews.com/news/articleView.html?idxno=816798"
+  },
+  {
+    "headline": "대전∼세종 자율주행 버스, 내달 4일부터 요금 받는다",
+    "summary": "대전∼세종 자율주행 버스, 내달 4일부터 요금 받는다  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56OXliM2x0MUhmSWotemNObXM0aEdKWFZPVklqeWNib013SzFaWldrTllnNV8xWG1YVElmV0JQYjUyQUdFSXFpcG1oc2lSRlBzWENR?oc=5",
+    "published_at": "2026-04-29T00:45:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260429n08976"
+  },
+  {
+    "headline": "대전자율주행버스 A5노선 유상전환…5월 4일부터 정식요금 적용",
+    "summary": "대전자율주행버스 A5노선 유상전환…5월 4일부터 정식요금 적용  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15MkxnYU85dGhmcWZaS3FBX0tNRGItRlFWMFAxM1BVMGxHVUxfVFdQbTF2NzZrTDRvUHliSHBndGVCcjI5WWQxSGlFZTJNemJUTjVn?oc=5",
+    "published_at": "2026-04-29T01:17:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260429n10686"
+  },
+  {
+    "headline": "[대전소식] 세계노동절 집회로 교통 통제… 버스 우회 운행 외",
+    "summary": "[대전소식] 세계노동절 집회로 교통 통제… 버스 우회 운행 외  데일리한국",
+    "source": "데일리한국",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWkRkWlNFdkJiOU16UXkxbGIyeWxNaWdZT2lpUHRfMUlxQzVBNGF5UFdtOWN3ZkU5b2xzU0FrbU1RTERncy1kSkFPTk5aU3Q4MDlGajV6eG9rTV8wNG5TTzNIS1JicFo4UXJxU1VJc9IBc0FVX3lxTE5nWUkwWmsxRjJiSTBQVjVUUC1YbTRsbUI1aUZGekgyT0lOd2hWYWNkUFBnMTJoX1NRaXFRalE0eTJza3owS3hoYkdfUmRpYzFaUGJCSm9aQTU1WXpPR1pNZTRtSFJSd3JfcGNqTnhhT3IwSHc?oc=5",
+    "published_at": "2026-04-28T22:54:48+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://daily.hankooki.com/news/articleView.html?idxno=1362520"
+  },
+  {
+    "headline": "자율주행차 임시운행 허가 기간…옥외광고물 자유구역 추가",
+    "summary": "자율주행차 임시운행 허가 기간…옥외광고물 자유구역 추가  대한민국 정책브리핑",
+    "source": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5bUpCZ1llZXFwM2IxYnhPNUJPWXVkeXE2dTlsVGtOUkN2Z05USTQyeEdKN0xiTVpYdm1ScUx2dmRscXpEazZFWkY5ZGxBMVUydjl2OUJQWVJlSVFyYXlpLWUxTzVTbVhFQVo5Sw?oc=5",
+    "published_at": "2024-07-10T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "final_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148931294"
+  },
+  {
+    "headline": "로보택시로 자율주행 기술 주권 지킨다...에스더블유엠, 강남서 자율주행 실증 중",
+    "summary": "로보택시로 자율주행 기술 주권 지킨다...에스더블유엠, 강남서 자율주행 실증 중  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4ybTlsWDhvcW1nWFhUV1NxdlJEVmVrbXgxMkY3elpyd0ZnbDM1MFFtekhFODVaUTNLcDdCNzk2NjFfM2hyeHZydmJOZ0h4dw?oc=5",
+    "published_at": "2025-03-26T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.etnews.com/20250326000268"
+  },
+  {
+    "headline": "美웨이모·中바이두 자율주행 '속도전'…한국은?[車블랙박스]",
+    "summary": "美웨이모·中바이두 자율주행 '속도전'…한국은?[車블랙박스]  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0S3BLaDFEaGU5OV91cXNlUm9wamdrU195eHlCOGFUV1BEYnloN3FOb19Rc1F5ZUpKWW43LTN4MkpFekJWUzVMN0pLUWRPbUlhYmZDTEpyMXlnUdIBXkFVX3lxTE92THBjSTItN0Ztc0REQzRLN2NVY2lHWXVjcnlyZXRJa1pJdGRhVnVWX2xOX1ZyR3VZb1FleWMtdG5uSFlPQjg5eTlkRGVjbUhMa2dFVXFWcl9IODNoa0E?oc=5",
+    "published_at": "2022-03-22T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.fnnews.com/news/202203220407295436"
+  },
+  {
+    "headline": "[한눈에 보는 Weekly 기업 소식] 엔비디아, ‘추론용 AI칩 핵심기술 확보’ 29조원 통큰 투자",
+    "summary": "[한눈에 보는 Weekly 기업 소식] 엔비디아, ‘추론용 AI칩 핵심기술 확보’ 29조원 통큰 투자  KIPOST",
+    "source": "KIPOST",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1TXJNR2pDRWNwWW84RUxGRFhHeTJZUzRfNktYV2xaLUZzM2NtcHFnVGd2YUdCYzBXWkYtNnMzNXRBNTIxYzg2aF9DMW0wTUJnemFlTkViaEM1SG5Xd25aQTd6LWRUTnNX0gFsQVVfeXFMT1ZNTzlPZkNGTElGMnFrMU90RDVjMFRjMXM0MjlFZU5NZDdhUWQyaHhWcDY1ME1TbU9JcHAyNDEyRkxaY2VGTm5acmhIWnVtbUhPQVM2VHJZM1V4el84Z2NhSXZTV2JLYmdkSm9z?oc=5",
+    "published_at": "2025-12-26T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.kipost.net/news/articleView.html?idxno=334698"
+  },
+  {
+    "headline": "“비싸도 탄다” 월 이용료 399만…쏘카 테슬라 예약 폭주",
+    "summary": "“비싸도 탄다” 월 이용료 399만…쏘카 테슬라 예약 폭주  v.daum.net“월 이용료 399만원인데 사전예약 2000명 몰렸다”… 테슬라 도입한 쏘카 - 조선비즈  Chosunbiz'억대' 테슬라 모델S \"일주일만 빌려볼까\"…쏘카 테슬라 타보니  뉴스1\"스르륵 눈치보고 끼어들기\"…'1주일 149만원' 쏘카, 모델X 타보니  네이트이제 테슬라 FSD도 쏘카 구독으로 … “운전대 안 잡아도 알아서 잘가네”  뉴데일리 경제쏘카가 테슬라를 들인 이유 \"구독 사업 마중물\"  디지털투데이쏘카 테슬라 FSD 인기 폭발…10일 만 예약 20",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nVlMtdjR3WmtFMGc4VDdQYklsbElfVEpHVnMwVnd2Qkd5aHZ6V3ZtY3VpWnl5d05DaFRCZFBmMDJKcmdKcUNfbkNtemMyQVk?oc=5",
+    "published_at": "2026-04-29T03:23:07+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/20260429122307298",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "주행 데이터가 금맥…테슬라 겨냥한 쏘카, 내비 벗어난 티맵",
+    "summary": "주행 데이터가 금맥…테슬라 겨냥한 쏘카, 내비 벗어난 티맵  이코노미스트",
+    "source": "이코노미스트",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41MWZTbjh3UmVKSTRsdEJMdlhlb3JKWS1Md0h4UUNISEhiV2gxZFhQYWFfUXR0MWZRWGFxeVlNSFpXOTBQal9Md2swaWpyQ3Qxdko3UHNsQ3VFVEV4WnhBQlRn?oc=5",
+    "published_at": "2026-04-26T22:00:57+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://economist.co.kr/article/view/ecn202604210039",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, ‘테슬라’ 자율주행 본격 ‘시동’… ‘모델X·S’ 주행, 사전예약만 벌써 2000건",
+    "summary": "쏘카, ‘테슬라’ 자율주행 본격 ‘시동’… ‘모델X·S’ 주행, 사전예약만 벌써 2000건  CEO스코어데일리",
+    "source": "CEO스코어데일리",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55bjhsUlMxRXIwdjFWRlk3THYzN3dYS1hYV3VBQ3dHWi1PYTB0Mm5TS2Izek5ibUFPS1ZVeXNkMDN6ZlZtRUZuYlZxM05PQ2hsNmdidmpBWXFueHJXemVwSFBOUy1NQU9BVndv?oc=5",
+    "published_at": "2026-04-28T06:33:49+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.ceoscoredaily.com/page/view/2026042810443370197",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "[타봤다] '구독'으로 만난 자율주행...쏘카, 테슬라 자율주행 직접 타보니",
+    "summary": "[타봤다] '구독'으로 만난 자율주행...쏘카, 테슬라 자율주행 직접 타보니  테크M",
+    "source": "테크M",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2Vzg1QTVibTF4YmdKQjVhbWR0VjhCN1JBMUdVRkt0SkpDZktOVzFEZmpjemlTNFh4WEFnbzFnVTNqbTJBc3VLTmNZMTUzNktJVEZRRTJfSEtIUEFrWWVoLTBrMXByQ3dkNVHSAWpBVV95cUxQdlc4NUE1Ym0xeGJnSkI1YW1kdFY4QjdSQTFHVUZLdEpKQ2ZLTlcxRGZqY3ppUzRYeFhBZ28xZ1Uzam0yQXN1S05jWTE1MzZLSVRGUUUyX0hLSFBBa1llaC0wazFwckN3ZDVR?oc=5",
+    "published_at": "2026-04-27T08:05:07+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.techm.kr/news/articleViewAmp.html?idxno=151358",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "차량 뒤엉킨 구간서도 '차선 이동' 척척",
+    "summary": "차량 뒤엉킨 구간서도 '차선 이동' 척척  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmWXZsWmp1U2Mwd1FSd1dqY3pJT19jWG5STG9iVjFLb2c3cEdoWWhsTllDeVZTTUozU2ZrM3BlbldLbU00eTJheGxnOHgwODh1TFh3?oc=5",
+    "published_at": "2026-04-28T19:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260429n01926"
+  },
+  {
+    "headline": "쏘카로 테슬라 FSD 탄다…자체 데이터로 자율주행 시동",
+    "summary": "쏘카로 테슬라 FSD 탄다…자체 데이터로 자율주행 시동  아시아경제",
+    "source": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45TGd6c2UwUzl5bi1nOFlLT2VFc0RYeTBmUTdLTnF1bmNMa0MxLUFldFJLZFpOZHFhRHpScVJzRjZ5X1JldmFUUmZjbmxFMU41QTJpQ2pOdVB5OXdvNWM1U2VNaEhtdTl0RlpaZzBJVQ?oc=5",
+    "published_at": "2026-04-28T01:14:02+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.asiae.co.kr/article/automobile/2026042809104443577",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "[단독] 이재웅, 6년 만의 쏘카 복귀…'자율주행 골든타임' 잡는다",
+    "summary": "[단독] 이재웅, 6년 만의 쏘카 복귀…'자율주행 골든타임' 잡는다  중앙일보",
+    "source": "중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWZFJMM0RqVnVaWVhpY3dPdlR5S01UZjB6OUkwUFdLWU1kc2xlY3N1TzQwZEtQRUoxQVNYQVJCMmFYTHlqR1BBNlM4U1JWdnVrdWpqci13?oc=5",
+    "published_at": "2025-12-30T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.joongang.co.kr/article/25394141",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "[타보니] 쏘카 구독으로 만난 테슬라 FSD, 막다른 골목도 척척",
+    "summary": "[타보니] 쏘카 구독으로 만난 테슬라 FSD, 막다른 골목도 척척  대한경제",
+    "source": "대한경제",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52SjFIUGhnNThBaGFKUE9XTHNVXzJEOTVHa2xBU3VNamZkNG1UdnZnd1JROGRYc2VMVzc3ZGhnQzhETzAtaHhXdnpKUEVwR0Y0Snk3aEQyRlVKbjk5X0RLeWRGTDlIbUJ1SjdmMHhvSElzamg0?oc=5",
+    "published_at": "2026-04-27T20:00:14+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604271514110540810",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
     "headline": "[비즈 나우] 날고 뛰는 中 샤오펑…로보택시부터 플라잉카까지",
     "summary": "[비즈 나우] 날고 뛰는 中 샤오펑…로보택시부터 플라잉카까지  v.daum.net",
     "source": "v.daum.net",

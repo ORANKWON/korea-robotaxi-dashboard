@@ -48,6 +48,13 @@ export interface WeeklyInsight {
 export interface Company {
   id: number;
   name: string;
+  /** Canonical URL slug for /vs/[a]/[b] (e.g. "swm", "rideflux"). Lowercase
+   * alphanumeric. `id` stays the primary key for /company/[id] back-compat;
+   * slug is the human-friendly identifier for the new comparison route. */
+  slug?: string;
+  /** Alt names matched by the news crawler's infer_companies — also useful
+   * for search. Not URL-safe. */
+  aliases?: string[];
   status: string;
   zones: string[];
   vehicle_model: string;

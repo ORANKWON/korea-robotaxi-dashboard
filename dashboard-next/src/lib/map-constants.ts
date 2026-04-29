@@ -19,6 +19,10 @@ export const REGIONS = {
   daejeon: { label: "대전", center: [36.36, 127.36] as [number, number], zoom: 13 },
   daegu: { label: "대구", center: [35.86, 128.57] as [number, number], zoom: 12 },
   busan: { label: "부산", center: [35.20, 129.21] as [number, number], zoom: 13 },
+  // Added 2026-04-29: 광주 전역 자율주행 실증도시 (id=30) — 광주광역시 전체를
+  // 커버하는 새 zone. 평동산단(id=20)에 줌 in 하면 전역 zone이 안 보이므로
+  // 별도 region 탭이 필요.
+  gwangju: { label: "광주", center: [35.16, 126.85] as [number, number], zoom: 11 },
   jeju: { label: "제주", center: [33.45, 126.57] as [number, number], zoom: 11 },
 } as const;
 

@@ -3,6 +3,7 @@ import companiesData from "@data/companies.json";
 import newsData from "@data/news.json";
 import zonesData from "@data/zones.json";
 import NewsFeed from "@/components/NewsFeed";
+import BookmarkButton from "@/components/BookmarkButton";
 import Link from "next/link";
 
 const companies = companiesData as Company[];
@@ -42,8 +43,15 @@ export default function Home() {
         <h2 className="text-xl font-bold mb-4">기업 현황</h2>
         <div className="grid md:grid-cols-2 gap-4">
           {companies.map((c) => (
-            <Link key={c.id} href={`/company/${c.id}`} className="block bg-white rounded-xl border border-gray-200 p-5 shadow-sm hover:border-blue-300 hover:shadow transition-all">
-              <div className="flex items-center justify-between mb-2">
+            <Link key={c.id} href={`/company/${c.id}`} className="block bg-white rounded-xl border border-gray-200 p-5 shadow-sm hover:border-blue-300 hover:shadow transition-all relative">
+              {/* BookmarkButton in the card corner. e.preventDefault() inside
+                  the button keeps Link from navigating when the star is clicked. */}
+              {c.slug && (
+                <div className="absolute top-3 right-3">
+                  <BookmarkButton namespace="companies" bookmarkId={c.slug} />
+                </div>
+              )}
+              <div className="flex items-center justify-between mb-2 pr-8">
                 <h3 className="font-semibold text-lg">{c.name}</h3>
                 <span className={`text-xs font-medium px-2.5 py-0.5 rounded-full ${statusColor[c.status] || "bg-gray-100 text-gray-700"}`}>
                   {c.status}

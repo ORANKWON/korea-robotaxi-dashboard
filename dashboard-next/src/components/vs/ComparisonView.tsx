@@ -16,6 +16,7 @@
  */
 import Link from "next/link";
 import type { Company } from "@/types";
+import BookmarkButton from "@/components/BookmarkButton";
 
 export interface ComparisonViewProps {
   a: Company;
@@ -139,14 +140,23 @@ export default function ComparisonView({ a, b }: ComparisonViewProps) {
 function CompanyHeaderCard({ company }: { company: Company }) {
   return (
     <div className="bg-white rounded-xl border border-gray-200 shadow-sm p-5">
-      <Link
-        href={`/company/${company.id}`}
-        className="group inline-block hover:text-blue-700 transition-colors"
-      >
-        <h1 className="text-xl font-bold leading-tight group-hover:underline">
-          {company.name}
-        </h1>
-      </Link>
+      <div className="flex items-start justify-between gap-2">
+        <Link
+          href={`/company/${company.id}`}
+          className="group inline-block hover:text-blue-700 transition-colors min-w-0"
+        >
+          <h1 className="text-xl font-bold leading-tight group-hover:underline">
+            {company.name}
+          </h1>
+        </Link>
+        {company.slug && (
+          <BookmarkButton
+            namespace="companies"
+            bookmarkId={company.slug}
+            className="shrink-0"
+          />
+        )}
+      </div>
       <p className="text-sm text-gray-500 mt-1">{company.partner}</p>
       <span
         className={`inline-block mt-3 text-xs font-medium px-2.5 py-0.5 rounded-full ${

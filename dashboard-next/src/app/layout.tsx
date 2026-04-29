@@ -92,6 +92,7 @@ const navItems = [
   { href: "/map", label: "지도" },
   { href: "/timeline", label: "타임라인" },
   { href: "/compare", label: "글로벌 비교" },
+  { href: "/my", label: "내 북마크" },
 ];
 
 const websiteJsonLd = {

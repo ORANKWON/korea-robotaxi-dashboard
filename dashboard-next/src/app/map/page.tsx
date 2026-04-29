@@ -25,7 +25,7 @@ export default function MapPage() {
   }, []);
 
   return (
-    <div className="fixed inset-0 z-40 bg-black" style={{ top: "3.5rem" }}>
+    <div className="fixed inset-0 z-40 bg-gray-100" style={{ top: "3.5rem" }}>
       {/* Full-viewport map */}
       <MapView
         activeCompany={activeCompany}

@@ -126,18 +126,30 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gray-50 text-gray-900`}
       >
+        {/*
+          Nav: brand + 5 items. Mobile (<640px) needs `whitespace-nowrap` so
+          per-link Korean text doesn't wrap one character per line when the
+          row gets squeezed. `min-w-0` + `shrink` on the brand lets it truncate
+          first if absolutely needed. `overflow-x-auto` on the items row gives
+          a horizontal scroll affordance instead of wrap-collapse on narrow
+          viewports. Fix added 2026-04-29 after seeing /map mobile screenshot
+          showing nav text reading "대\n시\n보\n드".
+        */}
         <nav className="sticky top-0 z-50 bg-white border-b border-gray-200 shadow-sm">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="flex items-center justify-between h-14">
-              <Link href="/" className="text-lg font-bold text-blue-700">
+          <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8">
+            <div className="flex items-center gap-3 h-14">
+              <Link
+                href="/"
+                className="text-lg font-bold text-blue-700 shrink-0 whitespace-nowrap"
+              >
                 KR Robotaxi
               </Link>
-              <div className="flex gap-1">
+              <div className="flex gap-1 ml-auto overflow-x-auto scrollbar-none -mr-3 pr-3 sm:mr-0 sm:pr-0">
                 {navItems.map((item) => (
                   <Link
                     key={item.href}
                     href={item.href}
-                    className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-blue-700 hover:bg-blue-50 rounded-md transition-colors"
+                    className="px-2.5 sm:px-3 py-2 text-sm font-medium text-gray-600 hover:text-blue-700 hover:bg-blue-50 rounded-md transition-colors whitespace-nowrap shrink-0"
                   >
                     {item.label}
                   </Link>

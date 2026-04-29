@@ -25,13 +25,13 @@ export default function ZoneDetailPanel({
         zone ? "translate-x-0" : "-translate-x-full"
       }`}
     >
-      <div className="w-80 h-full bg-zinc-900/90 backdrop-blur-md border-r border-white/10 shadow-2xl overflow-y-auto">
+      <div className="w-80 max-w-[85vw] h-full bg-white/95 backdrop-blur-md border-r border-gray-200 shadow-2xl overflow-y-auto">
         {zone && (
           <div className="p-5">
             {/* Close button */}
             <button
               onClick={onClose}
-              className="absolute top-3 right-3 text-zinc-500 hover:text-white transition-colors w-7 h-7 flex items-center justify-center rounded-full hover:bg-white/10"
+              className="absolute top-3 right-3 text-gray-400 hover:text-gray-700 transition-colors w-7 h-7 flex items-center justify-center rounded-full hover:bg-gray-100"
             >
               ✕
             </button>
@@ -41,8 +41,8 @@ export default function ZoneDetailPanel({
               <span
                 className={`inline-block px-2.5 py-0.5 rounded-full text-xs font-medium ${
                   zone.status === "운행 중"
-                    ? "bg-green-500/20 text-green-400 border border-green-500/30"
-                    : "bg-yellow-500/20 text-yellow-400 border border-yellow-500/30"
+                    ? "bg-green-100 text-green-700 border border-green-200"
+                    : "bg-yellow-100 text-yellow-700 border border-yellow-200"
                 }`}
               >
                 {zone.status}
@@ -50,26 +50,26 @@ export default function ZoneDetailPanel({
             </div>
 
             {/* Zone name */}
-            <h2 className="text-white font-bold text-lg leading-tight">
+            <h2 className="text-gray-900 font-bold text-lg leading-tight">
               {zone.name}
             </h2>
-            <p className="text-zinc-400 text-sm mt-0.5">{zone.region}</p>
+            <p className="text-gray-500 text-sm mt-0.5">{zone.region}</p>
 
             {/* Stats */}
             <div className="mt-4 grid grid-cols-2 gap-3">
-              <div className="bg-white/5 rounded-lg p-3">
-                <div className="text-zinc-500 text-[10px] uppercase tracking-wider">
+              <div className="bg-gray-50 rounded-lg p-3">
+                <div className="text-gray-500 text-[10px] uppercase tracking-wider">
                   면적
                 </div>
-                <div className="text-white font-semibold mt-0.5">
+                <div className="text-gray-900 font-semibold mt-0.5">
                   {zone.area_km2} km²
                 </div>
               </div>
-              <div className="bg-white/5 rounded-lg p-3">
-                <div className="text-zinc-500 text-[10px] uppercase tracking-wider">
+              <div className="bg-gray-50 rounded-lg p-3">
+                <div className="text-gray-500 text-[10px] uppercase tracking-wider">
                   기업 수
                 </div>
-                <div className="text-white font-semibold mt-0.5">
+                <div className="text-gray-900 font-semibold mt-0.5">
                   {zone.companies.length}개
                 </div>
               </div>
@@ -77,11 +77,11 @@ export default function ZoneDetailPanel({
 
             {/* Designated date */}
             {zone.designated && (
-              <div className="mt-3 bg-white/5 rounded-lg p-3">
-                <div className="text-zinc-500 text-[10px] uppercase tracking-wider">
+              <div className="mt-3 bg-gray-50 rounded-lg p-3">
+                <div className="text-gray-500 text-[10px] uppercase tracking-wider">
                   지정시기
                 </div>
-                <div className="text-white font-semibold mt-0.5 text-sm">
+                <div className="text-gray-900 font-semibold mt-0.5 text-sm">
                   {zone.designated}
                 </div>
               </div>
@@ -90,14 +90,14 @@ export default function ZoneDetailPanel({
             {/* Companies */}
             {zone.companies.length > 0 && (
               <div className="mt-5">
-                <div className="text-zinc-500 text-[10px] uppercase tracking-wider mb-2">
+                <div className="text-gray-500 text-[10px] uppercase tracking-wider mb-2">
                   운행 기업
                 </div>
                 <div className="space-y-1.5">
                   {zone.companies.map((company) => (
                     <div
                       key={company}
-                      className="flex items-center gap-2 bg-white/5 rounded-lg px-3 py-2"
+                      className="flex items-center gap-2 bg-gray-50 rounded-lg px-3 py-2"
                     >
                       <span
                         className="w-2.5 h-2.5 rounded-full shrink-0"
@@ -106,7 +106,7 @@ export default function ZoneDetailPanel({
                             COMPANY_COLORS[company] || DEFAULT_COLOR,
                         }}
                       />
-                      <span className="text-zinc-200 text-sm">{company}</span>
+                      <span className="text-gray-700 text-sm">{company}</span>
                     </div>
                   ))}
                 </div>
@@ -115,10 +115,10 @@ export default function ZoneDetailPanel({
 
             {/* Description */}
             <div className="mt-5">
-              <div className="text-zinc-500 text-[10px] uppercase tracking-wider mb-1.5">
+              <div className="text-gray-500 text-[10px] uppercase tracking-wider mb-1.5">
                 설명
               </div>
-              <p className="text-zinc-300 text-sm leading-relaxed">
+              <p className="text-gray-700 text-sm leading-relaxed">
                 {zone.description}
               </p>
             </div>

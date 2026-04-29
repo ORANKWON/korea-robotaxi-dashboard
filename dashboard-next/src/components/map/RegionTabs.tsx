@@ -12,18 +12,18 @@ export default function RegionTabs({
   onSelect,
 }: RegionTabsProps) {
   return (
-    <div className="absolute bottom-6 left-1/2 -translate-x-1/2 z-10">
-      <div className="bg-zinc-900/80 backdrop-blur-md border border-white/10 rounded-full px-1.5 py-1.5 shadow-lg flex gap-1">
+    <div className="absolute bottom-6 left-1/2 -translate-x-1/2 z-10 max-w-[calc(100vw-2rem)]">
+      <div className="bg-white/90 backdrop-blur-md border border-gray-200 rounded-full px-1.5 py-1.5 shadow-lg flex gap-1 overflow-x-auto scrollbar-none">
         {regionKeys.map((key) => {
           const isActive = activeRegion === key;
           return (
             <button
               key={key}
               onClick={() => onSelect(key)}
-              className={`px-3.5 py-1.5 rounded-full text-xs font-medium transition-all ${
+              className={`px-3.5 py-1.5 rounded-full text-xs font-medium transition-all whitespace-nowrap shrink-0 ${
                 isActive
-                  ? "bg-white/15 text-white"
-                  : "text-zinc-400 hover:text-zinc-200"
+                  ? "bg-blue-600 text-white"
+                  : "text-gray-600 hover:text-gray-900 hover:bg-gray-100"
               }`}
             >
               {REGIONS[key].label}

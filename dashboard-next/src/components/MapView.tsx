@@ -15,8 +15,8 @@ import zonesData from "@data/zones.json";
 import {
   COMPANY_COLORS,
   DEFAULT_COLOR,
-  DARK_TILE_URL,
-  DARK_TILE_ATTR,
+  LIGHT_TILE_URL,
+  LIGHT_TILE_ATTR,
   REGIONS,
   type RegionKey,
 } from "@/lib/map-constants";
@@ -82,9 +82,9 @@ export default function MapView({
       style={{ height: "100%", width: "100%" }}
       scrollWheelZoom
       zoomControl={false}
-      className="dark-map"
+      className="light-map"
     >
-      <TileLayer attribution={DARK_TILE_ATTR} url={DARK_TILE_URL} />
+      <TileLayer attribution={LIGHT_TILE_ATTR} url={LIGHT_TILE_URL} />
       <FlyToHandler region={activeRegion} />
       {filtered.flatMap((zone) => {
         const color = getZoneColor(zone);
@@ -120,13 +120,13 @@ export default function MapView({
             }}
           >
             <Tooltip
-              className="dark-tooltip"
+              className="light-tooltip"
               direction="center"
               permanent={false}
             >
               <span className="font-medium">{zone.name}</span>
               <br />
-              <span className="text-zinc-400">
+              <span className="text-gray-500">
                 {zone.area_km2} km² · {zone.companies.length > 0 ? zone.companies.join(", ") : "운행사 미정"}
               </span>
             </Tooltip>

@@ -100,8 +100,10 @@ def validate_companies(path: Path) -> list[str]:
             errors.append(f"{prefix}: 'fleet_size' must be null or non-negative int, got {fleet}")
 
         fy = c.get("founded_year")
-        if fy is not None and (not isinstance(fy, int) or fy < 1990 or fy > 2030):
-            errors.append(f"{prefix}: 'founded_year' must be null or 1990-2030, got {fy}")
+        # Lower bound 1900: 현대자동차 (id=10) founded 1967, plus other conglomerate
+        # parents that may join the dashboard. Upper bound 2030 keeps a sanity ceiling.
+        if fy is not None and (not isinstance(fy, int) or fy < 1900 or fy > 2030):
+            errors.append(f"{prefix}: 'founded_year' must be null or 1900-2030, got {fy}")
 
     return errors
 

@@ -1,5 +1,443 @@
 [
   {
+    "headline": "중국 자율주행 택시 100대 집단 멈춤…승객들 ‘분통’",
+    "summary": "중국 자율주행 택시 100대 집단 멈춤…승객들 ‘분통’  KBS 뉴스",
+    "source": "KBS 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10c2hlSUhIZGRmWVZ6VnFLSFNOQTQ5Umowa0xHd1NBcEtZd1BKdkxueTZuLXl4ZGRXZ2djQWtFd1BOOGJ5UFBzV19SRklweHJkNGhHTEZjdGVfQU0?oc=5",
+    "published_at": "2026-04-02T07:00:00+00:00",
+    "tags": [
+      "해외"
+    ],
+    "final_url": "https://news.kbs.co.kr/news/view.do?ncd=8524835"
+  },
+  {
+    "headline": "모셔널 CEO 로라 메이저 “올해 말 무인 로보택시 상용화 준비 순항”",
+    "summary": "모셔널 CEO 로라 메이저 “올해 말 무인 로보택시 상용화 준비 순항”  핀포인트뉴스",
+    "source": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84U1k4aUhISThjLVlBRUNhYXdxS1hzR0ZFZ1F4SWZ6MUpUallmSGJTaVRNT2ppOHhYWW8zWDZPanVXOVRiQUFBYTBiN1QtTG9XTVpGd0swWGVxbGVWS0NhQTNpV3RIU3doMU5CZ2tqUUhKb0HSAXdBVV95cUxNTFc2cWpybE5UajdkYmNfQ2RzNk9VcndOMHFNYXFRSUF6Z1hhMWtGREVVMVpueHd1Z05aY0plSm9PNDZTWndLQUM4dDJOQmVfVWRHckNwY2pRbmEwYUxpdzg2aU5vdUpTLWxKSHFSNE5CME5MNUxsUQ?oc=5",
+    "published_at": "2026-03-08T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=434880",
+    "companies": [
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "로보택시부터 오프로드까지…지리차그룹, 첨단 기술 향연 [오토차이나 2026] |",
+    "summary": "로보택시부터 오프로드까지…지리차그룹, 첨단 기술 향연 [오토차이나 2026] |  HeraldK.com",
+    "source": "HeraldK.com",
+    "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQNnVkWks4RExTQlhyZXZzaHlDT1NrMDJCN19VazNNSUlMR0NvdzNSeVZUd2RwRGpMTElzZ3FFUERXc0hhYTRzYUJCTEIydmdRSlo2ZDhTckhjMHY2enZQRnJ6QTVOYUNIblMzaTJrcmRSUW42RkUwa2VoNVU4b2RJTVRuVTgzNDhkNUxqSTM1eU5FZ0RtT2czZ2hhSVF5LUdXcno0R1lCMkNKcU16LUZYejN5VjRFc180ZHdlZUROU2xCZ1lkNzlPZ1BCa0NQYmpwWVczZlF4YjdvQno1MW9VV0R2TXdLRl9ucXU1UUx3U1V4b2FjbWFyMHhEekV1LUpDSGpKb09SVkl0S2xZTm5hdjY5V3VNOV9XeFdhZUNnbU1kNktHRXZ6UDFUbVZSWUZQZmh3b0o2dktJVUFyTTRwd2VnOThNWTA?oc=5",
+    "published_at": "2026-04-25T00:58:11+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://heraldk.com/2026/04/24/%EB%A1%9C%EB%B3%B4%ED%83%9D%EC%8B%9C%EB%B6%80%ED%84%B0-%EC%98%A4%ED%94%84%EB%A1%9C%EB%93%9C%EA%B9%8C%EC%A7%80%E2%80%A6%EC%A7%80%EB%A6%AC%EC%B0%A8%EA%B7%B8%EB%A3%B9-%EC%B2%A8%EB%8B%A8-%EA%B8%B0/"
+  },
+  {
+    "headline": "웨이모, 런던 자율주행 운영 본격화… 연내 완전 무인 서비스 승인 목표",
+    "summary": "웨이모, 런던 자율주행 운영 본격화… 연내 완전 무인 서비스 승인 목표  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQX2R6R1puN1hvZmtVMXRaNXBKZkQ3YWRSRFk5bE85QmpuNzJvdU5PQmF3a0VYbnZEOE1IZXFJcnNfLUNKUG9KS3ExTnVzcGowOUdhMmF0clg0Y3FXN1hRLWVUcjlVbzlPMHFUVG1fTnJzcVc3bk0zOTNZZm9GMGpwNXdrSXFFVWVHal9QUXJnR2VMVXQ3eS1yT2JIalhFMzJ0LTBYOWwtYXBNa2JIVGNtVHFSeC1QS09ONXliNWJGbFNXcXhMY2U3QTJMSmY3RjA0UGlLV3l0OWxJcXJRMTE0eGlrQl9tdklCcC1adEV5Z1Z1ZjBLRzhyYzlzUnQxNGxlNmFvSnBnQ0w5QQ?oc=5",
+    "published_at": "2026-04-20T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://auto.danawa.com/news/?SearchKey=press&SearchWord=%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%98%A4%ED%86%A0%EB%89%B4%EC%8A%A4&Tab=N1&NewsGroup=M20class=f_link_b&Work=detail&no=5999828"
+  },
+  {
+    "headline": "자율주행버스 A5 노선 유상운송 전환",
+    "summary": "자율주행버스 A5 노선 유상운송 전환  다원뉴스",
+    "source": "다원뉴스",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqQ1FTeWlENC03cTFtN1JhUjViY0YxWFlmeXFPVm5sckFjT1BEY29sd3B1ZW1HMVJxXzFfZ1ZjSkJVQWFGREFMaGxxVXRsNVRWamNpUDRVT2tuZDVjUmpidlhFVHBwYnpiUl91QTFaVQ?oc=5",
+    "published_at": "2026-04-29T00:58:20+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.dawonnews.co.kr/news/articleView.html?idxno=111317"
+  },
+  {
+    "headline": "춘천시, ‘자율주행자동차 시범운행지구’ 지정",
+    "summary": "춘천시, ‘자율주행자동차 시범운행지구’ 지정  참뉴스",
+    "source": "참뉴스",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aaDg2N0RHSG1mMkZ3b2JSTFA5eWE3dzEwMDJ2dkJZeVowODNRYzNsRkYtT3pfN1I2QmRIalhjQVN0RFh3T3JHbGZXQnlRZ0phRXlGX3EyNlQ3ckU3R1ZIUnc1aUJfSEhPMnhj?oc=5",
+    "published_at": "2025-12-11T08:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "final_url": "https://www.chamnews.net/news/articleView.html?idxno=237254"
+  },
+  {
+    "headline": "대구시, ‘자율주행 물류도시’ 본격 추진…국비 6억원 확보",
+    "summary": "대구시, ‘자율주행 물류도시’ 본격 추진…국비 6억원 확보  이뉴스투데이",
+    "source": "이뉴스투데이",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kelQtTm0wSGlxTl9jeWtTRFc0LXQtUmsxdVNYbkhSYzRIV1QwV2hXYmhrRVl4Q2hveU9JYlkxNUdPdFZzQzFLOHY4eXBiSWxMaUNKUTMtd2loWmIwMm1yTHZiU2k0X2JuQmhFMkdjTFM5Z0pY0gF0QVVfeXFMTmR6VC1ObTBIaXFOX2N5a1NEVzQtdC1SazF1U1huSFJjNEhXVDBXaFdiaGtFWXhDaG95T0liWTE1R090VnNDMUs4djh5cGJJbExpQ0pRMy13aWhaYjAybXJMdmJTaTRfYm5CaEUyR2NMUzlnSlg?oc=5",
+    "published_at": "2026-03-05T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "http://www.enewstoday.co.kr/news/articleViewAmp.html?idxno=2401546"
+  },
+  {
+    "headline": "4800원에 강남 누비는 자율주행 택시… 서울, 4월 6일 유료화",
+    "summary": "4800원에 강남 누비는 자율주행 택시… 서울, 4월 6일 유료화  mstoday.co.kr",
+    "source": "mstoday.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWGp6dWNQS3BSY19Kb0dVVWctZm5UUDdPTU1KNU5xVXVVN1pscWxINUJ5WTNyR1M0Z0F4Z2dxd19XZFZVV2hTcU9ZSHNqakZOVmg2cXRhTTNtcDNJcmN6b294aTRBVU5lQk5oY2U4VkhWX192Mm9ySTVZZGdQSHZmZXlsM29RTlBTYVlRakFnT2R4WGU2NVhxOEJGcHpQVHhwUHZyUGFpSFROQ3NLWE9vRnBBcHp2UG1QZHViUm9BUFBsOG13Y1U5WmdTaVlUNkE?oc=5",
+    "published_at": "2026-03-30T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.thepreview.co.kr/news/articleView.html?reply_page=636&total=21549&idxno=100992&replyAll=&reply_sc_order_by=C&writer_check="
+  },
+  {
+    "headline": "강남서 심야시간대 '자율주행 택시' 달린다",
+    "summary": "강남서 심야시간대 '자율주행 택시' 달린다  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxd2RBQkJYcWlCcnZlTlZkUV8zRDY5cDYtOUE5bTBRQTJ4WVpmOTRyQ2NUeE1HaktFYXBQZkRHdTNnVTJ4VkE?oc=5",
+    "published_at": "2026-03-15T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/boCpbEGhyX"
+  },
+  {
+    "headline": "부산 자율주행버스 BigAi, 이제 심야에도 다닌다…게다가 ‘공짜’",
+    "summary": "부산 자율주행버스 BigAi, 이제 심야에도 다닌다…게다가 ‘공짜’  문화일보",
+    "source": "문화일보",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IR0tHTTZWa0lvWXF1SENUN0RPeGVOQUhZd0lhcmllbElHQzBLLWt2aHNTMlRncU1ndExEYUVfOF9PcThhNl9nbElUMWZzdGMw?oc=5",
+    "published_at": "2026-01-26T08:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.munhwa.com/article/11563574"
+  },
+  {
+    "headline": "강릉시, 자율주행차로 심야 교통 공백 해소…이동권 확장",
+    "summary": "강릉시, 자율주행차로 심야 교통 공백 해소…이동권 확장  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wVzRuQWIwQzBqanZpOXA1TndWQl9ObS0ta01wN3NIZVdxV216Xy1VZUkzN09sWGI5bnNuQkZ5dFlKRjdtbTdfN3VDZVNpTWNjNy1lcVRPT3Z4bjDSAWBBVV95cUxPU04wWW5tcllpWWZDS29qdlc4dWdtYTIzME1MR2VVMFZxTEZQRnJjRURtSURTRHozYVBNUTdwc1NQMDBQTGNSS1JHSE9JVENwWE04TUZXRTNKVFpDNkJQQW4?oc=5",
+    "published_at": "2026-02-24T08:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.yna.co.kr/view/AKR20260224079500062"
+  },
+  {
+    "headline": "웨이모, 초현실적 자율주행 시뮬레이션 'Waymo World Model' 공개...토네이도부터 코끼리까지 극한 상황 학습",
+    "summary": "웨이모, 초현실적 자율주행 시뮬레이션 'Waymo World Model' 공개...토네이도부터 코끼리까지 극한 상황 학습  한국정보기술진흥원",
+    "source": "한국정보기술진흥원",
+    "url": "https://news.google.com/rss/articles/CBMinwZBVV95cUxNVVRQZ25RQndHZWVaOWp6ck5kbkNNemJvNmx5c2ZCWGQwMUREQnBQeG5lNllKdnp3bHdXejZUVEpfVkJYOEpyTnVqaFJQUWo5ZHdQUkZZLXhvREpVNWFfUGZENjVoSnNDaEFCVDU4VEFnSGFUSk1ZTXpoeGZZd2tMeFNtMHZ0b2RNcl9RS3R2ZzdxX1NVR3ptd2w4UkozanpBZV9LTlg2YXhWUlhaME9sbVo3Y2I2dWU2WjVncTZCLUtXQUJsSUprVFlSbV9KeC1NekIwcTF0bkY3aEJLU3dKc3JjMk5KaHRnM21obF9IZUh3bzRDbVpMbld4S0R4TmttTWNOUURwNGlUdG1FanFBZWpURmREUUNSemJKVWp3UW9HWGZhWDZuNnVGSkxNdTQ1U1NEcDZkY0JRNVRtZzZGVFNHYVZJc3dtT1ZvcnpGWXlpemp2MEJBWVJuc1p4WXlIREtPc2xFanhZaDJ0ajR4VGY4Mkx4cDRvNnVBc0g4ZVc3Nmg5dUNzcy1jUW9lcE1MSU9semEtZS1WakkzeWJqVTNCVnl3UzRPQW1mNUFzVFZKZjBra2hZOVdlR3ZYeXZ3T2lvMDdlYUQxcVppUlRmV3lKdmVBQmVJNUQ5Z1hmaXVsdXVXUjBxSVA3cGJwNUJ0ZGRrRXYxT1AxZWNyTUVJeXl4VHZCN0M5TUNBYk03TjBFSlZfMjRSOE1ma0dpRUJsbk1lTm05T09jcEVSVDlBeWlPTFFibnlYa3pVakFGa2N2MWk5ZUZKTWJtdzVkMlFUZF8xaEtfa1dsYk5fUU9kbXNfMHNoV3pDN2hjWFdjXzByeW5NMDU1Szh6VkdnU09yeUJjWUQyM1NmOWxzbFh4R3dSaC1OWWdMZThyZEVmQlZ6bWZBaUF5bWlzLUVUV0hMNkFrUGQ0UTQxVE9aQm51b0I0TEYtRi1mSzFyUjBpdTZJQWZTZXFLUHhBNXQyNlZ3N1dkWk9rdWlLSlp1RHNBNlZZNGNlUlZvbWJDbkRFSi1yZ1JTMV91bkd2bzcyVFk1YWh2aUlXYzQ1ZnpTeHE4?oc=5",
+    "published_at": "2026-02-08T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://kitpa.org/news/1043?title=%EC%9B%A8%EC%9D%B4%EB%AA%A8%2C%20%EC%B4%88%ED%98%84%EC%8B%A4%EC%A0%81%20%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20'Waymo%20World%20Model'%20%EA%B3%B5%EA%B0%9C...%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84%EB%B6%80%ED%84%B0%20%EC%BD%94%EB%81%BC%EB%A6%AC%EA%B9%8C%EC%A7%80%20%EA%B7%B9%ED%95%9C%20%EC%83%81%ED%99%A9%20%ED%95%99%EC%8A%B5&tags=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0&image=1271bfef-7ca5-4cf9-8e94-fb400b97a007&createdAt=Sat%20Feb%2007%202026%2022%3A38%3A41%20GMT-0800%20(Pacific%20Standard%20Time)"
+  },
+  {
+    "headline": "로보택시, 美·中선 일상…한국은 '감감'",
+    "summary": "로보택시, 美·中선 일상…한국은 '감감'  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JamQ2UWZnVmZDM2lqRWdDRGtoMlN2TkVQQzRDdjNLSGhoYkZaeTlPX0tDcHJBX2pFMkh4Y0UxaEpkdkZKTXZKU1BkNHZmTUljRmo0?oc=5",
+    "published_at": "2025-05-25T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20250525n16315"
+  },
+  {
+    "headline": "쏘카, 1천500억원 자율주행 법인 설립…크래프톤 투자자로 참여",
+    "summary": "쏘카, 1천500억원 자율주행 법인 설립…크래프톤 투자자로 참여  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15QS1uNEJIb01pbWs2Mll0UnhOVE1SX253Z0hCajJzUktlYkxiamptb01udEtIVFBIamZtUV95YmRqT1Y1ZjVpd1FJY2o5Y19iNFFrNHEyay1fb03SAWBBVV95cUxQZW1NdHZpT3gwQTdQbS1vbjFDWmdYVUZ0WTN6aVNJSHUwRTdhbGprSXFTRjRtZWtlOG9GZENsdEZYV3hvN243MS1iNjZNck9pQzNNbGlucS1RekpLVDBPaC0?oc=5",
+    "published_at": "2026-04-30T06:40:23+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.yna.co.kr/view/AKR20260430154100030",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "[현장] 쏘카, 자율주행 경험 확장...테슬라 'FSD 구독' 론칭",
+    "summary": "[현장] 쏘카, 자율주행 경험 확장...테슬라 'FSD 구독' 론칭  한스경제",
+    "source": "한스경제",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxTzRORzVnVTUyX3JQYzVyV1RqTW1JYmE0eVFaSkVXSXRCcnBiT1Z2T3B0eTFrSmlJall4TFQweGVsX0hTbTFWNjVrcWRTTHNhVlpDaGNDQmZmYVJiT1d1SzNWSWFfdUVYMUlZ0gFvQVVfeXFMTTNMOFd6b3hUNDh4T0tKMUNaNzY4UzB4cm9saXNPWmQ0SThrcXA0ZFRic2F1VC1WdS1hSWJIVEtYZjI3cHVKTG42ajZMV0tGVVh6M0lRNUxXSzYxS3JBU0R0SkVzNVh3LTk3UGhMdGFv?oc=5",
+    "published_at": "2026-04-29T04:40:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=836068",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "“비싸도 탄다” 월 이용료 399만…쏘카 테슬라 예약 폭주",
+    "summary": "“비싸도 탄다” 월 이용료 399만…쏘카 테슬라 예약 폭주  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HNGVUeWZvSUdXeGhJNTBLZFdVckxjY0ZJVnhWWUZwclZXRFl0ZTl6NG5McDdkTWZlb003VTd1ZzlvUVVqaEE?oc=5",
+    "published_at": "2026-04-29T03:23:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/ulVz5Sb0h7",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "\"FSD 되는 테슬라 빌려타면 되네?\"...쏘카 큰그림 엿보니",
+    "summary": "\"FSD 되는 테슬라 빌려타면 되네?\"...쏘카 큰그림 엿보니  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KbUhMUHcxWTdrQ2s1cnhCY3NHQWhOaENsZGdOa2JTenA4Mk9ZUmJhZjkzVDBSMGdlWlhHTS1aRVRJajRwMTZHOXdwdw?oc=5",
+    "published_at": "2026-04-30T00:04:13+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/q5YSKivmo1?f=p",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 1500억원 규모 자율주행 법인 설립…상한가 직행[핫종목]",
+    "summary": "쏘카, 1500억원 규모 자율주행 법인 설립…상한가 직행[핫종목]  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RX0o3M3Bob3pPS3dTUWVMcHVHdThmemtpcWVNWnVPVDd3M1FxVmxOMkdmTUh5MkZ2UnFfMHg5Mmtpa1QtY0RBNmZ2cy0wUVJ1a1lhdEp5d2xDOGstbEHSAV5BVV95cUxNUV9KNzNwaG96T0t3U1FlTHB1R3U4ZnpraXFlTVp1T1Q3dzNRcVZsTjJHZk1IeTJGdlJxXzB4OTJraWtULWNEQTZmdnMtMFFSdWtZYXRKeXdsQzhrLWxB?oc=5",
+    "published_at": "2026-04-29T19:33:40+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.fnnews.com/ampNews/202604301632594988",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카로 테슬라 FSD 탄다…자체 데이터로 자율주행 시동",
+    "summary": "쏘카로 테슬라 FSD 탄다…자체 데이터로 자율주행 시동  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KY3IyUFAtYkIzdWNWSWFnS05TV3ZSNlZlTDJBd3NBWUZOcUFfd0tqeTFBaVY5Qi16MkYzTkU4N0hfYUExVGdEd3J4SmxZLWZQcVplaw?oc=5",
+    "published_at": "2026-04-28T01:15:46+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/20260428101546876?f=p",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 1500억원 규모 자율주행 법인 세운다",
+    "summary": "쏘카, 1500억원 규모 자율주행 법인 세운다  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81V04zZHBHS3hldVBpODF1UHYwbktaRlhjQlNvT1VDRnc0c2hNU1hmSWRMcVBVTHREdGQzWmtuWU5RazZPUkZjNzRIODVHdFhKZWI0?oc=5",
+    "published_at": "2026-04-30T06:06:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260430n24320",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카 테슬라 FSD 인기 폭발…10일 만 예약 2000건 몰려",
+    "summary": "쏘카 테슬라 FSD 인기 폭발…10일 만 예약 2000건 몰려  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GTjRKMlB2SU5wdGE5azlUb09GSkxWS3pJZktJNFpMbk1xSEc0ZWF4ZGYyemdhdzI5RGs5N0pkQWM2WnpvSkE?oc=5",
+    "published_at": "2026-04-28T06:44:10+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/GQ0n97LxGs",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 크래프톤 대상 650억 규모 제3자배정 유상증자 결정",
+    "summary": "쏘카, 크래프톤 대상 650억 규모 제3자배정 유상증자 결정  fetv.co.kr",
+    "source": "fetv.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WWndQWHl2Rk1BcVBPUnowcEtfa3J5VmNKVXZVb1lNMUxCeEUzMlNTOVg0elFudFcxakVteFRMdnlHc0k0a3pwSTNoUWpWSEp6al9acVJoYWNtbXo4STdCV3pSaXI5LXRI?oc=5",
+    "published_at": "2026-04-30T08:46:53+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.fetv.co.kr/news/articleView.html?idxno=301624",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "현대오토에버, 쏘카 출신 류석문 대표 선임…車 SW 허브에 모빌리티 개발자 투입한 속내는",
+    "summary": "현대오토에버, 쏘카 출신 류석문 대표 선임…車 SW 허브에 모빌리티 개발자 투입한 속내는  뉴스워커",
+    "source": "뉴스워커",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXM0Rm9zVHdJZE9NQktKZGtHSDdWeDNaS3h2MzlYcnhMdXIwYXQxV2oxOVYwQzZsUW5JT1lMcXZHWFFxRTN1ZGlYVGpxQ1pteXpTcG9DSnBEYkIwTkZfVDVqN2JsRDRqSHdvaTkyUdIBc0FVX3lxTE5xSENKS0gzU3BwQU5Gai1SM3FRRDRLN1Z0MVNGMHhzcTlSRzJLYXBIcmNIR1RnU1A4TXA4LXFSVUZ2X1Q5NzBnZGIwQ2g0WG5nWVJ3aEJMLW9qVjliYm5xZFpaODJqdkppcS0wbWwySzA3YzQ?oc=5",
+    "published_at": "2025-12-26T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "http://www.newsworker.co.kr/news/articleView.html?idxno=408375",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "[단독]타다 주역들 다시 뭉쳤다…자율주행 재도전 나선 쏘카",
+    "summary": "[단독]타다 주역들 다시 뭉쳤다…자율주행 재도전 나선 쏘카  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaUEVkcUpJcmZLdDZvSG42M2pkVTNvcl9XdGRjUTlHV0NYMVZZZ3Jyd19uMTlYbUMtN1E5VEh0SDJqekdzaDB0ZWZYaTBPblJ5YWxr0gFTQVVfeXFMUFpQRWRxSklyZkt0Nm9IbjYzamRVM29yX1d0ZGNROUdXQ1gxVllncnJ3X24xOVhtQy03UTlUSHRIMmp6R3NoMHRlZlhpME9uUnlhbGs?oc=5",
+    "published_at": "2026-01-14T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://m.sedaily.com/amparticle/14170781",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "이재웅·이해진 IT 1세대 창업자들의 귀환…\"AI 시대 대비\"",
+    "summary": "이재웅·이해진 IT 1세대 창업자들의 귀환…\"AI 시대 대비\"  ebn.co.kr",
+    "source": "ebn.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03UmlfV0gydkV1a0RsQ1lhVlV2RFhaQ2NsQTFQVUt0RDZ6UExTT0VJMkRkcUF2VlZyeGk4UzMzakRkNjZzVDdZV2hGNzZJY0p4b1UzUVgyOU9jSWdVWEM4SDRzTW42WTlU?oc=5",
+    "published_at": "2026-01-05T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1693813"
+  },
+  {
+    "headline": "쏘카, 이재웅 복귀 초읽기…카셰어링·자율주행 승부수",
+    "summary": "쏘카, 이재웅 복귀 초읽기…카셰어링·자율주행 승부수  서울경제TV",
+    "source": "서울경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CbDVMSy10WnFvZlFabGY3cVZudDFUSmFzcjNlYXVvdFRWLUpyNHp3MGdrRVlhS29JNzhOSW5VaGdyUkZOM1FrUUJCaW5obEZCMzhoS1BTVGF4Vm9scHFXbXlLQVE?oc=5",
+    "published_at": "2026-01-14T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.sentv.co.kr/article/view/sentv202601140077",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "[단독] 이재웅, 6년 만의 쏘카 복귀…'자율주행 골든타임' 잡는다",
+    "summary": "[단독] 이재웅, 6년 만의 쏘카 복귀…'자율주행 골든타임' 잡는다  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXOGs3QVJtZjhGYzVhMksxR24zZktENzVpVU96eVplcThOTHpybVNVNUtmcXdkUE5LYzlHd2JKTmVTcVlTaExVZG1GRQ?oc=5",
+    "published_at": "2025-12-31T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/XccSGanQvL?f=p",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "이재웅, 6년 만에 쏘카 복귀…박재욱 대표는 자율주행 사업 집중",
+    "summary": "이재웅, 6년 만에 쏘카 복귀…박재욱 대표는 자율주행 사업 집중  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1keWxHYmpfQVcxWU9EOWZyRlMzN2p0aURwbjlOTHlTTzNvV0JYRUlNMEhMX0VGNmpJNXdCQXdqVURQcG1qeEtJRkMyWTRkVWVzVVHSAVNBVV95cUxOTWw3NHE0YlhfLXoyV2RvUW1mMTFtWVFFSmhhMjg2blVmak1BNHp4d1VIbW04bUk0YUU3amRKRlA2YjVpdnFzUkdpVmF4MGRkVS04OA?oc=5",
+    "published_at": "2025-12-31T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.sedaily.com/article/14164729",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "6년 만에 복귀하는 이재웅 쏘카 창업주, 장내매수로 지분 늘려[이런국장 저런주식]",
+    "summary": "6년 만에 복귀하는 이재웅 쏘카 창업주, 장내매수로 지분 늘려[이런국장 저런주식]  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUTB2QkdYRHdBc3lNdGVjd1Vyc2YyNHhOWjFHWHdJM1VxZUtKTVc4clRiVFhWOEsxTzlLVnd2WktXcVoxVFVsR3JscHlPbWd5YlHSAVNBVV95cUxQaEE0TWtvOUNIbGdlV0Rtc19pMFZEZ0pDTjlUMWtSMFNoU09Wam50MG8zX2lINzU0MFdDeFZZaVBrUDE5NFFqLU1FLVRnczBfR0ZRWQ?oc=5",
+    "published_at": "2026-01-20T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.sedaily.com/article/14173388",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "이해진·이재웅·김택진…AI 파고에 경영 최전선 뛰어든 '창업 1세대'",
+    "summary": "이해진·이재웅·김택진…AI 파고에 경영 최전선 뛰어든 '창업 1세대'  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEUDBnZVpWSHRDRF9qdW1jSnJkS1dBN2xiWVV5UWxyamFvZ2FYNVdWNWpObTZZN1pPWlZvenU4N2lNM3g5cVpRMlZCdmVPOW8yT1hBbFlzSHJyQdIBVEFVX3lxTFBwSXp4ZllrVEJabDI3R1RQNy1rYTA4eUN2bFRfb2ZldEhqdVptTUdQNENSNjJvOWxUeTZqQ3RkUEx3RGNpbHpuanJSUlFDQ0ExUHRFRQ?oc=5",
+    "published_at": "2025-12-31T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hankyung.com/article/2025123152381"
+  },
+  {
+    "headline": "[버핏 리포트]쏘카, 지난해 카셰어링 흑전·중고차 매각 재개…턴어라운드 기대-NH",
+    "summary": "[버핏 리포트]쏘카, 지난해 카셰어링 흑전·중고차 매각 재개…턴어라운드 기대-NH  버핏연구소",
+    "source": "버핏연구소",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SQnZ2MW0xVDQybU5yTTdLZC1xbnBxQy1zclVtM0V5dl9XU0tQbUZORy1qRnZRaTFFVThsQmhmdTBWSUhxWlNXVkE5ZVR6Ymw2UjE2eW96bWdRZFEx?oc=5",
+    "published_at": "2025-02-21T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://buffettlab.co.kr/news/view.php?idx=49519",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "\"쏘카, 올해 매분기 이익 개선 전망\"-NH",
+    "summary": "\"쏘카, 올해 매분기 이익 개선 전망\"-NH  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YQm1UWUJIenMyazc5MzljdUFBbDlFc1BoV1RXaEdxVHRjbmw3MUN1LUpLR2kzQl90dEZYR3pkQkVkd0Z3YUVDdWI3UXd1b3owOFBhRlRyaHJ1QdIBVEFVX3lxTE9OUll4Z2o3R0JPR25jWmg2R01JMUVjaENkOHF4bldBQjFPOXFIeGpHTDZKeGhQUmF0NUwyVVFFTThKNWdYZ0xRZzZNMU51TjlHc2diZg?oc=5",
+    "published_at": "2025-02-21T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.hankyung.com/article/2025022196676",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "이해진·이재웅·김범수…AI 격변기가 소환하는 ‘벤처 1세대’",
+    "summary": "이해진·이재웅·김범수…AI 격변기가 소환하는 ‘벤처 1세대’  한겨레",
+    "source": "한겨레",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HUTQ4SlVrd3BhQWx3dVVaT1ZGdkxrcXV2VFFDRXRtcmREYjRnaHkwbHRwSWttbjNzR2NTdmU5OS1jUnh0ZlNGZlVGLXBTVkNQX0hEVURreWxwVTI3UmdLZw?oc=5",
+    "published_at": "2026-01-19T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hani.co.kr/arti/economy/it/1240531.html"
+  },
+  {
+    "headline": "[팩플] 직접 타봤다…실험실 탈출한 '로보택시 4룡'의 진격",
+    "summary": "[팩플] 직접 타봤다…실험실 탈출한 '로보택시 4룡'의 진격  중앙일보",
+    "source": "중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoWmtTek52czA5ZmZWaWU0cWozZ2xObEhuelJaNmhNV3lqbTJDTzNVZndhQ0tOWmNMc1ZfaTc5aXZHYTg4a095d2tvTzUxTEEyYVVQM1FB?oc=5",
+    "published_at": "2022-01-25T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.joongang.co.kr/article/25043260"
+  },
+  {
     "headline": "테슬라 모델3보다 싸다 중국의 레벨4 로보택시 기습 공개... 자율주행 주권 뺏겼다",
     "summary": "테슬라 모델3보다 싸다 중국의 레벨4 로보택시 기습 공개... 자율주행 주권 뺏겼다  MSN",
     "source": "MSN",

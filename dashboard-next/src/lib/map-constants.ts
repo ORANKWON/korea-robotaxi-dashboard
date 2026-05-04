@@ -34,5 +34,11 @@ export type RegionKey = keyof typeof REGIONS;
 // readable + place names visible without the eye-strain of pure dark mode.
 export const LIGHT_TILE_URL =
   "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png";
+// Phase 5 (zone-polygons-v1) — added vuski/admdongkor attribution alongside
+// CARTO + OSM since several zones now derive their boundary from union of
+// 행정동 polygons in that dataset. Renders into Leaflet's bottom-right
+// attribution control, the standard place readers expect data sourcing.
 export const LIGHT_TILE_ATTR =
-  '&copy; <a href="https://carto.com/">CARTO</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>';
+  '&copy; <a href="https://carto.com/">CARTO</a> &copy; ' +
+  '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>' +
+  ' | 경계: <a href="https://github.com/vuski/admdongkor">vuski/admdongkor</a> 행정동';

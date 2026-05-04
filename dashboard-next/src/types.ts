@@ -108,6 +108,10 @@ export interface Zone {
    * migration — zones still on hand-drawn `boundary` won't have these.
    */
   dong_codes?: string[];
+  /** Korean short names matching `dong_codes` index-by-index (e.g. "역삼1동").
+   * Baked at build time so the UI tooltip can render them without loading
+   * the 33MB vuski geojson at runtime. Locked-in by Phase 5. */
+  dong_names?: string[];
   /** e.g. "행정동 union (vuski/admdongkor 2025-08-05)". Build artifact. */
   boundary_source?: string;
   /** ISO timestamp when scripts/build-zones.ts last regenerated `boundary`. */

@@ -129,6 +129,17 @@ export default function MapView({
               <span className="text-gray-500">
                 {zone.area_km2} km² · {zone.companies.length > 0 ? zone.companies.join(", ") : "운행사 미정"}
               </span>
+              {zone.dong_names && zone.dong_names.length > 0 && (
+                <>
+                  <br />
+                  <span className="text-gray-400 text-[11px]">
+                    행정동 {zone.dong_names.length}개:{" "}
+                    {zone.dong_names.length <= 4
+                      ? zone.dong_names.join(", ")
+                      : `${zone.dong_names.slice(0, 3).join(", ")} 외 ${zone.dong_names.length - 3}`}
+                  </span>
+                </>
+              )}
             </Tooltip>
           </Polygon>
         ));

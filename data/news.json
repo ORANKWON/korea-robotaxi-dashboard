@@ -1,5 +1,396 @@
 [
   {
+    "headline": "중국, 자율주행 택시 200대 운행 중단… 자율주행 차량 허가 발급 중단해 도로 마비.",
+    "summary": "중국, 자율주행 택시 200대 운행 중단… 자율주행 차량 허가 발급 중단해 도로 마비.  Vietnam.vn",
+    "source": "Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0g1N05hanA5Wk9IT0l5TUZXMFFGZDVZSm95bC00MUNUb1F4WUNITUJYUF9HQXpqcVJUYl8wN3lKOHdRM1J0S2NuWjhqVWU2Wmk5RWVXUnVKamloS3UwajdMdENNUFhHRUJ4V0IzVnhrQlhEVXE5a0NaUU5EbEV2Vjc0YzVhSUtqdmpnOXdqay0wQ3N2ZDJr?oc=5",
+    "published_at": "2026-05-04T02:25:41+00:00",
+    "tags": [
+      "정책",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://www.vietnam.vn/ko/200-robotaxi-te-liet-giua-duong-trung-quoc-dung-cap-phep-xe-tu-lai"
+  },
+  {
+    "headline": "쏘카, 크래프톤 손잡고 '레벨 4 완전 자율주행'에 로보택시까지…\"타임라인에 주목할 시기\"",
+    "summary": "쏘카, 크래프톤 손잡고 '레벨 4 완전 자율주행'에 로보택시까지…\"타임라인에 주목할 시기\"  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sSkdtcUhjRnRFSno4SmRvcWVFWG10NnhkY1plYXJpREtkNXQwY01JSi1sZWtheVYyZmE5b09CR1U0MWhidG5reTRpa0FMUFhPRU5Z?oc=5",
+    "published_at": "2026-05-03T23:10:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260504n03648",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "로보택시·휴머노이드로봇 수주가 밸류 재평가의 핵심 변수",
+    "summary": "로보택시·휴머노이드로봇 수주가 밸류 재평가의 핵심 변수  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TMk5zRkJiUi1YNy0xTmhxQlJfeGFkZ2VWcTJpaGhwRk5tYmJKMFpPU045LXVFNkRhazFTcFY5YkxaUm5kb2pRYXpNdXdSSVAtWExSVll2aGs2Z9IBVEFVX3lxTE8xTkl3eE1BODNybEtWT2s5NHBJblRCVFZtb1lxelBtZmFya2JBRTlQUnphU3p2UkZDcmtJU3pILTdtV2FMS0F6NE9waUNXVTNtc3lhbg?oc=5",
+    "published_at": "2026-05-04T00:15:10+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hankyung.com/article/202605043713i"
+  },
+  {
+    "headline": "시범사업서 대량생산으로 전환…“로보택시, 2035년께 130만대 돌파”",
+    "summary": "시범사업서 대량생산으로 전환…“로보택시, 2035년께 130만대 돌파”  IT비즈뉴스",
+    "source": "IT비즈뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NNTdDOWFqZ0ducV9PX20tU1VCVHZpRlVPMUFzOGtCWENFUDY0TDB5T2VHSkhMYkZGQUJ5bTQ2VkdmM0hpam1LdTJnRkdHdEFIVFRCRFZXX0wtbGtYY2V4UDlLekJXbHlDc2kzQg?oc=5",
+    "published_at": "2026-05-04T00:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.itbiznews.com/news/articleView.html?idxno=211711"
+  },
+  {
+    "headline": "\"韓, 로보택시 대중화 위해 과감한 인프라·사업화 지원 필요\"",
+    "summary": "\"韓, 로보택시 대중화 위해 과감한 인프라·사업화 지원 필요\"  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jY0dyWkx6V0Z6VHF6Q2dkZDU0R1VjTVFnYnk2akdBcnNoMWQ1Z1dwUFRFNXhQZXBWcWFGX2Vibzh2ejZVYXU0WHZ1dV8yQ0pTQ2FqRw?oc=5",
+    "published_at": "2026-04-28T21:03:06+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/20260429060306109?f=p"
+  },
+  {
+    "headline": "서울 새벽동행 자율주행버스 유료화…요금 1,200원",
+    "summary": "서울 새벽동행 자율주행버스 유료화…요금 1,200원  연합뉴스TV",
+    "source": "연합뉴스TV",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81QjJMTWVxWUZ6SkNyMmlsYl9VWDY3ZFpwSVJGODlna1o5Vjh2QXdCMkRUNGY3ZnpKWmNpalQtSngzZmJDcFpRcUFMNHd4T3BpSlBRMEJ5WnBBdUpQRGN6Q0ZWcWg?oc=5",
+    "published_at": "2026-01-04T08:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://m.yonhapnewstv.co.kr/news/AKR20260104100125Qy1"
+  },
+  {
+    "headline": "카카오모빌리티, 자율주행 레벨4 청사진 공개",
+    "summary": "카카오모빌리티, 자율주행 레벨4 청사진 공개  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OWWpIYzBJbjZBWjFIc19wYlhiWm54UFhlVWJBX01yS1N3YUQtQll2cnpmclo3RGNWOTVHVUxzR2N0N1RwbUZRWEVpdHN2bkduNVZCSQ?oc=5",
+    "published_at": "2026-04-23T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260423094313789?f=p",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "자율주행차 미성년자 탑승, 누가 책임지나",
+    "summary": "자율주행차 미성년자 탑승, 누가 책임지나  브랜드경제신문",
+    "source": "브랜드경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qZkdhVVRiREY2eGtXN28xdUhsdzkxeko5WkFMUEZQRmJfcDhlaDFKMXJIb2Y4QzRUbi1LQzVTOUVWS0VDYVZNYkc3Z0E?oc=5",
+    "published_at": "2026-05-04T01:37:10+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.benews.co.kr/news/495928"
+  },
+  {
+    "headline": "미 해병대가 AI로 무인 로켓 차량을 굴리기 시작했다",
+    "summary": "미 해병대가 AI로 무인 로켓 차량을 굴리기 시작했다  데일리방산",
+    "source": "데일리방산",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YdnczQ0F5TDhSS0VkT1ljYUhGMWJfTWhtZzhCT3NPTTFwNm9VcDktc2VyUUZnX01wRDlRWDBZYmlqazlBLUF1ZmJTOFBBUC1PdnJieXRiVG1JQ1hPc0dZVGdLLWNsUGNfOWxKdGlGTzU?oc=5",
+    "published_at": "2026-05-04T02:34:06+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=1103"
+  },
+  {
+    "headline": "CES 2026 | 자유로운 모빌리티 경험을 제공하는 자율주행과 주차 로봇 기술",
+    "summary": "CES 2026 | 자유로운 모빌리티 경험을 제공하는 자율주행과 주차 로봇 기술  Hyundai Motor Group",
+    "source": "Hyundai Motor Group",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZZ1RJTDBwQ2Q0RDJhRUdWaDlnY1d2TlFGMjZGYzVUZzFRYkR2MVJYVUpXTVo1NlZFT2N6RTI3dlZXZlZOcW96OWVDSEhzRlczYnp6cWtiNENDMTVlV3Q5N3BwUFBONUZBdGFrYQ?oc=5",
+    "published_at": "2026-01-07T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hyundaimotorgroup.com/ko/tv/CONT0000000000198434"
+  },
+  {
+    "headline": "광주 전역 '자율주행 테스트베드'로…현대차·에이투지·라이드플럭스 낙점",
+    "summary": "광주 전역 '자율주행 테스트베드'로…현대차·에이투지·라이드플럭스 낙점  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSUFMxTFRjRzdGXzlxLTV6ZmtXUHJsci1JcVFtUkgwX3hMLWpyOHl0enUyRFBXejVpNEwyN3JCc3dWQThpMEU2RkVSc3B4a1F5SFRv?oc=5",
+    "published_at": "2026-04-28T02:20:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260428n13356",
+    "companies": [
+      "현대자동차",
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "광주 전역서 자율주행차 달린다…현대차?A2Z?라이드플럭스 등 참여사 선정",
+    "summary": "광주 전역서 자율주행차 달린다…현대차?A2Z?라이드플럭스 등 참여사 선정  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jNTNjZHluWXBMbHpXTnBudU5fVmR4UnhlYllDc25OS18xYlAwZHh0cW1KQWlwU2EzQWY5SmFTcTAyT21ORGhPVlNVVGRsbXpIMnVn?oc=5",
+    "published_at": "2026-04-28T04:45:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260428n18578",
+    "companies": [
+      "현대자동차",
+      "라이드플럭스 (RideFlux)",
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "파주시, ‘자율주행자동차 시범운행지구’ 신규 지정",
+    "summary": "파주시, ‘자율주행자동차 시범운행지구’ 신규 지정  pajuminbo.com",
+    "source": "pajuminbo.com",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XdllsdGgzRGEtOEE5YUVRZEtVVVJfZ1ZHNVN6M3dKN2lNbDBjcXdaWXhYb0sydDAzWkE5UTZQblJBTlo1VnJRempDVEQwZEFybFJMM09yaWxnTUpmTVdCRXhadTh4Nko4Mnc?oc=5",
+    "published_at": "2025-12-09T08:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "final_url": "https://www.pajuminbo.com/news/articleView.html?idxno=9368"
+  },
+  {
+    "headline": "올 하반기 광주 전역에 자율주행차 200대 운행 광주시, 대한민국 첫 ‘자율주행 실증도시’ 지정",
+    "summary": "올 하반기 광주 전역에 자율주행차 200대 운행 광주시, 대한민국 첫 ‘자율주행 실증도시’ 지정  무등뉴스",
+    "source": "무등뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OXy1oTlYxWjR6WHkwQWlDdENKbGhSYVZ2QUJlMDFlaWJkSU5DcTE0ZEttRXZmM3d1a09wenB0YlNBSWV6UjZEMENRMWhQWHBjNW5fWi1wUTI5RzZRRVROTEtDeHpmelE?oc=5",
+    "published_at": "2026-01-21T08:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "final_url": "https://www.mdns.co.kr/news/articleView.html?idxno=31181"
+  },
+  {
+    "headline": "전구간 자율주행 버스, 오늘부터 서울 달린다",
+    "summary": "전구간 자율주행 버스, 오늘부터 서울 달린다  동아일보",
+    "source": "동아일보",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51QkpVYVBKQXlGYzRqQ0NkNjVwUS1vNG4zalBVaGxHVUpSVk9EdUhocUN3UnRzaV9BLUxGWUpPVVVPS2ctN3NLcXRWY0RGdXJXNlhJY3VTTGxBMEtaSEVCLTctX0hpenZORFZSZUh0eXNaU1U4MkHSAWZBVV95cUxPQXJBQnhRSEVjSHlsbEhjaWlqVFgwLXJwaEwtNnNRQmY5QmVKT1U4ZmNMTlRGTHo3UGtKT0UzMmJ0M3JGSTdsb1VMalhPSlpoNm96YlV4QWw2RVVSeGI2bXBxUk9ub0E?oc=5",
+    "published_at": "2026-03-30T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.donga.com/news/Society/article/all/20260330/133632802/2"
+  },
+  {
+    "headline": "김철현 의원, 관악역∼안양예술공원 자율주행 노선 신설… 관광 활성화 기대",
+    "summary": "김철현 의원, 관악역∼안양예술공원 자율주행 노선 신설… 관광 활성화 기대  도민연합뉴스",
+    "source": "도민연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50WkEzUGh3OVVTZlYtNjNvTDBPZjNacTlmUHhQaU9KNV94ZkI4c0JCWlFkc1FWTV9vQUtnWUtRZk9hTFdub2Fyc08xcHNHaEZ5bXYxM2xISVRCTEItaUFjS0kySnk2TEw5Wnc?oc=5",
+    "published_at": "2026-04-27T08:11:04+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.krcom.co.kr/news/articleView.html?idxno=142763"
+  },
+  {
+    "headline": "목포 도심을 자율주행으로 잇는다… 국토부 시범운행지구 선정",
+    "summary": "목포 도심을 자율주행으로 잇는다… 국토부 시범운행지구 선정  베타뉴스",
+    "source": "베타뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tNkxJX0RrTmlua01DSGN3Tkd3RjZ6QXk3QTFsSkwxd0RBQWMwY0xCZFl3eFFJaDJpWG9MeWFpaTBNemg2QzdiMm15dFdpY0xXWjZGRnpUOUhQMTdHTmR3LXJZRG0?oc=5",
+    "published_at": "2025-12-15T08:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "final_url": "https://www.betanews.net/article/view/beta202512150074"
+  },
+  {
+    "headline": "[fn이사람] \"강남 누비는 로보택시 연내 20대로 늘릴 것\"",
+    "summary": "[fn이사람] \"강남 누비는 로보택시 연내 20대로 늘릴 것\"  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YZlNYclNnaHduN3dKMmR5aHExVnFqUnhwUVF5Z3lmY0NBeVVwNk1WWWR4MnhIWUF0bGJ6QnZNeVlvRk40eHpDbG1McHYxc28?oc=5",
+    "published_at": "2026-04-22T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/20260422181151300"
+  },
+  {
+    "headline": "4800원에 강남 누비는 자율주행 택시… 서울, 4월 6일 유료화",
+    "summary": "4800원에 강남 누비는 자율주행 택시… 서울, 4월 6일 유료화  mstoday.co.kr",
+    "source": "mstoday.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOG5kWlI1RVQ2cDV5dG9MaGdhZTJPdHJORGlETjJCMEVBWWdzQVNzbll0WjRDaFM4T3ZWQi1wekhGODFkdGhCQVpqZHZzTEFuenN3X1k4eDZHcTdtb0dSQzEtZWM3MlVPZ2x2d1RKWk84YW5UbmxnamFGR0V2eEN5REhObFRiSkEzVHVwaUtXTVc2SVY2M21jX1NwN0RDSkpwYVhFT3ZyV0J3U3l3eEQyNkhWR3ZLT0dfYjlpWVA4S1puSG1zU1BXR3lGc2ZtX0U?oc=5",
+    "published_at": "2026-03-30T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.thepreview.co.kr/news/articleView.html?reply_page=896&total=21549&idxno=100992&replyAll=&reply_sc_order_by=C&writer_check="
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 로보택시 확대…토레스 EVX 추가 운영[재율 아빠 국산차 업계 소식] : 네이버 블로그",
+    "summary": "KGM, 구역형 자율주행 로보택시 확대…토레스 EVX 추가 운영[재율 아빠 국산차 업계 소식] : 네이버 블로그  Naver Blog",
+    "source": "Naver Blog",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56Z09FbmM4Snd3Ql8xREJxbnF3WXhwX2dZNUo1UzA2Z1hURFpNelVEenBzTDF1dUNYdFQ4SGYzX251Q1drYURyLXU1TnFRcXdMVzVuMUdUZnRfU2dBVURYanJNYlA?oc=5",
+    "published_at": "2026-04-21T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://blog.naver.com/nasimo/224258300050?viewType=pc"
+  },
+  {
+    "headline": "[미래포럼] 중국발 자율주행 혁명, 한국이 갈 길은 플랫폼 강국",
+    "summary": "[미래포럼] 중국발 자율주행 혁명, 한국이 갈 길은 플랫폼 강국  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPWkRYMFdteDFvLTl6V2xTT2N6ZGhKY0JtVzNkNjA2WG05NUgyQWNUdGNMRzVSejdmWUtjX1VseEM4a25YbVExaWNvRlhHZw?oc=5",
+    "published_at": "2025-06-17T07:00:00+00:00",
+    "tags": [
+      "해외"
+    ],
+    "final_url": "https://www.etnews.com/20250617000024"
+  },
+  {
+    "headline": "포니AI, 포니링크 지분 확보로 영향력 확대 나선다",
+    "summary": "포니AI, 포니링크 지분 확보로 영향력 확대 나선다  아시아경제",
+    "source": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fM3lqNmtKM1dzVEozajlUR1hoTDJ6d2ZvVjUtZW9McENjSERIUExEQUFqOHgzX1FQZEYydmVnMVZjTXhtWTVpX0wtQXdteVdMbVhqd09YaDJscWRMeXdIVg?oc=5",
+    "published_at": "2024-08-08T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.asiae.co.kr/article/2024080810414773155",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "쏘카, 크래프톤과 자율주행 법인 설립…12%대 급등[특징주]",
+    "summary": "쏘카, 크래프톤과 자율주행 법인 설립…12%대 급등[특징주]  이데일리",
+    "source": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaUZ4WjU1VjU2SmhOZWJCOGJyYkR1aTVramhxbUxaUllDX1dSSmFYcFVxUUw1Zkk0dUZJcTdvY2tWWlF4cFZOQ2FZWWZKbUpZLU1KUXpINHF4TTRDeG84VFRReEZPanJSQ2Y1TEtTSlp0bGxDS1FtZ21iRmR4bmlOYQ?oc=5",
+    "published_at": "2026-05-04T00:14:14+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.edaily.co.kr/News/Read?newsId=01558006645445640&mediaCodeNo=257",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "[특징주] 크래프톤, 12%대 강세…쏘카 자율주행 투자·실적 서프라이즈 겹호재",
+    "summary": "[특징주] 크래프톤, 12%대 강세…쏘카 자율주행 투자·실적 서프라이즈 겹호재  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PNXJvU19fcDJjQURtR3lDd0szTFgtWUFWYzQwTFc5aWJfdjc5aEJIVU9PV1N4aW1wbHNGXzZPTEVva3ZFZlZCT1hab1k2QW95eFNKWEVoZy1UNTVC?oc=5",
+    "published_at": "2026-05-04T01:28:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newspim.com/news/view/20260504000423",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 크래프톤과 1500억 규모 자율주행 법인 신설…신고가 경신 - 머니투데이",
+    "summary": "쏘카, 크래프톤과 1500억 규모 자율주행 법인 신설…신고가 경신 - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsU0Z4UThlNUpqWWJNclQ2VDB5T0NRWnV3ME9XUTZyRnQxallyZnJFdDVGa3IxbGo4ZWI3MFAtTWM0dDYzaGR4dlZXeEpJRlgwY1V0c2p0ejYxNjhBWGZLWmZ6cG11NHRf0gFuQVVfeXFMTTk0LTB1ZXAxaFZleUppa1NuMUdlZm41bXU3NXdfeDJOT2E3d2tfekdyTnBnLVpTVTZCbzAybVZqb2xyTThCNkRoaHY0U2tiZWRTWElJSzBlUUlMMFNaVlpVeHh3cGIzY3VIY0RPcUE?oc=5",
+    "published_at": "2026-05-04T00:34:48+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.mt.co.kr/stock/2026/05/04/2026050408484538601",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "'쏘카' 52주 신고가 경신, 크래프톤과 1,500억원 규모 자율주행 법인 설립",
+    "summary": "'쏘카' 52주 신고가 경신, 크래프톤과 1,500억원 규모 자율주행 법인 설립  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiTy1qNVI3LTZyS0ppVmtKQk1BZDVfelduYXUyM2ZfRXp3aWthZ0U2WlJIcVk0N1puWWg4T1ZoZUhpOFN4NUsydVZtcmVLUUhuQ0pMNNIBVEFVX3lxTFBiTy1qNVI3LTZyS0ppVmtKQk1BZDVfelduYXUyM2ZfRXp3aWthZ0U2WlJIcVk0N1puWWg4T1ZoZUhpOFN4NUsydVZtcmVLUUhuQ0pMNA?oc=5",
+    "published_at": "2026-05-04T00:17:10+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.hankyung.com/amp/202605043792L",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "[특징주] 쏘카와 자율주행 서비스 도전… 크래프톤 급등 - 조선비즈",
+    "summary": "[특징주] 쏘카와 자율주행 서비스 도전… 크래프톤 급등 - 조선비즈  Chosunbiz",
+    "source": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1NBcDRlU0xCejh6MHNicXlJeHZkMHRuWHM2NkNqQWMwclNQbDZUNlVpWTdWMWFBSlJGUGRnT3JCVk9TTXFkeXJTWmpOUUdWbk9SLUdyNHhrZG1mT0ZRZUR4U1pCR2p6Zk9nWExSczZOV3ZkT242QnNaOUpncGJqU2tHQm5sTlVY0gGcAUFVX3lxTE9TbmVyaWxNV1dnQkVxS25KR01HZTB4OHF0SVF6c09odHdyYllJN3pLQ1pvOUlBcW55WDVqejhrZlo4UTBsclhUVmtVZ2hoZERkZThzckxRbUx3R2lqTGFpaHZDMjRNSzhFcG5VMG5JSFloaU93VnozNmpGelR2WnhIemIyb0QwYkpiV3M3LVRzTjNnb3pSY3BRTFNGTA?oc=5",
+    "published_at": "2026-05-04T00:36:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://biz.chosun.com/stock/stock_general/2026/05/04/PYWPCLUOLNGEBEXXI7L3IEXO2U/",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "키움증권 \"쏘카, 크래프톤 3대주주 유치…최대주주 우호지분 50% 상회\"",
+    "summary": "키움증권 \"쏘카, 크래프톤 3대주주 유치…최대주주 우호지분 50% 상회\"  이투데이",
+    "source": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41QVFtamtRM3Y5S2RXZVpZYThiUnZ6YzB3WVBBOUlXQm1oenpyVWVpVlFUVG95QlJVVHlZdnRmZ2ZlTkJjZHVMam83NlNFSnJtZVc3Qg?oc=5",
+    "published_at": "2026-05-03T22:52:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.etoday.co.kr/news/view/2581306",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 1500억 규모 자율주행 법인 5월 설립…크래프톤과 맞손",
+    "summary": "쏘카, 1500억 규모 자율주행 법인 5월 설립…크래프톤과 맞손  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yT05Jc05QVjljOVhSeXBpQ05teW1VRVhic3c5WTBlR3JVQUt6UTAyY1g0T2hPWExCVW8tQVBkVWw1dFR5bnFlWkxCeUtuNWhMZ1FR?oc=5",
+    "published_at": "2026-04-30T06:06:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260430n24330",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 2만 5000대 차량 기반 '자율주행 데이터 파이프라인' 공개 [팩플]",
+    "summary": "쏘카, 2만 5000대 차량 기반 '자율주행 데이터 파이프라인' 공개 [팩플]  미주중앙일보",
+    "source": "미주중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FV1kyaXZUREFqVV9VejRmX1RENWJLZXFyQjVSSU9HMlgwVEhibk5XQ0xtQTlaQ2NacjJQNlB5Z0NxWmRWUFNzSEhlZk1jWVBVVVROanE1NjYxVzdfa0VwbkR3?oc=5",
+    "published_at": "2026-04-14T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.koreadaily.com/article/20260414200037853",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "차 안의 경험을 새롭게 바꾸다, Pleos Connect 최초 공개",
+    "summary": "차 안의 경험을 새롭게 바꾸다, Pleos Connect 최초 공개  Hyundai Motor Group",
+    "source": "Hyundai Motor Group",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdGZ1ZTJGYS1IVlZNQ1NYVVVrY1UwOTdDWTk1QVZqby1GMEljX2VYRXJiUi1iUjZ3ZkhYYnBjRGR4Sm1RVVlFQTJLNDkxaVRBcVF3WWVlWFZOT1JoTDlTZEoyNGFqdThIN01wUjFySElCd2c4Y3J6NkZuZ2FRUXZFVm9PZzVMM19rYzJpcEZ3eTlRRXM?oc=5",
+    "published_at": "2026-05-04T01:26:38+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hyundaimotorgroup.com/ko/tv/hyundai-pleos-connect-first-reveal-car-experience"
+  },
+  {
     "headline": "로보택시 상용화, 기술보다 '사회적 수용성'이 열쇠",
     "summary": "로보택시 상용화, 기술보다 '사회적 수용성'이 열쇠  유스연합",
     "source": "유스연합",

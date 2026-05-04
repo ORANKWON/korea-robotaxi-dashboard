@@ -7,7 +7,7 @@
     "lng": 127.043,
     "area_km2": 20.4,
     "status": "운행 중",
-    "companies": ["SWM", "카카오모빌리티", "포니링크"],
+    "companies": ["SWM (서울자율차)", "카카오모빌리티", "포니링크"],
     "description": "국내 최초 심야 자율주행택시 운행 구역. 압구정역~개포동역, 논현역~봉은사역 일대. 2026.4월 유료화 전환. 심야 22시~익일 05시 운행.",
     "designated": "2022.6 (3차)",
     "dong_codes": [
@@ -71,7 +71,7 @@
     "lng": 126.8893,
     "area_km2": 8.6,
     "status": "운행 중",
-    "companies": ["42dot"],
+    "companies": ["42dot (포티투닷)"],
     "description": "서울 최초 자율주행 시범운행지구. 자율주행버스·셔틀 A01·A02 노선 운행 중.",
     "designated": "2020.12 (1차)",
     "dong_codes": ["1144074000"],
@@ -114,7 +114,7 @@
     "lng": 126.99,
     "area_km2": 9.9,
     "status": "운행 중",
-    "companies": ["42dot"],
+    "companies": ["42dot (포티투닷)"],
     "description": "청계광장~청계5가 4.8km 왕복 자율주행버스 노선.",
     "designated": "2022.6 (3차)",
     "boundary": [
@@ -225,7 +225,7 @@
     "lng": 126.95,
     "area_km2": 97.0,
     "status": "운행 중",
-    "companies": ["SUM"],
+    "companies": ["SUM (에스유엠)"],
     "description": "서울 버스 중앙차로 구간. 새벽동행버스 자율주행 운행. 상계~고속버스터미널, 마포~가산단지, 은평뉴타운~양재역 등 노선.",
     "designated": "2023.6 (5차)",
     "boundary": [
@@ -498,7 +498,7 @@
     "lng": 127.153,
     "area_km2": 5.0,
     "status": "운행 중",
-    "companies": ["SUM"],
+    "companies": ["SUM (에스유엠)"],
     "description": "용인세브란스병원~동백이마트~동백역 순환 5km, 11개 정류소. SUM 14인승 자율주행버스 2대 운행. 2026.3~5 시범운행 후 정식 여객운송 전환 예정.",
     "designated": "2024.12 (8차)",
     "boundary": [
@@ -531,7 +531,7 @@
     "lng": 126.956,
     "area_km2": 27.12,
     "status": "운행 중",
-    "companies": ["라이드플럭스", "오토노머스에이투지"],
+    "companies": ["라이드플럭스 (RideFlux)", "오토노머스에이투지"],
     "description": "BRT 노선(22.9km) 및 1~4생활권(27.12km²) 자율주행 운행. 라이드플럭스·오토노머스에이투지 운행.",
     "designated": "2020.12 (1차)",
     "boundary": [
@@ -610,7 +610,7 @@
     "lng": 127.356,
     "area_km2": 8.0,
     "status": "운행 중",
-    "companies": ["라이드플럭스"],
+    "companies": ["라이드플럭스 (RideFlux)"],
     "description": "대전 유성구 일대 자율주행 시범운행지구. 라이드플럭스 자율주행 셔틀 운행.",
     "designated": "2020.12 (1차)",
     "boundary": [
@@ -799,7 +799,7 @@
     "lng": 126.57,
     "area_km2": 69.8,
     "status": "운행 중",
-    "companies": ["라이드플럭스", "쏘카"],
+    "companies": ["라이드플럭스 (RideFlux)", "쏘카 (SOCAR)"],
     "description": "제주시청~서귀포제1청사 등 69.8km 구간. 라이드플럭스 탐라자율차 116km 왕복 운행. 쏘카 제주공항~중문단지 자율주행 셔틀 운행.",
     "designated": "2020.12 (1차)",
     "boundary": [

@@ -1,13 +1,27 @@
+/**
+ * Map zone polygon color by company. Keys MUST match `companies.json[].name`
+ * (the canonical full form). Locked-in 2026-05-04 — previously had short
+ * forms ("SWM", "라이드플럭스") that drifted from companies.json's full
+ * canonical names ("SWM (서울자율차)", "라이드플럭스 (RideFlux)"), causing
+ * the /map filter to show duplicate chips when zones used different forms.
+ *
+ * Add a new company → add an entry here keyed by the EXACT companies.json
+ * `name`. validate_data.py enforces zones[].companies[] referential
+ * integrity, but COMPANY_COLORS is the only dashboard-side color source so
+ * a missing entry just falls back to DEFAULT_COLOR (gray) — visible but
+ * non-fatal.
+ */
 export const COMPANY_COLORS: Record<string, string> = {
-  SWM: "#3b82f6",
+  "SWM (서울자율차)": "#3b82f6",
   "카카오모빌리티": "#facc15",
-  "42dot": "#06b6d4",
-  "폴라리스오피스": "#f97316",
-  "라이드플럭스": "#8b5cf6",
+  "42dot (포티투닷)": "#06b6d4",
+  "포니링크": "#ef4444",
   "오토노머스에이투지": "#10b981",
-  SUM: "#f472b6",
-  Pony: "#ef4444",
-  "쏘카": "#a855f7",
+  "모셔널 (현대차그룹)": "#f97316",
+  "라이드플럭스 (RideFlux)": "#8b5cf6",
+  "SUM (에스유엠)": "#f472b6",
+  "쏘카 (SOCAR)": "#a855f7",
+  "현대자동차": "#1d4ed8",
 };
 export const DEFAULT_COLOR = "#9ca3af";
 

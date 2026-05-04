@@ -121,6 +121,26 @@ def validate_zones(path: Path) -> list[str]:
     if len(data) < MIN_ZONES:
         errors.append(f"zones.json: expected >= {MIN_ZONES} entries, got {len(data)}")
 
+    # Build canonical company name set for cross-file referential integrity.
+    # Locked-in 2026-05-04 — without this guard, zones.companies entries can
+    # drift between short ("라이드플럭스") and full ("라이드플럭스 (RideFlux)")
+    # forms, which makes the /map filter UI show duplicate chips for the same
+    # company. Failing CI early prevents the regression.
+    companies_path = DATA_DIR / "companies.json"
+    canonical_company_names: set[str] = set()
+    try:
+        companies_data = json.loads(companies_path.read_text(encoding="utf-8"))
+        if isinstance(companies_data, list):
+            canonical_company_names = {
+                c["name"]
+                for c in companies_data
+                if isinstance(c, dict) and isinstance(c.get("name"), str)
+            }
+    except (json.JSONDecodeError, FileNotFoundError):
+        # If companies.json fails to load, that file's own validator catches
+        # it. Don't double-report; just skip the cross-file check.
+        canonical_company_names = set()
+
     for i, z in enumerate(data):
         prefix = f"zones.json[{i}]"
 
@@ -150,9 +170,26 @@ def validate_zones(path: Path) -> list[str]:
         if z.get("status") not in ZONE_STATUS_VALUES:
             errors.append(f"{prefix}: 'status' must be one of {ZONE_STATUS_VALUES}, got '{z.get('status')}'")
 
-        # companies array
-        if not isinstance(z.get("companies"), list):
+        # companies array — must be a list of canonical companies.json names.
+        # Each string in zones[i].companies must EXACTLY match a Company.name
+        # in companies.json. The /map CompanyFilter dedups by string equality,
+        # so any drift (short vs full form) silently produces duplicate chips.
+        z_companies = z.get("companies")
+        if not isinstance(z_companies, list):
             errors.append(f"{prefix}: 'companies' must be an array")
+        elif canonical_company_names:
+            for cn in z_companies:
+                if not isinstance(cn, str):
+                    errors.append(
+                        f"{prefix}: every 'companies' entry must be a string, "
+                        f"got {type(cn).__name__}"
+                    )
+                elif cn not in canonical_company_names:
+                    errors.append(
+                        f"{prefix}: 'companies' entry '{cn}' is not a canonical "
+                        f"companies.json name. Use the exact 'name' field "
+                        f"(e.g. '라이드플럭스 (RideFlux)' not '라이드플럭스')."
+                    )
 
         # ── zones-v1 build artifact fields (optional during migration) ──────
         # Locked-in by /plan-eng-review 2026-04-17 (zone-polygons-v1 plan,

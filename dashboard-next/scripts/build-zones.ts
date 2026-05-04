@@ -279,11 +279,21 @@ function buildZoneFromDongs(
     );
   }
 
+  // Bake the Korean dong short-names into the output so the UI tooltip can
+  // render them without re-loading the 33MB geojson at request time.
+  // adm_nm is "시도 시군구 행정동" — last whitespace chunk = the dong name.
+  // Phase 5 (zone-polygons-v1) — locked-in 2026-04-17.
+  const dongNames = features.map((f) => {
+    const parts = f.properties.adm_nm.trim().split(/\s+/);
+    return parts[parts.length - 1] ?? f.properties.adm_nm;
+  });
+
   // Build the output zone. We pass through everything the source had EXCEPT
   // the build-managed fields, then layer those on top.
   const out: Record<string, unknown> = { ...zone };
   delete out.dong_codes; // moved below in canonical order
   out.dong_codes = dongCodes;
+  out.dong_names = dongNames;
   out.boundary = boundary;
   out.boundary_source = boundarySource;
   out.boundary_built_at = builtAt;

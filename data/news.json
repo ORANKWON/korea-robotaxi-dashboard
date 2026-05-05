@@ -1,5 +1,629 @@
 [
   {
+    "headline": "바이두 로보택시 집단 고장 여파…중, 자율주행 신규 면허 발급 중단",
+    "summary": "바이두 로보택시 집단 고장 여파…중, 자율주행 신규 면허 발급 중단  SBS 뉴스",
+    "source": "SBS 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpamE4aXY2VlFrcDlCaWM5TVdMeEZ0c05zYXVzcUxIb19FRTJIRTM3UlhaTnZtNWlyTllwUm9kaXhtTlVIVzRUY0xleW43cXRfSUFCZ1I0ZVdPeWlpOXRGVV9ScHJMOE5SdFE?oc=5",
+    "published_at": "2026-04-29T06:37:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008538944"
+  },
+  {
+    "headline": "현대차 모셔널, 올해 말 무인 로보택시 상용화 준비 이상무",
+    "summary": "현대차 모셔널, 올해 말 무인 로보택시 상용화 준비 이상무  비욘드포스트",
+    "source": "비욘드포스트",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95TlZ6UzBQOWozb0gtckpXZk8wcHA5anZnTS1vVG1scXotMlN5MGJWYlN5dHp2WEktSEtQYXpwcHVoQjVEd05JYy1WN2tWUGlUTXNfZlBlMmN5OFUzWlNZcVZxLUFBeV9DM3dBSmtGVGdHc0VScFBKejBvb28?oc=5",
+    "published_at": "2026-03-08T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.beyondpost.co.kr/view.php?ud=202603082301085416be44c0aacd_30",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차 모셔널, 연말 美서 무인 로보택시 상용화",
+    "summary": "현대차 모셔널, 연말 美서 무인 로보택시 상용화  더트래커",
+    "source": "더트래커",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wQ00zSUtfdmY2aG1RTG5KZHRXcUdTT2Fpb1BOY1lBTlltUUJQNnViVkZ5Qlp1Nkg3aWNZa1FKMW5aZG8yaEpOeWNQYnFiN0Flb0gycTRhUG0?oc=5",
+    "published_at": "2026-01-12T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://thetracker.co.kr/View.aspx?No=3919951",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 자율주행 레벨4 청사진 공개",
+    "summary": "카카오모빌리티, 자율주행 레벨4 청사진 공개  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zRW55QVZ5U0d2Nm1OSmVWa1kxY0N0UG9XSFg2ZUZOenpDMllIV1BQTkw2RG02RU52ZGZQWElGY0VkMEpVNFE?oc=5",
+    "published_at": "2026-04-23T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/1xRHYnFY5e",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "국토부, 광주서 자율주행 실증 나설 현대차 포함 3사 선정",
+    "summary": "국토부, 광주서 자율주행 실증 나설 현대차 포함 3사 선정  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DZ284bTZEcU41aVhTVzU5UFAwU0NIRlNtUGJBZXl2aGNzdzVmRjBlX3EzZXQza2pXODd4Sl9aWWJDWDRjQTBSbnFhSHFjS2RwUkHSAVNBVV95cUxNY3EybFNfZFZKdFVOMmRQcktZU0x1MDI0MTV5by1KM0p4alhNQmxOMUtGYzZlMFlaS1JQejZyRmhYRjhDVzY3Z3FCLXFZRW5XRlFaOA?oc=5",
+    "published_at": "2026-04-28T05:48:53+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.sedaily.com/article/20038072",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "2027년 레벨4 자율주행 상용화…도시 전체를 실증 무대로 조성",
+    "summary": "2027년 레벨4 자율주행 상용화…도시 전체를 실증 무대로 조성  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WbVRmcTBxQWwwcndLZjIzOURaQlhTYzdabnd0X0xZTEtGR1FhZlEyMFk1QlVleWYyZFJ4MHpXMHZPdVh3NERyYndJaDhUUkQ4SmszZTluQ2NZbms?oc=5",
+    "published_at": "2025-11-27T08:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.news1.kr/realestate/general/5990514"
+  },
+  {
+    "headline": "2027년까지 자율주행 레벨4 상용화 목표…″실증도시 조성″",
+    "summary": "2027년까지 자율주행 레벨4 상용화 목표…″실증도시 조성″  연합뉴스TV",
+    "source": "연합뉴스TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83N3lSZ1g3Ynp3NDB6Vzcyd2tIS3lTYl8xQjgyQms5S1pPU0Z2UXFnTnNJLS14R2VRVWFaR2laeDFaMGduVDFjdE9GYjd6bDZaTUZDN3BVU0Y1R082dlEtaXRtRjVWdjg?oc=5",
+    "published_at": "2025-11-26T08:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.yonhapnewstv.co.kr/news/AKR20251126101452XWj"
+  },
+  {
+    "headline": "자율주행의 단계적 진화, 레벨 5 완전자율시대는 언제 올까",
+    "summary": "자율주행의 단계적 진화, 레벨 5 완전자율시대는 언제 올까  코리아비즈니스리뷰",
+    "source": "코리아비즈니스리뷰",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EZjUwRkluZXdycElYR2hLWHdPdktzS2JnVnFqdXg4ME1udlFBejM3OW1peGNYWlRXcGFsVnIwelQ4d0VaWnBVWVhmZDB6U29WUXF2eEtMU3hzYzVGaWhlLUpNM1dGcHNQWHh3?oc=5",
+    "published_at": "2025-07-15T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://koreabizreview.com/detail.php?number=6365&thread=25"
+  },
+  {
+    "headline": "HD현대사이트솔루션, 무인 자율 굴착기 첫 인도… 스마트 건설 '성큼'",
+    "summary": "HD현대사이트솔루션, 무인 자율 굴착기 첫 인도… 스마트 건설 '성큼'  seoulwire.com",
+    "source": "seoulwire.com",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54REFCUzlQcXJYbWwzcVgwYng5dldpOG42bk9CSTNFSkxfUlhYdXFPRDE3ZktHbkZ2M0NNNVczbnhlek9XRGNaSFFvbjhUeVFwLWdZWTZTQ1NvYXFMT09kck9IQ2NKS2VNd3M4?oc=5",
+    "published_at": "2026-04-29T06:51:20+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "http://www.seoulwire.com/news/articleView.html?idxno=719418"
+  },
+  {
+    "headline": "무인차 뺑소니 사고, 자율주행 시대의 새로운 딜레마",
+    "summary": "무인차 뺑소니 사고, 자율주행 시대의 새로운 딜레마  유스연합",
+    "source": "유스연합",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TcXpFMnJrT01YUXp1NFY3ZXc5MUt3Nkg2VjFabE9LRS1rT2NvNTJsak9uaEVUUXNEZ1BsVEI2U2p2aklzYkZlXzB4di1NVUZqeUE?oc=5",
+    "published_at": "2026-04-12T17:44:23+00:00",
+    "tags": [
+      "사고",
+      "서비스"
+    ],
+    "final_url": "https://www.youthassembly.kr/news/939062"
+  },
+  {
+    "headline": "[현장영상] “제발 비켜!”…1분 1초가 급한데 구급차 앞길 막아선 자율주행차",
+    "summary": "[현장영상] “제발 비켜!”…1분 1초가 급한데 구급차 앞길 막아선 자율주행차  KBS 뉴스",
+    "source": "KBS 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QdGlETFFLeGVyOUM2cGtYTWZHQnpkN0ZzeXVBYkpSV1VzaXQ3MURGZ0wzVGRVd1lWTHliY3Y3SFFNYm1NVDRoX2FpdjF4aWxiTjJBS0UwNU51ejg?oc=5",
+    "published_at": "2026-03-05T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.kbs.co.kr/news/view.do?ncd=8500171"
+  },
+  {
+    "headline": "'새벽동행 자율주행버스' 노선, 상계역~고속터미널 추가",
+    "summary": "'새벽동행 자율주행버스' 노선, 상계역~고속터미널 추가  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyY2t4Q1BCcHdKM2ZrbjBaVFZWMUV4Q0tOSUV6X3JwRUNDNHhaRkM4QUhnN3FuOF85d0N3QXRrUjlFdlYyOWkyenF4djd2V3ROWlM5SDFucWxCRUN5RmhTRtIBeEFVX3lxTE1FaGVtVERsa0ZnMUM5TkFmSkZXLUJCMkJDWGkwVGY1cklPVU9tbms1Vk1aeDRPeXZsV01WTDYtYm43VjIyNXFaRE5ZWTc0S0Q2S1FlTURJbGFmNFJRUjJobF9xSHR4Y05vX01RNGh3b3c3cXEwaVlLQw?oc=5",
+    "published_at": "2026-04-15T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.newsis.com/view/NISX20260414_0003591286"
+  },
+  {
+    "headline": "美·中은 달리는데 한국은?…자율주행에 AI 비서까지 [김성태의 딥테크 트렌드]",
+    "summary": "美·中은 달리는데 한국은?…자율주행에 AI 비서까지 [김성태의 딥테크 트렌드]  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xUmtCbzcwRVlUakFGVnpBVlpFZE5LMURLUU80WGV2eGF1N0dIdUUyNl9rSmJwQnFCWkgxZ0V1S0hLaDZGZ2U3c3dCYWgtdlZidU1J0gFTQVVfeXFMT3FSa0JvNzBFWVRqQUZWekFWWkVkTksxREtRTzRYZXZ4YXU3R0h1RTI2X2tKYnBCcUJaSDFnRXVLSEtoNkZnZTdzd0JhaC12VmJ1TUk?oc=5",
+    "published_at": "2025-12-27T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://m.sedaily.com/amparticle/14163286"
+  },
+  {
+    "headline": "쏘카, 크래프톤 손잡고 '레벨 4 완전 자율주행'에 로보택시까지…\"타임라인에 주목할 시기\"",
+    "summary": "쏘카, 크래프톤 손잡고 '레벨 4 완전 자율주행'에 로보택시까지…\"타임라인에 주목할 시기\"  프라임경제",
+    "source": "프라임경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMXRmcmdhZ3NseGdHMjZ3YWxpOVVmZmI4Z1l4TThxY0g2Y1JFSEFDSTJicmFQRnhkYjFHcUVlZk8td2NpM3JDRldaVWZRSmJDVXNNa0dnQWlOSzNaTmtRTw?oc=5",
+    "published_at": "2026-05-03T23:09:30+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newsprime.co.kr/news/article/?no=732295",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 자율주행법인 설립 추진…1500억 규모",
+    "summary": "쏘카, 자율주행법인 설립 추진…1500억 규모  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10S2xCdzAzbDNJdUtpU0ktUVR0VGlyb2tfQmpHb3RMUWVPSWtENUFtbEFuVTR0MkNQUWlxYkFlS0xQRnFYUzBMSU1LSXNNWFNiMi01TGpDdVNVQdIBVEFVX3lxTFBlOGhxQURBUHZlanQ1NkJnTDg3dGs4azgwRHBqeF84SXpJVERQenlkMVN5ZWlwZFdfR3JrNUJEeVFxbDUzR0Zwd0Zadl9xRV9RNGJZdA?oc=5",
+    "published_at": "2026-04-30T08:41:59+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.hankyung.com/article/2026043095651",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 1500억 규모 자율주행 법인 설립…크래프톤 전략 투자 참여",
+    "summary": "쏘카, 1500억 규모 자율주행 법인 설립…크래프톤 전략 투자 참여  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pSW5kQWduWEVTclp0SkpTNGt3MjZ1aXhnQ08tc1FZcy1HQ3VuckpVTmZQYm9fNkh0TDRzNVJnUnM5TndMVmNHMU5IQQ?oc=5",
+    "published_at": "2026-04-30T06:59:36+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/Kd2E5k1yAR?f=p",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 1500억원 규모 자율주행 법인 설립…상한가 직행[핫종목]",
+    "summary": "쏘카, 1500억원 규모 자율주행 법인 설립…상한가 직행[핫종목]  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45R1h0d2NkcHFnOUZmbFFRMnd1X2gwU1BoalZSb18yQVVMTUlKVV80MTNFQkduSGlaR25HYmxhR01PZUNmYk9RSXRQS2F3UjdXREJheWZHNm5OZ9IBXkFVX3lxTE1RX0o3M3Bob3pPS3dTUWVMcHVHdThmemtpcWVNWnVPVDd3M1FxVmxOMkdmTUh5MkZ2UnFfMHg5Mmtpa1QtY0RBNmZ2cy0wUVJ1a1lhdEp5d2xDOGstbEE?oc=5",
+    "published_at": "2026-04-30T07:33:40+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.fnnews.com/news/202604301632594988",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "“현대차그룹도 테슬라 FSD 방식으로”…자율주행 상용화 속도",
+    "summary": "“현대차그룹도 테슬라 FSD 방식으로”…자율주행 상용화 속도  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vTDNNWFRwVFowYWplNzhIaC10aGxBVTE2aWFSU0lhczF2UWFERnB2eTYwZ3ZhSWJfNHV6WUlnZkdKemNIQU8tTUhrbHZJQ2c?oc=5",
+    "published_at": "2026-04-13T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/20260413154928400",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차·에이투지·라이드플럭스 ‘국가대표 자율주행 기업’ 선정",
+    "summary": "현대차·에이투지·라이드플럭스 ‘국가대표 자율주행 기업’ 선정  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSRld0UVdJY283YTM5bElYQ0hhUzY5YUpLY185LVE5NmNiUmo3Qzhxdkk3V0FwZGF6Um9pNFFmZmI4X2RJcFE?oc=5",
+    "published_at": "2026-04-28T02:08:30+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/y5BBToWIyA",
+    "companies": [
+      "현대자동차",
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 엔비디아와 자율주행 동맹 강화",
+    "summary": "현대차그룹, 엔비디아와 자율주행 동맹 강화  딜사이트",
+    "source": "딜사이트",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHblZUOHlYWEViR1JxeDh0ZU9xaXc0VUotUmloVlp5ZWhTUUQ5VEZSZi01Ul92VVVZQzVNMWtXbXZNTXpubzNJaFVoWHljVzg?oc=5",
+    "published_at": "2026-03-17T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://dealsite.co.kr/articles/158587",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차 자율주행 수장 사임…포티투닷 어디로?",
+    "summary": "현대차 자율주행 수장 사임…포티투닷 어디로?  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Na0c1STNRZXJPM0doSGF5dGJ5bC1vT1NXZWljRW9MTjZiRlZ2MzhVU0U2S2ZGaThCcUlwVm5Bd1JZeW13TjVWSjBETzAzZDQ?oc=5",
+    "published_at": "2025-12-04T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20251204153513164",
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "“실도로 데이터가 경쟁력”…현대차, 中 모멘타 손잡고 ‘자율주행’ 승부수 [베이징 모터쇼]",
+    "summary": "“실도로 데이터가 경쟁력”…현대차, 中 모멘타 손잡고 ‘자율주행’ 승부수 [베이징 모터쇼]  이투데이",
+    "source": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vTVJNRTJJaWNNRUVDOG0yZ3g3WkROXzkwUVlVUHdwbmM5RzQzZlZZMEIxTnNkdzdKSEF1cmFDaGVmUjVUam95cmYzWWtuOVc4X0drQQ?oc=5",
+    "published_at": "2026-04-26T00:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.etoday.co.kr/news/view/2579120",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹, AI 기반 자율주행·로봇 ‘미래 승부수’ 새판 짠다",
+    "summary": "현대차그룹, AI 기반 자율주행·로봇 ‘미래 승부수’ 새판 짠다  에너지경제신문",
+    "source": "에너지경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jY2l0SVVtOUR6Z1RFdGtHcmlMQzNFT18zMDFBRm1HQlkwbXZSS2UzVTRIQnZ0dHdfNjlrMFBqYml5eG5Ka0puMWd0ZlEtZURjNnlONmczc18zMXM?oc=5",
+    "published_at": "2025-12-29T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://m.ekn.kr/view.php?key=20251229021022828",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "[알파마요 쇼크] 현대차그룹, 자율주행 기술 난항 속 마주한 변수…'적과의 동침' 고민③",
+    "summary": "[알파마요 쇼크] 현대차그룹, 자율주행 기술 난항 속 마주한 변수…'적과의 동침' 고민③  녹색경제신문",
+    "source": "녹색경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JUHpTS2R0TUJlQ19KMUFNX290aEVzcldEZXkzM1FQaVBiQVE5NkFiVFYzR0VSY2FDV1BRbVpCMFd2M1lrVjBiMTZENDZnbk9LYmI5S3k1NTlCVHRWbmZocFNsOE1ybWwz?oc=5",
+    "published_at": "2026-01-21T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.greened.kr/news/articleView.html?idxno=335904",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "\"현대차 긴장해\" 지리차, 로보택시 '이바캡' 출격 … AI 풀스택 적용",
+    "summary": "\"현대차 긴장해\" 지리차, 로보택시 '이바캡' 출격 … AI 풀스택 적용  뉴데일리 경제",
+    "source": "뉴데일리 경제",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KaHN3ZjZ0VFJXUTRxOFBReWRHUUZuMG00MlVBUnE0aTBmUzRXLWxJVHVZS00yTWdXMU1SQzg2YVlHU2NWVFAxVG1hVkZaS04xbHplbGJOTU10WmVKUEI0UjlvSzNyUkpPaUVxdlZTVk5majhBWFFrcnlGUQ?oc=5",
+    "published_at": "2026-04-25T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://biz.newdaily.co.kr/site/data/html/2026/04/25/2026042500022.html",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "무뇨스 사장 “올해 웨이모 손잡고 아이오닉5 로보택시 수만대 공급”",
+    "summary": "무뇨스 사장 “올해 웨이모 손잡고 아이오닉5 로보택시 수만대 공급”  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAtZF83VmNmYVBmblVZYV9MNTJCdHgtc1NoRUxhMkdJNlFoNVpKNWVkcWVlN2dPdDBWdTQ2MFdpaU5uV09VV1E?oc=5",
+    "published_at": "2026-04-15T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/9fRQhGJ6Hc"
+  },
+  {
+    "headline": "현대차 모셔널, 라스베이거스에서 우버와 로보택시 시범 서비스 …연말 완전 무인 전환",
+    "summary": "현대차 모셔널, 라스베이거스에서 우버와 로보택시 시범 서비스 …연말 완전 무인 전환  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HcGM4dmVfb0VvUjdnX1Q4d1Jpc1NHcFAwcGZJUG9xSEVNSVpiOWllV3czU1BrcFM1a0loY004LTBWdkp5Rk13OWNZU0JGUQ?oc=5",
+    "published_at": "2026-03-15T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.etnews.com/20260315000058",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "우버 앱 켰더니 운전자 없는 ‘아이오닉5’가 쓱⋯美도심 달리는 현대차 로보택시",
+    "summary": "우버 앱 켰더니 운전자 없는 ‘아이오닉5’가 쓱⋯美도심 달리는 현대차 로보택시  브릿지경제",
+    "source": "브릿지경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41ZGM3VGFUVXowX28tZTV6amstV1VfSF9vNkNZbTRwc29FVUI2TG5PSks5VnpwNVNTSllNWkhYOEthRlJXV3V1cXotZjlZVVNCdlVlQ1A0SU9SQQ?oc=5",
+    "published_at": "2026-03-15T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.viva100.com/article/20260315500176",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "\"우버앱 호출\"…현대차 아이오닉5 로보택시, 미국 라스베이거스 달린다",
+    "summary": "\"우버앱 호출\"…현대차 아이오닉5 로보택시, 미국 라스베이거스 달린다  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83U21QZDVhWXRNRmxWeU5PSFh6UVYwXzU0ODA1RVN1RlZ4MjBDNm81X2pZaWM2YUNQZktSYlBGRjBRSkNySzRITTBDaHN4QlU?oc=5",
+    "published_at": "2026-03-15T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/20260315101357938",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차·엔비디아 '맞손'…레벨4 '로보택시' 앞당긴다",
+    "summary": "현대차·엔비디아 '맞손'…레벨4 '로보택시' 앞당긴다  서울경제TV",
+    "source": "서울경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRNGw5aDUzWU41WFpKNFZNMUttUllkY09OUVNmb0J6cjI4bFVFWExXSmNDcXU1SXM0by1KbTJyNkpsWC1nanBITFBQZGhKQzdKOFhNSmhxUm5IMEtBWHJKYzdJdlo?oc=5",
+    "published_at": "2026-03-17T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.sentv.co.kr/article/view/sentv202603170106",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차·엔비디아, 자율주행 협력 확대… 레벨4 로보택시 고도화",
+    "summary": "현대차·엔비디아, 자율주행 협력 확대… 레벨4 로보택시 고도화  IT조선",
+    "source": "IT조선",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfbUhrZWtGa19JNUFFUnFKT2Y2bGo3bV9mTEtwRndydTM4c2dBbXYtVFJEU2J3VVBPXzhaWVYyVU1CYVJ1Y2NlaVI1NGx4SFhrNzdzYWJaNEpYSVpUaWtIdlBuLU1PMU9kZDE1X1duaXTSAXRBVV95cUxOR01BYnVmTHFIT0pPU3RucURFVFduTWJPb2lJYVBZbHgzTGFTVEVPVExFS1dkZlE4XzlyYlFmUnFEaWZLd2V4cHdfUGVRVVliMXNGbUxEdmNucS1YZmtOZkNRbldqVFJUOTN1ODJxYjNWeEdqZA?oc=5",
+    "published_at": "2026-03-17T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://it.chosun.com/news/articleView.html?idxno=2023092158744",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 자율주행 실전 국면 진입…로보택시 양산 기대감 고조",
+    "summary": "현대차, 자율주행 실전 국면 진입…로보택시 양산 기대감 고조  핀포인트뉴스",
+    "source": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IZ2dNRllOX0tldXVFVE1oMEFkYWluMzg0STl1OVJEcUhDTDQxNTM3MWloNlpPZGlQS1hqMHlYRzNFZ2JuYk54NnpNS0IzbFQ0Z0dfZlZIZlVyNk54dGxMQ0RVU21Pa3JRM2hqRWRhSVNadFXSAXdBVV95cUxQbTVEMVpmOFQ5XzFVODRJZlhWNmNueW1FVGdyUzFXN2lzdERFWjhMbl9mdjdEMHBzRTRFdDEyZVZGSHNidVo0OTFRU0Z5VnR3eDVZQnhLa0xvU1MzcFI4YVpoT181TklDeG1rOGJKU0VWRVdxbDNIOA?oc=5",
+    "published_at": "2026-02-21T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=431006",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹 로보택시 CEO \"1%의 돌발상황에도 안전 방어막 도입\"",
+    "summary": "현대차그룹 로보택시 CEO \"1%의 돌발상황에도 안전 방어막 도입\"  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ER3ZZVTY2cDhiNGlORkczNldybnZYUHp1UjVFdW9nRHJkeTQ0NEdfM0tpOUdBLTluamdiWlJ0N2RtdUxFY2xXMHFpWTJ2WGV1eDdiOWw1c2hUX0XSAWBBVV95cUxQcldHRVMwclJwb3pmUFZESFVSNmlQVGI4NEsyWHdybVBPa0VJeGEtQmw2WkRVMVBFWmU5MTNoQ3VRWWVhNzBhTDF3NnZYWHF4dG96N1RGOV9xbWZmd0M2b0c?oc=5",
+    "published_at": "2026-03-08T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.yna.co.kr/view/AKR20260308024900003",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "모셔널, 라스베이거스서 '아이오닉 5 로보택시' 시동",
+    "summary": "모셔널, 라스베이거스서 '아이오닉 5 로보택시' 시동  seoulwire.com",
+    "source": "seoulwire.com",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84T3c4eThZSlRqdDdHaV9GOVVwQkp6dmhUX0xSVmtTTXJVOG8yajVsZVkwR3VCWnhnajhIV0c1Y0ZOQzdMRG1reFpMRUdDYVhtSmZWOWloSElBdXZqOUZMZ0ZiSlY1T3h4dWVJ?oc=5",
+    "published_at": "2026-03-16T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "http://www.seoulwire.com/news/articleView.html?idxno=711405",
+    "companies": [
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차-기아-엔비디아, 로보택시 공동개발… 운전자 없는 ‘레벨4 자율주행’ 앞당기기로",
+    "summary": "현대차-기아-엔비디아, 로보택시 공동개발… 운전자 없는 ‘레벨4 자율주행’ 앞당기기로  동아일보",
+    "source": "동아일보",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EQ2tDQlkzT2JpaG1ZaHJHeEJXRm9aT0V2VnpFMTFwX2pxZkpfdGR5dEI4OXpBZGtfRFlwbVNxQVd2dWFUdW9HSlFjU3VnNUFVUXg1b01TWEdKSUZZZ1gtMEhma2ZvUnIzbGNTWTdPTS1famw0WlHSAWZBVV95cUxOcktYTWg4c3RaTE00cVV0S0xNUFBsTXhPcW5WMDdpbUlkT2hTby1PbFp2ZWotYWxhbXBlNVpuYmliTEhvNlVCNmRvNDQ4Y3BIZG13N20wM3JfTXdGandRLUpQdHdIMXc?oc=5",
+    "published_at": "2026-03-18T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.donga.com/news/Economy/article/all/20260318/133551986/2",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "\"로보택시 테스트·리더십 개편\"…현대차, 자율주행 상용화 '박차'",
+    "summary": "\"로보택시 테스트·리더십 개편\"…현대차, 자율주행 상용화 '박차'  와이드경제",
+    "source": "와이드경제",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JMHJfeVVXZTQ4QVdBd1B0MjM2ZjFBZDBHVXhaMS1jRzliZHFEYkpsU3NCcmJ5S0E0aHo3YXRmdUVTYjBPMHFUVjRQVWdKMGRYemV4RDV1cV8tUlJhOXFFcXFhTHI5SmlqSzdhRg?oc=5",
+    "published_at": "2026-03-16T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.widedaily.com/news/articleView.html?idxno=290365",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "외신 \"현대차 구글에 아이오닉5 로보택시 5만 대 공급 검토\", 25억 달러 규모",
+    "summary": "외신 \"현대차 구글에 아이오닉5 로보택시 5만 대 공급 검토\", 25억 달러 규모  비즈니스포스트",
+    "source": "비즈니스포스트",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sT2o4bzRwY0xaYTlreUtGdElvbTZ2Vlo4RFZnT2FBVVc1LU11dWR6UUx3bll2VTVhZzNuRXNfVlFBcUFTdzE2T1RoalRqQ0dGb2JUNV9wRGEtYmdCYkZZSnNlWjJXaE81UkItYXdSX0xEQ3M?oc=5",
+    "published_at": "2026-02-12T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.businesspost.co.kr/BP?command=article_view&num=430122",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "젠슨황 \"우버와 로보택시 추진…현대차·BYD·닛산 협력\"",
+    "summary": "젠슨황 \"우버와 로보택시 추진…현대차·BYD·닛산 협력\"  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yWmM2LTdVeksxOHVlY19hUWk5UnpLTHlfd3g2NVgzaVZJS3l1a0I5VXIxVTZvZ1haY3YzUHB4NDVuMVF0dHZNTWdNYWVmT0k?oc=5",
+    "published_at": "2026-03-17T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260317100406214",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "레벨 2+부터 로보택시까지…현대차그룹, 엔비디아와 자율주행 동맹 강화",
+    "summary": "레벨 2+부터 로보택시까지…현대차그룹, 엔비디아와 자율주행 동맹 강화  디지털데일리",
+    "source": "디지털데일리",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NNnAwZXJnUGtWaktkLVloa3o3OF9SNGsyOXNzUXU0YUFMVndsdE5rS0tNeUE5NjBWY0xlVTZERjF5LW9QX2FHeTJLZWtGVUY5cXVzMXNQdVNfNHZTQm1FRGRR?oc=5",
+    "published_at": "2026-03-17T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://m.ddaily.co.kr/page/view/2026031710234352805",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차·A2Z·라이드플럭스, 자율주행 실증도시 참여기업 선정",
+    "summary": "현대차·A2Z·라이드플럭스, 자율주행 실증도시 참여기업 선정  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BUWZEQkJqTWhYdmEzUkdBN0RnOHhUdmg0M1NFWjg0cXhWMjlIeG82MmlrUnI5S3BTZW44Ukl3NTM2VDNVYnNfR244aDhteGM?oc=5",
+    "published_at": "2026-04-28T02:02:40+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260428110240504",
+    "companies": [
+      "현대자동차",
+      "라이드플럭스 (RideFlux)",
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "K-자율주행트럭 달린다...라이드플럭스, 유상 화물운송 1호 도전",
+    "summary": "K-자율주행트럭 달린다...라이드플럭스, 유상 화물운송 1호 도전  유니콘팩토리",
+    "source": "유니콘팩토리",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYSFFYdHFPcEpSbU5aejZ2WEhDMGxONmpjM0xTeTFRY0xsWkFZNmJXT2w1V01VMHJJR0lscVkwZ0lfNjBKOU1hNTRrajQtcEtTcDMxSUFPZ3lBU1VocnNpSUJZV1pVLThkMldYbw?oc=5",
+    "published_at": "2026-03-18T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.unicornfactory.co.kr/article/2026031711241541896",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "자율주행트럭이 택배 운송…라이드플럭스 첫 허가",
+    "summary": "자율주행트럭이 택배 운송…라이드플럭스 첫 허가  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xeFZ3UXlXTVMzTDVyQjNWdFdVNGNfbmg2cktldGZiRkJZcGpLYU5YbjN5bUt1MDR5NWJUejNPTDJ0NldCYk9vSFN1S2dpcW91a0HSAVNBVV95cUxNX2FWWjdad3J6QmVOTXZMWXlYQWRuMlBVWmVaR3V0cTRvdlcyUnVFX0ZhNWJhMTY5bVpyNWtSVHEtWHI1NVRGNktheVktOFNva2RCSQ?oc=5",
+    "published_at": "2026-04-16T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "기업"
+    ],
+    "final_url": "https://www.sedaily.com/article/20033119",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "\"자율주행 트럭 국내 도심 달린다\"…라이드플럭스, 국토부 허가 획득",
+    "summary": "\"자율주행 트럭 국내 도심 달린다\"…라이드플럭스, 국토부 허가 획득  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YU0FRNjRFSXVsVVR2OFZFMlFaTmRxYUltdVU2d2VWNXFyZTRaaW12WEo3OTMtOWNQOTlaMVRycmZIQmxxN3dlcHduUWFncDA?oc=5",
+    "published_at": "2026-04-16T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260416084602883",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "라이드플럭스, 국내 최초 자율주행트럭 유상 화물운송 허가 획득",
+    "summary": "라이드플럭스, 국내 최초 자율주행트럭 유상 화물운송 허가 획득  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9abzRPWnlOd2lnNktSOEhHckVkTEJRd1FBTE5VR21pZWhuV240WFc5MHpHdlZTU29fc1hrLVA4dVdBTjhfWWhxRXZ1TV84NnM?oc=5",
+    "published_at": "2026-04-16T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260416150300365",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "국토부, 첫 자율주행 화물운송 허가…6월부터 택배 싣고 달린다",
+    "summary": "국토부, 첫 자율주행 화물운송 허가…6월부터 택배 싣고 달린다  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtdHRYdXBBWVdvMXRibDcyM0gyTnZtVEpzWFRVQk16SXE4UFN2T3RWY2lPT3ZTNGctWWVBSEs0WTdLY213TGFFbk9HeFl2MmpiZU8ycElmWUQtaFHSAWBBVV95cUxQVTlfcERlSWltaGNrODgwUWplRmtRRGdpWGZpMy1ldXRicm9wOUpJRzBGaUxiV0pOTXl5VjZKUF9kRV9YdGtKU2hYNGducXlKX1Zkd0JWRXJJMW5SLWxYSVU?oc=5",
+    "published_at": "2026-04-15T07:00:00+00:00",
+    "tags": [
+      "정책"
+    ],
+    "final_url": "https://www.yna.co.kr/view/AKR20260415153500003"
+  },
+  {
     "headline": "[글로벌 비즈 브리핑] '로보택시 집단 고장'…中, 자율주행 신규 면허 발급 중단 外",
     "summary": "[글로벌 비즈 브리핑] '로보택시 집단 고장'…中, 자율주행 신규 면허 발급 중단 外  v.daum.net",
     "source": "v.daum.net",

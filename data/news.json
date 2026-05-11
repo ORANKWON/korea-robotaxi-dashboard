@@ -1,5 +1,566 @@
 [
   {
+    "headline": "[조간브리핑] 로보택시가 열고 우주가 잇는 미래 기술, 바이오·화석으로 위기 너머를 보다",
+    "summary": "[조간브리핑] 로보택시가 열고 우주가 잇는 미래 기술, 바이오·화석으로 위기 너머를 보다  헬로디디",
+    "source": "헬로디디",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfNXBSNElxY3lTbFJpU0t4RVQ5ZnVDSkZLZWtUV0R5OGd0TURmMnpROUdBcGdGU0g5S2ZmQzNoUjN4SWl1elVFdlVhYTB6cUcwV05OWnQ4eEg4RkVGTFRHYVJLVEtER29aNmc?oc=5",
+    "published_at": "2026-05-11T01:14:36+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hellodd.com/news/articleView.html?idxno=111709"
+  },
+  {
+    "headline": "[대한민국 AI 혁신 리더] 에스더블유엠, 도심형 자율주행 택시 상용화…미래 AI 모빌리티 가능성 제시",
+    "summary": "[대한민국 AI 혁신 리더] 에스더블유엠, 도심형 자율주행 택시 상용화…미래 AI 모빌리티 가능성 제시  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DRzlxemNJY0ZwQ3pmX0g3Z1pGNk5GQW5JRmRBUHVWeEtnQ3dFOW16ckI4VEJtRDNVVGNCVzN2NTFLc2VJd2dxSmJwM0gxUQ?oc=5",
+    "published_at": "2026-05-11T09:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.etnews.com/20260511000196"
+  },
+  {
+    "headline": "무인 택시가 교통 법규 위반하면 누구에게 딱지를…",
+    "summary": "무인 택시가 교통 법규 위반하면 누구에게 딱지를…  스타트업레시피",
+    "source": "스타트업레시피",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYSDdMeVE4cWR6NmJsU3FIR0g3Q2R5NHNqaDBHY0lNRVRXckNoQmxEc0VBVVNPREZtUndNMGNTeTlic29MLUE1QXlyQjQ1RDJ0c0c1bThJXzA2b0VqbkE?oc=5",
+    "published_at": "2026-05-11T04:00:17+00:00",
+    "tags": [
+      "사고",
+      "서비스"
+    ],
+    "final_url": "https://startuprecipe.co.kr/archives/tech/5816066"
+  },
+  {
+    "headline": "택시업계 \"로보택시도 기존 사업자 면허 있어야\"",
+    "summary": "택시업계 \"로보택시도 기존 사업자 면허 있어야\"  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QSFktY1BJaXdjZzl1cUdRM1JaeXpQbEtUZmdVdkFZX1F4eUVsOGJMMzFoZXAyYmR4UHc2cGRpSnJFVklsVUNuWjhtb0VnM3Jxbno0?oc=5",
+    "published_at": "2026-05-10T09:14:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260510n13341"
+  },
+  {
+    "headline": "오토노머스에이투지·HL만도, '레벨4' 자율주행 고도화 맞손",
+    "summary": "오토노머스에이투지·HL만도, '레벨4' 자율주행 고도화 맞손  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03Y0NnUkJHWE1RT2ktZnFDM3lOOGR6UkJrdTBJLTNtSm1SNEw4MU42MXFON0xMbjJOeHZjWlM2c1FzWURtOGI4ejV5WQ?oc=5",
+    "published_at": "2026-05-07T01:35:32+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/F6vHEfEoTP?f=p",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "“배터리는 빌려 쓰세요”…전기차값 낮추는 구독 서비스 나온다",
+    "summary": "“배터리는 빌려 쓰세요”…전기차값 낮추는 구독 서비스 나온다  이데일리",
+    "source": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWE80WWlyVW9vS2NJd2ZtSEhRenhsVi04eWYxaTl3ZmZpamlNRHJxMHo5MjZ5a3JhM0VWNmFHT2FTaXhVS1dNU3hOQUVIa0JCQVFXUVhoeVV5LUhkSUdsWVI5QzJ6ZW9FN3VxS1NPX3NvR1hNeVZJREdBSC0tY3ZnTQ?oc=5",
+    "published_at": "2026-05-11T05:00:04+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.edaily.co.kr/News/Read?newsId=03411206645447936&mediaCodeNo=257"
+  },
+  {
+    "headline": "무인 자율주행차에도 '딱지' 끊는다…캘리포니아, 7월 1일 단속 체계 전면 시행",
+    "summary": "무인 자율주행차에도 '딱지' 끊는다…캘리포니아, 7월 1일 단속 체계 전면 시행  유스연합",
+    "source": "유스연합",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XUmp2NzU5WTdWamZCYkpMWUdfS2l3M1E2NnIyTk9vUTRSR05uYkFwUU0tR05tYXliOG9Sa3VxVzE2UmxBV2Y3ay15bWtYNkZxWmc?oc=5",
+    "published_at": "2026-05-11T09:32:33+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.youthassembly.kr/news/950336"
+  },
+  {
+    "headline": "충북도, 오송 자율주행 현장 점검",
+    "summary": "충북도, 오송 자율주행 현장 점검  충청도민일보",
+    "source": "충청도민일보",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kSTFVSlNibnBzMlBUVlo2SnJaUlhyNllqSk5GZ3pxdWtjaENMcWx6OTlySzhpYnlrS1BINmEtX3BwRXB3QlZ1MEFuSEVQQVJhcldqUXF6NUpHak15WnJmazJ4S09ITkJZWmFKOQ?oc=5",
+    "published_at": "2026-05-11T08:40:24+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.dominilbo.com/news/articleView.html?idxno=267827"
+  },
+  {
+    "headline": "김윤덕 장관, 오송서 자율주행 DRT 점검...\"규제완화·제도적 지원 강화\"",
+    "summary": "김윤덕 장관, 오송서 자율주행 DRT 점검...\"규제완화·제도적 지원 강화\"  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zbmhOT1RLOU1oZmxodEZrVVhYeWpKVkJPcUpaS2FZV0picGNLT2lDT0h2ZThqX3ZQbnZwRkVldkE4SUJmVDJhSVp5LXNWRDZrNUpQaTNrcXg3d1pD?oc=5",
+    "published_at": "2026-05-11T08:15:00+00:00",
+    "tags": [
+      "정책"
+    ],
+    "final_url": "https://www.newspim.com/news/view/20260511001255"
+  },
+  {
+    "headline": "충북 AI 콜버스 본격 질주… 오송 자율주행 시대 열렸다",
+    "summary": "충북 AI 콜버스 본격 질주… 오송 자율주행 시대 열렸다  더퍼블릭",
+    "source": "더퍼블릭",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VMTlnZ1g3NEVscFRTcUY0UVg3Z19hWGY5Tk4zaXBCbjNyRVRWR2VZVDZ0eVB3Xzd2aERIRHpRR29EYk9DV2xhUWgtZnVpSjBkamdTMGpUdmZIUGQwbTFhVDhZUmZYbmdtV0kw0gFvQVVfeXFMTUtZRkZQdlV6TDktN1NWSlZHU2FPUzM1Qlc4WEZmbkZQSjFPVWVodmEyUkt4N3BRd05iRGhnZWdiekpRc3c0eVY5UEs2QWdlNlcyTGVaS210VkdwcDc0M09JenRfRTZKeW5SRFdYNndN?oc=5",
+    "published_at": "2026-05-11T09:28:07+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.thepublic.kr/news/articleView.html?idxno=304004"
+  },
+  {
+    "headline": "김윤덕 국토부 장관, 청주 오송 자율주행 실증현장 방문",
+    "summary": "김윤덕 국토부 장관, 청주 오송 자율주행 실증현장 방문  gukjenews.com",
+    "source": "gukjenews.com",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BUURjb0ZVR0JKN0tmWXdsWnFTLThDV284M3NXNUVoVzk1THBoVDZFaldnTUZPQlExdVhOYl9vM3hrT2RlSkNrX1VZWFZLVWYzWUNvakJvLVFVRHdEZXFHSXQ5NGtMb1U2a1lETkN3?oc=5",
+    "published_at": "2026-05-11T08:00:51+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.gukjenews.com/news/articleView.html?idxno=3578795"
+  },
+  {
+    "headline": "부산시, 내일(16일)부터 오시리아 관광단지에서 자율주행버스 무료 시범운행 시작",
+    "summary": "부산시, 내일(16일)부터 오시리아 관광단지에서 자율주행버스 무료 시범운행 시작  bvba.org",
+    "source": "bvba.org",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13U3R1amNvS1pDanBzOEJQZWgtbkx6dnBEaWhUY0E5WXpsYjE0QWtYWlVERHVFclFNX1NQZUZ1ZXh0Uk9TMzlCVDNpZ0RpX3RNSjFFSlg4bVBJOVFGY2J2bkRpbzNPOHU0ZUE?oc=5",
+    "published_at": "2026-05-10T01:00:15+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "http://www.2we.co.kr/news_proc/news_contents.jsp?ncd=28087"
+  },
+  {
+    "headline": "전기차, 차량만 사고 배터리는 빌려 쓴다…전기차·배터리 소유권 분리",
+    "summary": "전기차, 차량만 사고 배터리는 빌려 쓴다…전기차·배터리 소유권 분리  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qX2EtZ1YxS2hEanVhSzdLTkN3TkZaTm1WcUxEamNYWFpVc21aZkRwMW4zOVoySXIydTV4WlRLVTVlWmRyeWRWT09CenFOMFN3WUEwdmpn?oc=5",
+    "published_at": "2026-05-11T06:55:22+00:00",
+    "tags": [
+      "사고"
+    ],
+    "final_url": "https://zdnet.co.kr/view/?no=20260511153309"
+  },
+  {
+    "headline": "전기차 문턱 낮게…'차량가 40% 배터리' 구독시대 열린다",
+    "summary": "전기차 문턱 낮게…'차량가 40% 배터리' 구독시대 열린다  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nNDJmLXlBZEYwaVd5NjBVYmwzNGswdlRwTDY5a3VjWEg1TklYZnRfYUpORVVXeXhLLXFGb1c2d3h3VWpVSHNWWkhZTm5lZkdOWFNfQnhSb2tNZXZsbTVzMdIBYEFVX3lxTE1nNDJmLXlBZEYwaVd5NjBVYmwzNGswdlRwTDY5a3VjWEg1TklYZnRfYUpORVVXeXhLLXFGb1c2d3h3VWpVSHNWWkhZTm5lZkdOWFNfQnhSb2tNZXZsbTVzMQ?oc=5",
+    "published_at": "2026-05-11T05:00:03+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.yna.co.kr/amp/view/AKR20260511082900003"
+  },
+  {
+    "headline": "부산의 미래를 달리는 자율주행버스 ‘BigAi Bus(빅아이버스)’",
+    "summary": "부산의 미래를 달리는 자율주행버스 ‘BigAi Bus(빅아이버스)’  civicnews.com",
+    "source": "civicnews.com",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aMDhqY3Jfb0ltNzdhUV96YkUxNEZGV08yeHJWazhwbFRLeThyZWVneTBNZXdxMERZNDctLXJIdElHYWJtdTgtWC1ndkVTcGRWdkhsT2p4ZTVjdEJaYVBmdXpOcmJNV0k2YXEw?oc=5",
+    "published_at": "2026-05-11T00:11:41+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.civicnews.com/news/articleView.html?idxno=39789"
+  },
+  {
+    "headline": "크래프톤, 쏘카 자율주행에 650억 투자 AI 확장 승부수...왜?",
+    "summary": "크래프톤, 쏘카 자율주행에 650억 투자 AI 확장 승부수...왜?  메트로신문",
+    "source": "메트로신문",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaVBudGlCUmlnZmZuUjJGY3VENXJNcmczWW1JTGRPSjJYdmhLTEZXanFNX3JvdjVyRGd3cU9Hcko1ZjBWWG9nZjA0SVA2bk1HZVdSYmZDV193RWNwVVFN?oc=5",
+    "published_at": "2026-05-11T05:09:49+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "http://www.metroseoul.co.kr/article/20260511500190",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 국내 최대 자율주행 법인 설립한다…크래프톤도 650억원 투자",
+    "summary": "쏘카, 국내 최대 자율주행 법인 설립한다…크래프톤도 650억원 투자  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TR0pfd2VjNzNIU3AtWkt0YUNSZmQ1c0M0UkxDRzlBalFfbXh4NjZJLVBEMkkweF9OeXI5d1JwLVFfdnI4YVVMQm1lVnNBM0VhNElF?oc=5",
+    "published_at": "2026-04-30T07:14:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260430n27842",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 크래프톤과 자율주행 법인 설립…12%대 급등",
+    "summary": "쏘카, 크래프톤과 자율주행 법인 설립…12%대 급등  마켓인",
+    "source": "마켓인",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xREZiX25pRFlUblJIaUlWZ2VGRTNxcF9ibGFGQ2hvMTRrWXJfWGxYaXB2R25IemhqSmJMNzZRQTZtVEt6RzU3WTJ5OWlkWmFnQmktT055WjFLVzJMamY5dGdHaXZjUkdsRDF6T3hWR1diUnc?oc=5",
+    "published_at": "2026-05-04T00:14:14+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01558006645445640",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "전기차 배터리도 구독한다…광주 자율주행차 200대 실증",
+    "summary": "전기차 배터리도 구독한다…광주 자율주행차 200대 실증  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HUmdDWTdJbVIyZG1kWWMtWU9IMWpJdUVtYjJQQkxIX2hiNXdiMWdiOXZ5Nkpoc3Y5WVJNZnJSQ0l2YjA2OTFGMVF2WGsyOE5BUWtuM1ZXOW85OFE?oc=5",
+    "published_at": "2026-05-11T05:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.news1.kr/realestate/general/6162554"
+  },
+  {
+    "headline": "10월부터 전기차 40% 싸게 산다... 배터리 구독제 시행",
+    "summary": "10월부터 전기차 40% 싸게 산다... 배터리 구독제 시행  Chosunbiz",
+    "source": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFZydmtOeklWVDZtWkgzSzdqSHc5T3BoUTUyWUZ4NmpqTFIzcVJ5VXpRWXhwbXZFRlVGRlhLdWJzVWlhRXdQU2F5WXZMNVRJc2VKSktRbjh1ZlM5dFp4cHVUNmFrSkR6elBNZmthWUZCd1VnRjFzaUJhTERPbzR2ZWlHRmtGQQ?oc=5",
+    "published_at": "2026-05-11T07:53:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://biz.chosun.com/policy/policy_sub/2026/05/11/ASPIVBV5H5FLFPL5Y5S35HSUDM/"
+  },
+  {
+    "headline": "현대차 자율주행 로보택시 ‘모셔널’ 라스베이거스 달린다",
+    "summary": "현대차 자율주행 로보택시 ‘모셔널’ 라스베이거스 달린다  뉴스토마토",
+    "source": "뉴스토마토",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vU19falRjaDc2QWhpSC1uUWNtYy1mMXNEUmVzdmFRdUR4bVREQnk4NUx1a2V2VlZRQTJZOXNYa2piUXRpdDRrMG15cjVuTFhJS1l4bDlEOEVPWC1YUjA2Xw?oc=5",
+    "published_at": "2026-03-15T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newstomato.com/readnews.aspx?no=1294262",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "자율주행 트럭이 택배 배송…6월 첫 운행",
+    "summary": "자율주행 트럭이 택배 배송…6월 첫 운행  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2cmFqQlRPMVA3Z2RVbXJweFJtT0RXS1A0T2N1cHNXbW9BekdKRkNBaUVRVjhUcXRNbjF2YWJvaEE4NlpPY092REc0MkJfUExjOVJvc2x6NDVlUmvSAWBBVV95cUxOWWsycEJudzhMY0RzRjE3R1p3Q0ppWER2Mk14YUVxU0FMR2NvTHJNd1FqZFRTWUNRV0V1eVdwZXVhVFpmcXotWmczbFdqZ1RMY2NucWk5dkU3eGlBMG5TdDg?oc=5",
+    "published_at": "2026-04-17T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.yna.co.kr/view/MYH20260417002100038"
+  },
+  {
+    "headline": "광주 전역 자율주행 실증 참여기업 선정",
+    "summary": "광주 전역 자율주행 실증 참여기업 선정  진일보",
+    "source": "진일보",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iYmpFR2o2R3RKUEFxcEFxdE12cGptVmJ1NVQ4WDZjYmpCX19xLXFqTDhNTktIUkpycjJadm9zS0pleFYyb0g5LWZQcGR6cGRPUGhxMXpramo5bENMb1VmQy13Z3Q3MHBLNEtkbGxERQ?oc=5",
+    "published_at": "2026-04-28T08:46:48+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.jnilbo.com/news/articleView.html?idxno=90000032353"
+  },
+  {
+    "headline": "광주 전역서 자율주행차 달린다…현대차‧A2Z‧라이드플럭스 등 참여사 선정",
+    "summary": "광주 전역서 자율주행차 달린다…현대차‧A2Z‧라이드플럭스 등 참여사 선정  쿠키뉴스",
+    "source": "쿠키뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JaFJmbkVZeGozRlM2S1JWeWR5eXBzUkRvOXRGT1FocmtqcXdJbTBNNTFVYUpWLVVDSUZVdDM4eVc5UHVZWjhFdndJV2h0TFB2NHhSenVrT0FaQk53Z0dRQTNEREc?oc=5",
+    "published_at": "2026-04-28T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.kukinews.com/article/print/kuk202604280112",
+    "companies": [
+      "현대자동차",
+      "라이드플럭스 (RideFlux)",
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "“택시앱 넘는다”···카카오모빌리티, '피지컬 AI'로 미래 모빌리티 판 바꾼다",
+    "summary": "“택시앱 넘는다”···카카오모빌리티, '피지컬 AI'로 미래 모빌리티 판 바꾼다  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCOUd2d1B1V0JibGdWYnZ1bGlSZWJvYkx5LWE1TW1JLWZfcUQxdVFpY2R3UmQydWw1Q1dVX1J6R0FQa1YwQ21iYXdVUzBaZw?oc=5",
+    "published_at": "2026-05-11T07:36:04+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.etnews.com/20260511000414",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 전사 소통 강화⋯\"자율주행 경쟁력 확보\"",
+    "summary": "카카오모빌리티, 전사 소통 강화⋯\"자율주행 경쟁력 확보\"  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50ODV4UXlIbC1uTFQ4Y1AwRWpyblRsb1B4NmxpSzRlNGdkd3lFUHpZdEVYQXdIbDZEaUdjanN1N2xSYm9lZ1hjdEtJbXR3RzZrTDFVSg?oc=5",
+    "published_at": "2026-05-04T04:05:33+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260504130533949?f=p",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티 \"자율주행은 데이터 전쟁\"",
+    "summary": "카카오모빌리티 \"자율주행은 데이터 전쟁\"  biz.sbs.co.kr.",
+    "source": "biz.sbs.co.kr.",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HZW9hVTNZaU5ZT2pVZ2dSSFpCU1hjR3BNck5YTFFNb25WQTRBUXNOZERpTUhmalIzOGg1b1hKU0pGMV9hMnZMSnp3NTNNbGMzTVR3?oc=5",
+    "published_at": "2026-05-04T01:51:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://biz.sbs.co.kr/article/20000308153",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티 자율주행차, 서울 강남 심야 도심 달린다",
+    "summary": "카카오모빌리티 자율주행차, 서울 강남 심야 도심 달린다  디지털데일리",
+    "source": "디지털데일리",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MVjR6d29pZ2wxbFlOX0dTbjFjZ1JOOEQ0LUh2SWdZeGxoZmtqNy1qWS1VcWp3MEhLQ2lWQ05YYnhtMjdEY3A0TTVsRWtyWmNmU0RLS0w4d3JqTEp1M0V5UFZR?oc=5",
+    "published_at": "2026-03-15T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://m.ddaily.co.kr/page/view/2026031517363885657",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오·법인택시 자율주행 연합군…美·中 로보택시 추격할까? [김성태의 딥테크 트렌드]",
+    "summary": "카카오·법인택시 자율주행 연합군…美·中 로보택시 추격할까? [김성태의 딥테크 트렌드]  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaeTl5ZmNTQXJPbkc3b1VSSEVxS09nUjBjM0F5ZXJyVU1YMnZzMUNBb1VJTGp6WkNvRlJXZy02TEQ5OVE4T19pdmVqejVJaVpzOVBn0gFTQVVfeXFMUFp5OXlmY1NBck9uRzdvVVJIRXFLT2dSMGMzQXllcnJVTVgydnMxQ0FvVUlManpaQ29GUldnLTZMRDk5UThPX2l2ZWp6NUlpWnM5UGc?oc=5",
+    "published_at": "2025-08-15T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://m.sedaily.com/amparticle/14104910"
+  },
+  {
+    "headline": "에스더블유엠, 서울택시조합과 로보택시 대중화 MOU",
+    "summary": "에스더블유엠, 서울택시조합과 로보택시 대중화 MOU  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wczNJOXlNQlk4RnhDb2pQQUVaWEp6QUNicmJESVZzamUzOU5MM0hmUEFXazlPZVNoSVB6ZWlSempMOWZLM0JzTzl2LXZBbTA?oc=5",
+    "published_at": "2026-01-22T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/20260122151446518"
+  },
+  {
+    "headline": "현대차그룹, ‘테슬라 비전’ 설계자 영입⋯42dot에 박민우 박사 영입",
+    "summary": "현대차그룹, ‘테슬라 비전’ 설계자 영입⋯42dot에 박민우 박사 영입  브릿지경제",
+    "source": "브릿지경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZeFE0MkR0MExSRDhfTUlhWXRBN01KRUxuVVpBZXFid2ZTTlQyd0JNOUxaOEliWWNTUzU5UjIwU0I1WlVEU3JZN1FpQlVIRXBIakRsTkcxVXktQQ?oc=5",
+    "published_at": "2026-01-13T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.viva100.com/article/20260113501390",
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차 자율주행 포티투닷, 1700억 영업손…아직 '죽음의 계곡'",
+    "summary": "현대차 자율주행 포티투닷, 1700억 영업손…아직 '죽음의 계곡'  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JV3JUcXpscW5DWG9yTjVOdl9mM0l6NVhwUUM3Y2dCdHlOOXdvc2dicWVWM01CQXk1WENkY2dvV1BXdkNXaFFyNVlnVENWR2M?oc=5",
+    "published_at": "2025-03-26T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20250326111703821",
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "서울서 2만명 태운 포티투닷 자율차…\"대중화발판·데이터확보\"",
+    "summary": "서울서 2만명 태운 포티투닷 자율차…\"대중화발판·데이터확보\"  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04YXFXODBoQnFyb1c5MERoTXVnbkpTRzcwbkFtcjduQkkxNGM1T3M5Njl2Q1hUQzZwUWR6SDhQOFpGS1RNa2tlUEpIVWw4UVhIdy1qdGZ0cXhIRGfSAWBBVV95cUxPRTVKSlFxdkZmRUlTb0RsMW5naS1FSVktSVoybFZuaktIOFphMi1zSTZKVERSMWszVTZLRkNmVTJQdnAxSTd3TEkybFhTM3NYeGFIWW5UbUZCRzh2TGtVQm0?oc=5",
+    "published_at": "2023-04-24T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.yna.co.kr/view/AKR20230424098200003",
+    "companies": [
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "AWS Cloud Development Kit을 활용한 포티투닷(42dot)의 Fleet Management System 자동화 사례 - Amazon Web Services (AWS)",
+    "summary": "AWS Cloud Development Kit을 활용한 포티투닷(42dot)의 Fleet Management System 자동화 사례  Amazon Web Services (AWS)",
+    "source": "Amazon Web Services (AWS)",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdnNqSkpDc3M4VWxaZ1FxTldqRFFpNlRZWlBKcWYteTBTS2VRR1ViY3MyV2ZEMTlSaFBEMEZUZ2dJdGdVZEdtdWUyRjRWOGQ4clJMdUd3dGFEbXpDN0pnWWlxRHhrY21SQ2p6YV9KRk95MVB3MTJ6MmxkckdpaDZob0dNRnI2Y3RHejhxYkNBaDZGY3Y4QUZySThCZjd5WVkxUnU4MElkQlYzSHJkdzlLbQ?oc=5",
+    "published_at": "2023-04-17T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://aws.amazon.com/ko/blogs/tech/aws-cloud-development-kit-cdk-42dot-fleet-management-systemfms-automation/",
+    "companies": [
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "판교 퇴근길 스르르 빠져나간 SW차량…정의선 사로잡은 포티투닷",
+    "summary": "판교 퇴근길 스르르 빠져나간 SW차량…정의선 사로잡은 포티투닷  아시아경제",
+    "source": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MLVRUOEEtYlBfOGFpRXZZNk9OcTVwV3JTdHBnUzQtZkdCVFZmWHhnd1d6MHM0RnhXMmhTNXgwVndwckVUUEJEdmdWQ0NqbE9Deml5ZmdSRjBJaUdWM1ZTcw?oc=5",
+    "published_at": "2024-11-08T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.asiae.co.kr/article/2024110721561296355",
+    "companies": [
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "‘테슬라식’ 자율주행 시동 건 현대차 XP2 프로젝트로 미래 모빌리티 길 연다",
+    "summary": "‘테슬라식’ 자율주행 시동 건 현대차 XP2 프로젝트로 미래 모빌리티 길 연다  매일경제",
+    "source": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FUlNETlBHTEQwWEJNSlUyREE5VnJaNXBEX2RJNURtV2dIUnBMQ1JZN1JCVGxQaWlaSmJfWjE5b2NWa2RjVDh5TldsVDJoWTBOVmlBOUl3?oc=5",
+    "published_at": "2025-03-05T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.mk.co.kr/news/business/11256490",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "2만명 탄 '서울 자율주행 버스'…정작 시민들은 잘 몰라",
+    "summary": "2만명 탄 '서울 자율주행 버스'…정작 시민들은 잘 몰라  IT조선",
+    "source": "IT조선",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5YXhEbnE1eWRRZTJvb1cxRmUtMldCMkhuVHdvOGNGQllTTmNiMG1ld3JPUTJlXzM2NXVrM212R2E1VkRvc0pyR1BMR2pGWUdMbEhmeWpiaTdPWlU5MHVGSzMyNU9DUW1TRGYxaEhnN0PSAXRBVV95cUxPRXFUTnNtclpvVVgyaEtmRlRkR3hlVjlWRWNnX1Brem4xTENBQmpTWTJ2TGpINWlqR2NTREo0VDY4akVmZ09MNG94QldzME5lZHhFZ29aTjRXc2FzUktkRmlOSGQwTTduQjlXdHJCWWRyU3F1WQ?oc=5",
+    "published_at": "2023-04-26T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://it.chosun.com/news/articleView.html?idxno=2023042600971"
+  },
+  {
+    "headline": "CES 2024 – 소프트웨어 정의 자동차(SDV) - 현대 월드와이드",
+    "summary": "CES 2024 – 소프트웨어 정의 자동차(SDV) - 현대 월드와이드  Hyundai",
+    "source": "Hyundai",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMQU5VV3lZZXNnbEJSaHZOQTJ4ZmVNSTRUNW41QlhfeldWdnlzam9WTFI1MVFxTlFBdVZialZaUW43WEd3SlpUWEk5eWhZTFlzTG55a0N0cVU5a1p3Mms1S1ZORU5Sd09nS2NFanlQWE5CQjFzeU9LUTF5dTk?oc=5",
+    "published_at": "2024-01-09T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.hyundai.com/worldwide/ko/brand-journal/mobility-solution/sdv"
+  },
+  {
+    "headline": "포티투닷, 자율주행 연구 개발 발전 위해 데이터셋 공개",
+    "summary": "포티투닷, 자율주행 연구 개발 발전 위해 데이터셋 공개  로봇신문",
+    "source": "로봇신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4bW51cjVzLWx2T0VFWDFhckliUGlwb0dqZjRsSU5LS3NyX2dKQ1JvSm5UY3FlNXFYNGZtTTZYTmRSeGk4V09BTW1wa2JjT2dLbk42NGdEUUpSUmNJb2FPZW5TYUJya3UwckpCNA?oc=5",
+    "published_at": "2022-06-15T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.irobotnews.com/news/articleView.html?idxno=28750",
+    "companies": [
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "현대차의 포티투닷(42dot) 인수, 과연 성공적인 결말일까",
+    "summary": "현대차의 포티투닷(42dot) 인수, 과연 성공적인 결말일까  인베스트조선",
+    "source": "인베스트조선",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzBQZnlMM2Jud0xlWEhOUlowUFlpSkxITTdNOThlNlAxaVlVUzF5allxYmlCM1pvbDdpeUU1bXc4eTJ2NVVkNDB6VXNqVmdJdC12SDdmSlBwRktjQVRpSF9qcG1KVk8tM2JUdlduWTNiZld4RE9PdnM0bDV2Z1VHMU5KSQ?oc=5",
+    "published_at": "2022-09-07T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.investchosun.com/site/data/html_dir/2022/09/06/2022090680687.html",
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "상암 달릴 자율주행차 타보니…다른 차 끼어들어도 알아서 척척",
+    "summary": "상암 달릴 자율주행차 타보니…다른 차 끼어들어도 알아서 척척  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YRklvU3Z2bGxGdU4xOUFycHRSNERWZHVJSGFtN1lscVV5WEV6RDBBQ3U3cUQ0MVM4a3FCQlB1bEFmU2JLTkpmUlVYQWxtZUd2akhGYTNkd29SMlXSAWBBVV95cUxNRXdqWGNOXzZLd3BNUjhadjFXaUJ3Rk5PWnFMak1QSjlLVzZ6c1RoZ0FfUEl2OXE1YjRMUVJxdHg5TURDSEczQlQ1ckFkSUdXUVZfYWI0QVhGLXhNWEtsc28?oc=5",
+    "published_at": "2021-12-05T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.yna.co.kr/view/AKR20211204033700004"
+  },
+  {
+    "headline": "포티투닷, 내년에 서울 상암에서 자율주행차 시범 운행",
+    "summary": "포티투닷, 내년에 서울 상암에서 자율주행차 시범 운행  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NRWpBdTAzM3c2YzN0Q2xqenFkSjBRVlFfTVlvekVmUXI3LTQ4cVZxcHcxRXd6QU5BQlZWUzA5emRoai1jc2xWTzNNUGRzS3VEaFJyRzctaW40bW_SAWBBVV95cUxPX0FMdFRKSDFwb2IzLTVoWGFpMlBjbzRNdUtBc05fYVlYLVlzMVdwU0E4b0V6Q3lqMUFpbldkX1NqXzNyUVY5RGlXS04ycmJ1TE9xcnNHcFpjbHl1QmFsUTI?oc=5",
+    "published_at": "2020-12-21T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.yna.co.kr/view/AKR20201221033200017",
+    "companies": [
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "‘레벨4’로 진화하는 자율주행…현대차그룹, ‘포티투닷’ 앞세워 주도권 확보",
+    "summary": "‘레벨4’로 진화하는 자율주행…현대차그룹, ‘포티투닷’ 앞세워 주도권 확보  굿모닝경제",
+    "source": "굿모닝경제",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fVUMwNmszVF92UkxlaFo0alRLX1JJcjB6cFczdjVJVUE5Vl9OcjJVRV9CcnU2MGJWT1B3Wk5NWmJfUFZxbXZOYUNUZkJsa3dFX1Z2clhGQU9BTFZQZHI2OE1XaGVzVmdXOEczLQ?oc=5",
+    "published_at": "2023-07-10T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.goodkyung.com/news/articleView.html?idxno=211713",
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "포티투닷, 수요응답에 최적화된 자율주행 PBV 공개",
+    "summary": "포티투닷, 수요응답에 최적화된 자율주행 PBV 공개  테크월드",
+    "source": "테크월드",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MaFRhYkpmVlR0Q2lfQ3NRQ3JTR1pEVUQzWGJfaG9Nb0xaQTNVVE5rcWZ0a2hIV0hRUU9DSVN3NVJNOExZSTFkQ3RudEZULTlYTjBvQnVhQXlNbl9fdTdxWTFicVlzOURK?oc=5",
+    "published_at": "2022-09-26T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.epnc.co.kr/news/articleView.html?idxno=228023",
+    "companies": [
+      "42dot (포티투닷)"
+    ]
+  },
+  {
     "headline": "\"기사님 어디 갔어요?\"…텅 빈 택시가 스스로 달리는 '로보택시' 시대 [커버스토리]",
     "summary": "\"기사님 어디 갔어요?\"…텅 빈 택시가 스스로 달리는 '로보택시' 시대 [커버스토리]  생글생글",
     "source": "생글생글",

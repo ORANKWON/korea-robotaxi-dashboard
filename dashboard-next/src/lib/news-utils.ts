@@ -1,14 +1,51 @@
 /**
- * Pure helpers for the news UI: relative-time formatting, normalized URL keys
- * for bookmarks/read state, and tag → color map.
+ * Pure helpers for the news UI: relative-time formatting, normalized URL keys,
+ * KST date conversion, tag → color map, weekly insight aggregation.
  *
- * Locked-in by /plan-eng-review 2026-04-17 (news-list-v2 plan Phase 3+4).
+ * Locked-in by /plan-eng-review 2026-04-17 (news-list-v2) + 2026-05-11
+ * (news-archive-v1, D5 toKSTDate moved here, D6 WeeklyInsight discriminated
+ * union, D10 module-level Intl.DateTimeFormat singleton).
  *
- * Why a separate module: NewsCard + RelatedNews + WeeklyInsightWidget all need
- * the same time formatting + tag colors. Keeping it pure makes it trivially
- * unit-testable and avoids re-deriving tag classes in every component.
+ * Why a separate module: NewsCard + RelatedNews + WeeklyInsightWidget +
+ * news-archive all need the same utilities. Keeping it pure makes it
+ * trivially unit-testable and avoids re-deriving in every component.
  */
 import type { NewsItem } from "@/types";
+
+/**
+ * Single Intl.DateTimeFormat instance for KST date conversion. Re-instantiating
+ * per item costs ~3s across 3,090 items × 511 SSG pages (D10 outside-voice
+ * finding). Module-level singleton: init once per worker, .format() per item
+ * stays at microseconds.
+ *
+ * Locale "en-CA" gives "YYYY-MM-DD" output without locale-specific separators.
+ */
+const KST_DATE_FORMATTER = new Intl.DateTimeFormat("en-CA", {
+  timeZone: "Asia/Seoul",
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+});
+
+/**
+ * Convert UTC ISO timestamp to KST date string `YYYY-MM-DD`.
+ *
+ * Locked-in by /plan-eng-review 2026-05-11 (D2 + D5 + D10):
+ *   - D2 (build safety): returns null on bad ISO instead of throwing — one
+ *     corrupt item can't kill the entire 511-page archive build.
+ *   - D5: lives in news-utils.ts (not news-archive.ts) so news-utils consumers
+ *     (computeWeeklyInsight) can use it without circular dependency.
+ *   - D10: KST_DATE_FORMATTER singleton above.
+ *
+ * Naive `iso[:10]` slice is wrong: KST 23:30 = UTC 14:30 → that day's late
+ * articles bucket to the wrong (UTC-next) date. KST conversion is required
+ * for "5월 4일 뉴스" to mean what a Korean user expects.
+ */
+export function toKSTDate(iso: string): string | null {
+  const d = new Date(iso);
+  if (!Number.isFinite(d.getTime())) return null;
+  return KST_DATE_FORMATTER.format(d);
+}
 
 /**
  * Pick the canonical link for a news item (unwrapped publisher URL preferred
@@ -82,11 +119,24 @@ export function formatRelativeKo(iso: string, now: Date = new Date()): string {
  * Returns null when fewer than 3 items fall in the window — better empty
  * state than rendering a misleading "top 3" off 1-2 articles.
  */
+/**
+ * Discriminated union for the highlight slot. Locked-in by /plan-eng-review
+ * 2026-05-11 (D6): all three fields are set together or all null. Type
+ * enforces the invariant — consumer needs one null check, not three.
+ *
+ * `headline` is the article headline (existing field, just relocated).
+ * `date` is the KST `YYYY-MM-DD` for permalink to /archive/[date].
+ * `url` is `canonicalLink(item)` for the secondary "원문↗" external link.
+ */
 export interface WeeklyInsight {
   range: [string, string];
   total_articles: number;
   top_companies: Array<{ name: string; count: number }>;
-  highlight_headline: string | null;
+  highlight: {
+    headline: string;
+    date: string;
+    url: string;
+  } | null;
   daily_counts: number[];
 }
 
@@ -114,13 +164,24 @@ export function computeWeeklyInsight(
     .slice(0, 3)
     .map(([name, count]) => ({ name, count }));
 
-  // Highlight: first 정책 OR 사고 headline (chronologically newest)
+  // Highlight: first 정책 OR 사고 headline (chronologically newest).
+  // D6 (2026-05-11): populate the discriminated union — headline + KST date +
+  // canonical URL together or all null. WeeklyInsightWidget uses .date for
+  // /archive/[date] permalink and .url for "원문↗" secondary external link.
   const sortedByDate = window
     .slice()
     .sort((a, b) => b.published_at.localeCompare(a.published_at));
-  const highlight = sortedByDate.find(
+  const highlightItem = sortedByDate.find(
     (it) => it.tags.includes("정책") || it.tags.includes("사고"),
   );
+  const highlightDate = highlightItem ? toKSTDate(highlightItem.published_at) : null;
+  const highlight = highlightItem && highlightDate
+    ? {
+        headline: highlightItem.headline,
+        date: highlightDate,
+        url: canonicalLink(highlightItem),
+      }
+    : null;
 
   // Daily counts (oldest to newest, length 7)
   const daily_counts = Array(7).fill(0) as number[];
@@ -138,7 +199,7 @@ export function computeWeeklyInsight(
     range: [startISO, endISO],
     total_articles: window.length,
     top_companies,
-    highlight_headline: highlight?.headline ?? null,
+    highlight,
     daily_counts,
   };
 }

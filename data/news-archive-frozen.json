@@ -2180,6 +2180,441 @@
       "frozen_at": "2026-05-12T01:10:09Z",
       "representative_url": "https://news.nate.com/view/20260504n03648",
       "representative_headline": "쏘카, 크래프톤 손잡고 '레벨 4 완전 자율주행'에 로보택시까지…\"타임라인에 주목할 시기\""
+    },
+    "2016-06-09": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.khan.co.kr/article/201606091047001",
+      "representative_headline": "현대모비스, 국내 부품사 최초 자율주행차 임시운행 허가…고속도로 등에서 시속 110㎞로 달리며 기술개발 할 수 있게 돼"
+    },
+    "2017-02-20": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.ecoday.kr/article/1065604364635628",
+      "representative_headline": "네이버랩스, 최초 자율주행차 임시운행허가"
+    },
+    "2017-05-11": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.dongascience.com/ko/news/18056",
+      "representative_headline": "만도, 자율주행차 운행 허가…국내 최초 자체개발 센서 장착"
+    },
+    "2017-07-19": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.irobotnews.com/news/articleView.html?idxno=11189",
+      "representative_headline": "SK텔레콤, 자율주행차 임시운행허가 획득"
+    },
+    "2017-10-30": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=122378",
+      "representative_headline": "4차 산업혁명과 자율주행자동차, 「자율주행자동차 국내 법제」"
+    },
+    "2018-07-02": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148852054",
+      "representative_headline": "대형트럭도 일반도로서 자율주행 나선다"
+    },
+    "2019-10-29": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://magazine.hankyung.com/business/article/201910298164b",
+      "representative_headline": "토르드라이브, ‘4레벨’ 자율주행, 웨이모·GM크루즈와 경쟁"
+    },
+    "2020-03-25": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://brunch.co.kr/@dwcha7342/122",
+      "representative_headline": "[모빌리티 NOW]투자유치 성공한 '웨이모'와 자율주행"
+    },
+    "2020-08-03": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://m.sedaily.com/amparticle/12780699",
+      "representative_headline": "자율주행 ‘코드42→포티투닷(42dot)’ 사명 바꿔...“모빌리티 정체성 강화”"
+    },
+    "2020-11-27": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.newspim.com/news/view/20201127000304",
+      "representative_headline": "[이슈+] 카카오모빌리티, 구글과 손잡을까"
+    },
+    "2020-12-21": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.techdaily.co.kr/news/articleView.html?idxno=9221",
+      "representative_headline": "포티투닷(42dot) 기술로 완성된 자율주행차, 내년부터 서울 도심 달린다"
+    },
+    "2021-03-08": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://zdnet.co.kr/view/?no=20210308100558",
+      "representative_headline": "포티투닷, 세종 스마트시티 자율주행 모빌리티 시스템 운영"
+    },
+    "2021-04-16": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.irobotnews.com/news/articleView.html?idxno=24582",
+      "representative_headline": "포티투닷, 도심형 로보택시 서비스 시연"
+    },
+    "2021-05-11": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=81496",
+      "representative_headline": "LIG넥스원-42dot, 자율주행용 센서 고도화 및 레이다 개발 추진"
+    },
+    "2021-06-18": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.motormag.co.kr/news/articleView.html?idxno=3178",
+      "representative_headline": "자율주행의 경량화가 가능하다고? 42dot의 로보택시"
+    },
+    "2021-09-01": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.nocutnews.co.kr/news/5617169",
+      "representative_headline": "포티투닷, 자율주행 기술에 디자인 경쟁력까지…'레드닷 어워드' 수상"
+    },
+    "2021-11-29": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.nocutnews.co.kr/news/5665069",
+      "representative_headline": "포티투닷, 서울 상암서 '자율주행차 호출' 서비스 시작"
+    },
+    "2021-11-30": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.kgnews.co.kr/news/article.html?no=679008",
+      "representative_headline": "포티투닷 ‘자율주행 서비스’ 시연…경기지역 확대 기대"
+    },
+    "2021-12-02": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.etnews.com/20211202000195",
+      "representative_headline": "포티투닷, 자율주행 플랫폼에서 카카오 제쳤다"
+    },
+    "2021-12-05": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.yna.co.kr/view/AKR20211204033700004",
+      "representative_headline": "상암 달릴 자율주행차 타보니…다른 차 끼어들어도 알아서 척척"
+    },
+    "2021-12-10": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.joongang.co.kr/article/25031281",
+      "representative_headline": "[주말車담] 레벨4 자율주행, 교통법규는 OK 승차감은 ?"
+    },
+    "2022-01-24": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.joongang.co.kr/article/25043201",
+      "representative_headline": "자율주행 로보택시, 어디 가면 탈 수 있을까?"
+    },
+    "2022-02-10": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.joongang.co.kr/article/25047180",
+      "representative_headline": "[팩플] 자율주행AI '네·카' 경쟁…카카오모빌리티 디지털트윈 시동"
+    },
+    "2022-02-24": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=435265",
+      "representative_headline": "서울서도 시범 자율주행 시작...포티투닷 플랫폼 전략 가동"
+    },
+    "2022-03-17": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.brainmedia.co.kr/BRAINTRAINING/22561",
+      "representative_headline": "자율주행 스타트업 42dot, 포항에서 '수요응답형 교통' 운행"
+    },
+    "2022-06-08": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=448500",
+      "representative_headline": "[모빌리티핫이슈] SK·롯데 UAM 눈독...유료 무인 로보택시 나온다"
+    },
+    "2022-06-15": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.yna.co.kr/view/AKR20220615051100017",
+      "representative_headline": "자율주행 스타트업 포티투닷, AI 모델 학습용 데이터셋 공개"
+    },
+    "2022-07-31": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://biz.chosun.com/industry/car/2022/07/31/CIXFMI7SHFAXPAARKM3NV73LIY/",
+      "representative_headline": "현대차, 자율주행 스타트업 포티투닷 인수 검토 - 조선비즈"
+    },
+    "2022-08-10": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.startuptoday.kr/news/articleView.html?idxno=45316",
+      "representative_headline": "현대차, 자율주행 스타트업 ‘포티투닷’ 인수∙∙∙“자율주행 기술 확보로 경쟁력↑”"
+    },
+    "2022-08-17": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://brunch.co.kr/@b20a36d8afb0442/192",
+      "representative_headline": "\"망했다\"테슬라 망연자실하게 한 현대차 소식은 무엇?"
+    },
+    "2022-09-07": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.investchosun.com/site/data/html_dir/2022/09/06/2022090680687.html",
+      "representative_headline": "현대차의 포티투닷(42dot) 인수, 과연 성공적인 결말일까"
+    },
+    "2022-09-21": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=461757",
+      "representative_headline": "[모빌리티핫이슈] 배달 로봇 합법화 물꼬…카카오모빌 '콜 몰아주기' 논란 결론은?"
+    },
+    "2022-09-26": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://biz.chosun.com/industry/car/2022/09/26/AXRSZWEM2NADHABTAGW6VKCYBY/",
+      "representative_headline": "포티투닷 자율주행 셔틀, 청계천 인근서 시범운행 - 조선비즈"
+    },
+    "2022-09-27": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.segye.com/newsView/20220926514910",
+      "representative_headline": "포티투닷 ‘자율주행 셔틀’ 청계천 일대 달린다"
+    },
+    "2022-09-28": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://brunch.co.kr/@b20a36d8afb0442/385",
+      "representative_headline": "“일단 타보세요” 서울에서 운행되는 자율주행 버스"
+    },
+    "2022-10-22": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://brunch.co.kr/@align-mobility/36",
+      "representative_headline": "빽투더퓨처, 지금이 그 퓨처"
+    },
+    "2022-11-08": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.aitimes.com/news/articleView.html?idxno=147743",
+      "representative_headline": "제주서 인기 끈 '탐라자율주행', 그 비결은"
+    },
+    "2022-11-10": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.smedaily.co.kr/news/articleView.html?idxno=242550",
+      "representative_headline": "현대차·기아-카카오모빌리티, 강남에 '로봇택시' 선봬"
+    },
+    "2022-11-24": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.yna.co.kr/view/AKR20221124035951004",
+      "representative_headline": "'청계천 자율주행버스' 내일부터 다닌다…최대 7명 무료탑승(종합)"
+    },
+    "2023-03-07": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "http://www.economytalk.kr/news/articleView.html?idxno=232055",
+      "representative_headline": "투자자 ‘대박’ 안긴 포티투닷(42dot), 현대차에도 ‘대박’?"
+    },
+    "2023-04-17": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://aws.amazon.com/ko/blogs/tech/aws-cloud-development-kit-cdk-42dot-fleet-management-systemfms-automation/",
+      "representative_headline": "AWS Cloud Development Kit을 활용한 포티투닷(42dot)의 Fleet Management System 자동화 사례 - Amazon Web Services (AWS)"
+    },
+    "2023-04-24": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.bloter.net/news/articleView.html?idxno=600944",
+      "representative_headline": "포티투닷 자율주행 플랫폼 'TAP!' 사용자, 14개월만에 2만명 돌파"
+    },
+    "2023-04-26": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://it.chosun.com/news/articleView.html?idxno=2023042600971",
+      "representative_headline": "2만명 탄 '서울 자율주행 버스'…정작 시민들은 잘 몰라"
+    },
+    "2023-06-09": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.ktodaynews.co.kr/news/articleView.html?idxno=5917",
+      "representative_headline": "\"성공하면 초대박\"...무려 1조 투자한 현대자동차그룹, 자동차 시장 싹쓸이 가능할까?"
+    },
+    "2023-07-10": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.goodkyung.com/news/articleView.html?idxno=211713",
+      "representative_headline": "‘레벨4’로 진화하는 자율주행…현대차그룹, ‘포티투닷’ 앞세워 주도권 확보"
+    },
+    "2023-09-20": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.hyundaimotorgroup.com/ko/tv/CONT0000000000114300",
+      "representative_headline": "서울 청계천을 달리는 K–자율주행 셔틀 탑승기｜42dot｜현대자동차그룹"
+    },
+    "2023-09-25": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.irobotnews.com/news/articleView.html?idxno=32792",
+      "representative_headline": "포티투닷, ISO 26262 국제 표준 인증 획득"
+    },
+    "2023-09-27": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.epnc.co.kr/news/articleView.html?idxno=236993",
+      "representative_headline": "대한민국의 자율주행 현주소... 시범 운행 현황과 적용 기술"
+    },
+    "2023-10-09": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "http://kmrk.ru/kolledg/novosti/smi/okolo-tysyachi-pervokursnikov-byli-posvyashcheny-v-kursanty-i-studenty-bgarf-i-kmrk/",
+      "representative_headline": "프로토 결과 교육의 중요성과 접근 방식: 최신 방법론 - 장단점 비교 분석"
+    },
+    "2023-10-28": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.greened.kr/news/articleView.html?idxno=307864",
+      "representative_headline": "[르포] 자율주행차, 돌발상황 학습해서 알고리즘 고도화...시장 잠재력은?"
+    },
+    "2023-11-07": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.mk.co.kr/news/business/10868499",
+      "representative_headline": "[단독] 현대차, 자율주행사업부 사내 진단 왜?"
+    },
+    "2023-11-30": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.koit.co.kr/news/articleView.html?idxno=118812",
+      "representative_headline": "전국 모든 시·도에서 자율주행차 달린다"
+    },
+    "2024-01-09": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.hyundai.com/worldwide/ko/brand-journal/mobility-solution/sdv",
+      "representative_headline": "CES 2024 – 소프트웨어 정의 자동차(SDV) - 현대 월드와이드"
+    },
+    "2024-02-22": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.joongang.co.kr/article/25230608",
+      "representative_headline": "'도로 금쪽이'에 분노, 불지른 美…로보택시 중국선 쾌속질주"
+    },
+    "2024-03-10": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.fnnews.com/news/202403092356064212",
+      "representative_headline": "제임스 펑 포니AI 회장 \"젬백스링크와 V2X·5G 부가 사업 확장\""
+    },
+    "2024-04-03": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.etnews.com/20240403000208",
+      "representative_headline": "[우리가 AX 주역]〈11〉라이드플럭스 “완전 자율주행 기술 대중화 선도”"
+    },
+    "2024-04-11": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.carguy.kr/news/articleView.html?idxno=49059",
+      "representative_headline": "테슬라 로보택시, 8월 8일 나온다...무인 택시 혁신가 될까"
+    },
+    "2024-04-26": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://byline.network/2024/04/26-334/",
+      "representative_headline": "[바스리] “부르면 온다” 제주 도심 달리는 자율주행, 라이드플럭스"
+    },
+    "2024-06-05": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "http://www.smedaily.co.kr/news/articleView.html?idxno=293211",
+      "representative_headline": "현대차그룹 포티투닷 2500억 또 지원SDV·자율주행 플랫폼 개발 앞서 간다"
+    },
+    "2024-09-06": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://v.daum.net/v/20240906220900175",
+      "representative_headline": "“휴대폰 누르면 주차된 차가 내 앞에”…내년 초 완전 자율주행차 선보이는 테슬라"
+    },
+    "2024-09-30": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://m.ekn.kr/view.php?key=20240930029407832",
+      "representative_headline": "자율주행차 중기·스타트업, ‘한국판 테슬라’ 향해 질주"
+    },
+    "2024-10-10": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=202181",
+      "representative_headline": "우버, 자율주행차 파트너십 확장 통해 자율주행 역량 강화-한투"
+    },
+    "2024-11-08": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.asiae.co.kr/article/2024110721561296355",
+      "representative_headline": "판교 퇴근길 스르르 빠져나간 SW차량…정의선 사로잡은 포티투닷"
+    },
+    "2024-12-16": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.mt.co.kr/stock/2024/12/16/2024121610532197893",
+      "representative_headline": "포니링크, 임원진 자율주행차 최종 기술 점검 - 머니투데이"
+    },
+    "2025-01-27": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://biz.chosun.com/industry/car/2025/01/27/MZ356K4P3RFGDGVD7LIHOAJL3M/",
+      "representative_headline": "[시승기] 국내 시범서비스 중인 로보택시 타 봤더니 - 조선비즈"
+    },
+    "2025-02-10": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.news1.kr/industry/general-industry/5684310",
+      "representative_headline": "포티투닷, 카타르서 로보택시 실증…모빌리티 기반 스마트시티 구현"
+    },
+    "2025-02-17": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=553715",
+      "representative_headline": "타다, 카카오모빌리티 상대 100억 손배소...\"콜 차단 피해\""
+    },
+    "2025-03-17": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.news1.kr/industry/general-industry/5721410",
+      "representative_headline": "시범사업만 수년째…글로벌 자율주행 기술 톱10에 한국 전무"
+    },
+    "2025-03-28": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.itbiznews.com/news/articleView.html?idxno=164155",
+      "representative_headline": "카카오모빌리티, 해외 12개국으로 ‘케이라이드’ 서비스 확대"
+    },
+    "2025-03-29": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.econovill.com/news/articleView.html?idxno=689773",
+      "representative_headline": "한양대 자동차지능연구실, 현대차그룹 개최 '2025 자율주행 챌린지' 우승"
+    },
+    "2025-04-02": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.edaily.co.kr/News/Read?newsId=04178726642132184&mediaCodeNo=257",
+      "representative_headline": "韓 완전 자율주행 어디까지 왔나…'레벨 4+'를 향한 도전"
+    },
+    "2025-04-15": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.thelec.kr/news/articleView.html?idxno=34884",
+      "representative_headline": "[영상] 현대차, 자율주행 '라이다'서 '카메라' 전환, 악수일까?"
+    },
+    "2025-04-18": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.thelec.kr/news/articleView.html?idxno=35110",
+      "representative_headline": "\"1조4000억원 투자했는데...\" 포티투닷 저성과에 현대차 내부 '부글부글'"
+    },
+    "2025-05-02": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.gpkorea.com/news/articleView.html?idxno=128258",
+      "representative_headline": "구글 웨이모, 토요타와 자율주행차 플랫폼 공동개발 나선다"
+    },
+    "2025-05-27": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.etnews.com/20250527000331",
+      "representative_headline": "에스더블유엠, 자율주행 로보택시 교통 사고 대응 체계 수립에 따른 모의훈련 실시"
+    },
+    "2025-07-13": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://byline.network/2025/07/11_2918277/",
+      "representative_headline": "“자율주행 상용화는 시작됐다” 카카오모빌리티가 짚은 한국형 자율주행의 현재"
+    },
+    "2025-07-26": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.yna.co.kr/view/AKR20250726002551075",
+      "representative_headline": "\"테슬라, 캘리포니아서 무인택시 영업 허가 아직 못 받아\"(종합)"
+    },
+    "2025-07-29": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.kmjournal.net/news/articleView.html?idxno=2379",
+      "representative_headline": "[분석리즘] 포티투닷, 'SDV 페이스카'로 자율주행 AI의 중심을 노리다"
+    },
+    "2025-08-06": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://v.daum.net/v/BZD4v3wMTM?f=p",
+      "representative_headline": "\"이거 믿고 탈 수 있나?\" 카카오와 손잡은 중국산 자율주행 택시, 한국 출시 모색"
+    },
+    "2025-08-16": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://brunch.co.kr/@mtoday/118",
+      "representative_headline": "기업 가치 5,700억 '포티투닷', 현대차가 인수한다"
+    },
+    "2025-09-10": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://biz.newdaily.co.kr/site/data/html/2025/09/10/2025091000426.html",
+      "representative_headline": "\"韓 레벨4 자율주행, AI 기반 기술개발 및 국제인증 정합성 있어야\""
+    },
+    "2025-10-12": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.ismartnews.com/news/view.php?idx=51546",
+      "representative_headline": "자율주행차 `교통혁신` 일자리 위협"
+    },
+    "2025-11-07": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.mk.co.kr/news/business/11461724",
+      "representative_headline": "[단독] 자율주행은 속도가 생명…현대차, ‘중국과의 동침’"
+    },
+    "2025-11-12": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1686456",
+      "representative_headline": "현대차, 신규 먹거리 '로보택시·수소' 사업 추진 잰걸음"
+    },
+    "2025-12-27": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://tarantas.news/ko/posts/id7169-hyeondaeca-jeongyiseon-42dotseo-aionig-6-muin-jayuljuhaeng-jeomgeom-ateuria-aiwa-endeutuendeu-jeonryag-jaehwagin",
+      "representative_headline": "현대차 정의선, 42dot서 아이오닉 6 무인 자율주행 점검: 아트리아 AI와 엔드투엔드 전략 재확인"
+    },
+    "2026-01-10": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.sedaily.com/article/14168882",
+      "representative_headline": "17조 vs 700억…웨이모에 맞서는 韓 자율주행 스타트업의 승부수"
+    },
+    "2026-05-05": {
+      "frozen_at": "2026-05-12T03:47:50Z",
+      "representative_url": "https://www.huffingtonpost.kr/article/256985",
+      "representative_headline": "현대차그룹 정의선 '퍼스트무버' 행로에 좌고우면은 없다 : 비상경영 돌입에도 R&D 거점 마련 위한 8조 투자 드라이브"
     }
   }
 }

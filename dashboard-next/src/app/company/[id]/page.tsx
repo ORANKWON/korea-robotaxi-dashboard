@@ -7,6 +7,7 @@ import { notFound } from "next/navigation";
 import RelatedNews from "@/components/news/RelatedNews";
 import BookmarkButton from "@/components/BookmarkButton";
 import { canonicalPair } from "@/lib/companies";
+import { getDailyArchive, type DailyArchive } from "@/lib/news-archive";
 
 const companies = companiesData as Company[];
 const zones = zonesData as Zone[];
@@ -69,6 +70,17 @@ export default function CompanyDetail({ params }: { params: { id: string } }) {
   // NewsItem.companies (post-Phase-1 backfill), with a keyword fallback for
   // pre-backfill items so the section is never empty just because the crawler
   // hasn't re-processed yet.
+
+  // "차지한 날" — days where THIS company was the day's representative pick.
+  // Locked-in by /plan-eng-review 2026-05-11 D11 (PR2 of news-archive-v1).
+  // STRICT match: representative.companies must contain `company.name`
+  // EXACTLY. Looser keyword matching here would dilute the signal — the
+  // section's value is "this company carried that day's narrative", which
+  // only holds if the day's score-winner actually mentions this company.
+  // Empty section is hidden (companies with no headline-carrying days).
+  const daysOccupied = getDailyArchive().filter((day) =>
+    day.representative?.companies?.includes(company.name) ?? false,
+  );
 
   // JSON-LD Organization schema
   const jsonLd = {
@@ -227,6 +239,11 @@ export default function CompanyDetail({ params }: { params: { id: string } }) {
         </section>
       )}
 
+      {/* "차지한 날" — D11 PR2. Hidden when zero days; never shows pad. */}
+      {daysOccupied.length > 0 && (
+        <DaysOccupiedSection days={daysOccupied} companyName={company.name} />
+      )}
+
       {/* Related news (primary: companies field; fallback: keyword match) */}
       <RelatedNews
         companyName={company.name}
@@ -235,6 +252,59 @@ export default function CompanyDetail({ params }: { params: { id: string } }) {
         limit={10}
       />
     </div>
+  );
+}
+
+/**
+ * "차지한 날" — list of days where THIS company carried the headline.
+ *
+ * Each row: KST date + representative headline + chip linking to the
+ * permanent /archive/[date] page. Sorted newest first (matches archive).
+ * Capped at 12 entries by default to keep the company page scannable;
+ * a "전체 보기" link drops the user at /archive filtered to this company
+ * (future affordance — for now the cap is the cap).
+ */
+function DaysOccupiedSection({
+  days,
+  companyName,
+}: {
+  days: DailyArchive[];
+  companyName: string;
+}) {
+  const display = days.slice(0, 12);
+  const more = days.length - display.length;
+  return (
+    <section className="bg-white rounded-xl border border-gray-200 p-6 shadow-sm">
+      <div className="flex items-baseline justify-between mb-4">
+        <h2 className="text-lg font-bold">{companyName}이(가) 차지한 날</h2>
+        <span className="text-xs text-gray-400">총 {days.length}일</span>
+      </div>
+      <ul className="divide-y divide-gray-100">
+        {display.map((day) => (
+          <li key={day.date} className="py-2.5 first:pt-0 last:pb-0">
+            <Link
+              href={`/archive/${day.date}`}
+              className="flex items-start gap-3 hover:text-blue-700 group"
+            >
+              <span className="text-xs text-gray-400 font-mono w-24 shrink-0 pt-0.5 group-hover:text-blue-500">
+                {day.date}
+              </span>
+              <span className="text-sm text-gray-700 leading-snug line-clamp-2 flex-1">
+                {day.representative?.headline ?? "—"}
+              </span>
+            </Link>
+          </li>
+        ))}
+      </ul>
+      {more > 0 && (
+        <p className="text-xs text-gray-400 mt-3 text-right">
+          외 {more}일 더 있음 ·{" "}
+          <Link href="/archive" className="text-blue-600 hover:underline">
+            아카이브 전체 보기
+          </Link>
+        </p>
+      )}
+    </section>
   );
 }
 

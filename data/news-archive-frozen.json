@@ -1,0 +1,2185 @@
+{
+  "_comment": "Permalink stability for /archive/[date]. Locked-in by /plan-eng-review 2026-05-11 D11. Populated by scripts/freeze_archive.py during the crawl.yml run for any date with (today - date) >= 7 days. Once a date is frozen, getDailyArchive() overrides the score-based pickRepresentative with the frozen entry — investors who cite /archive/2026-04-12 keep getting the same headline 5 years later. Initial state: empty {} (PR2 ships day 0; entries accumulate naturally over the next 8 days). Do not edit by hand. Schema: { 'YYYY-MM-DD': { 'frozen_at': ISO8601 UTC, 'representative_url': str, 'representative_headline': str } }",
+  "frozen": {
+    "2016-03-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDUm01SGdVZm91dXNoMkVQR3JMcVZQUVRNVlNzQzM3TUYwckV5bXJMUmR2cGVkb0tDSy1la25DZnNRa3RUMi1CVm92TG92M0xsSG9zdWIxdUhIOWl1X29KOEc5eXF5d0xmX25JTA?oc=5",
+      "representative_headline": "현대차 제네시스 자율주행차 임시운행 1호 허가"
+    },
+    "2016-04-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vTVRvX1BfUERSazhoSWxuTTNObVFlQUNRVDIwSnZYLTJIZnpSZkVaZ21GNHktR0VscnNBSjJfdzFMZ1FYcjVxNkxmbHJ2cXdiQXVvVEJVUkZ0S1lDakMydmZabzJHWl9LYzJJ?oc=5",
+      "representative_headline": "자율주행자동차 12일부터 임시운행제도 시행"
+    },
+    "2016-12-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNDRBNHRDNWQ0R2JNWjhBOVJjdTdlaWtXSkN5T18yNWVQNTZWZDc4Tkhhc3dlaDRCcDk2UldEcXJHMTRXWGlIWmlmcXo3MzZkMjl2UG1B?oc=5",
+      "representative_headline": "구글 자율차 브랜드 '웨이모'…상업화 단계?"
+    },
+    "2016-12-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44cTJOOVVSN1VoM1ZydGNaVUJod0w4TXFuMkZJNDZNOFFfcFZ6eHpjN0l5UHAtOVFDb25aRklfMTFfRFYxOUF3SkdySzBodjB2MDVPeVV3?oc=5",
+      "representative_headline": "구글 웨이모, ‘퍼시피카’ 완전 자율차 첫 공개"
+    },
+    "2017-02-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vNWE4ZzctV2dMSTltb0k1cXJWcjctMzQxS3EwYjlfYVdnNUhzYzNTRHczR2JjZWk4MElXRHJUN0FmaXE1eG9jRnNFREpZN2lJa1RsX1d6SEd1Q2NKTDB1TWVwM3BXc1U?oc=5",
+      "representative_headline": "네이버 자율주행차 달린다…국토부, 도로 임시운행 허가"
+    },
+    "2017-02-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://zdnet.co.kr/view/?no=20170224083534",
+      "representative_headline": "웨이모, 우버·오토 소송키로…\"특허 침해\""
+    },
+    "2017-05-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1eE5UcHFPNWNuVk5GdkFRdHVXWWZGOTFScHdrQVVBdUg2UkdORFlHTVFONkxKMHJNMUxKdnN6TU1Da1RDV1JaYWlJNHVoNGtTa0lV0gFTQVVfeXFMUHV4TlRwcU81Y25WTkZ2QVF0dVdZZkY5MVJwd2tBVUF1SDZSR05EWUdNUU42TEowck0xTEp2c3pNTUNrVENXUlphaUk0dWg0a1NrSVU?oc=5",
+      "representative_headline": "삼성전자 자율주행차 임시운행 허가...전자업계 최초"
+    },
+    "2017-09-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xTjlFdm1iX1QtNHdnZFlJSmktMFBQMW9LbGF6d0NRSnF0M1VmU2tsQXdndGNWWXRTOV94ek9SNjkxNEZiWFhNSHVISllHTGpKY1J3aVN3?oc=5",
+      "representative_headline": "인텔-구글 웨이모, 완전 자율주행 기술 협력"
+    },
+    "2017-12-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZFQxZlQxOHNYWXVFNHBnYTdKMXdLWXpUTV9HZWdvclJMWEtTUERqRGVrTkVxWURmblJCSnd3aUpiS0JDQkFFdWwyd0h3STNIaDRuMFNB?oc=5",
+      "representative_headline": "웨이모, 트로브와 자율차 보험체계 구축"
+    },
+    "2018-05-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hTVJJcWRHd2NieFBpLUNFUkZ2TklFRk12eHMtekdQUFZuSGtjRU41T1JiM3hBUHBkUXNPMHBRc3NCS2JkdVNmN2lyZTRaU2xEaUVHa0EwejBhalZKTk5NSjZLTUtUTkdP?oc=5",
+      "representative_headline": "DGIST 연구원기업 '소네트' 자율주행차 임시운행 허가"
+    },
+    "2018-05-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://m.boannews.com/html/detail.html?idx=69063&page=390&kind=2",
+      "representative_headline": "DGIST 산하 소네트, 자율주행 임시운행허가 취득"
+    },
+    "2018-07-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GTEdiNEN4OFZuZkpHWFczX0ZqUTVSVGlBRWo4dUJhQ09HdXk5bWxFcWV1VU50VVlsOGRSeFNOQWRibDVQZ3FaU05EZ3M4SWl5SDJFNkpNRkZROFZDUGx6M196ZXdGVnhTNElHQw?oc=5",
+      "representative_headline": "현대차 자율주행트럭,임시운행허가 취득"
+    },
+    "2018-09-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3QXl4QVlDbUtCSXFWTWdOc0hYNDZpZGFsTS1hRXFsUGFRN3ExYzZpT25BRF9lUlA5ZXBmYVVMVGVERTBWb2Fpd1UzSUFiLUFKYktfYw?oc=5",
+      "representative_headline": "구글 자매사 웨이모, 자율주행차량 특허경쟁력 1위…한국은 35위 현대차가 유일"
+    },
+    "2018-12-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.ajunews.com/view/20181206150043399",
+      "representative_headline": "구글 웨이모, 세계 최초 자율주행 상용화...韓 기업들도 미래 먹거리로 낙점"
+    },
+    "2018-12-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EMm4xNElURE9LMWtMY0h4S1NMYWJCNEVmMHNZdlRMaVpJZHkxS0xQdV9oZ3YtSXZYRll6X2ZIcE5HRmRDT0I4aENzWnJtV000WndJNlN0UjZ2UdIBVEFVX3lxTE8weGhFaGdWU2dvUDIxd1I3dEdWRmVIeXlFOTRtV09LV3AyU0FCQ0NTcUFfaWQ1RHdhYkpVOFRMVjZlTzdnTVE4RklZRFYxTVV3eDJScQ?oc=5",
+      "representative_headline": "구글 자율주행 택시가 2018년 한국에 주는 교훈"
+    },
+    "2018-12-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzWXA0TkZFNGRTZlBJclFMNjZVWVd6bWhUQ0xMOGFuUHFiMFNTY3dwY2lVOEJVdGluYkphQXY1TEVESjdjYTdLN1Noa0pOWXM5cEVSS21PMA?oc=5",
+      "representative_headline": "‘운전기사 없는 택시?!’ 웨이모 자율주행 택시"
+    },
+    "2019-01-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sVFdQNE8wN0dyRzA2RFJFeHRtaWNmMEN3bUdMdC05bG1yQ1BzUlFCeElYcnpremttYVFkeWpmZGFJemZMcDd1aWlXSGNrVlFCeFFRRHlLdzJYWmNoRFk4SEh1V1o5QWs4aXJiUlZkRzNNdw?oc=5",
+      "representative_headline": "울산시, 지자체 최초 자율주행차 임시운행허가 취득"
+    },
+    "2019-05-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.nocutnews.co.kr/news/5154937",
+      "representative_headline": "쏘카 \"장기 렌트카, 안 쓸땐 나눠쓰고 대여료 할인 받으세요\""
+    },
+    "2019-06-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vRXFWZVZPbms2SWdCWDR4STZWOXc2NGxfeVVLYVRGVko1S2ZjRE56RmUtaHdxcVNmcENqeWZFaTVRQkVtS2xRZF9jVDdzMXF6d3kzNGNIbldnak5KU3lr?oc=5",
+      "representative_headline": "‘웨이모’가 ‘웨이고’에 공문 보낸 이유"
+    },
+    "2019-09-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.etnews.com/20190918000179",
+      "representative_headline": "스프링클라우드, '무인 자율주행 셔틀' 국토부 임시운행 허가 획득"
+    },
+    "2020-01-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hani.co.kr/arti/economy/car/923205.html",
+      "representative_headline": "현대차그룹, 미국서 ‘카셰어링’ 시동…“LA시와 협업, 모빌리티 사업 검증”"
+    },
+    "2020-03-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pSUQ3enFiaTRuLUkybXZVeEt2Mi1BM0dkaEJMUm5FV1hkMnBrLVl2TVl1bWJNd2VzV0RVQm1KZG50NXBtU0owTDJYbE8xSXNnZTZwWWUwSlFGd9IBX0FVX3lxTE1vMHJSQWlqMnpZNkQ5eGJjM3ZiZ2ZsUnVmYmtEZ0tPTHVrNHdZNGJLbml3RDhwREtJRHI1OXhtcERiREs5UnNmdTBFYVR4VFdaV0lmYi1XVDh0SFNaa0J3?oc=5",
+      "representative_headline": "카카오모빌리티 자율주행차…‘레벨4’ 임시운행 허가 취득"
+    },
+    "2020-06-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwLXg0NEtHcU1SRGxXcXBTZHV4SFZ1X1h0VGpDbWV4eUM5ek9VVzNYNHFSZ2RkMUM2VFhROXdoTlFHZjlCTXJMMlhVbF8tZ05mNjhsbUtB?oc=5",
+      "representative_headline": "웨이모-볼보, 4단계 자율주행 독자 협력"
+    },
+    "2020-08-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhdUtwU19vWFJDc2dwNlJ0OU0yTTRmRVFUVThsQjlVTG5Falh1Tk9lZ01TNFZTLXU4VElsNTNodDkzRGJhU2kw?oc=5",
+      "representative_headline": "[피치원뷰]국토부,운전자없는 레벨4 무인자율주행차 운행허가방침,안전성논란 후끈"
+    },
+    "2020-09-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4SU5EdU52RkM3cWdITC1kLWZja2xuY0lTWXBkSGRITzdCQTBEdTlHYmtfdWtCTTBGVlhWMFVnaGg5TWkzWWhuUjNmNzZmY3lfSEdWdTdIWGdDbHdDSVU0Vm9TaUFFdw?oc=5",
+      "representative_headline": "국민대, \"자율주행차 도로 위를 달린다\" 국토부로부터 자율주행 임시운행허가 취득"
+    },
+    "2020-11-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jUm8zZVpCWGJzanh0RW9jMTQxMDRUTnpaVmExQXJBODhNYTVsX0dMemM1Nlc4WDlDdF83azFVVl9HaU9VdElNVlNFVjJwbldLaF90Skxn?oc=5",
+      "representative_headline": "핸들ㆍ페달 없는 자율주행차 임시운행허가 문턱 낮아진다"
+    },
+    "2020-11-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SVDZoVTZqejQ0ZFFYQ2JfeXJVRy1pLXhfeUJFUjlqaHREQTd6X0V3Qy1LaTFWODVtWGR3VERvR01wYXQ2YmxwR0hQWERFZw?oc=5",
+      "representative_headline": "무인차도 임시운행 허용...자율차 임시운행 허가 규정 개정"
+    },
+    "2020-11-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.epnc.co.kr/news/articleView.html?idxno=109195",
+      "representative_headline": "운전석 없는 자율주행차 임시운행 가능해진다"
+    },
+    "2020-11-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVDdDbDUxNW1wRG5zb1ZOek1KbU9paEtBdFVvbkpsSWp3cE42VkZ4anY2NjZXYWxLQ1czYjZZQTdFNzJ2dmc3Y0VFNkpJX2dOYzJZN3Zyay1VT0d3RDBEaC01MnRiZEhoQmc?oc=5",
+      "representative_headline": "쌍용자동차, 코란도 기반 자율주행차 '레벨 3 임시운행 허가' 취득"
+    },
+    "2021-01-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tc052akFfeGpCOHdXM2ZyNGtWdFFCY3JtanNzWS1qamFuN3Z0TVJqdENnNDFKRGNqTXBqZlBEc3QwVDd2SW1RNTdHVGlxU0FOYmkzQzZR?oc=5",
+      "representative_headline": "요금 2000원대, 첫 유료 자율주행차 상암동 달린다"
+    },
+    "2021-01-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTZWZLMXR3S2dfUXl0cVZJaEJWZTFSRW41YjdTQUZxYmdxb1hobk5UZkpkTk9jZEtndWNSMUxIbGJ3aWlUbnVzWlBuNHJvaEEyLXFMcUNn?oc=5",
+      "representative_headline": "웨이모 \"테슬라, 우리 경쟁자 아니다”"
+    },
+    "2021-01-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oYTRxOWJhQXhBejdPdGdxTkdyMmZZd0xvekNiVWdwczh0cWktSDFJcjIyRlZVZFpyUm9PQUZqbFRxNWx3V3JzQ3FpaGhkdlcxY0h6czg2bDFQZTA5TWlYRUhuZUV6QUJrUmc?oc=5",
+      "representative_headline": "싱가포르가 먼저 자율주행버스 시대 연다…유료 자율 주행 버스 도심 운행 실시"
+    },
+    "2021-03-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTMDUxVUk4MTcwb2QwbVNCeXFFS2FTRkVycUppS2RvOGhIdko4X2NsSUFMMUtmRFYxUzVLY19YMmNEOGhDVlZhVVRjLV9nR3BpT0hpbnlyOFdfVHQzNzlvcENUcW1iQWtBbVBzeg?oc=5",
+      "representative_headline": "국내기술로 제작된 자율주행셔틀 '위더스', 대한민국 전역 달린다"
+    },
+    "2021-03-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6UFpiZjRKMWZhSEFHMHI2ckJta0dqaGprZ1cwa2hRNVluaTl4WHQxWHh3dGNpaG9WbHMyeUdUbWNhX0tIblpCTDJDaE12REdxaEVnUmMwQWxLLUhfSFNzalVSakJzVXA0Vl91atIBcEFVX3lxTE91eXc1eHZTNGpBNW56UTNOdGFpTVRmS1lmcFFQT3hESDNkQ0JsekVhbmJXQjhQcDhGVi1TaTh4aWphcnlNZ2xBUnAxaUUwaWtxWGZ5Yld4dFF1UmIyMW1wem84WEZKSlhRTFpVc19ucXc?oc=5",
+      "representative_headline": "언맨드솔루션 '위더스', 국내 최초 자율주행 임시 면허 취득"
+    },
+    "2021-05-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://zdnet.co.kr/view/?no=20210524095410",
+      "representative_headline": "中 포니.ai, 캘리포니아서 완전 자율주행 면허"
+    },
+    "2021-06-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GMTJoVi10VDk4UXBvZ0ctQk5XV01SbktJTzNlY1R1dmFiYWk4S0dXTi14U1dlaGFESVZhTmkzSDVHemF2ZkxPRU5nemZUWFdFcXVCMVpB?oc=5",
+      "representative_headline": "[위기를 기회로!] 운전석 없는 자율주행셔틀 임시운행허가 취득"
+    },
+    "2021-10-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQnRCdDVxQk5kRUg1VTZ3UWZ3R2U4RkN1YV9GZ1Z2VXR6OXNLUlVfRUNibUl6QWRsNTlLdFFZTEJwQy1SM09CeWtYTWR4VDNpcVp6NUx2NzkzZ9IBVEFVX3lxTE12UEdLTENOWExUNEtyUkRtaWRQWlBYRDU4SGpPUC1OeTJhelduMUt5V29iY2tzbDc1S1lBXzc1V0ZkYkxfSE1OUEg0WDhtT0xUbGlBZA?oc=5",
+      "representative_headline": "박사 학위·구글 모두 버리고…30대 청년의 '과감한 선택' [황정수의 인(人) 실리콘밸리]"
+    },
+    "2021-11-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hankyung.com/article/202111266650i",
+      "representative_headline": "바이두·포니ai, 중국서 첫 로보택시 유료서비스 시작[강현우의 중국주식 분석]"
+    },
+    "2021-12-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UUWRrYUZTbU51SzYyN1BRWWRTTTl0NEMzOWlZdjJoMk50REdnMG1LczItRUQwMVFBRlZ6TjJ4MFppcE95NjNLcmIwUDdPbFduVVc2UFpR?oc=5",
+      "representative_headline": "'앱'으로 부르는 자율주행차 '유료 서비스'…대구서 내년 1월 시작"
+    },
+    "2021-12-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.imaeil.com/page/view/2021122617064265006",
+      "representative_headline": "[시승기] 1월 대구서 시작하는 유료 자율주행차 미리 타보니"
+    },
+    "2022-01-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MaGEyYWlfLUR2TEtuVGcyVERoaHRMM1cxWm10OWplb1NyRF8wSThZYVROVm00dXk3TEk0Y0R6Ym9ydElwdkUwX0Vzcm1oTl9nWFV1M1Y2TlRnd2s?oc=5",
+      "representative_headline": "대구시, 유료 자율주행 셔틀차량 운행 시작"
+    },
+    "2022-01-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.mt.co.kr/stock/2022/01/13/2022011313070839869",
+      "representative_headline": "친환경차부터 로보택시까지, 모빌리티에 꽂힌 투자업계…왜?"
+    },
+    "2022-01-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.joongang.co.kr/article/25043260",
+      "representative_headline": "[팩플] 직접 타봤다…실험실 탈출한 '로보택시 4룡'의 진격"
+    },
+    "2022-02-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzc1gxYUxtMzdqUThrUDYwMWVHZmh5WFRqVDhjQXRFNXFJWmpGM3hZN1NlYjE3cldtcmJSbzZpYlBIM2wtYlZXZU1SZ1VON2RLNHZuTFRITVNNeWs?oc=5",
+      "representative_headline": "자율주행자동차 유료 운행…서울 상암서 첫 운행"
+    },
+    "2022-03-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.fnnews.com/news/202203220407295436",
+      "representative_headline": "美웨이모·中바이두 자율주행 '속도전'…한국은?[車블랙박스]"
+    },
+    "2022-03-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.sedaily.com/article/13353019",
+      "representative_headline": "韓 자율주행 기술 20위권내 '0'…데이터 규제 확 풀어야"
+    },
+    "2022-03-31": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NGtyc2FvVWhIaDV3X09rSG5ReGxmNzIxTEh1d2c4TVNHN0lLSzJQb0Y2S1ZZRy02UjkzcVh3cVBhSUlIaUdJV1dlMVd6VWdyNjhpQ3N5eXNPUdIBVEFVX3lxTE1wSXNNYTl0VDRkNUxMRzdObkJ6WHV5UmJ1dHRCNmRaeElzSjJzUnhOT3U4ckR1Yzk1RW9VOUxJWDJtd01MSW04LXQxMDZFMDB1T011cQ?oc=5",
+      "representative_headline": "웨이모, 美 샌프란시스코서 무인 자율주행 서비스 개시"
+    },
+    "2022-04-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14cDRyV19YUnlXS1BUUHNQWlBCNGNRN0Fybmd6T3UxZVhRWjNWMHUyX1Vqbi04eFhvNlJkOVJfN1M5TEtZT29BUGhUVnFCMlduaDBZdFN1cXlYOFAzY1VwU3lIc0NwX0pJdEFZeQ?oc=5",
+      "representative_headline": "6월부터 세종 BRT 차로서 유료 이용 자율주행 버스 달린다"
+    },
+    "2022-04-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rZ2d6M3U1Qk5ncDZUN1htV01hdS1QTWRnbzZwMjR2Vmw0eWF6TFZUU1l2R3V4SmJ5SDBmSFkxNWF5cmFqczRHbndPSDhCM1hZcVJvMzE2eXJseE0xOWhFNUJWQWw5azVwS1JFbGhVZmZhOHNw?oc=5",
+      "representative_headline": "소네트, 중소기업 최초로 자율주행 임시운행 허가 받아"
+    },
+    "2022-04-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5ZS1kckVkaWU5SUJHdG9DSEpZT2VkZjJGRGQxal8wSU50aTU2blZoaG9SbWM1RG5zNlRCeU5neDZVaFR6NDI5ZUhfSE91UmFMY3JfaFZJZzNsZjQ?oc=5",
+      "representative_headline": "세종서 자율주행 버스 첫 상용화…이르면 6월부터 유료 운행"
+    },
+    "2022-07-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VUE1ZTmRtMXFXR01JaWNTbE5PXy1BWHJyMTdkb2g5TWVTckE1dVVtV2xvR3pKLVJUYldRSE91Rnl3ZWtaMlN1aEVNYnJ2RmVPeUtFRmtwMWJZV0NVM19nbVdHZU5LdjR6UHdidA?oc=5",
+      "representative_headline": "강릉시, 관광형 자율주행자동차 임시운행 사업자 선정 착수"
+    },
+    "2022-08-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "http://www.yjb0802.com/news/articleView.html?idxno=14658",
+      "representative_headline": "한국택시, 자율주행 데이터 축적 환경 유연하게 해 경쟁력 확보해야"
+    },
+    "2022-09-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MUnFRV094TUtDYW1XVnRhUF9lcmwtWHFzenFFRTZxSktRUGwyN1BaYTNEak5udlZ2TWNKc0xvQXdXNnFCS2NIV2lkU1BBNW13bE8yYkFpWThkTGM3YVlvSnI4Z0hlLTQyMTVleQ?oc=5",
+      "representative_headline": "국민대, 자율주행 미니버스 임시운행허가 면허취득"
+    },
+    "2022-09-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fRlN4aFFJYVdXeVdYVzV3ZDNWX3F6blhoTzgyRi1iRUg3X1VzMHhRQTZYNUNJTzdZMDRuQ1F1cmY0czBkTnJ2ZzRFUEVRRkFpRGJIVUtWT1h1dXlMdzBEWmJmcGlLc294VjF2ZEtR?oc=5",
+      "representative_headline": "3년 뒤엔 자율주행버스가 도심을 달린다! - 전체 | 카드/한컷"
+    },
+    "2022-09-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yM2tCUE85aEpuQVNDMGQxUXdQcjJDRWMwa3otWFpYTENxRGhhM2pvVGZDdXdqeGVQVGk1eFEwVEJKX2dNaC1BbVZzRG5RTnN6QW83bEVyUktBSGxhZERZTllGa292RDZya1A2dGFBQmnSAXRBVV95cUxPVVhpb2pLaWxHM1B6QkFJRDkyaXotOElCZGxfdzFFc1BCdkNvai1fcjlPY3FWY3lzcW52S3Exam40MC1wV25vYWJGNTZjSlY0ZVJsS1ZKT25FWWpIYkpjV0hQdVdlQlh6M04zTlJKVEpNXzREbg?oc=5",
+      "representative_headline": "[대한민국 인공지능 기업정보집] 자율주행 모빌리티 통합 솔루션 기업 '스프링클라우드'"
+    },
+    "2022-10-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEZMQVg0b2NUXzE2NGZrN1l1NXk3dFJzb1F5c29yWjZkenZOOXlscm95OEczQVI0Z3VPRm1hWU1zMUFfeHpjakcwcjBSNWhzWm5ZaGVCTGZhWU93TnJoZG5TMEE3QTlFTkE1UGNTS1RWNEZ5aVNTbVBpQWpKT21zMmlwRQ?oc=5",
+      "representative_headline": "\"부르면 온다, 택시비 2000원\" 서울 상암 유료 자율차 타보니"
+    },
+    "2022-10-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5MFZPVGZMblpnd2JhMGRkWWx6N2MwV1JLZ09OWWNOSTRaMFZZOHJodjFaVi02V0QyaXIzLXY4eFRkQTh1a001VmlOZngtOXJlZnRRTk8wdEFVQUsxTjlZZ1FsRjA4RG8?oc=5",
+      "representative_headline": "AI 영상 인식 스타트업 '스트라드비젼', 구글 웨이모 출신 자율주행 전문가 '잭 심' 최고기술책임자로 선임"
+    },
+    "2022-10-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92Y182X2hub0c2LW83aVlpVEZJTFRUeXZpU0RuWS1lVnU2WjNqVE9SUzhnWVRUMGJvdDQ2eEhzMTNGZkZBc3RpR3AxVFNBOXpTM2w2TVFSc0NUUkhtaW1NRFFNLVZIQXN0T3ZLTzFwNWNFMEpw?oc=5",
+      "representative_headline": "“한국, 자율주행차 세계 7위·현대차 6위…핵심부품 해외의존도 높아”"
+    },
+    "2022-10-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0TGdBRklYZGFnM0pnMlJTY0dKbTl2WGFaU0tyRFlYTjFuUkdVQkFrSWlhV3Rscm1qYnA5czhwMzB3enNaNzJQVGZiYVZwZC1JQ3dIaVRpeUswUk0yYUlGX0E0SWJwNlkwR3FZ?oc=5",
+      "representative_headline": "국토부, 자율주행자동차 임시운행허가 가이드라인 발표…5년간 전국 도로서 운행"
+    },
+    "2022-10-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KR2hmMk14em1aa2dfbnFvNmlQYk5uSWJLaUhuSWwwc1lFZWxpMXhKUkFoQS1Na3A0M0p6NnZPWkdCZmJNVEwyVS1UZVJGYVhBOTFiTE1jdW5pNDBMX2E0N3lqLUJneUhLV0lr?oc=5",
+      "representative_headline": "국토부, ‘자율차 임시운행허가 가이드라인’ 발간"
+    },
+    "2022-12-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lOEw3SkFJU25rc0o4dThuWTVxdFlfdk5jdWl5SEpEb20yRUtHR0tTM2pkRVhjdEdqNEFOV1Jaa1k1bmt4SEFHVndfSGhvbk9BYVFfQU9n?oc=5",
+      "representative_headline": "웨이모, '완전 자율주행차' 유료 서비스 준비"
+    },
+    "2022-12-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tbG05OExXdmx4S2hPdTZiUlY0LUtCM3oxdURLUGRkRnlRVFFrMHRYdU4xQXdYWTVzeS14MkNmeVVtS281a0p3Z2hibm42cURhcmNNbnh3?oc=5",
+      "representative_headline": "美·中 뛰는데, 韓은 걸음마...자율주행차 기술 어디까지 왔나"
+    },
+    "2023-02-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03NXgyZmxwTk5zRkMzdGNZV0s5SkFZUGptRDdGV0ltaV9iTkpEa1dVUGdMQ01xLVptc3dzRkRjaVN2UDBWRmI4QUk1eXgxd1pNbnVXbFhn?oc=5",
+      "representative_headline": "웨이모, 로스앤젤레스서 무인택시 시범 운영"
+    },
+    "2023-03-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QUllRZzByM0dDVl84NWdkdjE5MmxZNXRsdmdrZTFZRHNscm1pbkJjMjFIUEh0cVpPWTdkOTk1ZGVFelZSQS1HQ04xM3pLM0MxenBjSWV3?oc=5",
+      "representative_headline": "자율주행 전문 웨이모, 직원 8% 해고"
+    },
+    "2023-03-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vajQ4dFh6SlplQkUwZVZVZWV5eUhFRXQxaVpycmNWdElaakJBb3h5TzNFVzF0LVZaV0djbTF1cGMtYjhVUG5rTkpqVGc3eGtzdmV6WjVR?oc=5",
+      "representative_headline": "교통안전공단, 자율주행차 상용화 위한 준비 작업 ‘착착’"
+    },
+    "2023-04-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3U3lXZUZfRVBXMFpHZ3hwSzJDakpfby1TNG5ONXBraHc2TzM3TW5FZDJqcllWcXg2aW55RHpEeUQ0Sk1EUFNlWjBMMEpNNjNrU2V0QU9wZ0k5TUQ1N2dYa0F0ZDdUWUExSG5B0gFvQVVfeXFMT3RpNi1EWDgxRk9JZzRmMTJqX1dmWU1BTjBrVmhjWDlzN3dTR1NoLUo4QV8tLVIzWmd5RTYwRXphS3lfNkczM0lLcWdLU3g4MF8wR2JsZ25IUUI4d3BTVkd3WTJqdGdPSmpUR2xBNk9N?oc=5",
+      "representative_headline": "전국 첫 '자율주행버스 유료운행 시대' 세종서 열린다"
+    },
+    "2023-05-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tVTJYeWYxSElVVnN0R005OFFZVVh2eWpkbHRxVlMzb2dSV0hGRzUxY1ZVRFZ4WHhFczluMXpkU2htWmxVUlhIZ1Yxcm1TdG9acURhbGd3?oc=5",
+      "representative_headline": "웨이모, 자율주행 택시 서비스 지역 확대"
+    },
+    "2023-06-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsUE5XWVprUzJtLVRiWVp1dmhxTlRvUzZoQjl5WlMyRGIzRG5uTE5iSDUxbl9DN28wYmhKMGZoV0lPMl9ERlFmVG5iNml1MmxNSTluSDN3OGVDTzJ0NEhkX0lEOUJNajRJMGc?oc=5",
+      "representative_headline": "스프링클라우드, 자율주행차 임시운행허가증 획득…5년 간 일반도로 주행 가능"
+    },
+    "2023-07-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2Z2xMWjZtMUZBWEI3UGZoUjZjNFptQ3Y3cUtTdHdHYU9COUtWYXkydndPSEFLY2oxc2J6X2dhNXBNZUphbl81Q2xjZDktdXFYWG5uX3NaSzhySEd0cE5NVUpB?oc=5",
+      "representative_headline": "자율주행 로보택시, 미국서 24시간 도로 위 달리나...`랙시`도 주목"
+    },
+    "2023-08-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vdTlsaTlkY09mS3ZJTkhxTWo0alJEOGNVTDVjT0o0WnVVdkZ1bjFvY1dXcnowclVpaEFLNUhpUGJKVk9vQURCN2lDdzlWSEF1SWRsWTBXTjg?oc=5",
+      "representative_headline": "캘리포니아, 무인택시 24시간 유료 운행 허가…\"우리가 실험용 쥐냐\" 반발"
+    },
+    "2023-08-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQck5CT1l1SWZnVjc5MlZMcHR3aXIyQldBdFNsakVUNUlQc1I4OWhZWnBBOGRKWmZvY2NKNnZzZzdBQy02Nm5Ga3dRU0tYYU9IT0VKN3U5VEprRXQ1aTVUbkVHVmlRVVZyQ21lcnF1LUpnRm1SUEcxa2IzZXhfQW8tYVJhLURrVVdIOFJvUnB5QQ?oc=5",
+      "representative_headline": "美, 24시간 무인 로보택시… 中, 자율주행용 지도 제작"
+    },
+    "2023-10-27": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54MXhQZDE5d0VyTWxRZXZhYkxMZk9ZLVc5MXdxbHJUMzZMWDdnVnktazlLVHRheGdfZmdzN3dfN2p5M1hZN2xwQjFoamlleTFMUnNqWF9kenhHNGc?oc=5",
+      "representative_headline": "광주 도로서 자율주행차 실증 가능…운행 허가 통과"
+    },
+    "2023-10-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nMUxoWlZ5bXpWVHZtWmI4RXBxUjhESllfcVo1S0EzbFdoU09ZNGNoeDctZEVFN0F5QnVkdGhGSkFfVzJFaFFJam1CVGcyYVZ3QmZJbTVpbzVXZ9IBX0FVX3lxTE1YbDIyOHVuQWsyejh6cXpheWo0dFJhb2t5cU9ZVGVjV2o2V1RiZC01ZnhzdmJrcVJxMGdLWTRncFJEMGRzQUZTdmtTU0Y0UGJQNUtUYkJ4OXF0OWNmTDdN?oc=5",
+      "representative_headline": "자율주행차 시험운행 쉬워진다… 정부, 임시운행 신속허가제 도입"
+    },
+    "2023-10-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lR2lZUW45OG5IZS1uMjdLT05pS3hfVVF1OF9RSkZ4WjJ6NGVMTHViSi1iTk5ZRU1ZM29uQmxLeC04LXZwcTlYNXhEUnJvQzk2Tm5tNWF0TXdidWI2R2xWRVpuY2RFdGxuWks2VA?oc=5",
+      "representative_headline": "자율차 임시운행 신속허가제 도입…허가기간 30% 단축"
+    },
+    "2023-11-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTZFS05qMDBYMkV3VGFxOVZrZlV4TTBEN0hsUUk3MENETXljTnpKTEhvazhTR1FOUjA4MnllOGlHNzZDZDB1cFRLX2hQUlJUVVB5NmQwdWVvSUhiTWdmdk8xbUg1MzF3YVd0ajB1ZllCeXpmVDJRaHdxRms1alExb0lFVUdDWnhaQVhWUDNqZmM?oc=5",
+      "representative_headline": "청계천·청와대 자율주행버스 유료 전환…버스 운영 업체도 공모"
+    },
+    "2023-11-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VcmxlSEQ4LXZwaHJVYzQ3Tk85MWxkc2pfb0FnYjZybFlVcWhKcEVnSFJvdXZTRG1wOUIyRDI4LTJQRW5kUVd2MXZQaFg3YkN0TkJfSEkyTnZYUdIBVEFVX3lxTE5CQWd2UVRJai1NNS1jajMxY0xJUmVhNWhlMnRac1MzMGNBTjNIYTNSOS1oOEw0S2RPVDhWR3hsM2dmMExJYUFRdWxFNS16WDl6Z1I4Vg?oc=5",
+      "representative_headline": "삼성, 구글 웨이모 인재 영입…ASML 지분 1.3조어치 매각"
+    },
+    "2024-01-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://zdnet.co.kr/view/?no=20240116015156",
+      "representative_headline": "중국서 요금 받는 토요타 '로보택시' 달린다"
+    },
+    "2024-01-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=502562",
+      "representative_headline": "모빌리티 빅3 '슈퍼앱 전략' 탄력...글로벌로도 확장"
+    },
+    "2024-02-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://stock.mk.co.kr/news/view/364492",
+      "representative_headline": "증시요약(5) - 특징 종목(코스닥)"
+    },
+    "2024-02-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.fnnews.com/news/202402131339026820",
+      "representative_headline": "젬백스링크, 포니에이아이와 합작법인 설립 계약 체결"
+    },
+    "2024-02-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9venNJT3RKRjg1TVF0M3V1V1Y4NDZnT0pJaXk3djJobzJHeGJEQlZMcEw0WG1NT1Z4Y01KQ1FFSThPbGpaaFlKMUZCeWFJUDBjMzVxME94MnZjb1ZKdGoyU3FCekxEOUE?oc=5",
+      "representative_headline": "대형 화물차 간선운송 자율주행 실증 규제 완화"
+    },
+    "2024-02-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://zdnet.co.kr/view/?no=20240224010043",
+      "representative_headline": "中 베이징, 무인 자율주행차 타고 공항 간다"
+    },
+    "2024-03-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVTFBXVjBIWWduZjBydFhWb2p4anh3VEZ0VUVUREdZT3BwWF9oY1VsdGZuYUtfenlxLTlwb0M2aTVtcDVMNml4dU5NbEtmb3NwTWJKQkJIWW1ZTmtMWDNJX1lxYnBONUk4cGpxUXBNMHFOWEk?oc=5",
+      "representative_headline": "'로보택시'구글 웨이모 유료 운행 LA 등 확대…주당국 승인"
+    },
+    "2024-03-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Z3k2TV8zclphVXpTejNoUU1WZEdnUHlOQVBqREFTNTBseU9wTDVNd2lJNzlpZDZYMTFKVEx3R2RsWDZkdUVYZC1BYWhvZlptVEVxaTRPMW5WcFRIek9z?oc=5",
+      "representative_headline": "웨이모 무인자동차 습격 사건 발생"
+    },
+    "2024-03-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.etoday.co.kr/news/view/2336248",
+      "representative_headline": "제임스 펑 포니에이아이 대표 “로봇택시부터 한국 상륙”"
+    },
+    "2024-03-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.startupn.kr/news/articleView.html?idxno=44644",
+      "representative_headline": "중국 자율주행 스타트업 Pony.ai, 국내에서 GemVaxLink와 합작법인 설립"
+    },
+    "2024-03-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.news1.kr/society/general-society/5349378",
+      "representative_headline": "'자율주행택시' 8월 서울 강남서 운행…심야시간 무료로 탄다"
+    },
+    "2024-04-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.mk.co.kr/news/stock/10988655",
+      "representative_headline": "‘젬백스링크-전국버스연합회-포니에이아이’ MOU 체결"
+    },
+    "2024-04-17": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "http://www.newsian.co.kr/news/articleView.html?idxno=68770",
+      "representative_headline": "[초점] 세계 빅테크 기업들 자율주행차 ‘불꽃 경쟁’...한국의 현주소는?"
+    },
+    "2024-05-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PWlB3MmZjUXpfN2FoWGQ3VmFPWkZJM0tDSk5ZYS1CZk10M2xQR29faGk3ZU1HSlZXcTZJQldob3pkbENtcWFQMTlUMmFxZVlWZ1UwN2RSS3I4b0nSAWBBVV95cUxNanpqcW5qaVpuVDNrdFZ4M0dWS3UyQy1Xc01qRUxzRjdybDlJV0thSmowUzRrRkthekpIczItel9uSy1RcE84cXV4SzBqbG9DekRUcURJR3Zyb3dzWDRMeWQ?oc=5",
+      "representative_headline": "서울 심야 자율주행버스 5개월새 8천여명 탑승…7월부터 유료화"
+    },
+    "2024-05-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12bWNJRDZrRDNCcm91MnR6dkx1Q19kQkFDNGdsX3M5WmpJa01vRGR6cmRyODJUcC1lb250eDdkQVRDYVhCTDZGaVRvbXRadDJMRWNoOHNTc2dBVFg0WkhZb3g1OGlzZVk?oc=5",
+      "representative_headline": "서울 심야 자율주행버스 8천명 탑승…7월부터 유료"
+    },
+    "2024-05-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtQkwyZXdXVGdlRnpsTWM2cEYzcEk1bUxGN3Y5R0VoeGdOQURvUFZodU5VdjhUVDZLNHltbEVhcjFVVEhXQUVQY3RlSE9PRUVpWTFBbEpDQ0VUZGNoZWNlVXM3cHlTOHJWYXd2enhOWUFvWlc3dmhXRGFuZGtxT3M?oc=5",
+      "representative_headline": "11조원 가치 평가받는 포니AI \"한국에 대규모 투자\""
+    },
+    "2024-05-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.etoday.co.kr/news/view/2364194",
+      "representative_headline": "젬백스링크, 포니 자율주행자동차 한국 도착 발표…“자율주행 본격 가동 준비 중”"
+    },
+    "2024-06-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hellot.net/news/article.html?no=90688",
+      "representative_headline": "라이드플럭스, 무인 자율주행차 시동 걸었다...임시운행 승인"
+    },
+    "2024-06-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nSjRieTZNUVZOUVpRMVpnTC1UQXJOQ2VCZEtxbDNtWm5CdTBLYkppNnpxa2d1bzNiTHdreHE3RlNVSFdhdU9DOTNHMndPalRSckplaDZCY3BHQmFpTGlBTml5YmxSZjBaWXdERml3YmpPdVZ6a1RxNzF2YnE0NTg?oc=5",
+      "representative_headline": "서울 상암동 '국내 첫 완전 무인 자율주행 승용차' 운행 허가"
+    },
+    "2024-06-17": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhZEFYaEs0d2pVN3BaSTYxUkRvMl9XWXhRVWtsQy1KZERUYU8tWHJOODk4RzVucjFxYjdBbWlUU1NKeEV6NVFpc1hRckoxTGRsUURONDYzUEpYRm5GbFJBdW9xZ2lWS0l4NzNj?oc=5",
+      "representative_headline": "JDC 입주기업 ‘라이드플럭스’ 무인 자율주행차 임시운행 허가"
+    },
+    "2024-06-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3ZlJzM3NxMXJKTVFIWUFFM0hmSkh6Y2E2ZW5HMTBBYjl4SkIyVWZXVDRMbUg2NUxaR1ZEY0tIX3MyM0E2ZmdxYzBnMnVEUV9mNHZlbkdkNHo?oc=5",
+      "representative_headline": "운전석이 텅~, 국내 최초 '무인 자율주행차' 상암동에서 운행 시작!"
+    },
+    "2024-06-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fdkZPTVRNeVZLSUlGMVpIU2hYUDIwYmJRT0J3WG94cDZBS1BOTTZNWDFWYkJPOWJPZk9lbExiYnJPY3hHbHp1ZGZSczdJbF9VN0lmT0tCc040cGZMMWk0LWNDR3FKdw?oc=5",
+      "representative_headline": "구글, 13년만에…유료 자율주행택시 승인 받았다"
+    },
+    "2024-07-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://zdnet.co.kr/view/?no=20240704132250",
+      "representative_headline": "KG모빌리티, 자율주행 개발 가속…포니AI·포니링크 협력"
+    },
+    "2024-07-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hankyung.com/article/2024070556101",
+      "representative_headline": "'공유차 무인배달' 서비스가 온다"
+    },
+    "2024-07-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148931294",
+      "representative_headline": "자율주행차 임시운행 허가 기간…옥외광고물 자유구역 추가"
+    },
+    "2024-07-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.nate.com/view/20240724n18627",
+      "representative_headline": "알파벳, 자율주행 '웨이모'에 50억달러 추가 투자"
+    },
+    "2024-08-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rdWkzRDh4SmdQeHNvV1FHOFl4SzNmaHR1QjMwVzRrYmNpQkh0anVQZGp2VEU4STlQb2NzbWhITTQtMlBWQkZzNnhjYUZHZEFWLVdzRnNhcEkxVlFVb3BMatIBeEFVX3lxTE9vbWZMelpaLW84U1g3ZTdjOVN3QUVPRGk1T19ydXpNZFBXcHhVRUxWbUdERmoxMEhuUkpOeDhqTmFhdFFUdHVyOXhWUFYwRU1wUW5sNlJDT1NVMzlzSjdja1o2QXdwU3QzY3FvR0JrNHFZd2J4TjRWZQ?oc=5",
+      "representative_headline": "서울 심야 자율주행버스 8개월 무사고.…10월 유료화 검토"
+    },
+    "2024-08-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.etoday.co.kr/news/view/2387752",
+      "representative_headline": "포니링크 “파트너 포니에이아이, 9월 미국 증권시장 상장 예정”"
+    },
+    "2024-08-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hankooki.com/news/articleView.html?idxno=181113",
+      "representative_headline": "포니AI, 파트너사 포니링크 지분 확대...50억 유증 이어 150억 주식 장내 매수"
+    },
+    "2024-08-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVzQyVnlZMVpzMnRxRmlkeHNRTHRHZTVETTEydFFRMElzcExMMnBXZTZ4MFlJcU9XNzZ4SUJnOVY0WV9DcjhrZUZHRU9HdUpGdTV1aVNobEtzaWc?oc=5",
+      "representative_headline": "구글 자율주행 자회사 웨이모 “주당 유료 승차 10만건 돌파”"
+    },
+    "2024-08-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://zdnet.co.kr/view/?no=20240830004706",
+      "representative_headline": "中 자율주행 '로보택시' 기술, 수출 상품 됐다"
+    },
+    "2024-09-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lQnZZdEpDeDk5Rmg1d2RuT2Q2Vkl0Z01hVURXTjlMTThydGZtQ0pZaHkzamlXWFo4cU8wNVd1bXV5bnlCT3E0RzJkaHF2b1NjM2duUWt4NjdJRktJQUhBNUp4aGs1T1N2bjRtX1FrRnQ?oc=5",
+      "representative_headline": "[초점] 구글 웨이모, 로보택시 유료 운행 급증했지만 ‘속빈 강정’?"
+    },
+    "2024-09-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYlNQRXRiRTJGMlM4ekd0YktDNm9kWjNBQ1dRMXJLc1NsUU4wbVo4LUljcUE2QW1ET1VuRlJNbkZuZE02SGdyT01Cb3lLRE9qZUtsclhualVzRXljMjd6NTd3X0tNbmN3MXBjbWxCYlBnWGlodUs0T19qd0x6dVAyU3F30gGWAUFVX3lxTE54Q2k1X2hlOF9jZXh3WGkyOGhJY2Z5THRIQlQ4Zk56WmVCQ21vWm94UGJTSkJMaW95WXEydGdVdkc2R1BGZk1UcUxqUVVTUUVNakh2WGNQLVJwckhDcFFMaHVNRk5wSTh4VEtnYUtSLXRCR2lhRnAxdWp1VGRGNmdvSE5jWVdJajNrV2Z6QTZxRWlRMUJoZw?oc=5",
+      "representative_headline": "구글 자율주행 로보택시 ‘웨이모’ 타보니… 승차감 좋지만 러시아워엔 교통지옥"
+    },
+    "2024-09-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HOWV6QkExYUIyOHhBcHFNdVI3dkoyLWtsbWd4R1lZYUlKOU5oZVNOTU5CYUlaMDd6bVp6cXBIbHRrSjVRT3h3cUtWU3pZdnBUTTJaTVA3RmxpVGfSAWBBVV95cUxNWmtFU1BqbjUwYnU4WTJKWHMwQ0xMQU1mS2FGOFotNlc5MG9QeFI0M181bk1LZXIxbS1tckFPYzlYNW1BZ3ZPZmxmbmt2eVB2R1pGUHlUMWNnR0pDRWFSdXo?oc=5",
+      "representative_headline": "내일부터 강남서 국내 첫 심야 자율주행택시…카카오T 호출"
+    },
+    "2024-09-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZQU1OUk1qWWc3TE55TTJyWlZrTExfX2hTelc4Qm5qaWhiT0RXbURWNG5CZXRqSHlIemlZRlVmNG9pM2RmTWFncUxyMElzaVk?oc=5",
+      "representative_headline": "밤 12시에 강남에서 자율주행 택시를 타봤습니다"
+    },
+    "2024-09-27": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zM195Qnl3VVZMOFNsZGpVS0VhdVo2a2p6UzlFWE1fUXNtVlBOVDYzN1lGREdOQUF6Q2stM3pvSFJPMWpNNmVIa2dzaUhMcVdGak10R19Wa2NGUEE?oc=5",
+      "representative_headline": "[단독]자율차 임시운행허가 4년간 늘다가 올해 '10건으로 뚝'…이유는?"
+    },
+    "2024-10-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.joongang.co.kr/article/25282009",
+      "representative_headline": "\"500번 탄 승객도 있다\"…中자율주행차, 연내 한국 투입 추진 [넥스트 빅씽, 자율주행]"
+    },
+    "2024-10-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uM0tuQnBlRDlrWTliTGJQaXR5cGxjVXNzTElWYWJUUHJ1Rl9vN1hXcDlvQy1ySWJnUFlIaUhLM2JCcDROTW5WTDNkdXhXdUhBNl9fclZOXzNGTjE5QXVPMXRldVlkSURJekRhTXlZSdIBc0FVX3lxTE50SkF6Slk3bndYTjMxeDNlelhXLWdEdm8yYmVfeGVySzNCdDdWcW5kVkFGZV91T3hzeGJGcHIxSEFxS3NzUzVqWUZBdi1NOThZY21pbTZXQXJrdDVCRzV4MHVvMFJGODdfZFNHZEpFRjRGTnc?oc=5",
+      "representative_headline": "현대차-웨이모, 로보택시 서비스 공동 개발"
+    },
+    "2024-10-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ebjd3N2Z0UUJzS21ZQk1ROHlKQXBBamRTdzltdU9YT1U3TUdtOHUxeHJHSVlkMGVEV3lYd0xuTHlFeWVPZ2pXVVdoVXRrckJYbzI3UWtSSkdfeUNEN3kwWnJoNTRzV2FN0gFsQVVfeXFMTUVNaVdGSkNHWngtdDJzM2FIWVVtQzdhLWZxTlFDQXlVeHpvbWEwa2x2WnFxSzRzbnVxUmE0TGt3cWEwMjAwMkFSWEppaTFmNmxGUzVOMEFlb1B4QkI2R0F5V3AtNGwzWjNqRFZH?oc=5",
+      "representative_headline": "정체된 현대차 자율차 사업...‘웨이모 아이오닉5’가 뚫나"
+    },
+    "2024-10-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Rc20wQlpGSzJwZ25qX1l2emFSald3bzBsbjY1MDNMSnFoblA1c0k5cDhOZkNDV3NhRzBMTGYwRTZQdzZnX0RfLUUzSTF0cFVPU3Y3V0E5ZGw?oc=5",
+      "representative_headline": "이용료 0원! 국내 최초 심야 자율주행 택시 타보니(ft. 이용방법)"
+    },
+    "2024-10-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GVXNraXJPNzB5ZU1QTkcydWFydjlkb1UyRWgyMVY0b05ybWxRWHBVQVhZY2pZMDVMdHBYX3VHbmlXelRYUXlOLW1jekFvOTdxQzV4dDN0SnhOcnFuRHN2Nm9yS00zMmc?oc=5",
+      "representative_headline": "롯데이노베이트 AI 기반 운전석 없는 '자율주행셔틀', 국내 최초 40km/h 운행허가"
+    },
+    "2024-10-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.businesspost.co.kr/BP?command=article_view&num=370827",
+      "representative_headline": "구글 ‘웨이모’ 주행건수 급증해 사업화 속도, CEO 피차이 현대차와 협업 언급"
+    },
+    "2024-11-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://zdnet.co.kr/view/?no=20241104082007",
+      "representative_headline": "中 포니닷에이아이, 자동차 기업 손잡고 '로보택시' 내년 출시"
+    },
+    "2024-11-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NSDB5NDJQTEZUMGozS3Fpb2xYQ2w0T3J6S1VDT1ZRTmpUQjd0dV9UUzdrYlN2emoxNHVPdHg4bkJyY1dQb1ZXajJjVWtlOHpMWENGbTMwdlpRMHdkdVlqWTNWeTFtQnpHR3BFTVp0SUlid9IBdkFVX3lxTFAtSzdERXZ6dTlJNWJReHdvSzJiM2ZUcF9zVVV4LW1HQzRmNHFON0U5WXVsamwzN25UWktkcG9MSWRnMHdWX2pIN1puOW5JV3haTU1DSElOUXhDak5nQVhsRmJiR29RMDJJRzkwU18xOTNKVmoxRVE?oc=5",
+      "representative_headline": "웨이모 LA서 더 많이 달린다"
+    },
+    "2024-11-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.financialpost.co.kr/news/articleView.html?idxno=215991",
+      "representative_headline": "포니링크, 포니AI 나스닥 상장 소식에 강세...협력강화 기대"
+    },
+    "2024-11-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.widedaily.com/news/articleView.html?idxno=251759",
+      "representative_headline": "[특징주] 포니링크, 자율주행 기술 주도 속 급등세…포니AI 상장 임박 소식에 주목"
+    },
+    "2024-11-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.aipostkorea.com/news/articleView.html?idxno=4962",
+      "representative_headline": "中 자율주행 기업 포니닷AI, 美 나스닥 상장…IPO로 2억 6000만 달러 조달"
+    },
+    "2024-11-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://zdnet.co.kr/view/?no=20241128165430",
+      "representative_headline": "'中 자율주행' 포니닷AI, 나스닥 상장"
+    },
+    "2024-12-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jc2FHNy03Q1pSZ0NfWlJmTlBheWJPQ0RNVGFHbFl5eHNaeWwxbXg5anRTcFpienllemg4azVEOTVjU2hTa1RSb19hVTNoNFNuZ2JN0gFTQVVfeXFMTmNzYUc3LTdDWlJnQ19aUmZOUGF5Yk9DRE1UYUdsWXl4c1p5bDFteDlqdFNwWmJ6eWV6aDhrNUQ5NWNTaFNrVFJvX2FVM2g0U25nYk0?oc=5",
+      "representative_headline": "자율주행버스 세계 최장거리 운행…\"한국판 웨이모 도전\" [스케일업 리포트]"
+    },
+    "2024-12-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TbnB2NzhMYTN1Qzhud3lpaFhVbFR2azVpZkJWR0MyR21vc3dBamJqcVEtMXMxaGlQT00tNFQ1OEJraUxGcHh3cllqTmNTdUdCZVV5VV9nREJKaGZuM0tz?oc=5",
+      "representative_headline": "구글 웨이모 무인택시, 마이애미 진출… “악천후서도 자신”"
+    },
+    "2024-12-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://daily.hankooki.com/news/articleView.html?idxno=1156073",
+      "representative_headline": "구글 웨이모 무인택시, 미국 마이애미 진출…'악천후서도 자신'"
+    },
+    "2024-12-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92ZEIwMTFTcEZKSllvdklDWEFmSHJ5NVp0RVpOMXFWdzZJYjc1NEZ2T2Nldmk0QjZiMFhYXzJsMkdpamVHSWdqMGx3ckllTHFRUFVfZg?oc=5",
+      "representative_headline": "포니링크, 국토부 임시운행 허가 앞둬…“이달 중 강남서 임시운행”"
+    },
+    "2024-12-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQRGZDa0RuOFhxcndCRU0tSjN6T3U0N2RDVWc3WnlHVzl4SGQ2Y0NrRExTWno4azZyVTlmOFNIanlJWnYtSWxtOFYwMjFOblhINWV6ZHd1SndWWnZVU0kwSlNvd2JTU0xmVldNUk9zLVhOaEtncTR4WnhLcm82QkhYT1JaTWp2c0pEZ0YyRzI4eEpOc0N2NFlEckEtSkRvejB3ZUV1MDF0TUxvYlp5LWZGalZFMzhKcGp5RkpNVnFONzgtYnBuLWxONE9INV9nbGlLVWV5R2JaQVY0WkMzazlEVlZLb0l4aVhVOFloa0FUd1JGMUd3YmtuYXoxZWJGMlA1SV9QQWViMXBwS0UzdGp0c3VTNHBUZFpGelZfcXF5T3lra1BUdlB1VGJtSzlQbE1fdXN1MDd1bG9UOGdzbHo1TWRUYkVWcU11U2c?oc=5",
+      "representative_headline": "웨이모, 첫 해외 진출지로 도쿄 선택···“좌측통행·인구 밀집 도시 환경 학습”"
+    },
+    "2024-12-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lcGNwMVVFT3l1UUMyemppeU9wQlFvbkNEc3dnaDdfd2ZWRjkxcWNVYTVRZjhwcFZZYnFOdTEwbjNmVVIxb0YxVk5tWlZCaDdlb2lWN2JHUXZUVVNPTFR1ek1ydw?oc=5",
+      "representative_headline": "포니링크, 국토부 자율주행 임시운행 승인…'세계 최상위' 레벨4 기술 '주목'"
+    },
+    "2024-12-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tRW9iUjBPNTdoakhUOWJiUVJnMTZLcG1Nb0YtY1FvNC1wV2pfdTBMYjNGT0Y3UTBhc241bjVsNWxxR0NQMW5wSERMRzNja3AtaUpoSFln?oc=5",
+      "representative_headline": "\"구글 웨이모, 美 무인택시 시장 장악\""
+    },
+    "2024-12-31": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5UTFETk9ZMkdwMzd2V2xyZms5bGR2WWpsamNmWTZLanpZYW95NEhNQkJmMnptZ0pLS3c5dllVVzFjNlhhZUU0MUZucDExMnh3Yy1HcTBqMXlBTGRRNk1IblpsZEJvWnc?oc=5",
+      "representative_headline": "웨이모, 인간 운전 차량 대비 90% 적은 사고 청구"
+    },
+    "2025-01-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLekw5bl9MSkpOQi1rYk5mLWNXOTNTSDVLcFZQck05eVp0T3JxRXhkdjBOOG9HOGtOc2wwbkhBNEU4OGlTVE5mcS1RZ3ctUlZlZE9yNlAtMmVMb3hqcTFJ?oc=5",
+      "representative_headline": "로보택시 ‘웨이모’ 탈취 황당한 차량절도범 체포"
+    },
+    "2025-01-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hankyung.com/article/2025010565071",
+      "representative_headline": "3개월 새 7500㎞ 달린 서울 로보택시…\"내비 안내 따라 차선 자율변경\""
+    },
+    "2025-01-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tbUlRX19jR3NIenpnLXF0aVZsa0QzUzNteHJiVmI2NjR0REVxQlFpZkxodTlxOVlJcHdEaUdhZWlsd1JMTXNoZHBxWDV0MHlJdHgxSmN3?oc=5",
+      "representative_headline": "\"테슬라·웨이모, 韓 제주항공 사고 교훈 얻어야\""
+    },
+    "2025-01-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://zdnet.co.kr/view/?no=20250107143005",
+      "representative_headline": "中 포니AI, 홍콩서 무인택시 운행한다"
+    },
+    "2025-01-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lRXZOejM1OWRLZVRZUnpTU1dfTmZMVW5lSExzZ2M3Z3NHV2NUZVdtNGVHTEN2WWtoQkw1eWEwd1JTcF9YQXRoZUs2TkprZTNuMVd5Rk52VFU3UjlZSm16dURSU3FNbU42cy1XNDJNY9IBc0FVX3lxTFBNMWpBTlpNaWZjZk1ua0pSemw5RWlmZGZBbzdlYkFTRWpfaV9BdkxNbFR0RzBzRE1WenlqMGphZFBxWkFlS3RZNHJYR3piOXJXQnQ2VTlJXzBzMHFhcWYxV3RvRUlXSWhCLUxTRWI5WDI1cnc?oc=5",
+      "representative_headline": "로보택시 선두주자 웨이모, 소프트웨어 결함으로 논란 휩싸여"
+    },
+    "2025-01-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=549132",
+      "representative_headline": "中 포니AI, 로보택시 홍콩 운행 시작…\"복잡한 도로에 딱\""
+    },
+    "2025-01-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3UUhENm9VendxU3NPWWVXaXNHRGsyX3ZjNzNiMHJuTEdLdDF4Z3FBVzAzakNMVzBZVWtIS2N3SWVhWE1pdlJvY0FBdE9ySGdzYzRvMU83cjd3dlBRTGN1dEVyM1JxVEN0a2ZEWElWOS0xUUU?oc=5",
+      "representative_headline": "'탑승자' 없는 완전 무인 자율주행 시대 열린다"
+    },
+    "2025-01-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.etnews.com/20250117000238",
+      "representative_headline": "中 자율주행 기업, 한국자율주행협회 가입 추진…일부 반대 의견도"
+    },
+    "2025-01-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://daily.hankooki.com/news/articleView.html?idxno=1171916",
+      "representative_headline": "포니링크 '자율주행 사업' 브레이크 가능성...잇따라 자금조달 철회·축소"
+    },
+    "2025-02-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDZVE1YlpuRkZDcmpGWEc4WGdHZTV3dDVEdk1ObTBTaGtrb2ZuUkh4Y3loX05yRU9JRFR2SjBoTTFaeGhpTGRhOXZlYUtxTHp2WF83Nkp5aUp3Znc?oc=5",
+      "representative_headline": "서울 강남에 심야 자율주행 택시 확대…사업 지역 7곳에 26억 지원"
+    },
+    "2025-02-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://buffettlab.co.kr/news/view.php?idx=49519",
+      "representative_headline": "[버핏 리포트]쏘카, 지난해 카셰어링 흑전·중고차 매각 재개…턴어라운드 기대-NH"
+    },
+    "2025-02-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxN0RjX19KTEN5cHRTVW5EQXRvWnRJRUM4dkxGb3hueVpoWVZ6NzJsWjNCNmJpSzJyZXFEajZ2c2xUZG13ODRZYjJKWGN4TkRja25vdXZHWEVVS03SAWBBVV95cUxOd1JaVVNDc0hJNHBGQy1keXVwanpQRVFkZWlCbUlCSjMweTNGOS0tRS1hbkJEYmFZS3IzVUtxM3M5TWFETzctTTNsT1ZxY01Lc0VNQTZFMUhmNm1OZVpnQmo?oc=5",
+      "representative_headline": "자율주행차 인명사고 대응 어떻게…유관기관 협력체계 구축 추진"
+    },
+    "2025-03-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBremR3RDRCWkRjYUhiTVdBMlRGeEFKaXJ6NEtJb3dXNFpOeDlpN3FOY0F3R3hvUGlUOG5Uel9mbmlSa0tSQ25Ya1hrdTJLWW1obmJwV3VXczR6VWtGWnhXTE1GQ245Y1BUOHVrbA?oc=5",
+      "representative_headline": "TS, 매년 증가하는 ‘임시 운행 자율 차’ 2024년 30건 사고 대응 인프라 고도화 협력체계 구축"
+    },
+    "2025-03-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hellot.net/news/article.html?no=98509",
+      "representative_headline": "포니링크, 서울시와 자율주행 기술 협력 방안 모색"
+    },
+    "2025-03-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1veVRtalQ1UHF0M0YxdC1Ed0JhSVFsWDB4WHJLeGtlQk9SaTNENF9RTzVOQ1VLZ2RPY3E2cVNOU1J0MFptUUZ5TnYyVG10em11VGJwS3JycjgtVmM?oc=5",
+      "representative_headline": "자율주행, 한국 '추격자' 위치…올해부터 실증 사업 본격 추진"
+    },
+    "2025-03-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzb1BZaERWb3Zra1E1R2ttVnQtbGhXY3FZcVBNQVBwdU8zRl9WSXFuZ2c0cjJqWHc1OTdPel9kWE1uTk1udk90aENLNnVnOEgyMGxVclNiclBDZ9IBVEFVX3lxTE9WWmFON0RSMFZJYzFpSS01dTJsQ19JWmNibmszODdCbXUzemJVUHdPbU43eW9lUVI2RDA1elk5a29EMEJQOHRrd1RXaThaTnF1X3BlMQ?oc=5",
+      "representative_headline": "현대차, 美스타트업 손잡고 '로보택시' 속도낸다"
+    },
+    "2025-03-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BWVdqZkZNcmhEMVlIZTJrcGRLRS02a0VZckNLSHVLLXBTbk1ETkN0SGNuTkVGNkV5akoxaTRZVmI5XzB1TWo3dEJkT2JuZ0lKaS1MVDhn?oc=5",
+      "representative_headline": "자율주행 ‘초신성’… 한국판 웨이모 꿈꾼다 [내일은 천억클럽]"
+    },
+    "2025-03-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Pa0c1aElDMzJiLW5hMlEzUlYtN0Z6Uk9WZGxVbkdwQ1FpSUNveENEVFEwTzhOdXRtTGZ1VnVJa1YwQU1sM0lEYTl6bjNmb2JPR3R2NjlpTXpOd9IBVEFVX3lxTE1FNTVDRVVBUXJuZl84aVZ3LUZhaXNPWE1MWVNOeEV0TGRncUFabVFrQzZyVTY4RkVQYTdhSEwtRjZTYkkxZDlkU0k5akNmN2M2MEJwYw?oc=5",
+      "representative_headline": "한국선 우버도 안 되는데…'로보택시' 웨이모, 美 누빈다 [송영찬의 실밸포커스]"
+    },
+    "2025-03-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.khan.co.kr/article/202503161800001",
+      "representative_headline": "포니AI·포니링크 합작 법인 출범 임박…“한국 자율주행 사업 박차”"
+    },
+    "2025-03-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qbWZzMk9rVE9MZy1aaEtoa1lJaE1aWVV2bkFIdDZDNVVkZlhnWTBpZzkxanRSTHBqaFM4Tm1CLUs4dUpKMmpqcF9mcHRWZUVDSVpVOTN6Mkk?oc=5",
+      "representative_headline": "웨이모·아폴로?…한국에선 ‘꿈조차 못 꾼다’ [좋은 규제, 나쁜 규제]"
+    },
+    "2025-03-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://brunch.co.kr/@7a2e11fe067d43e/3",
+      "representative_headline": "LA, SF에서 이용해 본 Waymo One 어플 분석"
+    },
+    "2025-03-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.etnews.com/20250326000268",
+      "representative_headline": "로보택시로 자율주행 기술 주권 지킨다...에스더블유엠, 강남서 자율주행 실증 중"
+    },
+    "2025-04-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Qc0dzOG1pR2h1b190TVg3ZUtmcXJ2TUFRYWNVRTRSd1FOZzFXSXVNeEtJS2xPLVJFSWEwbEhQazFwZWFYTjZ1TVpOYXZPaldoREFfcmFWQXd5cDhrbWE4VU8xSU56aWM?oc=5",
+      "representative_headline": "언맨드솔루션, 1톤 화물차 대상 자율주행 임시운행허가 취득"
+    },
+    "2025-04-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WanpEX3lOMGdOV1UxcTYtOTdIbWxFZ2hTaVdjanZ3bzROem55Wld6cjBqX3BuT2c3TjM2NUdzRnpVOHpPbFFlY2lNM2Nmbl9FY0RPSVBGdi1vbHpwd3FHWUl3WmFiUW8?oc=5",
+      "representative_headline": "자율주행 관련주, 현대차-웨이모 협업에 시장 초고속 달리는 중!! : 네이버 블로그"
+    },
+    "2025-04-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pVVlnbDd4MGVQdU1uSGxndjhxeTdhZm52Y3dsNzFhNE14dl9yUy0zTEMxVnd5MDdKRkhhV3drTUtQaDM0N2Vabm5MbHhHdw?oc=5",
+      "representative_headline": "“이상한 택시기사님 걸리면 어쩌지”...이런 걱정 필요없는 로보택시, 美선 웨이모가 1등"
+    },
+    "2025-04-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.k-trendynews.com/news/articleView.html?idxno=183474",
+      "representative_headline": "포니링크, 텐센트 ‘네트워크’ 합류하나…텐센트 ‘포니AI’와 파트너십 체결"
+    },
+    "2025-04-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5WmQ5Y1RvVFVZbm93cVkxUlpobE5paXBQaGozQmx4Vk90RkZLVTlreWNBNThQeEJISTJNUUZaR05FRmZOYV9DdWJjUU5ZNWdleDVCajhDZGZabENWYTFqanZ6SnZNMXllS2RKZ9IBdEFVX3lxTE9nVUpvenoxQl83a3B6NklQQjZ5MlZCejRTRkV0di1KVTg4WXZ1NUhsbVRIMGpDb1dyUDFDMnNEM2VSZXFOOFVOYmJqS0xteUExcWt3WlJVWFoxZXdqTXJmekg5bnpGX2xwck9fUWYzQW13S2to?oc=5",
+      "representative_headline": "꿈꾸던 상황이 \"마침내 현실로\"...서울에서도 본격 시동"
+    },
+    "2025-05-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wYjJwdTg0YURSOEp3cmhDUlVsVGZMbGF1dkpfSkVfMWhlc2laNlBjVTFEWmxINDFTaFpNb0E0N2pTbndVRVI2MThGbzk2UlVYeVVRUlpjVVpBOFVlaFk0M3hmbUVtalF0Wk04?oc=5",
+      "representative_headline": "무인 자율주행트럭, 미 고속도로 운행 시작"
+    },
+    "2025-05-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.aipostkorea.com/news/articleView.html?idxno=7723",
+      "representative_headline": "우버, 中 포니닷에이아이와 중동서 자율주행 승차공유 확대…\"로보택시 접근성 높여\""
+    },
+    "2025-05-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CYWd2dE9jTm5IRng2MGdpQVZrR2RIN2l4SF9EVkIzak01bkRjZXNIVHpsbDlqMUE5cktyLTBaNS1tb0o0NjJxOXpUWDc0RWlMUGtSUjVMZE5PN3JxTmtQNXkteU1KT3Z0dkpuSlhiWktqUdIBdkFVX3lxTFBEaEJjOU9oZzBZWGs2QjBaNlRqT05lZkVhTC1TNG1jTnkxZW1wMm4wSlZHVzdESkRXNW94OGJtekFnX3I5ang4S0FwWWttc0pQT2tMR3JSc0JzbHA1dmxOQ3VvVG1EYnd6RWdZTnNmRGhFSTEtQXc?oc=5",
+      "representative_headline": "대형 화물트럭, 도심 자율주행 한다…라이드플럭스 “국토부 임시운행 허가 첫 획득”"
+    },
+    "2025-05-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvLXBacE1hNG03ZjcwUlZPOVFjOTljUzAxLTA0Y2ZBYkcyRjM2LXNHRlVKcVBoUUIxQlMxbW5fUjNqOWFpNVc0enpVNEJKZw?oc=5",
+      "representative_headline": "SWM, 서울시 로보택시 운행지역 확대"
+    },
+    "2025-05-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1renVQRGdNZ3NfMFNZT3o3eWhBc09YaFJXbGZqbG1mSTdzQ0U3ZEVpS0hxYk0zdU04VlNfam5TemFraUdOc1dJenlTa1VLZFBTRjV1RDhrbXlac2JvYUxCWEZhbjVseTdCa1J5clVObmlrQdIBdkFVX3lxTE5LdVFRdEVQTnNLM1VpUnR2QnF1dFR5c2U5QXpWSTJXMVlXOEFPc1hmNXZyRGNRa25OenlvSkd4SVFQOTBIR19OUGJ5eTEwaEMwN2pacFhnbmFmRHRKY01iaThKdzdDdzUzYV9WSEJObjJ2S1h0cXc?oc=5",
+      "representative_headline": "‘라이드플럭스’, 여객·물류 자율주행 혁신…안전·신뢰성 강화"
+    },
+    "2025-05-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uMkxpMGVKeVl2QnZwTENDYkdseGRvTUJxdGRZRWo0M3ZLMjJ3QjJfdFFGQWFVeDV3STA4M05mTmlRcjlYd0ZISmNrSFFjRXJmUzhGWdIBWkFVX3lxTFBZVEJKMjJXWVd6NFlienJIS1JDbFY0THlxNVFKd1FZbkt3NmZHRU1MVXp5SlRmVjgzQ0s3VVNsOTAwb3dkZ2hGSE4xYVBucndfbmc0QlRGUDhrUQ?oc=5",
+      "representative_headline": "[Startup] 라이드플럭스, 도심 일반도로 25톤 대형화물트럭 자율주행 임시운행 허가 획득"
+    },
+    "2025-05-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LZlVNakJ0NTQ0US12bFhxMkhEcDFEUnptS2t4SnNXY1c4ajRqVXp3NzZMWE5nazlWVTNTUFNFdWExYXJSN2R4Q0xiZVZGUQ?oc=5",
+      "representative_headline": "오토노머스에이투지, '韓 최초' 싱가포르 자율주행 면허 취득"
+    },
+    "2025-05-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.businesspost.co.kr/BP?command=article_view&num=395240",
+      "representative_headline": "한국 진출 추진 '포니.ai 로보택시' 중국에서 화재 사고, 외부 충돌 없는데 불"
+    },
+    "2025-05-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://biz.sbs.co.kr/article/20000234944",
+      "representative_headline": "[비즈 나우] 포니AI, 韓 진출…中 로보택시 달려온다"
+    },
+    "2025-05-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pZm5nRUd0c1pNU1NYc1RKbTJHOE1sZVRsLWI3WlRMNEMxaWowNDJ6a0FHZWVmVDNaZU9xOEQ4dTVvNVNpUVM4RkhfSzB1Zjg1anfSAVNBVV95cUxQaVd2Nk5IaHlaYlFQNS1pVVF1OWlUZWtrQWxKRDlsZDhKQXhTTkhhcnUzNnFYNldnV1ZNRE5wdi1RZmVvenJlOGRISzRKSU5yNDJKNA?oc=5",
+      "representative_headline": "심야 자율주행 택시 3대뿐인데…운전자 없으면 운행도 못해"
+    },
+    "2025-05-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://m.sedaily.com/article/14068244",
+      "representative_headline": "\"무인트럭 100대가 일사불란\"…中 자율주행 기술 여기까지 왔다고?"
+    },
+    "2025-05-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sVzlYcEd2NnJ6dUREeG9palFScFozblFkRko5YmNZYzdNdUJYXzZwSWYxUHZLZ29kT0ZXdTU1b1ZVOTRYbk9CeWxfZVVXbzNGUTFhRzkyZDZsMlJhZWVjVWJkbzAzVmJnQnpjaTRLRUdZV2M?oc=5",
+      "representative_headline": "웨이모 로보택시 운행 횟수 1000만회 돌파…5개월 동안 2배 성장"
+    },
+    "2025-05-23": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTUVlNbU1jTVZ5WFdRUHpsRUpWeVJQZnlKMmF3UGw0WlJSYTFhakhsUEVpbWZ6U0ZKNEREeUFFNTNiMzBqdWg0cElZNDV4MGNtSDZ1QWpoUGpYQVZZYXpPWkItakZ5cHo5?oc=5",
+      "representative_headline": "사람보다 나은 ‘AI 자율주행차’ 시대 도래…한국, 선두권 미중 추격"
+    },
+    "2025-05-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5qb18wZzJaZXh0N0NSYzBHVjEyVDE4N2ZRVDJhQ0JJZDlHYUxtdEJTRU4wem0yM25VNEc0VFNHN1E?oc=5",
+      "representative_headline": "[테크&모빌리티] 웨이모, 유료 자율주행 택시 1천만 건 돌파…“올해 절반 이상 달성”"
+    },
+    "2025-05-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4QWZldUx6NHZBcGNhVkRleDQ2VjV5d0lwdUVyQVlhSUJBeUpKT29BWThkWVR6LWpTNFUwNXp4eTFYZXVIaTRPa2JkYnBoWmxEU2ZmNGZCT3hTTzUyVVRNU01iVEd4U0wy?oc=5",
+      "representative_headline": "테슬라 완전자율주행 로보택시, 세계 각국 도입현황과 한국 상황은?"
+    },
+    "2025-05-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.reportera.co.kr/car/korea-the-u-s-and-china-robotaxi/",
+      "representative_headline": "\"한국만 제자리\", \"이러다 영원히 뒤처진다\" … 美·中 맹공세에 국내 기업 '어쩌나'"
+    },
+    "2025-05-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://kr.benzinga.com/news/usa/stocks/%ED%8F%AC%EB%8B%88ai-%EB%AA%A9%EC%9A%94%EC%9D%BC-%EC%A3%BC%EA%B0%80-7-%EA%B8%89%EB%9D%BD%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94/",
+      "representative_headline": "포니AI, 목요일 주가 7% 급락한 이유는?"
+    },
+    "2025-06-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmOWtXYWdXWG1kQ254OUVWWGZxeW5raGVoSDNRcUNleGhuNkdNZ09hYWlubFF0RW1uTFJVV3owQjdoZnBLS1pCYjBXc2Z5Q3EtcGhhUTlkRHNJVkVZSjloby1FcGN2LW0ya19lN3VvaFlGM3hKTGZRY0wtcjlNQQ?oc=5",
+      "representative_headline": "웨이모, 1000만 건 유료 자율주행 달성.. 로보택시 대중화 '성큼'"
+    },
+    "2025-06-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HdE9aVW9nUEstTmxRSWNsT3QyRkZ2VE5LRG1uUTJ2UWFuYldhYTVrNXhvX3N2RndjcTZoMlNTcHBZdXoxRi1veEF0NDhENVZESjRyZkVEQ1VuQmJl0gFiQVVfeXFMUG5XTVNudFRpSGJmZXVMUXRMV21CLVgwRXMxTk5SRUctZWhjZk82NnFLcW0zQ3Fick1lbEk3ak5lY3NYaXc4ZmVLVi14Rk1tenFfUUpsWVUwdHU2X2ZCSENzRWc?oc=5",
+      "representative_headline": "중국 자율주행 화물트럭 타봤더니…운송 혁신은 가능할까"
+    },
+    "2025-06-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LVFdPT3ZPdmNiY3hUSDBENVhXVmZCMnJ5T2VaRlI5U2NVOUhVUXF2RlVCYjVscTNZa2VGOEZLWnhQTjNmVnF2Rk9oQkxtSk9LX2tyT2lxS1BKQXBuaTlF?oc=5",
+      "representative_headline": "테슬라, 완전자율주행 韓 상륙 '초읽기'…정부 출신·보안·보험 전문가 대거 채용, 규제 돌파 '시동'"
+    },
+    "2025-06-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aG1FbFJmOEZiQktDUDNmbWJIWFNsSGNnUzFLQnROZ09YZTZoV0MtQzlDN0cxMmtEM2s5bHpKWlVYQXlBTzQzNzUtTEZkTHl0ZGxXaW5lSVA0eFNsVWtxakg3LS1hY294SnE1S2ZZQQ?oc=5",
+      "representative_headline": "[Hi-Venture business] [라이드플럭스] “완전 자율주행 기술 대중화 선도”"
+    },
+    "2025-06-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.news1.kr/industry/sb-founded/5810977",
+      "representative_headline": "[옴부즈만 규제망치]연구용 전기차, 등록 말소해도 '보조금' 환수 안 한다"
+    },
+    "2025-06-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMSEdwQW5Kdkplajk4Uzk5Y0NWcGhNVHhPSzZvV0JBZVlza25nX0FSWkZBNVlobFJReGt1Qi1HdHU5Zl9HUURXTWgxLXc2QlU1MEs3MGRn?oc=5",
+      "representative_headline": "자율주행택시, 심야 시간대 강남 전역 누빈다"
+    },
+    "2025-06-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUlCdG0xRm1GM3k4OWdDVk9ITWZqYjVab3N3ZllBdm9qZGhNc0tEaXptU1h0bHBReG5Qa0RnLVFxYkdjWHBuLXNMYmVVNjYzcFl0aHY4OWc1UDRCMEdXQ2E2el84SEV1c09xdEUwQ092dTFxUHNfbTduRnozX1duX2M2OVRwNC1KTkl5WHBRYUg?oc=5",
+      "representative_headline": "자율주행 택시 시범운행 8개월 무사고…강남 일대 운행 확대"
+    },
+    "2025-06-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pY0gwQVRzcks1Z0IwQ29LaHIwNzN0ZGRVX2FiOGEwbWNuSi1fUmNLb29mUDRERzdvaXVNay1jeTlCNEVubVhZT1FuS1lCNHNjYjhaUkp1MnhuQQ?oc=5",
+      "representative_headline": "국내 첫 ‘심야 자율주행택시’ 안전성 입증…서울 강남 전역 달린다"
+    },
+    "2025-06-17": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01ekFfNDVXLUtaMXVEaWdWQ24yY3FjZ01tOW42QTJXVlZBV0VKN1laZ0xIdDhCV2dOSXZLb2dZWVVwRDlEeXYxcHFjbHVCcXBTZE00WlBZMFRCZGRaT21CRFJKdlpjTm4tRzF5OVR30gFyQVVfeXFMTkthUEp2ek5PVWJxN1hvcHJnS2MzaVJ5Y0F6VzBrYUhmXzlLV2F1VXNWZGh6ekNlNjRNV0x1OEU3SmJwMUxLVHdVXzZ5U0JqM3g0clFlQ3kzU3FLYzNJdVBjZVVtT1VZNm51MFo2MWJqSlpB?oc=5",
+      "representative_headline": "‘국토부 인증’ 자율주행차 첫 사고 발생 외"
+    },
+    "2025-06-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://themiilk.com/articles/a89a4e713",
+      "representative_headline": "웨이모, 끝판왕 뉴욕 도전 ‘로보택시 2막’ 연다… 한국은?"
+    },
+    "2025-06-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhclh2aTZkRDBfYllEUE9oNTNzcGtrSkZhWjB6SFZBbzRLTF9LX21VSm1ndUdLc1lmd1I0ZEtETGRyRGFvbW9wbHpURnNzcHcxcURXTFZSbHgxWk5WWGZrS0MyRWJWYnBnODZhREIwQWtReFk?oc=5",
+      "representative_headline": "웨이모, 로보택시로 뉴욕 진출 추진"
+    },
+    "2025-06-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBRHJHRVFVQVpXaVZrY0VfQ0pSa2dDODZkb05MTEJnd2I5ODRXS3piZ19helc0aEVGMkU5bjVZeVg4Z1lBOW54X3ZSazFOOGZGbDFmY3NxQWNXendzdU8xSGZBQlJ4Yzd4NUl4dXI2SdIBZkFVX3lxTFBaMXE1c3hwSXJTSThHQThZbVM5UUFEU0w0WVV3dFhvZm9FRVFEWkNMc0g1bXFjWEtwUnhLWXJEaXB2S3BGUkdBN2Uyd3NfRXcyVGFGS1VKTTVyMlVFWUZGWmdyeUIzZw?oc=5",
+      "representative_headline": "세종시 “2027년 전국 최초 레벨4 무인 자율주행 버스 상용화 도전”"
+    },
+    "2025-06-23": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LUy1JOTVWdGRxTXI2SV9sNmN2TW1JQi1XSURTWG9hMEJxd3h6SHk3bzZXZTZyUG4yd09TUW1QMHFRS05VTjNOQ1hfT3pUUnBtc2tuaFpOWjZEZ2JHR1k5Q2ttMDExQ1HSAWtBVV95cUxNWlpNMWZTTEFBNjhYc2RZellwdXVBcTVsTlhiYnpNZ3d1SmxWdkFPQjJsbXBQN1R1WmJ6bXhMSkl1S20zN1hxZ3VBX3hQbDBLT3RBc1N6TXBKQS1RWXV2R25wZnRGZmlwWEpVOA?oc=5",
+      "representative_headline": "테슬라, 자율주행 로보택시 첫 유료 운행···머스크 “10년 노력 결실”"
+    },
+    "2025-06-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.g-enews.com/article/Global-Biz/2025/06/2025062318561769039a1f309431_1",
+      "representative_headline": "[초점] 테슬라, '로보택시' 첫 유료 운행 시작…FSD 구매자는 여전히 수익 못 내"
+    },
+    "2025-06-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KTEJtNXdBUXo0RmZmaWRMX1ItNElCUjJnS1Mtc3hrMnoxUVBSdkN5TFZybUJuZ2dPa204eHNFTzcyaThKbzRRZmhMTW8tUDVDaXljMg?oc=5",
+      "representative_headline": "규제가 막아선 자율주행차…‘무인 로보택시’ 아직 먼 길 [新 메가 샌드박스②]"
+    },
+    "2025-06-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBONXRzX1hhckFFWFVyNGRTdUI4ZVBlS01SWUVyQUZnbEsyVnFjazdEVHZURHZYLUIwVmJtRDVPWHpjemh3U3c?oc=5",
+      "representative_headline": "[테슬라 로보택시] “우리도 무인 자율주행 가능”...기술 도전장 낸 라이드플럭스"
+    },
+    "2025-06-27": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sY3ZScUdBMFllY2dFZmdRRVBTUDk3aUNzY1dmTjN4LUUtUVBuRmdIcEc5N0tWUklBbFlBelVPNkxwb2c5NFVwZnZzY3V1dXJ4SWprbXd2N1d6eXFPV1hTNThCY3VMOTRWY0pJ0gFvQVVfeXFMT1dKcFQ1SzlHRjAzaEwwQVpzM3ZXV2hYQWloUW9rX2M4NzhyVWh2dDk2NXpJcUQ0TUhkWnZFeUlJNHdKdDJrQmlVZ0xIYjdudWF0TW8yc2N0VTdTU2lsMWQxTHNvbTFvM1FJRm5jbm1B?oc=5",
+      "representative_headline": "자율주행차 상용화 속도 내는 美·中…규제에 발목잡힌 韓"
+    },
+    "2025-06-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LZ0VpcEtyS1RNQThraEpfNDJ2UDdHOTNrZVdXazdCbFRvY0VQQ1QwaGxhalZ4RnJSd1pTUG15aFVVc1d5MXJaVEJVRW5RZWdJY2FmT2pQWVZyZDZWdC00?oc=5",
+      "representative_headline": "“사람 없이 공장에서 집까지” 무인배송 성공…테슬라, 완전 자율주행 배송 '신기원'"
+    },
+    "2025-06-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03ODh6Y0FMcHhPRjE1cnNjRDJPajQ2cTNES3ladW51Y1hkTzl2dEV0OW1BTHFiWHNtUVZ3QjhyTVh6YkVaWnYxM2RJWklneEljbWdBcFl1ODZuTEhxNHBzUHY4VXJzRkZGU3J0TkRtN2ZBZ3F4bnfSAWZBVV95cUxNd29ZbkFMZU8tc1pnREcxY1dxS3FtdU53VFhnTnMwVjEweGl2N21zdVBtLUh6NkxJbGQ4YzhkM3Vod2VaYmhwWU9tWXp4cUtrcVh0eTlhMlpHbWY2VTZpR1hNMWNqQUE?oc=5",
+      "representative_headline": "테슬라, 세계 최초 완전무인 신차배송…30분간 완전자율주행"
+    },
+    "2025-06-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.etnews.com/20250630000264",
+      "representative_headline": "포니링크, 로보택시 첫 공개"
+    },
+    "2025-07-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IUnU1QWdjcEpMNWVMQk9EOGxyVktYN3ZRcmdxNm1HVHJ3V0w4YlZkMmhVM2JKcndPdmhoTHBzNlNYd3lLZmFsUDNuR0c2clp4a2RkV2pxUlEwSC1QdldnRWpxWUJrOG92OHow?oc=5",
+      "representative_headline": "제주 성산일출봉 더해 번영로-남조로까지 자율주행"
+    },
+    "2025-07-02": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KRUluTVpVS3N0MlJhTU5nemZLbEFNS3VCLVBKRGF2WVJuNFd0X0R6YXpjYmRnMkhGeDI3UUliTUhLQmt2TGMtYXJqbjZmYWRXdzVOYUNUcjVtdmVyQkJwM3c4MkJGZTZyeUp2R0tEUG1TZ9IBdkFVX3lxTE1hSVpOZnFCUkpLRmVBbTNKdGgtVlhPOU1xbl8wbzZBempOUkZUc3o1ZzFUOU05TjEweWxSeE1XWFZfeHgxVlNMSmtRa0pKbDk0RjlvUGRTdE8wQkhIMktOcE14OFZHY0diMjk5bzhOcHRSUjNnVmc?oc=5",
+      "representative_headline": "동래 내성교차로~해운대역, 자율주행자동차 시범운행지구로 운영"
+    },
+    "2025-07-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hankyung.com/article/202507036170P",
+      "representative_headline": "포니링크, 국회 국토교통위와 함께 포니.ai(Pony.ai) 광저우 허브 방문"
+    },
+    "2025-07-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.gukjenews.com/news/articleView.html?idxno=3317727",
+      "representative_headline": "경주시, 보문단지 무료로 달린다 '자율주행 셔틀버스' 시범 운행"
+    },
+    "2025-07-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LM3dudWZSdDFzeWJTeVFiMEdmM1J1Ni1qY2NyMVRKb1BTTHVrd3Nhd1BWSy1XMVlYcVdVM3d6TnRFUEdSMXFISzlvYmVkQQ?oc=5",
+      "representative_headline": "웨이모, 필라델피아 자율주행 시범 운행…美 동부 로보택시 확장"
+    },
+    "2025-07-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81TC1iTV9sc2VMdGV0dEhvNldpY1hoTzFrVnl1NU9ReFotRDhVUkNHZmJyUjVSSFE5U29PY3d0UUpWcFRQc1B6YmNlbk45cFJZVHZUbDlKbk9GV3ZZSThjeEJNS1JUeENIQ3ExSA?oc=5",
+      "representative_headline": "무인 자율주행 SW 개발 '라이드플럭스', 최우수 기업연구소 선정"
+    },
+    "2025-07-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.etoday.co.kr/news/view/2486588",
+      "representative_headline": "남경필 포니링크 대표 “외국 기술 국산화로 우리 자율주행 시장 개척”"
+    },
+    "2025-07-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YN1VEWXhMVHdacTNRSDBIOHlCOGhWVzNJVlFDc1laVTBuSEZWaHlyNkFEQ2pzQk9xRFVVNGNzRk5WWGM2LUhlMkJPTng3M25TR3hMQQ?oc=5",
+      "representative_headline": "미·중 로보택시 ‘질주’하는데 한국은? 자율주행 상용화 ‘산 넘어 산’"
+    },
+    "2025-07-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DdUF5SmJUUGo2ZnYxNFoybmEyYXRMNDE4aERIUXFPNzVzWW1jZ1MtVGFSdTdoQk94MGNCQVA0NnJVakkyNzZ1UEhnb3VzTWhLbHZj0gFTQVVfeXFMT0N1QXlKYlRQajZmdjE0WjJuYTJhdEw0MThoREhRcU83NXNZbWNnUy1UYVJ1N2hCT3gwY0JBUDQ2clVqSTI3NnVQSGdvdXNNaEtsdmM?oc=5",
+      "representative_headline": "주차도 10초컷…판교에 나타난 무인 자율주행 군단 정체는?"
+    },
+    "2025-07-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VT3I5MkdJTlhyRmhiWHZWdEpsYlZTQ3pKRGZ5bnNIMHZ5eDU5R2RXdmpkNjF3ZU5MWGRxcm11UDFOeDUxdzFRZWRKQy1sUXRHX0R2ZzRR?oc=5",
+      "representative_headline": "[단독] 국내에서도 웨이모·바이두 택시 달릴까…카모, 자율주행 협업 추진"
+    },
+    "2025-07-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UV2JuTWJNMmJPTEh4UElLRlE0cUNRTEF3bjFfQ18tNFVzV1FqLVN1OE9ISGU5R3NmSlpydTFndGJJT0FzRXZadTVycjJkVHNDaGxN?oc=5",
+      "representative_headline": "[영상] '운전석에 아무도 없다'···서울 달리는 자율주행차는? [김성태의 딥테크 트렌드]"
+    },
+    "2025-07-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0RHRrTWhaTDhrcExOYVFLMHBpLUJTclBPcUlEcGZ0SDl2RUY1VkM1WVdzajBaUVYwX0NnazJQdW0xU1pRUkNyb1FicnkxcFZCV1BXX0Z3V2drR0g4TFA5VkRR?oc=5",
+      "representative_headline": "우버·테슬라는 달리는데…한국 자율주행 택시는 아직 ‘걸음마’"
+    },
+    "2025-07-23": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOHNOTmt1NFFFcVdrblVhWnpaelFaME10dXl1Wkg5TWdBbldaTGVsQlhPR3pFcVFlOFpwWlFORXBFMW1adXppTHhNNDJmLTlDSjBncWhmRWNhSGxtZVREZ0FMZzZ6WS12NFV5WTIwaDNyeEk4Y1ZpU181bnlPVHZHeEN5ckNTdw?oc=5",
+      "representative_headline": "[사설] 세계 최대 자율차 도시 된 中 우한, 우린 10년간 뭘 했나"
+    },
+    "2025-07-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00VGpyenBfeWlnazg1WkJkd1k0Ul9tQVZYTm15V1NpN0hDQlJ6ejQxaldUWmVYYWU1ZGc5UVpCb2QwUVRDOUUwRjE4b0xRVVU?oc=5",
+      "representative_headline": "인천시, 2027년 하반기 자율주행 운행…시범지구 지정 절차 착수"
+    },
+    "2025-07-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://m.sedaily.com/amparticle/14094075",
+      "representative_headline": "[영상] ‘운전석에 아무도 없다’…서울 달리는 자율주행차는? [김성태의 딥테크 트렌드]"
+    },
+    "2025-07-27": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ONGpNSXlwaWcwOEFoeVlDNDFxSldvcHFpNHpONTVkV0VwWUgyZlV2MGt0XzVQc0EtMWNaT2ZQcy0xbzJPLUM3UkZ5eW9pdw?oc=5",
+      "representative_headline": "中 로보택시 바이두, 카카오와 韓 진출 합승"
+    },
+    "2025-07-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmhnUWhZSkVJWlVEcGd6XzBBMDVJZHh4OEd6U2F4akFyZ0VHdTg3ZVRsaXNvSlZiUmVKYnJpb3NLbTJURnh1UlpSWjFqdVRNOU9ucG84VHN5Z2ZUR3VhM01aS0hmeUxfbnFzNGxVRkdhNHBUUVB5RlZrb21EVVlaYTBzRHFkSmY3YVF3?oc=5",
+      "representative_headline": "中, 로보택시 韓 상륙 잇따라…K-자율주행 자생력 높여야"
+    },
+    "2025-07-31": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9USy1xYkFSZ2RSc3F5LVJ3eGJHMEtPRktUOElVQnNjUG11MVpwYy1uOVB2TUVfNWszeUpURk90ckxaMFhwcjB4dHExQVBLSUxabUFDbXFYYmRwYU9zeFM5S25hY0tYMHp3NDNCZlV6aHIzZw?oc=5",
+      "representative_headline": "중국 상하이 무인 자율주행 택시 정식 운행"
+    },
+    "2025-08-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VeGM0R1JvVEE3RmtaQTFicFNnbVEtZXdhSDFISlpSYkVoYmpvdGZUVWdNVWJpcjcxN2pwM21nUWV1VzkxV3A4WnJPc3N5T3Q0OTJsOXdjU1lXOVFoUHZVaUVhbkhLcHNVUVE?oc=5",
+      "representative_headline": "구글 웨이모 \"로보택시? 사람보다 더 안전해\"…내년 달라스로 서비스 확대"
+    },
+    "2025-08-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wcjlQNDNkemRMYzNsWHMyMXE0VzhSc0Z5cWJNV0ZCbEhOU2QyV0VuMG9ZYVhUN1hnenJqMXljTEJ1OTItZ2stNmVCTjdHc2JpNUlPb21UODJpU1h6SWpnaE1FaEtVNmV4ZWEwNFV3Rk5NWUU?oc=5",
+      "representative_headline": "국내 1위 자율주행기업이 ‘상업 운전’은 日서 한다니"
+    },
+    "2025-08-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.munhwa.com/article/11524740",
+      "representative_headline": "구덩이로 추락한 무인택시, 사다리로 올라온 승객이 전한 말"
+    },
+    "2025-08-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XakhpdWRLMkpZdVpCMW9INmlpSmhUUTJUd3JGYnY1UEEwQjI4NHpoQWhTQkFHS090QjZ3RE52eEE5SG45VVRhclhHXzNqdw?oc=5",
+      "representative_headline": "[쿼바디스 한국 AI] 자율주행에 뛰어든 전 경기지사 남경필에게 소버린 AI를 묻다"
+    },
+    "2025-08-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CU214eTBCZnRldzFjNVo0LUp6RzFfeGd3UU94UmJZc0NYaUt6Yjd3QWtwWldvNVd0WWd2dFJydVVEVGtpRnJNbkZtb3lMZ2NXMGlLMWlqb1R3X29wTEw3aGF2Z2VKc0lfY0xQcUFMMlI5elE?oc=5",
+      "representative_headline": "'한국서도 운행 허가' 포니AI 자율주행 무인택시 1천대 도입 순항, \"손익분기점 예상\""
+    },
+    "2025-08-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kUkFrX3Y1aGRFUDlEMmNyOC05aWFhUXVWVExoSG85MnFMNXoybUpWbHBlSGhDeW5YcGxXUlZZdjZKeDMtUFRKN2hna2h5Q0tBNDFwSVhDaUxTVEhxNjlsQUZ2QlA2cnhhdVE?oc=5",
+      "representative_headline": "테슬라, 무인 자율주행 '로보택시' 美 전역 서비스 확대 잰걸음"
+    },
+    "2025-08-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DZUFpWVl3VXgwZU5ialNGcFRpZHI5VkZkcHAxWUpEREVYbUltc1IyTzlEdVZ4MzdyQ0F5akp1aGVCbTFabWV4RWJGc2hldDJCR2lZ?oc=5",
+      "representative_headline": "‘로보택시’ 전국화 가속 테슬라, 뉴욕 진출 확정"
+    },
+    "2025-08-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DaTFMUU9MbjdqeUlTTWllaEpXcUdKVjNXcGZ0Y0ZLTVdDRXFuSGxQcTEwcUJORTlncFJRbGRwSkVJT3lGRkV0X2xORWxVZw?oc=5",
+      "representative_headline": "[이슈플러스]질주하는 K-자율주행버스…'한국형 자율주행' 상용화 가속"
+    },
+    "2025-08-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YMnB5YUhsS2ZvV3BsMEpVS3k3ZXcxNHZkOUdwZDJxSHV2T2VBZm52V291eHNjMERUQjVsUTMzTXBMNUsySlRQRjJENGdiUQ?oc=5",
+      "representative_headline": "기아, 레벨4 자율주행차 만든다"
+    },
+    "2025-08-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94R2tLVksyMnlmWFhZT1RScEJtVmRZaXZzaHQ1Sk9GU2wwajNtUVNQSVM1VkdXMHp6akt1amZWMFBxSGc0VHk5N1VKS2c1dw?oc=5",
+      "representative_headline": "서울 강남에도 로보택시가 달린다!SWM.AI, 3500만 달러로 국내 자율주행의 새 역사 써"
+    },
+    "2025-08-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54SHdRNjRsQnZ3SzVIcDl6bGFHNFpfcVpnTUFRV0E4MnlxYVI4YUJLUTM1WXZOdzJNb3FhMFloNkJhSzE3Z05CR2pic0NtTkZNaV9JYTlxVnHSAVRBVV95cUxPeUlMUndtTnJEUmp4WFhiOHY5WWh0aEcyc01zamI0VXY4TG1KMXBRLTlTd3ZyMFRhQXFMcWk3YU5YZ0RfVVVVam1hNmlqWEcyWU5pN2g?oc=5",
+      "representative_headline": "‘복잡도 최상’ 강남 도로에서도 척척… 자율주행택시 타보니 [모빌리티&라이프]"
+    },
+    "2025-08-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0NzdVaHlCVXZOb1pKcXZlWExmZW8yNHdqN252Mm5WUmN3U1BWVFdmRm8zSHlqOHA5elRfc3dXc0J3NmpTOHRQMl9scC1INWJpZmg1QVNHaHFJeG11ZlF6TnhNYzViZHVf?oc=5",
+      "representative_headline": "딜레마에 놓여 있는 대한민국의 자율주행 규제 현황… 해결 방안은?"
+    },
+    "2025-08-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KWUhOdFR5a01xa0hSRDU1a3BKemxQOHJIZHloMGUtQXFpRnRGd1dBeUFpTnhIVno0TVhtR29ocFNyaFJYelpDNVdEelhGa1U?oc=5",
+      "representative_headline": "中, 무인 로보택시 대중화…교통 방해에도 시민들 관대[中에 안방 내준 자율주행]"
+    },
+    "2025-08-27": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.news1.kr/local/moi/5891562",
+      "representative_headline": "기사님이 없네…무료 자율주행 버스·택시 어디서 타나[서울꿀팁]"
+    },
+    "2025-08-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84SmJhWlVqdE4wOVQtekJnczFkVXJvLS1DU1QzMm05a1NfQVFJSGl3MDBUWWRuRFU5NDhCcDJuVXdsbzRvZ1VLN1o0UkdGUUhjdEt3MUtoYmk1eDVTUXEtYUJUcDNwM3dqcUdSQ3dYRQ?oc=5",
+      "representative_headline": "미군, ISV 보병지원차량 무인자율주행 전환"
+    },
+    "2025-09-02": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1UG9FN0N3cF9LMnczMTNGUnV5MlpRTkpDbEN2WXkwT01IMHgtZUhvN3RjMVRnTTNEa0pEdC1pU0ZsWVRNR201cnVtOE1hSHBFWUFuenhrdG9od9IBX0FVX3lxTE5SN1FEYzFEOVRwSEZuY2paelhmTDFkbkMzU3dQUUx0bmtmZTJWczczaF8tQUZhUDVibDF3VTM3ZWlPVW9HOHk2UXRKMkJ5MVJjNzNqT1lVc1lEcWxhQUtv?oc=5",
+      "representative_headline": "“서울 택시 10% 자율주행 땐 소비자 연간 이익 1600억원”"
+    },
+    "2025-09-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GWVJ5LU9xWHJtTkpLd25DbUF2eERUekpxS2tTal96ZnpNZ1NfQl9ERk5YeFlHdWNfdzBHQ1pGdXg3YktUZ3phNmtWV3lwSUNkVUM4d1pqQWU5N1l0elRlS2hMSjdfNFdiWkQxaXlaa011eFh0?oc=5",
+      "representative_headline": "한국 자율주행 기술, 글로벌 격차 좁히며 도약 준비"
+    },
+    "2025-09-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhWVBQd0FVMmdGSTBqaXZYSDA3aEc2MjZnNWY0ZU80TkFvTG1BdmVfWVQxRGFMMlFWTnZvclkwUVoybDJUT0FtQ3BTLVBTWXdQSDhLd0FCZWFlb0NkbHlEOFlxTGJCS0VCVU9HYl9pUThmejA?oc=5",
+      "representative_headline": "테슬라 자율주행 무인택시 이용대상자 전면 확대, \"누구나 이용 가능\""
+    },
+    "2025-09-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15Y09RZmVKQ3REN2hKUTBKWVB3RUxUWDdrWGwtRjFiTjhJY1ZxUk9xaV9uak5xeHVMVERrMlBMaWs4M0lpc0xXWjhJZlBTT251QzFjbDF4X2lwUdIBVEFVX3lxTE10am02aVpjcHJwR2U1b3EwXzE3NW5fbGJiT0tsZnR0NVFPckVQaHNFaUVZVFJ5VFpsLUdwTlZyQngzeWJJbkZBRUpha01wYkZsMHJRUg?oc=5",
+      "representative_headline": "테슬라, 로보택시 앱 배포 시작…차량 호출 서비스 본격 '확대'"
+    },
+    "2025-09-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.labortoday.co.kr/news/articleView.html?idxno=230076",
+      "representative_headline": "“자율주행택시 전환, 감차 보상하라”"
+    },
+    "2025-09-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hRmJlT2FSdzFoZFNPQTBxckUzTUZjSmlnbXd0Y1FBbW5aY3lYaklHcnR1ekttVWROVGcwYTVLNjBzbHR2Q1d1ZzBKdDVESHc?oc=5",
+      "representative_headline": "[쿼바디스 한국 AI] “자율주행, 이제는 진짜 돈 벌고 싶다”"
+    },
+    "2025-09-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://byline.network/2025/09/09-ai/",
+      "representative_headline": "[종합] 한국 AI가 나아갈 방향을 제시한 12명의 사람들"
+    },
+    "2025-09-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83UEZQanI2RmwtbF85dUI4N2FWcTZEdlNlT2labXdKUDZxSEdXZ1otVElMeDJIT2JRajBvaDhBckI0V3dZR0NNd1RVWUYxUjlLZ0s5ZXZWVUdZZkXSAWBBVV95cUxQTEtHTFFqVDdGOEhxbzNHTFM3Zm80WFJ2dlRoSTAxMzRTQXpwWTFSbHJNREZma3B6VnZUQl84UG15cnNUc0FZWFlVaFROWnVoSlJtVWxtWUpNWnZhajhFaWk?oc=5",
+      "representative_headline": "아마존 자율주행 '죽스', 라스베이거스서 일반인 대상 운행 개시"
+    },
+    "2025-09-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YbmZ1a0RjUVRjb05fVGlodVotVmo3SDVJbVhOUzFQMmhmeGhoU0lWRGlmOGlLZmUtS1c4YkVmb3JBS1duUzVJUVVMUE1CdUJrcUNIVXZNTnZMTlpfeEJxY3VpTU1WdHRmOWxn0gFvQVVfeXFMT2dKajlGNm92RUNYSGF3aWQydzU3QmNvd3BXTUZWWUZ3dGpwVzl6OFVodGR3Zy1rYWdnLUhDNHhMa0hSLV91VEdER2dlV3QybWdheUFLa0syZGhfRTBubllhSG5waDZsSU5ZaThDTkVB?oc=5",
+      "representative_headline": "로보택시 경쟁 치열한 美·中…“한국은 상용화 실증조차 어려워”"
+    },
+    "2025-09-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wS1NMYm0xWHlwMVhrc2xfY21ydHFzamhwVTZLR0xpVGlka0E3WVRmYjBVMTl0amVtaGw0SFdOOE5pdGNBQkpuYjVuUnp5d3lwX2ljQ1hHbmk3REItXzdkVmY3OWlTMEM4SUpBaw?oc=5",
+      "representative_headline": "로보택시 상용화, 모빌리티 혁신의 기로에 서다"
+    },
+    "2025-09-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmc3JXb2x4b0J1Yzc1SUlLOG5rVk9adTZJYmxDZHkwWm9nd3F5QThkbElPNlV3d3dlMDRqU2EzeXI0bldSYW0zaGZFMDFWUnhnNk9Zc3NwaWVNUng2YXdELW1sLWRxSzBTLWVTdlVqdjRNUWc?oc=5",
+      "representative_headline": "택시만 자율주행 하나, 中 10인승 무인버스 타보니"
+    },
+    "2025-09-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RemRDWmxSYldhZURzRHlyVlkzcnNJRmRoY2x6Z2ZXdUtUb0hnX0ZLUEM3LTNXV1B1c0FYZ3BrVW03NWczUDRIWDRmVFk3YjNxLXRXX2w5WU9pZ3dTbFFhSHc4R3FzWnpsQWQ4a1FyNUNXZ9IBdkFVX3lxTE1rOUtITEdTSUNmTWd1RWJxT2tSSUpBNGF5UnNJdEhLWmRic29yYVlteHRLVEp5NHBzX1dueFZaVkIwNkdCSDZValM3d0toNkZlM2p3amlzV01yOVhKTGhqSVZXMzlfcnQ5VjNMamw3UmRYLWVQSkE?oc=5",
+      "representative_headline": "16일부터 기장군 오시리아 일대서 자율주행 버스 운행"
+    },
+    "2025-09-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RcVJnY2JoUlRZb0tHaVRGYjk0bzNBTXFaV1NCbDNONVF6NURCZlZpV3NZb2RYS2w3S05WYnZlLTRMQTJ2MlNHZkctSk9TSGpRcGpXNWJzOWl3N3lzUUE5T1BiWnBWQmJ6eS1IdGtqQUltVV9pU2c?oc=5",
+      "representative_headline": "부산 오시리아 관광단지서 자율주행버스 운행한다..9m 전기버스 15명 탑승 라이드플럭스, 오는 12월부터 유료 서비스 전환"
+    },
+    "2025-09-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FU2lsWUlGalNtb0lXMVJyUXM5bDFYbmJKN0NTWnR6YUdUano0TzRvZ2xudm9mcHBjeHV4Y3VPRnk0RE9CRmtPVXpsQnJpaHhpWG1yZ2ZfQndFb2pRUWU1V21n?oc=5",
+      "representative_headline": "자율주행 로보택시, 이러다가 중국과 미국에 먹힌다"
+    },
+    "2025-09-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00SDl2Vno1bDY3NGREZlN1ZjJWVFFZU2NkNmljVmhKZFM0aWtiQ1A3eWtjUDdxVkZDc1RkaDhiQlNQeXl4Q0c5TmJQNHlsSm9xN3QxT2pMYTAtdEd3WHlYbEVvcklncXBw?oc=5",
+      "representative_headline": "로보택시 상용화 가속…질주하는 美·中, 한국은 제도 개선 시급"
+    },
+    "2025-09-23": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBodERsR3ViNVFaZENGN2p5Z1lacVVseDhYOGtCRmctcllpenMxeDJEN2c5M1F6YldVWDlQa1BtcDZFOHBwN1pZQXZDeXIzYkEzaFByV0JVZTk?oc=5",
+      "representative_headline": "운전석 없는 '자율주행버스' 청계천 운행 시작! 무료 탑승"
+    },
+    "2025-09-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JR2g4c1QydEZUWGJHdUN5THRRSGlUemF4UjBUV1d6U1M1eGhaR3didWVNSThRME45dnp0bGtDVFhwYTQ2MzQyRjYzMExxU2VnWWZqRnpya0l0XzVU?oc=5",
+      "representative_headline": "운전석 없는 자율주행버스, 청계천 달린다"
+    },
+    "2025-09-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yRFVJR19VbjFVYjlKdTFHbjdaODFaU20wTWFrVTBRRXRKbDlfSWZmRVZsQnVkX2dBUXFxYjRyNlk0MzRwRGpNaVJBcEdScVhBRlEwNl9nOG40R2M?oc=5",
+      "representative_headline": "임시운행 허가받은 자율차, 5년간 사고 106건 발생"
+    },
+    "2025-09-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kS2FRbC1tXzVZMHFhU2tsOHUyb0lqQWlCQmxIQ080N1E2RHdlQTdEY3dUU05ISmh6YjM2aDdHX2tKZ3k3SDVnbkJMZVpTeXlXMnFzUWNqUzN1SjFqeS13?oc=5",
+      "representative_headline": "카카오모빌리티, 학술대회서 '자율주행 상용화' 청사진 제시"
+    },
+    "2025-09-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hyundaimotorgroup.com/ko/news/CONT0000000000188051",
+      "representative_headline": "현대자동차그룹 ‘2025 자율주행 챌린지’ 결승 대회 개최"
+    },
+    "2025-10-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zZzdRdzlwTEZMNUNGS3h1VEFRdkJVZzNlcGRwdHUybVpWS0tHSHVXcHdiNFpUdWZZcC1JMzBUS2pLWjZNYmVyUlV2bEFCLXc?oc=5",
+      "representative_headline": "국토부, “1일 경주서 ‘자율주행자동차 시범운행지구 광역협의체’ 개최”"
+    },
+    "2025-10-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LMEpxczRiQUVNLXFLZF9LcWZXMFktUThvSzVva1EyWDNNcXotc1l4d0VvTFpWbHV1b3NwdFhYR1Z5RFNWbGFRVVY3TVQzSWdJZUx2RlZtZnpzOWc3elNINjNVbkpGRW1u?oc=5",
+      "representative_headline": "[E-모빌리티 현장] 스페인, 운전기사 없는 자율주행 버스 운행 시작해"
+    },
+    "2025-10-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://brunch.co.kr/@bookfit/697",
+      "representative_headline": "02. 자율주행 전기자동차가 몰려온다."
+    },
+    "2025-10-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.sedaily.com/article/14127317",
+      "representative_headline": "'한국 단 1대'…운전석 비운 채 달리는 자율주행차 승차감은?"
+    },
+    "2025-10-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmR295NXBvSHpKYVUtelY4b2dMSEdGcGFZRHRtb2RzdGZpY3hSQklKbjhodUViNDB3ay1HSmRoNG9PQ2pUaFN1UDJyVlE3S0xmb2YxWUdNTTJrTHNtVjBtTDBOeVRzRlNWVG53Sw?oc=5",
+      "representative_headline": "서대문구, 자율주행버스 10월 15일 운행 개시"
+    },
+    "2025-10-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05Z0U0SmkwTzRkSjEweXpPTWVhU3JoV0pYa3BPbi1PTlJ4Y1QyMmc1S2t4ZXN2dndxdWNITEdZOU42Yl9xd2c?oc=5",
+      "representative_headline": "구글 웨이모, 완전무인 자율주행차 상용화 시작"
+    },
+    "2025-10-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43M0RoLWJqS2wxbHJHNFBqQmRYNk5sT193dWJ3VXNWdWVPWG1BY21wWU0zaXFRODhJQkpFcFZsMGdpUHFQQTA5bU9Bc2lNZ2J5cDVBOTdzR25MRXRaVHN1bVRR?oc=5",
+      "representative_headline": "韓 자율주행 개척자 라이드플럭스...한국판 웨이모 탄생할까"
+    },
+    "2025-10-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYQjgzZDlkT3hqZ2RXaXhHZnF4Yk1ZOUMwOFFKelZhNjRyTHJRWlo1T2V4SHVjTnJ3Z0x1R0dxMkFlQzluRzN6LU4wb2hhUHdTQVJTcWZ1aTljUC1nQzNIZEFONWk?oc=5",
+      "representative_headline": "테슬라 FSD V14까지 나왔는데, 한국은 로보택시 언제쯤?"
+    },
+    "2025-10-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03QV9zQTAtTXR5NVRqT3VkNTliOUluVHlkUWo4dEJ4dHNoSFdmYThka0l5NmI4ZlpvakhWeHdwLXJTQ2VPakxkX3FrZjdmNURCalE?oc=5",
+      "representative_headline": "허울뿐인 인천 자율주행지구, 실증 사업 전무"
+    },
+    "2025-10-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MUmg2dFJ0cEo5Y3Z6RHpodDNGMDlUNU1KMk1YWmxFbkVDT3Y2eEpoQmtJMnhHeWFrYklFWlhjR3N4UnhDd2wwRFZSU19PRzA?oc=5",
+      "representative_headline": "[그게 뭔가요] 국내 자율주행 기업 5곳의 근황 보고"
+    },
+    "2025-10-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16SEhDMmg2MzNkNlBYTWIzbW1wMEFkY3pqamRKQXRUVm81THJGemVKVjRFcDFZNHBhVUhGYUFZdWJhb0d0U2VTOFJNdG44WHkwLTNySGQ4SEk1MVIzTHNNVDM5QTh0dW9yMUNKZg?oc=5",
+      "representative_headline": "모바휠-SWM, 로보택시 서비스·노면 감지 기술 협력 '맞손'"
+    },
+    "2025-10-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92dnFra1VJb2wwRS1VYzQ2dUNHd3VnZ2ZwQVdwVFlsNENLNFA1b29vb1FmUzhMWDVoaldfanctSWNFYzZJdVNFdDBLbEMyUV9TVTFRLTdB?oc=5",
+      "representative_headline": "[이수화의 마켓 나우] 경쟁국들 로보택시는 질주, 한국은 멈칫"
+    },
+    "2025-10-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5d1hrSUhkU2E2bEJ1UW9IbnZjZ09UM3E1QkpZQ1MzR051RF9McHRGdDJJVHZ3Nld0dDhjM0M3YmU0bzh5NEdxWjVTcVdHeXVjcGc?oc=5",
+      "representative_headline": "충북혁신도시 자율주행 셔틀버스 운행 1년여만에 재개"
+    },
+    "2025-10-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aNUtCTkdXdkE0MDFCemFMSnY4cUZ3cXA5bkwwOFR4TkJDaG4yNHNKRFk4YThsVGJmckZCek1MV0djeVJkaERBemlrVzlYUQ?oc=5",
+      "representative_headline": "현대차, 레벨4 자율주행 수소트럭 2종 개발 착수…2026년 양산 목표"
+    },
+    "2025-10-27": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2bEFPVG1UQXNWdm1oVkRSc1pTR1VjR3htQnNfZjd3aExJWkktT3dPQThxeFVkTjczamJLcWROa1ZILU85czZDeHRfbGhIUVJWZWJPaUVnSmZSd21PMlpPVWVlbXY4djNtWjhhdG9FNWdiX2M?oc=5",
+      "representative_headline": "웨이모, 캘리포니아 유료 운행 '100만건' 눈앞…자율주행 시장 선두 굳힌다"
+    },
+    "2025-10-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54RXJnek9LdzdaUXBERm0xaHZZS1pCV1MwOFZyZnlBQ0VIVlRrVWJzS2llemMwYTdhZHhBdVlIU192akVwQm0zZUtlMUxxN2dwOUJxaHdSeGdqNVBwa0MyZmRNMkRub0VaRC1TaEFsckF0QnM?oc=5",
+      "representative_headline": "웨이모, 자율주행차 고속도로·공항까지 확장…2026년 100만명 목표"
+    },
+    "2025-10-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.discoverynews.kr/news/articleView.html?idxno=1076818",
+      "representative_headline": "포니링크, 한국형 자율주행 솔루션 개발 본격화…“상용화 눈 앞에” - 디스커버리뉴스(DISCOVERYNEWS)"
+    },
+    "2025-10-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.thepublic.kr/news/articleView.html?idxno=281615",
+      "representative_headline": "”서비스 상용화 가시권”...포니링크, 한국형 자율주행 솔루션 개발 본격화"
+    },
+    "2025-11-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52UnEza2ZuRmpvX1QtcTVPcHBmMHlMUlBnUFhqcng0TkdUSkFIRjZqNFRNTHR6MmhhLWlLUlFSLVg5clJCUkkxdDJoV1FWeE1lU3k4a0lpODA1MW1rdm1CdjVQT1E?oc=5",
+      "representative_headline": "자율주행차 선구자 “이제 진짜 무인주행 시대”"
+    },
+    "2025-11-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1aUpJZ1RkUy1fbW5RcmYtMHM5ZDhrSk53WGJXQTZoLUJwRkZPX3dFdGc1N1JoQmEwLU04ZUQ2VzRxYWFGQVVnZEpKeDE3NFhxNmp6aDFYczkzRnNyWnc3Y1JYUWxjNWdJNkRJZV8yWW54d9IBdkFVX3lxTE9vOFZyVjBBYVZTaWgzdHBMcEtfUkM3Mjg2bldYWGJOUlJqSm9ZRGxPdVJPWjN3bHhBQkFWTm9VWGJKVVNDSG1RZnZpYUthb3Z3QUhrSEVpM1FkRTF1am1sV2xKa3d0U1YzMnVWWmpZVUQ1NktqcUE?oc=5",
+      "representative_headline": "부산 BRT 노선에 자율주행버스 달린다…3일 밤 시험 운행"
+    },
+    "2025-11-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mSXI5SW9SMFFXalc4N2owUTZ0WWR3MU9mcjZfOGpJby1rVUdvVlZIX0dKZzRiREhsbWtGTFlibDU0TUNxTGVENTdBVExMenpEWnRzNGVORzhCd9IBVEFVX3lxTE9SM1FGMmpGUEJEOG9BakwwN0lHSEpjWXo0VWxHTFNoQXNSYm1BY3FBLVBQaEdQN09kU3RQalQyNUZ0aXQ1anNQa1c2X284TTRTV0ktdw?oc=5",
+      "representative_headline": "나스닥에서 90% 급등…'제2의 테슬라' 되나 [조아라의 차이나스톡]"
+    },
+    "2025-11-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tSHNsMzFSbkxCNzRqODRhM1o2Y3pwbklzSUxFWm9iVTBuLTRKNmhxRGJpbUF6M0M1QTVCaGxDOGh2ZUhoSXFkQlh2cjByWUZORWhHR2NwbGJSb1BJaW5lVVEzNFNFTmpHOVJiV0tHcUVhaVE?oc=5",
+      "representative_headline": "[모빌리티핫이슈] 현대차-엔비디아 맞손 왜?…웨이모 vs 바이두 자율주행 정면승부"
+    },
+    "2025-11-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.aitimes.kr/news/articleView.html?idxno=37089",
+      "representative_headline": "마스오토, 182억 규모 정부 대형트럭 자율주행 AI 프로젝트 수주…E2E AI로 물류 혁신"
+    },
+    "2025-11-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EaHppNlN1allDWWZoY1Y5V3V6ejV6anBQWExRd0MwSWNSSGVpVXRGZFlVY3pWazl4RzBNbTVwd1VCVWN4dE5YYjhPOXMzMHNheFR0SjdMWlE3dHc2a1NJNjdZTWF4aXJlZGfSAW5BVV95cUxONlc1NnVsZWxmTTZyUzl6Q1h4VUFZSUx3M3NDaEJhSjcyYVRSbGpOd0JzVnB2bFRyME01UFRoZTUwU2pnNWloVjZCMUx5YXkwZnY4QUVtS3JPNFZ6VGdveDFtdnQxRWdBQ2pJTlV4UQ?oc=5",
+      "representative_headline": "[김범준의 모던보이] 한국형 자율주행, '로보셔틀' 승산 있나"
+    },
+    "2025-11-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EUWZ2M3pMYWs5cmptVXVhSnc1VGM0Y2QtM2x6WGVTUnBPRWJQbkpDMU5VMGVZYnRJS2dGZHo3TUx2NENyWm9iQ1QxMW1Xak4xY0lsMFVhSlFOWl9pcGlZQV9PSExTOGxPeVHSAW9BVV95cUxOSXVnN0h6TWVUN3V6TTNqLU1CYndkVFJFQWZPNWJGMkpvcndJMktPUG5aamVmMlFqenkzekhxNFpPWFNzQi05SXNtYzd0MXhXOEFhV1JVRnFNblFYMEU4WFhQTHhMc2NicFdNSWZBNDg?oc=5",
+      "representative_headline": "국내 첫 무인 자율주행차 달린다…\"상용화 박차, 美·中 공세 막아낼 것\""
+    },
+    "2025-11-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzc2FjMXJLbXEyaWpZb1E4QkgxWUdheGh1NVo3MWIycmlHMGhIdkUxakpSQXBVcnBqQVVaejgxRkRXaHVLY1BJT1dja1pnWGEzbkZ5LUFJWmxzVzNBREdGVEI4UGtzSVhn0gFsQVVfeXFMTzdMUWhtNFpoWVpELWJkaG5mdlJiX3pNNmI2MTQ1bl9FTTFLUXpsU2syTVdLTDRRaHNvMDZ5aTlkMDQ3NHljNDZoN2tIS2N2d0l2R3lFTlpid05OenZNckQxVkZrTXJrUE5fbHhJ?oc=5",
+      "representative_headline": "[한국의 자율주행] 웨이모 ‘아이오닉5’ 시범주행, 현대차 기술력 높일까"
+    },
+    "2025-11-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hankyung.com/article/202511130846P",
+      "representative_headline": "포니링크, 자율주행 전문 자회사 퓨처링크 설립 공식화… 차두원 박사 대표이사 선임"
+    },
+    "2025-11-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.joongangenews.com/news/articleView.html?idxno=465512",
+      "representative_headline": "[현장] 카카오모빌리티·SWM 자율주행 DRT 타보니...승차감·편의성 ‘기대 이상’"
+    },
+    "2025-11-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2WXR0NGl0eFVvQWdXeS1iU0Q2eDJjYU8yQVYwbjl5MVYzbjN0NC15QWhuSkQ0OU1XQk4xT1luTnFnX19NOWVMcXdXekNoY2c?oc=5",
+      "representative_headline": "[인터뷰] 김기혁 SWM 대표 “로보택시 세계 3위는? 韓 경쟁력 충분”"
+    },
+    "2025-11-17": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWVXIxenVrODhMMFRvWGp4RG5pT01EMEo1RWs3cnFfcUpmSk4yeHVHOXRSZ19nNFNJdzRLYWI2TEQ3ZjdJclh0bUd1eGVJSUE?oc=5",
+      "representative_headline": "SWM \"韓, 로보택시 세계 3위 경쟁력 충분\""
+    },
+    "2025-11-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNckQ0YlBONC12UkNGRmQybU9sTmcxRE9ORXZsWDVnS1BKYWd6QUo1ejBMMVI0Z19jdHllU19vekpsWVNhUW16cG8tS0FMaHZDUGNUVzZycUx1bTFVcTlmdm41c3JjZkJXVDUwYUhyaFhOS2dndEZWN1ZuZV9UR1RNS0pLQQ?oc=5",
+      "representative_headline": "美서 달리는 한국 무인 트럭, 2년내 우리 고속道도 달린다"
+    },
+    "2025-11-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OYWxRcDNGUHBEZVdaYUNHaThkV1ZMbGgzZ1NQNmI2ZlZNM25leEptZVBRb1NXemJWSUlqeHhzTXJhR2NteVpPREdLT3h3UQ?oc=5",
+      "representative_headline": "웨이모, 로보택시 美 '5→10개' 도시로…현대차 수혜 전망"
+    },
+    "2025-11-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hellot.net/news/article.html?no=107374",
+      "representative_headline": "포니링크, 자회사 퓨처링크에 217억 투자…국내 자율주행 택시 상용화 본격 추진"
+    },
+    "2025-11-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUDJTZHVmSGlUcERsQkVtbjI4aU02enpRQmRGU2hPN2t3VFY3LWg1MW1yMnBuNjJYcklwVE50RDVRWXRjM3hTcHh2OWdPdlNhQm9EcE1vNk9QZURZZDVac0pEczFzR0oydTRVdzZwT3JGa2hobUR2MGFUWl9zdHI0cFhwRQ?oc=5",
+      "representative_headline": "아마존 죽스의 자율 주행 무인 로보 택시"
+    },
+    "2025-11-23": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CemJ2TjUxUG44Mm5OLVNTQ0xmQXNLN1Q2LWdmOU1VVXY0RVlBRzNlMW5wUnh0bHRLN1JiZGI2TnptT2tteWt6bjdGaHlHX2hURnU4aEZUYkdDb3RMdHlrd3dB?oc=5",
+      "representative_headline": "캘리포니아주, 웨이모 자율주행 허가지역 대폭 확대"
+    },
+    "2025-11-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82TmE2RmoyX0RpS1RMd2tjRzRTYXhOZmNCcWVSR1hScVJIRk5SUFJnemZVeHhlVHRUTUxLa2cxV3pFQTN0Rm9zV1h6RjJiS1k?oc=5",
+      "representative_headline": "설마 했는데 진짜…\"테슬라 크게 제쳤다\" 손익분기점 넘은 로보택시 업체"
+    },
+    "2025-11-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.aitimes.kr/news/articleView.html?idxno=37382",
+      "representative_headline": "라이드플럭스, ‘레벨4 자율주행 카셰어링’ 상용화 첫 발 뗀다...내년부터 실증 및 일반 시민 대상 서비스 운영"
+    },
+    "2025-11-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZFJ1NjZmYXBib29jTXdWS3NpdEk4U1ZucVBHUWtVdlpnMm1yWFZzbkhLWGZzbUhjdHdzVU1SM1ZEV0Z5SFIycGEzcXh2U2V4bWFvRGZwMW1zS3U1ZFZzaGJ4OHlBWl8ybXJoTzJDeTlfQW52RUs5M0ZZVWdXWHRod3gxUDNMR183YjF2YjdscjZyU05veXZILVROYk9ST2Faa3o0am1ZcHh5QThjakZ1MjdlVC1qSXFFQW12cWdnSmh4a1pIOW9lZzRjVHJoUmE4aUJXV0U3WDJwcEJJaDBhM3NSd2RrWF81ZF8wS2p3VTVsV1ZTTzRGSV9YalFOd0tNT2VNVjZ4S2VfWEpaSDlKM1VFcnc1dG92UkNxdVc4WDhYZk1MYnBCeGk3QTd1UQ?oc=5",
+      "representative_headline": "정부, 2027년 완전자율주행 상용화 추진... 레벨4 '선허용·후관리' 전환"
+    },
+    "2025-11-27": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/4UsyGtwawZ",
+      "representative_headline": "중국과 미국은 \"절대 따라잡을 수 없다며\" 한국 자율 주행 망친다는 이 '규제'"
+    },
+    "2025-11-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mS3VUbzdlOWdsMmdxbzM3WENzb2xsR01pS2FFbEUyRFMyakU1T09NMVY1R04wVk5HdFJFcGd3UzNSNEVIZmZHWGZMQ0Rlc1NpbnIzWHFsQjBITklFR1F1WmRjQUUweXYxbGhZ?oc=5",
+      "representative_headline": "교통안전공단, 홈페이지 통해 '자율주행자동차 사고통계' 공개"
+    },
+    "2025-11-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83TlZIWTRQb1lwQnpURlBxejZqeU5NNF94VWJhVDRiR0pQTzhNM1RKaGhQVUpjMTZNNkFtZGk0X0tscUt0WS1ZYkNMMXkzZlpKQzNBcG9R?oc=5",
+      "representative_headline": "3년 새 자율주행차 사고 5.7배 급증? 속사정은 달랐다"
+    },
+    "2025-11-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwNllIMG5FQnNuNnZIMkdlWTF3a3ZFYllLTWROcExsMXNidk83Zm03WWNRRHVETnlNbEhEYTZpVFB1c1JDMEE?oc=5",
+      "representative_headline": "[정책뽀개기]자율주행차 현주소…2년뒤 상용화 목표, 사고시 책임 논란도"
+    },
+    "2025-12-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CcXRDZjltclFiRFV1NE45SDRlM2x5dWdIbm5CcjE0Ykt3V0VYRjVLUGZGdG00NXMzY2NYc014T0Y5Zm9McUUxWm55LUJyNVZWejRPWWdnbjFVcmM0eENJMGFoeE9UNjBkWE1YaXdkNXJhN0E?oc=5",
+      "representative_headline": "테슬라 로보택시 진정한 '무인 자율주행' 되나, 보조 운전자 연내 철수 가능성"
+    },
+    "2025-12-02": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GcjlzXzZnRVFPUllHQjZXc1MwZHU5UUNTNmtwVkRpYnh1VmVCRmY5TUVwMTJFLTZMNXUybk83RXd5WFRNWWNiOEhlaUdTdzUwYWNuS1czMXRyM3lKcnhRZEVwODBPcWdyNTlNUUJEMEM1Mmc?oc=5",
+      "representative_headline": "복잡한 시내도로 무인택시 질주…트럭공장 도장라인 로봇이 접수"
+    },
+    "2025-12-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LZXlsZXNreHR6aWtyUDBLNXFQb2UtRlhGcGoxWHFaR1p6SDBUdV93cHJ6R2hmMTFOa1d4QTUtYTBBR1lhQk9DaUMySGZZV3ZsaDJSTmJMNjBhbGZ0UE9NOXBQTDNab1p2?oc=5",
+      "representative_headline": "안양시, 자율주행 시범운행지구 'A등급'...기초지자체 중 유일"
+    },
+    "2025-12-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQmVTYjVNVkJMR05oTnFaSFJaejk2UUwycl80Z0JWVjBIU1hKRmhoN244N3NnWWR4bi01WW5aY2xqUjA0My01VHdWdjlZbnFYSlZBN1JqOVJFa3ZablM4ZU5Xa0hiTFk1ZmVUczlxOGVFQ3M?oc=5",
+      "representative_headline": "우버와 AV라이드 자율주행 무인택시 미국 댈러스로 확장, 현대차 전기차 아이오닉5 기반"
+    },
+    "2025-12-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.smedaily.co.kr/news/articleView.html?idxno=345930",
+      "representative_headline": "현대자동차그룹 자율주행 개발 제동…모셔널과 엔비디아로 방향정립?"
+    },
+    "2025-12-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/20251207155545751",
+      "representative_headline": "정의선 이어 장재훈도 언급…현대차 자율주행 중심축 ‘모셔널’로"
+    },
+    "2025-12-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.straightnews.co.kr/news/articleView.html?idxno=288680",
+      "representative_headline": "현대차 자율주행 어디로…'모셔널'이 답?"
+    },
+    "2025-12-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "http://www.seoulwire.com/news/articleView.html?idxno=684820",
+      "representative_headline": "테슬라, FSD 이어 로보택시 출격 준비… 현대차 '발등에 불'"
+    },
+    "2025-12-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://imnews.imbc.com/replay/2025/nwdesk/article/6784022_36799.html",
+      "representative_headline": "테슬라 자율주행 이미 달리는데‥현대차 이제야 영상 공개"
+    },
+    "2025-12-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2bjRkZ1d0bUhVOE9VeHVtSWl4OFRzdVZGNEJoUGR3QmY3blNDUU12SXJFdkhBUE5SWjBzVzBEMnQxVW5PMG52UnlCdDlxOGRwYzNjbjJR?oc=5",
+      "representative_headline": "[단독] 현대차 로보택시, 내년 美 달린다"
+    },
+    "2025-12-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5adWdvQnlfSjlvOGtwenozTXpfWVY5SElDX3BWUzY0ZjVJdEE2QlI5ak16YlBSY3JNUEtpQXRWODVhVmtIaTlUcmhmS0t6dHIwcFVBY1ByLXJ0OE5VUGtGVDRxV1VkYks2bTFNUQ?oc=5",
+      "representative_headline": "양주시, 자율주행자동차 시범운행지구 신규 지정.. 경기 동북부 미래 모빌리티 거점 도약 기대"
+    },
+    "2025-12-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxeE9FVnlNakVWZGl1RW84V0FpYXFBNGpYQnU0VEZuM1lPcnlVYnd3c0lRLUtmZkdDa3RTOWJXbjZpcFdiSE1pMmRMa0RBb0Z0MU5LaEw1ZmJsM2VKRzFfbElDQzZBM0Jmb25IbA?oc=5",
+      "representative_headline": "아마존의 로보택시, 이제 진짜 게임이 시작된다[테크트렌드]"
+    },
+    "2025-12-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBWkpQLTJzdTdRMG1DUlRGZ1Y1RWJ2N3pISGlUVjdLS0p3ZFBjTV90R3d4SzVQUzVzMXlsU3ljeExseUM1Qkh0ZXBQcnR6MWFo?oc=5",
+      "representative_headline": "양주시, 자율주행자동차 시범운행지구 신규 지정"
+    },
+    "2025-12-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.khan.co.kr/article/202512152126035",
+      "representative_headline": "‘자율주행’ 진도 못 빼는 현대차, 조직·전략 싹 바꾼다"
+    },
+    "2025-12-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.4th.kr/news/articleView.html?idxno=2102996",
+      "representative_headline": "[4th Infra] \"자율주행 택시 도입 시간 문제…규제 풀되 보상없이 안 된다\""
+    },
+    "2025-12-17": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtWWtyUmYzazJsREo5ZGQySUVHdXZWS1d2U0VFWlF4MjFQYllvYWE0bzN6RVBSbHI1OWszM2NHdlhiZjhrejNGNTBOTV9wZmQ5T3ZuUWFzVGVQNC1XcVRXTUpkaUY3WWFRTWlPTFZobUN1b2c?oc=5",
+      "representative_headline": "테슬라 로보택시 '무인 자율주행' 구현에도 전망 불안, 골드만삭스 \"수익성 개선 한계\""
+    },
+    "2025-12-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tLVIyNDZPRTczNjdLNkd4d3RvUXc2U0tWU0VoblotWU1OUVFteFZVcHNtMUlIREpWV3J4RjVyX0c5UFQ0OGtPRk9NcXNmczBPa1drOEJGVU5zcDjSAWBBVV95cUxQcmxJbUxRcldVd0tPWmdFWm9VaC1WbTVfcmNlZjZpaEdEc3lIdVE3UWNheFZaSjQ2bGl3MTNTMklxdVExYkk0am03X0lVUmptTXhGVEVoQ001bWR3a01ZaTI?oc=5",
+      "representative_headline": "울산서 자율주행 버스 시범 운행…내년 상반기 유료 전환"
+    },
+    "2025-12-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00d2s5RTBXN0M2dFJHb0ozNHNiZUl5Vmd5MzBvaC0xMXJSRHp0N1oyVHBEOF90eGJseklCeGZOVE9RSHFXYnNlLVVlQ1hac1ZqQ1lfeFJkaHFKS1kzS3U1ZldCMV9ZWDExYmdXbg?oc=5",
+      "representative_headline": "2년 후 '완전자율주행차 상용화'하는데...'사고시 책임주체·보험 적용' 등 법·제도는 공백"
+    },
+    "2025-12-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jdWl4LWY1OTQ1Y1AzcHVhRDdzQ21Oc0Y1ZllqRC05Ni1JdWFRLUllVFI1U051NzBFMGllMjZaZFMxbzRIV1YxcVdCRjJoVXM?oc=5",
+      "representative_headline": "‘무인 주행’까지 다가선 테슬라…현대차 자율주행은 ‘시계 제로’"
+    },
+    "2025-12-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pVHhFbTY4bUhJeGdvOGhYWkNENlVCNlJEcXYzVDFBOVFhTDRGNDRrX2dYUGRYZW5FVGwxTTdaM2VmZG1RbWtwbXJpUGozWHZFbU05VGlNVWw4bzdPcnRMVXpvaUFZZm_SAWdBVV95cUxOOGI4X0tKWGdCcXpsZDdTWmxTa0ZNdXF2d3UzSUJyV3FfMFZtVTFQNjBqXzhRQnBkLWJuLVduUmVnVWthb3BrTWp3Smd4SDliMjI2UDdNQWoxb09CMG8tZmo0dlU5dHFR?oc=5",
+      "representative_headline": "[엠빅뉴스] 샌프란시스코 정전으로 멈춰 선 웨이모... 그런데, 테슬라는 달랐다?!"
+    },
+    "2025-12-23": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/20251223080238954",
+      "representative_headline": "포니AI 자율주행 기반 '퓨처링크', 강남서 누적 4만㎞ 무사고 주행"
+    },
+    "2025-12-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RZkdtTDdfT0U0clJjSnFsb0prTzVBUmRjQ1djZFRDU3lIUURWVmEzOVIzZGNlTG1EcXBaR1ZoWEswWE5Xb0RxN09DZEp4S0E?oc=5",
+      "representative_headline": "정전에 자율주행택시 ‘멈춤’…테슬라는 어떻게 달렸나? [잇슈 머니]"
+    },
+    "2025-12-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNF9yQ1FnZ0tRdV94TUdmOVY2M2VvRVM1ZF9IUlRJMjdySkQzRzFfc256Y0c3cnF6cC1QM1R2dGRDVXgxcUxFY2NHU0NrTEViN0NsaGQ1Nko0QdIBVEFVX3lxTFBoYUVwSVpMZTV0TjVLVEE1UTNoWkpOUHBUR0FHOUtDaDNOSTVBS2dwTzZKSGtnMzdSNVNvMjNNOVVzRGhaSVRnYlRTemwxUkRhSE9sMw?oc=5",
+      "representative_headline": "美 정전에 멈춰섰던 로보택시…웨이모 \"신호등 인식 오류 아냐\""
+    },
+    "2025-12-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "http://www.newsworker.co.kr/news/articleView.html?idxno=408375",
+      "representative_headline": "현대오토에버, 쏘카 출신 류석문 대표 선임…車 SW 허브에 모빌리티 개발자 투입한 속내는"
+    },
+    "2025-12-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=614547",
+      "representative_headline": "[2025결산⑥/모빌리티] 플랫폼 3사 'AI·데이터' 집중...실전 개선 탄력"
+    },
+    "2025-12-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlN1dSWTVUaWtRM0xqUTZYYVJCQVhDakwxcmE0Qnhlekk5MWZORmQ2Zm44NmJHTzZ1N2xmanhKLUFpbDYyQ0dGRm1WM01xdWVpdmZiX3pQNi1kY2dYX0hfTjYwX3dJekZ3Sk1r?oc=5",
+      "representative_headline": "라이드플럭스, 육상운송 '무인 자율주행'에 가속도 붙일까"
+    },
+    "2025-12-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.joongang.co.kr/article/25394141",
+      "representative_headline": "[단독] 이재웅, 6년 만의 쏘카 복귀…'자율주행 골든타임' 잡는다"
+    },
+    "2025-12-31": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/XccSGanQvL?f=p",
+      "representative_headline": "[단독] 이재웅, 6년 만의 쏘카 복귀…'자율주행 골든타임' 잡는다"
+    },
+    "2026-01-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRXRLeGZxSks5Vm1oQ2swTGJ6bjRPT01ZaDlmcTh5NzhkUWpfMl9UeHR0RHloeFI0Q3cwcFdtbTBYUXdnc1I1bnNMTjJSbUc3aFZSRno5dFFTRGJ6MkZpNW9pam1CeVZfaVJRaC1uelZwUmlIUkUzNw?oc=5",
+      "representative_headline": "현대차 기다리다 목 빠질 판… 中, 자율주행 ‘이것’ 먼저 해냈다"
+    },
+    "2026-01-02": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Da09QLXhPSGotd0VPZXBxbXN6Y29IaWJteFJNeWdwRFFKcGVMMllFSExJTVgxbTNtVmJDM2NfUEF3RFFtc2VOdUJpSUZaTHk0aTlpLUpkNHFxSWhmYnRqZlo3bHFhYUhQN1HSAW9BVV95cUxQZWpCLWNPckt1ZTFwUUJ6eVBOS04zMXBaN2EtN2hmamo1ekFpUk9ycGJRR2FQamxVV0YxdHRzajRaWjVPcGFKNERFMF9kLW43YlRZLXRzNlFaUW9KRTM3VWE2NVVzd0VmaDFFQVNrZnc?oc=5",
+      "representative_headline": "한국서 '자율주행 로보택시' 달린다…모빌리티 3사 상용화 맞손 - 머니투데이"
+    },
+    "2026-01-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1WkptZGFRbTN0cFlQd2NTY1FNeUItV3JOSGMySmFhcmJsdmh5dHBsaE9KNUxHblQzZHhsV01rQldzRWNkb20zQWdFbzh0OVhPOGpYSG42UzVod2RmV3hycDRUR3Y?oc=5",
+      "representative_headline": "“구글 Waymo, 테슬라 주행기록 못 따라가”"
+    },
+    "2026-01-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hellot.net/news/article.html?no=108720",
+      "representative_headline": "라이드플럭스, 투자 한파 속 프리 IPO 흥행 '주목'"
+    },
+    "2026-01-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/20260105210301809",
+      "representative_headline": "집안싸움 벌이다 테슬라에 허 찔려…현대차 ‘자율주행 로드맵’ 이상 없나요"
+    },
+    "2026-01-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1NnRONzVaZWZYcGEwN2NYWm00UW1XdVVGNnQyZmNwOHcwNlQ1SThEYlRxamxKMzJTUC1tTmlKRERtMkVKX3oyVTBmb1dBQQ?oc=5",
+      "representative_headline": "휴맥스모빌리티, 퓨처링크·코나투스와 자율주행 로보택시 상용화 '맞손'"
+    },
+    "2026-01-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTnJGQ2lKTV9lLVBzeHpXbVdUbmJOTkVaYzA4TmxmUUFUUUJGNEN6ZGhXRnU0UjJVeEd6WU8tc2ZSMUpQNnl1ZXZtaC1kREIwMllQMXRzb3hTQzhJb2JFSm1tbGVNY0hRdTF2cVc0R2pycU1mVFN4bHZHYnlnVXpNU0Z30gGWAUFVX3lxTE9xOGlfZEVyaDRMdFprX3ViWEQ0MXEtQ1ZWQ1hnaHo3N0xLNVoyT3RybXo1a1pXWks2N29kUTRNVGhwMk4zM1ZuTGVYLTNlajN6RTJyZ1ZsalBoa0xSUDFNMFpHZ0w1S2xqN3dSVkxxeF9QNlpqLUl3SGhuc09IMU9HTHVSYjdINmd0emVyZEo0M1dVd0NlZw?oc=5",
+      "representative_headline": "엔비디아·우버도 참전… 정전·폭우에 멈춰서도 로보택시 시장 올해 ‘변곡점’"
+    },
+    "2026-01-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wd3VnQVpOMlBSQk5udnpSeVdKckJlNmVVTktfUUx1cnd5RkNRUHV4WXZlZl9VUGFMVXFLb0RMaGI0YTdfdkZNX0FXQkh2UXc?oc=5",
+      "representative_headline": "[CES 2026]SWM, 레노버·엔비디아와 맞손…\"2027년 로보택시 상용화\""
+    },
+    "2026-01-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GU0RLbWZILXc2dnVwand2WHp6ZEVwWFltU2xjb1FxbmhaTkZpQzh4YTVQbW9yT29CREM3MjZqQ2ZEUWVwRlZqQjZ5M2R0U0Z1OU1CaFJSclZhUkRtZVppT0JraDlXOHM?oc=5",
+      "representative_headline": "SWM, 레노버·엔비디아와 손잡고 내년 Lv4 로보택시 상용화 추진"
+    },
+    "2026-01-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPcWxsV3BZdUhzT2FCdFVZeTYxTzkxeDIxVk9rcGFxOVlDNDNCYVluUmtoVHFNWlFINmEwVkJMb0tCZ0RTWEQ0S296b1oybnNPNWF4RnZlZWRWVXRKUG9oNjZfaVBpSGxIWDZXcQ?oc=5",
+      "representative_headline": "모셔널 자율주행 아이오닉 5 로보택시, 라스베이거스를 달리다 | 현대자동차그룹"
+    },
+    "2026-01-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KNFBYNjNDRmV3MmkyX2NRQkpfemlxQWVUdFlnMXp5NWV4Vnh3Y2xodUxRR2JhRUJnRWR1Sk5vd0EyTk1ieWhPaWxDOEphUkhBcUZZakl2WkhnaFJIRWpPR2FpbGZOTU9pN1ZZbW5FWnhGUVU?oc=5",
+      "representative_headline": "현대차그룹 '무인 로보택시' 올해 말 미국서 상용화, 모셔널과 포티투닷 기술 협력 강화"
+    },
+    "2026-01-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jSmhTdzN4RDloOFUxbTBzZXdERGE4R2JLbmNUd1RDbW5ZNGk5VGkwanVmcmlJcGtLWDdBTzh3UWU4SloxUnZaeUE3Tl85R1NobGdKajJrekFxcU1jRzBJeEo2Zkg2SkxXT25z?oc=5",
+      "representative_headline": "“복잡한 도시에서 승부수”...현대차 모셔널, 무인 자율주행 택시 시대 연다"
+    },
+    "2026-01-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.investchosun.com/site/data/html_dir/2026/01/14/2026011480127.html",
+      "representative_headline": "엔비디아와 가까워진 현대차…자율주행 연합? 내재화? 정의선 결단만 남아"
+    },
+    "2026-01-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04cVlhTXNfZGhLZmdZQlUtb2J4MEtLOEhoTlNJWkliQkQ1UXJ4YXFCTjNpeXQ3VGk2cjVmcEhnLWZzbDUwSlFnZ3JnN2MwQVpENEtCNEFlaWJjZ1Z1SEVWTkVseEFITUlncDliTQ?oc=5",
+      "representative_headline": "현대자동차그룹 모셔널, 26년 말 라스베이거스에서 무인 로보택시 상용화"
+    },
+    "2026-01-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95MkhMNWdqc0ZSdl9tYi1VVmRjeUhwLXhISGZGS0dwUVNZblQtZnNYcVpTTVJVU1A1TlNYQ0VoZG14Q3NZWUg2WEpXYktXX2R4dTVPQnI4Qzk0SkRiazhneXRtdE9nNUJUSUHSAWZBVV95cUxPSDJYZWdNX0VOVzMyblVfMVpGZVBsV28ybS1XeThhSXRkWHRpdUtvVXA5bkhxdG5TTVVDOVFvOTUtRHJOMzlxZzVOYlBSS1VBYkMyS3dLRmhJZTZhYUxHZEtEWUkyaUE?oc=5",
+      "representative_headline": "한국엔 대체 언제?? 현대 모셔널 vs 아마존 zoox 로보택시 비교 체험기"
+    },
+    "2026-01-17": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/20260117080153962?f=m",
+      "representative_headline": "현대차 모셔널 vs. 아마존 죽스, 무인 로보택시 누가 낫나 [FN모빌리티]"
+    },
+    "2026-01-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.joongang.co.kr/article/25398512",
+      "representative_headline": "[단독] “샤오펑 자율주행 갖다 쓰시죠” 정의선, 송창현 이 말에 격노했다"
+    },
+    "2026-01-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.joongang.co.kr/article/25398409",
+      "representative_headline": "“샤오펑 자율주행 씁시다” 충격…‘기술내재화’ 현대차에서 왜?"
+    },
+    "2026-01-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yTWFOdXJWWHpTQTNFQVRjalIzWWttbk5nanB2YkxWV2RHUjVIbktZNEJzMjE2QThBUjVhcWs4THpXbTNiOTFjWnF0UV81WklSZDc1NHVuSVVYWHViWXRoTUVpcFAteGttOGc?oc=5",
+      "representative_headline": "[영상] “조금 늦더라도 안전하게”…현대차 ‘모셔널’ 로보택시 타보니"
+    },
+    "2026-01-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NVXhNNWdiMWNUTHg2ZWNMNEZueFhqLW1zT0V2R2xDNmxPRVBJSm81TE9EUzY4bzJ0TlY3Mmo3eS05Rlg4dVRrcFpBam1EekJfMjYyZGJR?oc=5",
+      "representative_headline": "SWM-서울택시조합, 로보택시·미래모빌리티 상생모델 구축 MOU"
+    },
+    "2026-01-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/20260122153142368",
+      "representative_headline": "SWM-서울택시조합, 로보택시·미래모빌리티 상생모델 구축 MOU"
+    },
+    "2026-01-23": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDRXc5Tmw1VFJHdjYyblhXUEloV1B0bmZjcE13NXhYeF9NazFYam5EelhfNy02ekM4dDV1UDAzTUJVbUtET3c?oc=5",
+      "representative_headline": "안산시, 국토부 자율주행자동차 시범운행지구 운영 준비에 속도"
+    },
+    "2026-01-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.greened.kr/news/articleView.html?idxno=336073",
+      "representative_headline": "테슬라, ‘완전 무인’ 로보택시 운행 시작…안전성 우려는 여전"
+    },
+    "2026-01-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hcTU5Wk5wc2tfSFFzM2VxOVZTZ0xFWHVVQTdQQ0Q2aE0zNjVPTUpCaF9aSEliT3NsM3dJOTZjemRLaVhFRjhCUml1WGd3NlprazQya1lSX3Q1U1dRQkxZWTk2RTVYS29DTFU4TURR0gFyQVVfeXFMTTlwTGRlWlplN3FYcHViSV9EUHFqelRuU1Ewb1BQaEQ0OE5sQWZRT3c4bnNTNGVvRi1MdVFibkJ1NWVhTmxiM0F3Y1cwOG43cWJxMmlkdzVPSklMVDdYZGNXQXNpNDU5QkNqSHZrazdrM193?oc=5",
+      "representative_headline": "현대차그룹, 로보택시로 레벨 4 자율주행 현실화 가속"
+    },
+    "2026-01-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFRk4tdHVjNHVRVUxYRmJMSzE5Yl9GRm5ReFBDNnhDNjVHSzFCVHRMQWR4Yy1xYUtNemVwWEZkakJZWXY1ZU5xSW9nX2ZjNnR0b1hzZ2F3?oc=5",
+      "representative_headline": "라이드플럭스, 부산서 ‘심야 자율주행 BRT’ 운행 개시"
+    },
+    "2026-01-27": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.aitimes.kr/news/articleView.html?idxno=38322",
+      "representative_headline": "대동, 무인 자율작업 서비스 기술 고도화... 출시 앞둔 'AI 트랙터·드론' 집중 교육 실시"
+    },
+    "2026-01-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.techm.kr/news/articleView.html?idxno=148877",
+      "representative_headline": "현장으로 돌아온 이재웅의 쏘카...카셰어링 확대·자율주행 '투트랙'"
+    },
+    "2026-01-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FVS1tZ0pTTi0yZHNaby1fZ3BjSEVqeXFCVkpJc0lDSUJiQnNfd0NqcVpndWI1WEhfVnpzSWNsRkVyN1BycmxLZTZYc05rNG43YkRxWm1KUTdXYmJ0OUtZb3JJSVlQQQ?oc=5",
+      "representative_headline": "오토노머스에이투지, 매출 50% 급증… 글로벌 7위 자율주행 기술 견고"
+    },
+    "2026-01-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Pby15Njgyd3J6V3F1MlZNU0pSMlBxeEdoMjFuU2lHWmZ6QXlZNFZ6ZmJQU1NFVnJQOGxFUnc0ZlV3Q3FCQk1fUzRKX0RNUQ?oc=5",
+      "representative_headline": "SWM, 국내 최초 엔비디아 'Thor' 탑재 로보택시 선보인다"
+    },
+    "2026-02-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.sedaily.com/article/20003343",
+      "representative_headline": "영상무인트럭의 습격…2억 명 핸들 놓나"
+    },
+    "2026-02-02": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/20260203110015910",
+      "representative_headline": "현대차, 자율주행 3~4년 늦긴 했지만…"
+    },
+    "2026-02-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHY2TjNtSjRSYnZjMEtrZFNFNWd3YTI3T2VsSVQ3QUJSbk1oVkxBSGhwYXh1MFZjSWJzZXVCZ1hDM1lmVHNyTDJrMnd2QXdmTmZNQXlyN05PN19jbVpoZlhncEtGZERWUzV5d2MwbEV4Q3NLMTRXUWlxQm1HR1dGVXVmQmNIcGPSAZsBQVVfeXFMUE43Y1cyU0ptQnBXdnR6c3pRNHJqM2lvSk1hT0JtMldOY1FQOFFrQV9qR3JoSmRzQnhBbDhmRVlzRC1EQmpHdHRLS1JYYVJsYzBiSXpiTjBtd3hzUmhWTVZidHBTMEFmZVhiR2taSExiRGhXVnhkbTZRN2R0aEVXeGxpUlV5ZWsxVkxUbmdxOFBsc3RsRDdaRV9RQU0?oc=5",
+      "representative_headline": "‘자율주행’ 라이드플럭스, 330억원 프리IPO 투자유치… 연내 상장 추진"
+    },
+    "2026-02-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWcHl4NnV6LXlFZjRRZERXN3VKakhkNnpINTNBTWVEM0pYRHZIRlRoN1AwOGdKM3IyWXlDcVp2RlJfeUFxSldydHRsc19KQW5ydWZKQS0yNkZyZm5KUXBhcUpjejJubE5OcFE?oc=5",
+      "representative_headline": "자율주행차 200대 광주 도심 달린다…사고나면 누구 책임?"
+    },
+    "2026-02-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9abmZIemNwUWt5M3dNSmNmTG1SdndITkhSdktJeGMyWG9TNm1UcndWV0Q2bzBmWGdjMmgxV3A0bGt2azd6ZUFURl9XU3l4UmY2WXRhQkd1dWgxemPSAWBBVV95cUxONTBicWxtalpYeWtod3VwTFZQdlVPd1F0WkZERzhVOUZNRUJfVXlaQk9XcDJpRDdDcGVhRmxPV0Y2dnJhUTcxMmlIbXBaNWVpNTBlYXc0WUpaZmZONUdVY0g?oc=5",
+      "representative_headline": "강릉시-현대자동차, 교통 소외지역 자율주행 DRT 실증 협약"
+    },
+    "2026-02-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.seoulfn.com/news/articleView.html?idxno=620622",
+      "representative_headline": "현대차, 엔비디아와 '자율주행' 판 바꾸나···독자 개발→동맹 전략으로 전환"
+    },
+    "2026-02-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84eW12aTFLRnlwSzA3WHZGalZtVjc2Vzl0RGNUR2d6bmVhcXBvcGJFZy1zbXFFdlYxLUlsWl9ONjljSlU2c2hKdXdLcFF6cWJx?oc=5",
+      "representative_headline": "韓 오토노머스에이투지, 일본서 자율주행 택시 실증 사업 시작"
+    },
+    "2026-02-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uVkpHNFB6QThNQkJCMGU5S21rVXhLckp3c2ZJUnpOYXVlbUhFVERfdkVrUTByWkw1eDdvNHFFbGVXYVlSMEtQeEVGd21qbWRjX1hkV3l5cDd3SzN2dEd6ZmFsYVhFZVZpaDV0LdIBckFVX3lxTFBONVJkQ29wT1lkUlQ4VVl3THdFZ1hvN3NVcXRvcG9nZVJUMHdnSkJhRzJLNi1jX29kWkVCQUhLWV9vUFVueGtTNG4xc1FtZzRSN3Z0aV9od1dXMzRfTTBielNqM29hQU9LdXpNSmFiaXBDQQ?oc=5",
+      "representative_headline": "\"현대차 자율주행차 3.6조 수익 전망\"…완성차 넘어 파운드리 '속도'"
+    },
+    "2026-02-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqdUJzRTR3UTVqTFQ0b1lFbVBpVm1PeDZnblQ0ZWZ2RDJsWXVPYzd3eXRscmx3TjdMMVZ1RVJXTi1XZXpsb1UzMnNOQ2ZBcTdhMVFBUFFiTzRJS1pNZU10bmlhUkxreWhiQjdN0gFvQVVfeXFMTy1iOFRkMVFYWWpENHZzb19zUTF6ZDRteC1ZLVh5TWw3cTdvZmh0d2RGa0xTcjlwSl9XajR2TlFoN1FuZ040dkxsVGlCQzBYaUdQZTRBNW1rWDdQaVFtQlgxS0NTMXJDRU1qOXJSb0h3?oc=5",
+      "representative_headline": "[도전기업 백서] 라이드플럭스, 한국형 자율주행으로 국경 넘는다(上)"
+    },
+    "2026-02-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FNFRPcDY0NmV6d1JXN1A2cE9pVXJ5VHFLbjRxclpuVUdiTy1URGdNLU5BcWNrM0UwdEhaQzM4dDRlTGFJYUNWT3FyZGJxZU5nQjhvMHY0ODJUdGpwVUVCWGxiTmJ5ejhsRmZPUWRhdU1UVDZnRVE?oc=5",
+      "representative_headline": "“로보택시 무한 경쟁 시대”..웨이모, 완전 무인 자율주행 상용화(?)"
+    },
+    "2026-02-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTUU2SXVKakZOQTZwM3Awa2JVN3JvZ1pnRDZkYzg4ekRDSUxaX0s5azNPNHQ3TTA3bUVLVTA2Y3A5U0lkOVN5NmpuNUE3NldfaW5RWVhhUHJBWTIzYWFycEtRQUZrcVI2X0l4Rm9mNTBQQl90bDhxbzlWTWR2RGNhYjRkdUdzZw?oc=5",
+      "representative_headline": "타다도 우버도 막혔던 한국, 로보택시는 언제쯤?"
+    },
+    "2026-02-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NMVJrU0dRVjJLUTRYQS1lYzEtaTdnQml1M0tBZUp3STFrUU1icjhqUUxUVXZ5OC14WmpzUEdQcEhLdGhMSk9qM2d1bUJJWWlrU2NjaEt3N1BIYjZBS3B1N1FQWTlxT3J0N0U1U1lNZHVRaXM?oc=5",
+      "representative_headline": "현대차 모셔널 라스베이거스에서 무인자율주행차 시험 운행, 보조 인력은 탑승"
+    },
+    "2026-02-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "http://www.civilreporter.co.kr/news/articleView.html?idxno=534352",
+      "representative_headline": "자율주행차법 개정안 국회 통과…시민사회 “민감정보 원본 활용 허용, 기본권 침해” 반발"
+    },
+    "2026-02-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56QnE4YTZzQzZMQnpxWWxfU2ZpNHVmU1FMMzM3Mi16RlFrY1RBQWZRVnJiSVI4c0p6ejZteloxLURBa0l5N2p6YjYySTRuWUwwaUczd2lqZjFCZlpRUlZVZmdjQ1U?oc=5",
+      "representative_headline": "[분석] 유럽발 ‘자율주행 레벨 4’ 규제 통과... 한국 자동차 산업 ‘표준 전쟁’ 서막"
+    },
+    "2026-02-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdTlnUzJmb2NxOEVCVXZZWHk3VElrZFkwVk9UVjFzZTZHeUhiWEVfUlM3Nkp2dmVJY2F6TUVmVF9TUXJvdERtVnBZS3kwSFRBT25BdUx3Q1pZS1dOWXlXWDNvMkZfblRHRUFjMUl4UnBtM1dQdGJZ0gF_QVVfeXFMTWVlLUNCMWhhNDFrbENDN1AwTXZiN1p0UGROR2k5cndmdlhaZlVkZm5QU1RwOEdyR0E0b1hzS2ZyNjk4RFdLcVBvQ1lib0ROb2Z5Nll5VnJwY2w0LXFmLXU0SmlMeWdQa1hkQy13V004RzhqbktiVldUdWdGZ3RZSQ?oc=5",
+      "representative_headline": "\"미국 구글이 결국 선택한 건 한국차\"… 전 세계가 놀란 현대차의 '이 기술'"
+    },
+    "2026-02-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50dkIyTHhicTFSdUJpaWRXbWNRQTB2LUpSLUZZVHFyeUJCQm1xX2MyOEhSNnYwXzJFS2hBZTV1dXNqZW1sUWFSeHFYQl9UMzFsdVN4ZTZSMURZU19VdWxoWXlpSHFuSklWWmNQdl9OQi1ERlBGdUE?oc=5",
+      "representative_headline": "현대차, 웨이모 6세대 자율주행 시스템 배치...로보택시 공급 가시화-한화"
+    },
+    "2026-02-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LaGFVdUV5aUNrSlBzMGR0dlhOdl92Q09INFlEbUcyQXFzRDF3ak9DYkpKMUQ1d0taWDBsMkVYcWdnWE9XeG9GNkxmbEtxYnRnWXfSAVNBVV95cUxQTGR6dDhTdkxvM2d4NzBTdXREd3RJTksxdDdCSUtMTmZpM19McmJEQUtrS1BCTU56TndzNlQzX2x3ZE4wOHFGTlozUzFHaV9fSU43TQ?oc=5",
+      "representative_headline": "[단독] 현대차·카카오모빌리티도 참전…판 커지는 광주 자율주행 실증도시"
+    },
+    "2026-02-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zenJndld2NF9TekFLQlpJWnpyS085ZGlacVdiRzRQYnJIVXNFa290STVoNUN3cF9aNmVHMk5GQ0RtMENwWXh2WW5Bc3RocjA?oc=5",
+      "representative_headline": "\"엔비디아의 유일한 선택지 될 수도\"…'고래싸움'에 노 젓는 한국車[주末머니]"
+    },
+    "2026-02-23": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IaWtaQU5LSXA4cXU1cXYzT2d1UTFxMlUwVlNFZTZaRHJFbDRQb2pseUdQSmU5RVFZY1FMMzNjRjlwODNKVG9aTVdaUmV6NTVUQ2I5NFVMQVgxYXlIZ2tVOExNVmF2MFls0gFuQVVfeXFMT1pDeUlMaU9saVZNZGVZRHZSaG1sLWF0M0ZjVERleEtJOXFZeEN3ZnhkSjF5bS10WnYzcDJieTRmbkVjbXg0MnBXWmRqY0NyUGwxNGN2R3NldUNRd1lZWEhsQmtka1JOdUJZSDVrdlE?oc=5",
+      "representative_headline": "삼정KPMG \"자율주행 상용화 속도…로보택시 시장 경쟁 본격화\""
+    },
+    "2026-02-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hyundaimotorgroup.com/ko/story/CONT0000000000203772",
+      "representative_headline": "왜 현대차그룹은 피지컬 AI에 강한가"
+    },
+    "2026-02-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://byline.network/2026/02/25_120874/",
+      "representative_headline": "‘쏘카 2.0’으로 흑자전환한 쏘카…”올해 카셰어링·자율주행 집중”"
+    },
+    "2026-02-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hani.co.kr/arti/economy/car/1246733.html",
+      "representative_headline": "오토노머스에이투지, 자율주행 첫 ‘국가핵심기술’ 수출 승인"
+    },
+    "2026-02-27": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlNmlpRnhIYml2a04yNV95TEdyOEtzakVkUVZYam1faEpVcGhzSmktN3ZpQ0xhLV9yRUhPNGpybmdla00xYmFaYThPdzJ3ZjVXOURnUEFXMlNSU2RvaDc5bXVac2Zva3hsNDJxdDVGYllGYlphTDJTWi1zYw?oc=5",
+      "representative_headline": "광주서 현대차 로보택시 길 열린다 … 자율주행 레벨4 상용화"
+    },
+    "2026-02-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.newsis.com/view/NISX20260227_0003529846",
+      "representative_headline": "빗장 풀린 고정밀 지도…구글 안경 쓰고 광화문 찾는 날 오나 [구글 韓 지도 반출①]"
+    },
+    "2026-03-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yanlVQklTVEl2ZTYzZU0wVEYwWU5CcUdwOXhkSG8xbDZMMDFqdkk3Qnhyb2JLQlRHNVZPTzVkR2FiMjZQRm1hSDEtdGhMaTJjSnU3NWUxNlB5WTRFdDhHZl9uQWstSHloTmZN0gFvQVVfeXFMTkNqaF9pVUpSSFZ5b1BKN2FUY015M0NxeEVuMHZkTHd5UkVkS2VCSVR4a2Y5b2RCN2ZObDFGZGsyOHRBdWxjMFNVcjl2Vzdfd2Nkb2xVbDVzUldWaGNvTTV2dXdiUXNZR1RnMkRpR3kw?oc=5",
+      "representative_headline": "현대차그룹, 자율주행 레벨4 상용 전략 가속"
+    },
+    "2026-03-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.khan.co.kr/article/202603031310001",
+      "representative_headline": "현대차그룹, 무인 소방로봇 기술 영상 공개…“알아서 불 끄는 완벽 자율주행 모빌리티 목표”"
+    },
+    "2026-03-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95M1FvTWhxUEl4TlBnWDZxUUU2OVpXcHVLMWdONlUzYWhiakM1dDF5NFJkQm1pb2NyaFQ2SWllMW52dWpiNXh3SHlYWVhNVFFORDh6bGNFMlAxSWZJN0xj?oc=5",
+      "representative_headline": "대구시, '자율주행 시범운행지구 지원사업' 선정…\"국·시비 12억 투입\""
+    },
+    "2026-03-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://biz.newdaily.co.kr/site/data/html/2026/03/05/2026030500253.html",
+      "representative_headline": "[단독] 현대차, 자율주행 플랫폼 재정비 … 센서에 엔비디아 아키텍처 적용"
+    },
+    "2026-03-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wZjRhNXlyVFBTUGhvMkNENUNnbnRsMi15ZEJyYkdrcGp4SHBZRlBtNHpUbjY4cWdVS0l3N2VBNC1jM1IybllJa3lUaXQ5ak0?oc=5",
+      "representative_headline": "\"미·중은 이미 무인택시\"…정부, K-로보택시 제도 정비 착수"
+    },
+    "2026-03-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/20260307082234624",
+      "representative_headline": "카카오T로 호출하는 서울 강남 '자율주행 택시' 4월부터 유료화"
+    },
+    "2026-03-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQnhnRkxJcV9vZkRibnQwa1FTXzl1cU5PZHhyX2VSd2VvSTVUaTh5S0VOd1J2TTVhU0d0ZnpJcWxkOF9YdGF2czJKTXZDTmx5dFlYTWdXRG5tLUVSR0tlb2U3Tjl0b0pfb3VKYQ?oc=5",
+      "representative_headline": "현대차 자율주행 합작사 모셔널 CEO “올해 말 무인 로보택시 상용화... 1% 예외 상황이 안전 자율주행 개발의 핵심”"
+    },
+    "2026-03-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaUzhzVFZ3MFhTOFMwS0tqdmJPLU9QYUJSRWhLaGRidFA5VC16SUYxZ0M0NDFQbERpbng5M2V4VDB0SGZYX3pzVkhXSkktNG9HV1c3SzQ4bEt3SWlZY1p5M1A3c0xKSmhUb0lMeGtqcw?oc=5",
+      "representative_headline": "현대차 모셔널 로보택시 경쟁 가세... '안전한 무인 서비스' 기술력이 강점"
+    },
+    "2026-03-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://kten.kr/m/page/view.php?no=11735",
+      "representative_headline": "현대차·삼성화재, ′광주 자율주행 실증도시′에 참여한다"
+    },
+    "2026-03-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Q3FGU1dPOE03VGVJSU1MUDl4ZS1TSGJSdnFVYTFNMk0yblFyM0NaZUZrQUV3SnBrVk1PR1BOcHNWVlc3cTBRQTNScjJ5ejc1b3M0dWw0aW16Z1VxQjVhWnVfV3JwbjA?oc=5",
+      "representative_headline": "광주, 도시 전체가 자율주행 시험장…현대차 차량·삼성화재 보험 결합"
+    },
+    "2026-03-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOVnJxQ0tuM09EaW5YYm83NEhGVFJueXNEcnhfS2wtVDQwS0xXWlBZdkxFWDFIekI3ek5pbjJuWV8wTGR3ajA3eVdTalJlSDlmVjd3NVV6UWZPN1FZTWpMenBjTDgxV0k2VkpBRjNIUTQtMmhWQ1VRMTAyUFBkWXJaNWFxT1QyTy1aQzFLalB6eFpaWDBFWE83ak9xSEZWWEFFVkxzcEtnRjMyMDFzMWJSalluT01taURnVjNVX005d1Q2R2o1ZUJaYmxxMTZPeVNfMVFycDNTMUFzTC1XWC1GZDdNbkp6MG40ZEtIUHI0ODhTMi1GSjdDaHphNE94eXpHNzhfcGh6OFAwSHU5dTVWX1c5dUk5TW9nVHhPUUpPbmRXUW1JdTdsVW9zczI?oc=5",
+      "representative_headline": "우버·닛산·웨이브, 도쿄 ‘로보택시’ 전격 출격"
+    },
+    "2026-03-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.mk.co.kr/news/business/11987546",
+      "representative_headline": "테슬라 따라 하다 이번엔 엔비디아…현대차 자율주행, 문제없나요"
+    },
+    "2026-03-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84NE03LWZJU0VaS29rdTd5aGJEUFhlU0JuZ0lVLUZjU2ExMlhQdTdJbjN6Ym5xRS1lMkxmMkY1NmhabTQ5NmlxZEg2ZkRWM21OOWNCeExWci1sVknSAWBBVV95cUxQZllhZmJGWXlkNmJzSmZ3cjg4cUU4YzRocWNpX2RWdDIzZmp4TDdUeFd3aDZFbmd6S2I5RjhFMlRkbU80NU1aR2tMQ0VRUllKVk5ITTBlSWtYZ2lnam96cVQ?oc=5",
+      "representative_headline": "현대차 자율주행기업 모셔널, 베이거스서 우버 로봇택시 서비스"
+    },
+    "2026-03-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GMjVrX2NWYndGbzQ5ZlBJWnl6RWpoUWhqMzVqMnhZQWtPVUc3RzhDRmJPUU1xQktjRHZ6X1Q1VTNyWGh6eVVjRXpVb0JXUTFMclR6RDBEbWtYRlRLdDRiU0dCcnJFM0k?oc=5",
+      "representative_headline": "현대차그룹 자율주행 합작법인 모셔널, 라스베이거스에서 우버와 AI 기반 로보택시 시범 서비스"
+    },
+    "2026-03-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yWWxqVEtta0xOaklTMVh0NGxnZUI2Q0E3YnJqQXFRRXBkcy1jcW9kTFJxNHBMbkJlSEowNUNrdG9JemRBRnZkM2hrUk1KcTlvX3hkZklvazRmOVdmTl9ScEdUV2doTVpyOEE?oc=5",
+      "representative_headline": "'심야 강남을 달린다\"… 카카오모빌리티, 자체 개발 '서울자율차' 운행 시작"
+    },
+    "2026-03-17": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40ME1YN2o3bHg0YS05QkliVE1vQW1tZGZwTEdaOElXd25DN29TMjVuVmFqcm4yREQwZmRvajBXV2dOU2psamM1OGZ3d0FqTjVYRlFRc0xJMVdFWk8yZTR3SXlJd1hkX2gwdWhZWtIBcEFVX3lxTFBYcGpKQzhIN0pEMk9kMmZKTk43R0JfV0hhb2pKdXJiSHhqelN6ajFfMzhCMnFyVUxuTlgySy0wWVI1SGZIRml0ZzZuNExQOTdlN3A1NlRXa2habzlacnJad2tFa1FnRWVIZ3E0TUdSc20?oc=5",
+      "representative_headline": "[현장] “심야 시간대 강남권 빠른 이동”…카카오모빌리티, 자율주행 기술 집약한 ‘서울자율차’ 개시"
+    },
+    "2026-03-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5NGhJTU5WZHlMWDJwTTcwelJMLVI1bmJRaThSV0R3NXpCYXV0U3Zzc0xoeDl0TVN0UEVZek9MNnhQbmFBSG41cFBBYXg5b1VmdXhCZnlmZlBIR1EtMEE?oc=5",
+      "representative_headline": "현대차-기아-엔비디아, 로보택시 공동개발… 운전자 없는 ‘레벨4 자율주행’ 앞당기기로"
+    },
+    "2026-03-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.chosun.com/economy/tech_it/2026/03/19/LE4PC5B3YJDS7HHYMQISMTUT54/",
+      "representative_headline": "현대차도 쓴다는 엔비디아 자율주행차 타보니, 베테랑 AI 운전사...AI로 100일치 훈련 단 하루 만에"
+    },
+    "2026-03-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/q7ZK44aevw",
+      "representative_headline": "[K-TECH 글로벌 리더스] 〈현대차그룹②〉2026 자율주행 리포트… ‘제조 거인’ 현대차, AI 소프트웨어로 판을 뒤집는다"
+    },
+    "2026-03-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Cc1hLRF9vVnJxOFE4ZGxVelVORnVtSFZIRzVxMEIzUHVRaGpvbGVpbmc5SHhfa0lYc0VfckhvWlF3WnJTQjJNeVBDUHc0RFA0UU1STE1EWTkzUHJZOVRkMEJYM1psMlhDQlpzQ3JIWFpwdVk?oc=5",
+      "representative_headline": "우버, 리비안과 로보택시 협력…1만대 주문 추진"
+    },
+    "2026-03-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.bloter.net/news/articleView.html?idxno=657307",
+      "representative_headline": "현대오토에버, 현대차그룹-엔비디아 로봇·자율주행 협력 '수혜자'"
+    },
+    "2026-03-23": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zVVQ0WTJFR0FpNkdwckwxM2l4WUgwa0xMWC1LeUFBUFJkZnRHemFHTW4wbFl3WDdmWmc1d19NTmRUb2I3OHR4S0lTNVVoTjMxTFpKMmtTTkZ3d2NwNHdPUmNWNDVaWWEwblhZWDROMXRDT2_SAXdBVV95cUxQSUhpYTBkNFozSGFLQkJYTUo5ZVloSlhRb0NjdXhhcVJpTHE4SGZnNGF4dkc5c0tQdjZXdXd5bl9QcDFNTHBiYk0zWEp2YTY0N1lMb2l3OHJucFFBSjE1N0VuM2Z4Ty0zall3aURDbTkwR2V6bDh0MA?oc=5",
+      "representative_headline": "'박민우의 가교 리더십'…현대차그룹, '투트랙'으로 자율주행 레벨4 로드맵 가속화"
+    },
+    "2026-03-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMWVp4MV9zbjBkZU1FOTJrS1JiUnpMNVRRTGNwU25Ba1VWQ1VVRUc2SnRLNGdXYnRvZ2ZjbVNHTkxOazJGeC1hN3FTUzczb0p0dkJEazBMakl1NjZXTW1tNkJZMFhYbTE3MkhPbGFPdlgzQdIBdkFVX3lxTE1hb0pZVlZ6TnZhREJXOG0xT2VTM3hiZmVSWnpLTmtsNEJ3OE9HVXh1cGl1d0d0REk5dWhGZ3lpOV96dXQxQWJ3cDZrYUUzT2p1N1lOV2drUVpERTl3ZWpFelEyMmotVXEwbE91bEljQjlJWEtfVlE?oc=5",
+      "representative_headline": "전기차 다음 승부처는 자율주행···테슬라 선점 속 현대차 ‘추격 가속’"
+    },
+    "2026-03-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/20260325003606014",
+      "representative_headline": "‘우버·리비안’ ‘현대차·엔비디아’… 로보택시 경쟁 본격화"
+    },
+    "2026-03-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://contents.premium.naver.com/wowquick/wqn/contents/260326153639959ia",
+      "representative_headline": "\"소프트웨어 경쟁력이 미래 가른다\"…현대차, '자율주행' 잰걸음"
+    },
+    "2026-03-27": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.chosun.com/economy/auto/2026/03/27/HMLTOBMC2JHCLDPDZNEHTJIX6Y/",
+      "representative_headline": "현대차 “올해 출시 G90부터 ‘레벨 2+’ 자율 주행 기술 적용”"
+    },
+    "2026-03-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iMGk0ZnR1M2NWWW8tRFh2NktxaDkxRFBNMktxZ3BLOUd5aV91MDlWQ0dPbVNfN3ZJcUZqS1NRNnk0ODRBNk94WFlsMkpFa3h5NWZWN1dnay0zbS1OOHlUTDk4NUY0dG1WaWJWc21FcGpQVkk?oc=5",
+      "representative_headline": "웨이모, 로보택시, 2년 만에 10배 성장…美 10개 도시서 주간 50만건 운행"
+    },
+    "2026-03-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hyundaimotorgroup.com/ko/tv/CONT0000000000207323",
+      "representative_headline": "자동차 기술의 다음 목적지는 '우주'? 현대차그룹의 모빌리티가 우주로 향하는 이유"
+    },
+    "2026-03-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.etnews.com/20260330000092",
+      "representative_headline": "인하대, 현대차 미래기술과제 선정…자율주행 반도체 진단 연구"
+    },
+    "2026-03-31": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPYTdXdlRZMHNqTlZKSmstREdXeHZrRXRxcHA3czFGcTU4SVZZVWlUSHJvU1g5eWRZREpFN3JBLVBQUGtXVkUyX3FKZ3c0SXZwNDlpT0o5UGs0UHhtc2RYM2xOb1NtVUZYYl9DRFdFWHF5V094X3Izd0RCMW8tV2RndWFocWFIcmhncThRdU1CdG05TkVvSEMySzNzSnNYcWdPSEY2M0ZaaWdBaVhuTTZ2dkxRU0NfejY3SkxCSkZNSUYtaUF4MmhXdFNrdWdCbHFFTE45MFIzOUljV3NvdXdHNmNZWEExemhTQWV5Y2QxbU1iOHlhajVoZ215MnM4SlVqdm1LaTVQR3FvMnQ1UEVScHkwN2hSRXd1YTJVSENQcnpwNXlEVjE1azRleVRyUdIBsAJBVV95cUxQd3lKSkxMQlE4OU44LWpVWVpQNVllS2JNSHJ4Z09HSWtwOGhaeUxfN0YyUWdvUmhiNVZrajVkYnZFZVphS3pWcXp6ZW9JVVQwTk1xczRuYUhNdnEwLTM0NE41OEhnWUZRZ0hkYVA5QjRWcjNGQkNXV0hYSXFTMW52dk1TVTF1QTBlNDZrMXlPRnJwTHhuLVFaRER1Q28xcmc1WXJvbkFJbV9EMDZRT1R5WkY0MnVpTmZwMmtFZ1F5V2ZWOXVRUTRLOUszWnE3WHN5bDUwRFlRYmg0QjJJb2xzX0N6aUhPZnVMdld0d1pDQi01aUI3dFVHNE44ODh3WkhnUEpoSHQ3TndxMjhRalNTVzVtekpHLWEtM0d1UkVfcy1YN3JFVHdybHp1ZEpmV3FO?oc=5",
+      "representative_headline": "\"운전 어디서 배웠니\" 불안제로·멀미제로…카카오 자율주행차로 누빈 강남의 밤[시승기]"
+    },
+    "2026-04-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.monthlypeople.com/news/articleView.html?idxno=701790",
+      "representative_headline": "㈜라이드플럭스 박중희 대표 - 안전과 이동의 자유를 잇는 라이드플럭스의 자율주행 솔루션, 우리의 일상이 되는 그날까지"
+    },
+    "2026-04-02": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15YzdpR0ZsSlRtdy1uVTR5cDZyUVZsb2FYeTdlVG1nYjB1NUN5cmlnZUtTZXhiSm13bk0yY1RWdC1saGNTWm1URTB2VkxLLVVhc2dLSjBvLTFYWjU4eFdXQlZ2U1M0enR0a0dOZ01qZWg1SG8?oc=5",
+      "representative_headline": "우버, 카카오모빌리티 경영권 인수?"
+    },
+    "2026-04-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OVFFnTnJPRkNId05Bc3Fua3p0MTQwUzN0T2xlX2tzUndSdFpXZ1NnS1dYWTBOM2FWR2lmVXc4Qi14b2JUSW1WendvNjNlMWltQ0k1TXFOSEhDZ1FWcEM3MGZ4RmhnYXh5VXh1QzNlLW51ZFk?oc=5",
+      "representative_headline": "테슬라 로보택시, 전미 확대 예고…美 인구 70% 겨냥"
+    },
+    "2026-04-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMi1gZBVV95cUxNNmtrNnRGWS1ZdWVKMHV0WjZDSTZmdE5fNG9oZU53bEJMNnRWQ2ZEbmtlTXNQc1d1d2JSV3Y0YXF0NDE4MnJ5ZDVUVjJxTXI1c1dsY1ZDMjlBeHluZFFnUzRDYUxKNU4tSGlDcU9BemUwckRFQ2xZYU5ZNmM2WEUzRUhfV09YdWhjTkVYRTVBRU1kazRBZFFXU0ppaXFaNjBUcWVpeWhTSXRfZWxodTVfR1VqUG1UM3EtTjhDd3AxWmRHeFJtbHRoLXlDWFhCMnluQlRMWHZjdHctbkotdW55N25MXzRGUFVuOUpRVlc4Y3ItY0tyOTA4RnJNTXlYaDV3RDdTRzhVcXdHbGpUSXdqZHE1SmduZGJuY0VlYUROT3NmeE1NdktzX1E2amlxT0tGQnpMWXVoSjB0bVBYWXJGWF9BOHQ0M290TW5GY3Y5bXh4emVvVXk5Z0UxX21UWTE3UERjRmVOWDVDb29oOWtUZk0xOGE0WUFlWDhxYnRlWDZzc3Q0bjNwVWFWRFFLcXNVcmdOMTVzRzQ1dmVyQnZzWTQtYk1WS0tDbm50dEQxLUdlRmxoV1B1aXFmUWVHbS1RMWU5aWxXV1hXNHdOU3ZHSURwRjJmc2N0VTBpT1FFRHdkcDJoa2RJWVFlbThpeHUySGx6YVJZYmJyWkFfWEk2RHpxNjA4WGM2elJDQUMwSGZDNkctY3pkS2locVdEeC1Ca2g5ZER0S3BEZGcxVS1ZSXB4R1ZjRmpuREYzcGV4SndGa2RqYXo0dTMzbnV4ck1JOWVoTEdCWTM2MkhLSlJBQ1N6ZGlnNmc3cmtMbHNTV0Y3VjY4YXU1LVRfSWU3X2RRS3M0RDFxX1cwcDhGNlpLMVQ1dlN1LU9tbUNUTFBmbko4QWxoWGxCTy02RVA2NzIySnNrQXkwTDBkalhMWGREVm11Z25wTGZ1MUhuMXBvUXZ1RE5YOEw0bkQxSU1Ed2s4NFc4eG1HX2ZVT2h5a3U0NkRkYXZuZVJlNEVibHQ2dFZKUWszMi1ScDBjLWczcUhqR0VXS19Ub3BUSUtWeTFCbUJOZGhYU0xFb0VDclhJQ2gwZ29jV21TMlZvUlljRGpBb29BOUZSQkFwVi1uSnNudFRRTHM5dw?oc=5",
+      "representative_headline": "강남 심야 자율주행택시 카카오모빌리티 차량 사진 〈자료 서울시〉"
+    },
+    "2026-04-05": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15Z3ZnRUotOFpWY1lnaUhRSXhCSmhITUtMRHpZSDVuUXJKUFhfZUxQd05feG5nbWtKM2ZzdE94cWRFN0gzU3BFSmZCX1dTd3c?oc=5",
+      "representative_headline": "우버 CEO, 테슬라 로보택시 파트너십 제안... 자율주행 모빌리티 시장 재편 신호탄"
+    },
+    "2026-04-06": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vdFVKWnhNMC1CZ1NjY3dPLVBWRHoxeHRqNXNpQVQ1am51LUlVMU1KTDZRMFVXVWJIdF9FeWZrV21NVm5TYWNMSFNwazlBR2xTNUFBV2o3SlA3STRmcjg2VHZqUDJwLXZkaE1iTkRiaFlvaDZLSFpJSjVzYW0xTW8?oc=5",
+      "representative_headline": "KGM 토레스 EVX, SWM과 자율주행 부문 협력 강화 '서울 강남까지 서비스 확대'"
+    },
+    "2026-04-07": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://biz.chosun.com/it-science/ict/2026/04/07/WN4SHRSWD5HYZPRI4R3AHRPZ5U/",
+      "representative_headline": "“앱 호출하면 차량이 알아서 이동”… 쏘카, 자율주행 기술 시연"
+    },
+    "2026-04-08": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/20260408134725264?f=p",
+      "representative_headline": "SWM, 강남 자율주행 로보택시 서비스 확대 \"상생형 모빌리티 생태계 구축 본격화\""
+    },
+    "2026-04-09": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=609272",
+      "representative_headline": "[이슈] 현대차그룹, 자율주행·로봇 수장 총출동… 오늘 미래전략 공개"
+    },
+    "2026-04-10": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNb3dodjF6VHJMOG5Ocy05ZVcxdU9EUDRWcjRZUlpnQ2RkeGY1N3EwNnk3aXJrUkZZRnZpNjhydElBd1pWZ3dWTS0ySE5VS1ZDcGJqU0dGeFl4R3plUHRaZlVqMUd3Q1Q5TnpUakVuQkw3X1RiZTlzcUtYNVM3QUNEUF9SX05DNWVuX2piYVNRYlIxUkwyTEYxMjBlcmNlenN3QXNveENsMXlNeVJZLVN4WGJCZ21PQWpocldjLUNBaG0zNS1JUS10S3FEemNpSnB2dlI0ZE5LVF9sMkVIZE9YYzFWVVBmZXlZNU45WlNrRUFra0tucjZIV3VWZFBRcVZqaldCbWdHRXFXeklzcWdzYUZqdU1zbjFmY2RYaHlMOWFOeVlhVGhUR3NRTzhFX294YkRranBHZFJNeFV4VF8tYS10Vkg?oc=5",
+      "representative_headline": "포니에이아이, 크로아티아 자그레브서 유럽 첫 로보택시 상용 서비스 개시"
+    },
+    "2026-04-11": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONEhEOW85YUptRkZwS1ZacmxISi12NEpqZy1qWWlYaVQzSHlmcmpnNkJjSFc0T0FOZlNwMWhCSTA0VFd4S1VpYzBIeE00UW5Oa3dCemRUdlhTUGt0dHBmZF9pSGc0UVBZTTFuQ1VUU0FReko5OXpud2JPY090V2FVamJiRDlpYkU0SFlKMFBtRm00VEV0MGlqTXNIRzlWQjEwcXgxdnZER2VoSHphYzlDM3MwcFZnSVNKeXRVbEp6cFlLdTZDWlVKbmVSU2pNejFaaS1GT3UtZzZxSmRyMmY4LU1RUHdPUFlVdnlyNXlTc1N0cTA?oc=5",
+      "representative_headline": "포니에이아이, 크로아티아 자그레브서 유럽 첫 로보택시 상용 서비스 개시"
+    },
+    "2026-04-12": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lZEpiN3B4dE5xQ2Ixemx0TGcwNTlwSUFGUEhHQVFWTENzYmw1ajhEMlZxazhQdlRjcWFKMmVRRzIzekVTaWZGOU4ycjJycE5EVGfSAVNBVV95cUxPdm0ybUJLdS00UzgxMzF4Z2NocWFBbzZDSGhMa2pKU3ZMQkpyQ2k0RThITGt3UXFnbEN6a3dEdTBYQ2pPUl9CU011M1BFM3FxMkhPMA?oc=5",
+      "representative_headline": "막오른 로보택시 논의…렌터카, “우리도 끼워달라” 정부에 요청"
+    },
+    "2026-04-13": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3Vjd2bzI1YWgtenJ5bVJjWHBuNUdYRE11WmhYWWFIVkFtQmlGWmRISTc5VUZVN0ZnYzh4UjRfZVpqY1Y5dmpPLUxCMjBtbWRBVlhsZGI1dFowbUQ0ZmFHaFUzMjZyUmVVUXpoRDBR?oc=5",
+      "representative_headline": "전국개인택시聯·현대차·오토노머스 A2Z·휴맥스모빌리티 등 7개 기관과 상생 협력 관계 구축"
+    },
+    "2026-04-14": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PV1otVVlUQTBnN3JlNzRERGlFSDJtczY4MWp6UnFnRVlMeG92Z3owUUVyeWRWdVprbWpGQkFNSFE4dWZpSkU2OWlkZEFRblB3blhHUXBiMWpCcWhaZGZOa3pEdzdPOHPSAWtBVV95cUxOQllRZG82REdDem50ZjVBLTFkamdITWx5bFBUcDZkN3hUa21POF90UU9tdzBWRFV1RkFfNGJrU19nWWctSjBDRFZPMjF6bHpOeGtOX1JZLUVWZzJUakdKcExfRnRiaU5XZVNYNA?oc=5",
+      "representative_headline": "“개인택시 자율주행 시대 연다”... 오토노머스에이투지, 개인택시 업계와 ‘K-자율주행 택시’ 전환 맞손"
+    },
+    "2026-04-15": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.hyundaimotorgroup.com/ko/story/CONT0000000000204964",
+      "representative_headline": "현대차그룹, 꾸준한 기술력 축적으로 자율주행 시대를 향하다"
+    },
+    "2026-04-16": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZM01jaUZlSzZtX3BpMFlrdXNsZlctcEZDOUdJVEtpVEFOeXhta0JPMm1GQUhhYWJmOTBEdzN6d25oQW5JdGg0bV8yYzd0clNmU1pQSEItdnN3dw?oc=5",
+      "representative_headline": "“자율주행 트럭 본격화”⋯ 라이드플럭스, 韓 최초 ‘자율주행 유상 화물운송 허가’ 획득"
+    },
+    "2026-04-17": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdks4aVZxcHBYeldWeUJrX2stXzItQUpwSDA2Mk9yRVdxTlJOelFFcC1NbHZpTWVLSHdGWmdnVHZDZFhrRUN2dF9OS05DSmdwZU14Sm9fNm5oS25sN3U2UU1Wb25wcjhxUGxCR1BYR3VKaVU2WldiT3NiamEwNFJpYy1lNzUyVXd1MGpzeEFFbGpMNzVwUHBEMFppNXRxTE02YmVFWWYxdkwwbTM4V0gzY3FfSEVHZmpwbUZPa3BFR2cyQTlmN1ZIVkRPZmtjOUQyVWszS3pIZGZ1a1JUT29EVGFyYkwtY1NMZkRaemFIaUdqVmJNclhpVVZpaHNUaDg?oc=5",
+      "representative_headline": "오토노머스에이투지-KGM-KGMC, 레벨4 자율주행 양산형 모델 개발 위해 맞손"
+    },
+    "2026-04-18": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOVpOc3dGa2pzS1BmLXNFcnN5bVpYSkZvWUhrdWV1OGpNUW9tTm1HMFYwc1diRVpyMllrbWEtdzNSWlRWQXROQjNBTldoalVXYW5IakJERVdqNlNQcjc2RnBGV3BENlV0U1hkZWdua24zdk81WTg1R005eS12eXlqMVhOYkQyV3h3TGh4d0k2WVY4dWRueU1rTFNOWkh0YnFtWjhBb0ZWT3QxLUk?oc=5",
+      "representative_headline": "Uber Has Fallen 25% From Its High. Its $10 Billion Robotaxi Bet Could Change That"
+    },
+    "2026-04-19": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2dmdGQXI2YTNuLWxXMldLX0FlVE53RHg4V1piTHhLREttS0o1UUZzVUhoWlRheFU5RVVKdmJLdDVUa1R3bC1MbXpnaEE3dV9UbGFkUTZrQ1RUdw?oc=5",
+      "representative_headline": "테슬라, 로보택시 서비스 美 댈러스·휴스턴서 시작"
+    },
+    "2026-04-20": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05U2lEV3hXZ01PRGxhbEk0RWowSTZscS1iNl9GeUdnNi1jUk9yZVRCNFZ5SzlHNERwTFFWRTlVQk14Wk5RYnNuNWhnQW5vME52VVZtbG5nRDN5QmhYbjBhM0E5cWY4Ym_SAWtBVV95cUxQU2UxWWl5YlFGS1Y3U1ktYUt1bXpiLTVUYkcyNTJWTUxMMVpCOFBXZnRpei1WdXZEOEhPNS1weVNUcUE2cDFCZmJSOXBwUVp1N3hfZDI0ek4zeXE4V1JQS29NUWUxaHpVTWcxbw?oc=5",
+      "representative_headline": "오토노머스에이투지-KGM-KGMC, 레벨4 자율주행 상용화 위한 '전략적 동맹'... 자율주행 플랫폼 글로벌 경쟁력 강화!"
+    },
+    "2026-04-21": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "http://www.press9.kr/news/articleView.html?idxno=75293",
+      "representative_headline": "KG모빌리티, 오토노머스에이투지와 레벨4 자율주행 기술 경쟁력 제고 위한 MOU 체결"
+    },
+    "2026-04-22": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.dt.co.kr/article/12058853",
+      "representative_headline": "SWM, 도심형 자율주행 로보택시 ‘2026 대한민국 임팩테크 대상’서 부총리상 수상… 2,000 TOPS HPC ‘AP-700’ 공개"
+    },
+    "2026-04-23": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sQ1ozLUlWNnByQ19JTzhHLW5WMzBJZ2ZwcUhtVDdsNWItNUcwTlE3ZUtfMVFnSGtncFhOaV96c19jZ2pWeVJSSFBsQUdzVGV4V0ZaMGxsMnRZVFVXZGJLd014cnMtNnhKcVHSAW5BVV95cUxOMlByanlqclV5eEl0cFlTY285cU51NnpXVXRQaVVCTndramlKOUNZSVh2UEVWcmNkOWVXY1N0eTlxOUhwLWZNblJQbFF1bmFSSnVVX3ZuWjg2cUNuWVlrUE9QTHVqbUVvaGpILUdIZw?oc=5",
+      "representative_headline": "[WIS 2026] 강남 넘어 송파·서초까지…카카오모빌리티, 자율주행 상용화 영역 넓힌다"
+    },
+    "2026-04-24": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pVkZzNnlSYi1RbTNCSWk3elNFQnVMUVk5WWUyVHhqWnVGMThpWTZmRHZ5bXdPdmdCT3dhZjBjYURpLXFid09jQWVkUGd1RUdyclpJbzhZdVhwYTFFdk5zUTBJRHJmYW9RREtsbg?oc=5",
+      "representative_headline": "카카오모빌리티, 자율주행 레벨4 청사진 공개 ....\"기술 내재화로 서비스 신뢰 확보할 것”"
+    },
+    "2026-04-25": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwTFM4dGtfVzhkVW1PNi1manEzb0M3MlJIMEg4XzJQeWJwYkxDdmhjdWNTY0xIR2EyZmI0WG02UTlMenJMbnBJRGp6U20xMEk?oc=5",
+      "representative_headline": "[자율주행 서울]③ '테크 전시용' 꼬리표 떼려면…'규제 장벽' 넘어야"
+    },
+    "2026-04-26": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/20260426000221835?f=p",
+      "representative_headline": "[자율주행 서울④]사고 나면 누구 책임?…'운전자 없는 도시'의 딜레마"
+    },
+    "2026-04-27": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qLWx0b2ZxUFNOWWZjU2RzN0hkSEo1THR5d1RfOUlVdFBCUllidV8tel9uRG14QmREUGFPN1J3ZjhHbVBTYlpfQ0t2RHVmMnc4TnFkYTFFM1ZCU0gyc1Bz?oc=5",
+      "representative_headline": "[YG의 카톡(Car Talk)] \"운전석은 비었지만 주행은 베테랑\"… 베이징에서 만난 Pony.AI 로보택시"
+    },
+    "2026-04-28": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=449304",
+      "representative_headline": "현대차·A2Z·라이드플럭스, 광주서 E2E AI 자율주행 기술 개발 참여기업 선정"
+    },
+    "2026-04-29": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.itbiznews.com/news/articleView.html?idxno=211274",
+      "representative_headline": "국토부, 자율주행 실증도시 참여기업에 현대차·A2Z·라이드플럭스 선정"
+    },
+    "2026-04-30": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://zdnet.co.kr/view/?no=20260429161456",
+      "representative_headline": "\"FSD 되는 테슬라 빌려타면 되네?\"...쏘카 큰그림 엿보니"
+    },
+    "2026-05-01": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://v.daum.net/v/20260501184222873",
+      "representative_headline": "“내가 아는 그 쏘카 맞아?” 상한가 기록 깜짝…자율주행 회사로 변신한다니 [종목Pick]"
+    },
+    "2026-05-02": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.autodaily.co.kr/news/articleView.html?idxno=543745",
+      "representative_headline": "“이건 풀체인지급이다” 현대차 더 뉴 그랜저 완전히 바뀌었다"
+    },
+    "2026-05-03": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTU9lS1NudTF3RXBaZDg3REtNZ3dab2w3Q1BjdGNQRmNyWFFweVFaczdtdUZCRDAreVJROExoUGhVN0UwYnBWcmRSNlova1JXeTVqN3NvdDdhMDVNTTZBdjN6aDVaU3J2Z0lIWXhqS2p6MXpwYk5pVXdWSkVMbytyVS9UdE1uQmRwQ1RiUWdEc29PNFNUR2RGRWw1NDZjeXRnVHdNMnRyVVd4STNQSkxyazZvYjk0YXpPNkF3TkdtbTIyakg2R0JEVWtMR3VIMmh0cm9BT2xIQU16cG5aWEYvRW5jaTRaYk4wdzdwcVRPTWE2QVU9",
+      "representative_headline": "쏘카 레벨4·4+ 자율주행 공유차량"
+    },
+    "2026-05-04": {
+      "frozen_at": "2026-05-12T01:10:09Z",
+      "representative_url": "https://news.nate.com/view/20260504n03648",
+      "representative_headline": "쏘카, 크래프톤 손잡고 '레벨 4 완전 자율주행'에 로보택시까지…\"타임라인에 주목할 시기\""
+    }
+  }
+}

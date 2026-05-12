@@ -31,8 +31,28 @@
  * objects fine.
  */
 import type { NewsItem } from "@/types";
-import { toKSTDate } from "@/lib/news-utils";
+import { canonicalLink, toKSTDate } from "@/lib/news-utils";
 import { getAllNews } from "@/lib/news";
+import frozenArchive from "@data/news-archive-frozen.json";
+
+/**
+ * news-archive-frozen.json shape — see `scripts/freeze_archive.py` and
+ * `data/news-archive-frozen.json` _comment for the full contract.
+ *
+ * Only `frozen` matters at runtime. The blob also carries a `_comment`
+ * field meant for humans editing the file by hand (which they shouldn't).
+ */
+interface FrozenEntry {
+  frozen_at: string;
+  representative_url: string;
+  representative_headline: string;
+}
+interface FrozenBlob {
+  _comment?: string;
+  frozen: Record<string, FrozenEntry>;
+}
+const FROZEN_MAP: Record<string, FrozenEntry> =
+  (frozenArchive as FrozenBlob).frozen ?? {};
 
 // ─── Types ──────────────────────────────────────────────────────────────────
 
@@ -182,8 +202,31 @@ export function getDailyArchive(): DailyArchive[] {
   // Newest first — drives prev/next nav, recent list ordering, sitemap order.
   days.sort((a, b) => b.date.localeCompare(a.date));
 
-  // PR2 will inject freeze.json override here:
-  // for (const day of days) { if (frozen[day.date] && ageDays(day.date) >= 7) { ... } }
+  // D3 freeze override: if a frozen entry exists for this date AND the entry's
+  // URL still resolves in the day's items, swap the score-based pick for the
+  // frozen one. This is what makes /archive/[date] a true permalink — once
+  // frozen (7+ days old via scripts/freeze_archive.py), the representative
+  // headline an investor cited stays put even if a new article arrives later.
+  //
+  // Fallback (D7): when the frozen URL is missing from the corpus (dedup
+  // cleanup, archive removal, etc.), warn and keep the fresh score-based
+  // pick. validate_data.py is the strict gate that fails CI in this case.
+  for (const day of days) {
+    const entry = FROZEN_MAP[day.date];
+    if (!entry) continue;
+    const match = day.allItems.find(
+      (it) => canonicalLink(it) === entry.representative_url,
+    );
+    if (match) {
+      day.representative = match;
+    } else if (process.env.NODE_ENV !== "production" || process.env.VERCEL_ENV) {
+      // Server-side warning during build / SSR. Quiet in client runtime where
+      // this code never executes (RSC only).
+      console.warn(
+        `[news-archive] frozen rep missing for ${day.date} (${entry.representative_url}), falling back to fresh pick`,
+      );
+    }
+  }
 
   _cachedDailyArchive = days;
   return days;

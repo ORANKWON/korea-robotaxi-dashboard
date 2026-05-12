@@ -112,6 +112,29 @@ export function formatRelativeKo(iso: string, now: Date = new Date()): string {
   return `${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`;
 }
 
+const KO_WEEKDAYS = ["일", "월", "화", "수", "목", "금", "토"];
+
+/**
+ * Format a KST `YYYY-MM-DD` string as `YYYY.M.D (요일)`.
+ *
+ * Smoke test 2026-05-12 caught the original bug: previous version constructed
+ * `new Date("${date}T00:00:00+09:00")` and called getUTCDate(). KST midnight
+ * is 15:00 UTC of the PREVIOUS day, so getUTCDate() returns date-1. Cards on
+ * /archive labelled "2026.4.27" actually held data for archive.date "2026-04-28".
+ *
+ * Fix: split the canonical KST string directly for y/m/d (no Date roundtrip).
+ * For the weekday, construct at NOON KST so getUTCDay returns the correct
+ * weekday — UTC and KST agree on calendar day at noon (KST 12:00 = UTC 03:00
+ * same day).
+ *
+ * Pure. Same input → same output. Tested in news-archive.test.ts.
+ */
+export function formatKstDateKo(date: string): string {
+  const [y, m, d] = date.split("-").map(Number);
+  const weekdayIdx = new Date(`${date}T12:00:00+09:00`).getUTCDay();
+  return `${y}.${m}.${d} (${KO_WEEKDAYS[weekdayIdx]})`;
+}
+
 /**
  * Compute "이번 주 인사이트" from the current news corpus.
  * Window: last 7 days from `now`. Pure.

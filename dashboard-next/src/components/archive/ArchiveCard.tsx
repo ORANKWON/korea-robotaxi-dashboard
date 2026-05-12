@@ -16,18 +16,19 @@ import { tagClass } from "@/lib/news-utils";
 const KO_WEEKDAYS = ["일", "월", "화", "수", "목", "금", "토"];
 
 function formatDateKo(date: string): string {
-  // date = "YYYY-MM-DD" KST. Local construction of weekday is OK because we
-  // only need day-of-week, not absolute time. Construct as KST midnight by
-  // appending the +09:00 offset.
-  const d = new Date(`${date}T00:00:00+09:00`);
-  const y = d.getUTCFullYear();
-  const m = d.getUTCMonth() + 1;
-  const day = d.getUTCDate();
-  // Get KST weekday: KST 00:00 = UTC 15:00 prev day, but Date constructed
-  // with +09:00 offset yields the right Korean weekday via getUTCDay() since
-  // the underlying UTC instant is correct.
+  // date = "YYYY-MM-DD" KST. Don't round-trip through Date for the y/m/d
+  // pieces — KST midnight (`${date}T00:00:00+09:00`) lands at 15:00 UTC of
+  // the PREVIOUS day, so getUTCDate() returns date-1. Smoke test caught this
+  // 2026-05-12: card labelled "2026.4.28" was actually rendering data for
+  // archive.date = "2026-04-29" because the label dropped a day.
+  //
+  // Fix: split the canonical KST string directly. For weekday, use noon KST
+  // (12:00+09:00 → 03:00 UTC same day) so getUTCDay returns the correct KST
+  // weekday — the UTC instant and the KST instant fall on the same calendar
+  // day at noon, so any UTC-side accessor works.
+  const [y, m, d] = date.split("-").map(Number);
   const weekdayIdx = new Date(`${date}T12:00:00+09:00`).getUTCDay();
-  return `${y}.${m}.${day} (${KO_WEEKDAYS[weekdayIdx]})`;
+  return `${y}.${m}.${d} (${KO_WEEKDAYS[weekdayIdx]})`;
 }
 
 export interface ArchiveCardProps {

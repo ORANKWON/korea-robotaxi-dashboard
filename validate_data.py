@@ -322,6 +322,78 @@ def validate_news(path: Path) -> tuple[list[str], list[str]]:
     return errors, warnings
 
 
+def validate_frozen_archive(news_path: Path, frozen_path: Path) -> list[str]:
+    """Cross-check every frozen.representative_url exists in news.json.
+
+    Locked-in by /plan-eng-review 2026-05-11 D7. The freeze rule (PR2 of
+    news-archive-v1) sticks the representative for any date 7+ days old.
+    If a future dedup pass removes that exact article from news.json, the
+    permalink rots silently — /archive/[date] would silently fall back to
+    a fresh score-based pick, breaking the "5-year-stable URL" promise.
+
+    This validator is the strict gate. Any frozen URL missing from the
+    corpus fails CI until either:
+      - the article is restored, or
+      - the frozen entry is manually removed (forcing a fresh pick).
+
+    Empty frozen.json is OK — that's the day-0 state before scripts/freeze_archive.py
+    has had its first run. Returns warnings (not errors) when the file
+    itself doesn't exist; errors when it exists but its URLs don't resolve.
+    """
+    errors: list[str] = []
+    if not frozen_path.exists():
+        return errors  # not yet created; PR2 day-0 state
+
+    try:
+        frozen_blob = json.loads(frozen_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        return [f"news-archive-frozen.json: {e}"]
+
+    frozen_map = frozen_blob.get("frozen") or {}
+    if not isinstance(frozen_map, dict):
+        return ["news-archive-frozen.json: 'frozen' must be an object"]
+    if not frozen_map:
+        return errors  # empty is fine — first 8 days post-launch
+
+    if not news_path.exists():
+        # news.json is allowed to not exist on a fresh checkout; can't
+        # cross-check what isn't there.
+        return errors
+
+    try:
+        items = json.loads(news_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        # validate_news() will report this; don't double-report.
+        return errors
+
+    # Build the canonical-URL set: prefer final_url like the TS canonicalLink does.
+    corpus_urls: set[str] = set()
+    for it in items:
+        if not isinstance(it, dict):
+            continue
+        url = it.get("final_url") or it.get("url")
+        if isinstance(url, str) and url:
+            corpus_urls.add(url)
+
+    for date, entry in sorted(frozen_map.items()):
+        if not isinstance(entry, dict):
+            errors.append(f"news-archive-frozen.json[{date}]: entry must be an object")
+            continue
+        url = entry.get("representative_url")
+        if not isinstance(url, str) or not url:
+            errors.append(
+                f"news-archive-frozen.json[{date}]: 'representative_url' missing or empty"
+            )
+            continue
+        if url not in corpus_urls:
+            errors.append(
+                f"news-archive-frozen.json[{date}]: representative_url not in news.json — "
+                f"either restore the article or remove this frozen entry. URL: {url}"
+            )
+
+    return errors
+
+
 def validate_timeline(path: Path) -> list[str]:
     errors = []
     try:
@@ -363,6 +435,13 @@ def main() -> int:
     news_errors, news_warnings = validate_news(DATA_DIR / "news.json")
     all_errors.extend(news_errors)
     all_warnings.extend(news_warnings)
+
+    all_errors.extend(
+        validate_frozen_archive(
+            DATA_DIR / "news.json",
+            DATA_DIR / "news-archive-frozen.json",
+        )
+    )
 
     if all_warnings:
         print(f"⚠️  {len(all_warnings)} warning(s):", file=sys.stderr)

@@ -11,25 +11,7 @@
  */
 import Link from "next/link";
 import type { DailyArchive } from "@/lib/news-archive";
-import { tagClass } from "@/lib/news-utils";
-
-const KO_WEEKDAYS = ["일", "월", "화", "수", "목", "금", "토"];
-
-function formatDateKo(date: string): string {
-  // date = "YYYY-MM-DD" KST. Don't round-trip through Date for the y/m/d
-  // pieces — KST midnight (`${date}T00:00:00+09:00`) lands at 15:00 UTC of
-  // the PREVIOUS day, so getUTCDate() returns date-1. Smoke test caught this
-  // 2026-05-12: card labelled "2026.4.28" was actually rendering data for
-  // archive.date = "2026-04-29" because the label dropped a day.
-  //
-  // Fix: split the canonical KST string directly. For weekday, use noon KST
-  // (12:00+09:00 → 03:00 UTC same day) so getUTCDay returns the correct KST
-  // weekday — the UTC instant and the KST instant fall on the same calendar
-  // day at noon, so any UTC-side accessor works.
-  const [y, m, d] = date.split("-").map(Number);
-  const weekdayIdx = new Date(`${date}T12:00:00+09:00`).getUTCDay();
-  return `${y}.${m}.${d} (${KO_WEEKDAYS[weekdayIdx]})`;
-}
+import { formatKstDateKo, tagClass } from "@/lib/news-utils";
 
 export interface ArchiveCardProps {
   archive: DailyArchive;
@@ -48,7 +30,7 @@ export default function ArchiveCard({ archive }: ArchiveCardProps) {
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0 flex-1">
           <p className="text-xs text-gray-500 font-medium">
-            {formatDateKo(archive.date)}
+            {formatKstDateKo(archive.date)}
           </p>
           {rep ? (
             <h3 className="font-semibold text-sm leading-snug line-clamp-2 mt-1">

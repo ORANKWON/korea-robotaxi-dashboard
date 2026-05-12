@@ -21,7 +21,7 @@ import {
   pickRepresentative,
   _resetArchiveCache,
 } from "./news-archive";
-import { toKSTDate } from "./news-utils";
+import { formatKstDateKo, toKSTDate } from "./news-utils";
 import type { NewsItem } from "@/types";
 
 beforeEach(() => {
@@ -274,5 +274,47 @@ describe("heatmapBucket (D12 5-bucket log scale)", () => {
 
   it("handles negative count defensively as 0", () => {
     expect(heatmapBucket(-1)).toBe(0);
+  });
+});
+
+// ─── formatKstDateKo ────────────────────────────────────────────────────────
+
+describe("formatKstDateKo (regression: 2026-05-12 off-by-one bug)", () => {
+  // The original ArchiveCard.formatDateKo constructed
+  //   `new Date("${date}T00:00:00+09:00")` and called getUTCDate().
+  // KST midnight = 15:00 UTC of the PREVIOUS day, so getUTCDate() returned
+  // date-1. Cards labelled "2026.4.27" rendered data for archive.date
+  // "2026-04-28". These tests pin the fix.
+
+  it("date pieces match input string exactly (no UTC roundtrip)", () => {
+    expect(formatKstDateKo("2026-04-28")).toMatch(/^2026\.4\.28 \(/);
+    expect(formatKstDateKo("2026-04-29")).toMatch(/^2026\.4\.29 \(/);
+    expect(formatKstDateKo("2026-04-30")).toMatch(/^2026\.4\.30 \(/);
+    expect(formatKstDateKo("2026-05-01")).toMatch(/^2026\.5\.1 \(/);
+  });
+
+  it("month boundary: last day of month stays in same month", () => {
+    // The bug shifted "2026-04-30" → "2026.4.29" (or worse, into prev month).
+    expect(formatKstDateKo("2026-04-30")).toBe("2026.4.30 (목)");
+    expect(formatKstDateKo("2026-05-31")).toMatch(/^2026\.5\.31 /);
+  });
+
+  it("year boundary: 2026-12-31 stays in 2026", () => {
+    expect(formatKstDateKo("2026-12-31")).toMatch(/^2026\.12\.31 /);
+    expect(formatKstDateKo("2027-01-01")).toMatch(/^2027\.1\.1 /);
+  });
+
+  it("weekday is correct KST weekday (constructed at noon, not midnight)", () => {
+    // Sequential days produce sequential weekdays. We don't pin the exact
+    // mapping (depends on calendar), only that day-N+1 weekday = day-N+1
+    // weekday. (Skipping leap-year edge — not in current corpus range.)
+    const days = ["2026-04-26", "2026-04-27", "2026-04-28", "2026-04-29", "2026-04-30"];
+    const weekdays = days.map((d) => formatKstDateKo(d).match(/\((.)\)/)?.[1]);
+    const idx = ["일", "월", "화", "수", "목", "금", "토"];
+    const indices = weekdays.map((w) => idx.indexOf(w!));
+    // Each consecutive day advances by 1 (mod 7).
+    for (let i = 1; i < indices.length; i++) {
+      expect((indices[i] - indices[i - 1] + 7) % 7).toBe(1);
+    }
   });
 });

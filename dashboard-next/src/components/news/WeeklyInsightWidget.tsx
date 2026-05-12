@@ -99,13 +99,28 @@ export default function WeeklyInsightWidget({
           )}
         </div>
 
-        {/* Highlight */}
+        {/* Highlight — D6 discriminated union: { headline, date, url } | null.
+            Primary link → /archive/[date] (permalink, survives URL rot).
+            Secondary "원문↗" → canonical external URL (opens new tab). */}
         <div className="md:col-span-1">
           <p className="text-xs text-gray-500 mb-2">주요 이벤트</p>
-          {insight.highlight_headline ? (
-            <p className="text-sm text-gray-700 leading-snug line-clamp-3">
-              {insight.highlight_headline}
-            </p>
+          {insight.highlight ? (
+            <div className="space-y-1">
+              <Link
+                href={`/archive/${insight.highlight.date}`}
+                className="text-sm text-gray-700 leading-snug line-clamp-3 hover:text-blue-700 hover:underline block"
+              >
+                {insight.highlight.headline}
+              </Link>
+              <a
+                href={insight.highlight.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-xs text-blue-600 hover:text-blue-800 inline-flex items-center gap-0.5"
+              >
+                원문↗
+              </a>
+            </div>
           ) : (
             <p className="text-sm text-gray-400">
               주요 정책/사고 뉴스 없음.

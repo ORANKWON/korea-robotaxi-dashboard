@@ -1,5 +1,507 @@
 [
   {
+    "headline": "현대차 ‘셔클’, 10명 중 4명 재이용…로보택시 OS 실험 통했다",
+    "summary": "현대차 ‘셔클’, 10명 중 4명 재이용…로보택시 OS 실험 통했다  헤럴드경제",
+    "source": "헤럴드경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Vb256S0ZCN0dIczZoNXAzVG8xM3NGcXJ3UlFJN056SWdKb1E0dUdYSllaVGZwZE5LaXVidUR5QXNBaE5icE1JSmFNbjFscGJ6dEFGT0hR?oc=5",
+    "published_at": "2026-05-14T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://biz.heraldcorp.com/article/10738120",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 美 ADR 연내 상장 추진",
+    "summary": "카카오모빌리티, 美 ADR 연내 상장 추진  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ybXQxLUk2M2ExM2hheEZJUllVdUdwVmtVVVd6YlRxMVVUVWRPX3pGUEo0dUpITUZ2UWtsRTNPanluWWtZZmVfdW9DYTJiUEl1dTFlUmY0aXM0QdIBVEFVX3lxTE9WYzM4elliSjZTVUhFVkt3N3ctYURiU1hOZk9NOWNYQmlwakNkTzdqSndERlhhUWJtM2w1b0xmRFNqLVliWDdqOXFmNjdPb3lSTWg5cg?oc=5",
+    "published_at": "2026-05-14T08:33:02+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.hankyung.com/article/2026051472421",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "[단독] 현대차, 정부 자율주행 역량평가서 최하위",
+    "summary": "[단독] 현대차, 정부 자율주행 역량평가서 최하위  MTN 머니투데이방송",
+    "source": "MTN 머니투데이방송",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KOGZxWW45cF9hU1FQYnladkRGX21OYTRhQm5GQ0pQX0MwQlViMkllOG0zTm1CZmVubkhaTjZjcnZXOUxzNXdfX1RMb3gzUnlzTUx0S2p0Sml3UmpJd0FEOVJ2M1I?oc=5",
+    "published_at": "2026-05-14T04:01:10+00:00",
+    "tags": [
+      "정책",
+      "기업"
+    ],
+    "final_url": "https://news.mtn.co.kr/news-detail/2026051410282718210",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "국토부, 광주서 자율주행차 실증 착수…\"내년 레벨4 목표\"",
+    "summary": "국토부, 광주서 자율주행차 실증 착수…\"내년 레벨4 목표\"  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xdzlNYVIwMDZFS1lRWjN5STRzUTJ1cTNpMVpyNld5dzVjRXBLek94ZmJidXNVU1huckxsZXJIeTU1VndvWEU3WWNZeDk5WTg?oc=5",
+    "published_at": "2026-05-13T02:45:01+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/20260513114501983"
+  },
+  {
+    "headline": "충북이 연 미래 모빌리티 길… 김윤덕 국토부 장관, 오송 자율주행 실증현장 방문",
+    "summary": "충북이 연 미래 모빌리티 길… 김윤덕 국토부 장관, 오송 자율주행 실증현장 방문  매일타임즈",
+    "source": "매일타임즈",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTEhhOW01R3RmajZYWmhVU01mUUMydTRaQ3U4VWh5cG5IcGR5ZWM3UjJMMjJsOFpsR1V6R1hJdGpzNXc5R1R6RktWRnFGazFhakVLcVJQdWhaSVYxaVplR1VXaDUtaGZM?oc=5",
+    "published_at": "2026-05-11T09:59:58+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.mtime.co.kr/news/articleView.html?idxno=65118"
+  },
+  {
+    "headline": "대전시, 자율주행버스 유료화 전환",
+    "summary": "대전시, 자율주행버스 유료화 전환  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzb1pkTHJJTGVNa0FTeHJCbnU3OVJpVVBKWWdHdDhwaVVpdE1ha09oRDN5bV9iUWRCSDN2TmdZRkRBVmdTam82Mkl6RQ?oc=5",
+    "published_at": "2026-04-29T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/FsOvM8waXy?f=p"
+  },
+  {
+    "headline": "강릉시, ‘B등급 달성·현대차 협업·국비확보’ 삼박자로 자율주행 선도도시 굳히기",
+    "summary": "강릉시, ‘B등급 달성·현대차 협업·국비확보’ 삼박자로 자율주행 선도도시 굳히기  행정신문",
+    "source": "행정신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwMnZjbklocURRckxxVFZfMWZ6MFJJSWtRMzBhOElLaWZRRUZRWkxJbEs1TnZFVGh4T3puREFLbFJOeTFfQm4xVEVZbVB1WTBuZU5WNFJHQ1BLLUU5WTNTbDRlTUltSThjQTkxdg?oc=5",
+    "published_at": "2026-04-21T02:58:10+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "http://www.adtimes.co.kr/news/articleView.html?idxno=1750067",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "자율주행 규제 풀고 지자체 협력 강화…17개 시도 광역협의체 개최",
+    "summary": "자율주행 규제 풀고 지자체 협력 강화…17개 시도 광역협의체 개최  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJY05panZrbUtIWTh1MWhHMVdNd3FxWkJWQkRhWDE0WEZVRzNpT210enpzZkc5Sld3QkpWTzIzenVhaktSOTFHNzlOT2VURU1kMnRZWWFCSEh4YUFiTkowQTZRZWpjZDJFclRDaDFZdk9rV3pEZ2YtTw?oc=5",
+    "published_at": "2026-05-06T00:50:00+00:00",
+    "tags": [
+      "정책"
+    ],
+    "final_url": "https://m.news.nate.com/view/20260506n08328?mid=m02&list=recent&cpcd="
+  },
+  {
+    "headline": "전국 자율주행 성적표 살펴보니…상암 ‘최우수’·부산·광주 ‘낙제’",
+    "summary": "전국 자율주행 성적표 살펴보니…상암 ‘최우수’·부산·광주 ‘낙제’  마켓인",
+    "source": "마켓인",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13UmVuM2dQREx2VnY1SFdJbl8taE1DS2k4d2ZFdzN5cWIxU3A1SGV0VGRrR05VSGN6b2h2MldWS2gwMEgyUVM4LU01eU1rS0hIZUY3Tlp4bjdPWklxdFlBLVFsWGVUUG83amwzbWFVZlVkRXM?oc=5",
+    "published_at": "2025-12-07T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01951606642396224"
+  },
+  {
+    "headline": "정부, 자율주행 협의체 개최…규제 풀어 서비스 확산 속도",
+    "summary": "정부, 자율주행 협의체 개최…규제 풀어 서비스 확산 속도  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03d05wT0xfYmVIcm40ck5EYmViYXBuWFJSTG1OZzBjc09OVVV4N1htQzdHLXBjelVKdVZIZ0g0M1lqbWlvWEcyTkpxWjg4bGw5dTdZ?oc=5",
+    "published_at": "2026-05-05T21:01:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260506n01925"
+  },
+  {
+    "headline": "서울시, 4월부터 강남 심야 자율주행 택시 유료 전환...17개월 '무사고' 기록",
+    "summary": "서울시, 4월부터 강남 심야 자율주행 택시 유료 전환...17개월 '무사고' 기록  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSUY0bS1pMEwtTzVmWWhsV01aeFB1YVZMRVdWMUFBMGxxYzhJRDBvZEpsVFFnOFRFQVVSZ0ZQUnNoMGtLa2MxSjVTcHRNeDR4cG1Jc1pCUTVIUdIBXkFVX3lxTE14TGVPZXdTNnJSOVlJdXc4VzNCR3pGbWIxdXU1bWMyOTk4WDNwTWRhRUxzR28xRXkwMlRseE9DZE1kM1dTTmk1aWVwN2V3TEZKNGhTdjNmSmptZlRhVkE?oc=5",
+    "published_at": "2026-03-15T07:00:00+00:00",
+    "tags": [
+      "사고",
+      "서비스"
+    ],
+    "final_url": "https://www.fnnews.com/news/202603151504359829"
+  },
+  {
+    "headline": "포니AI, 화요일 주가 23% 상승한 이유는?",
+    "summary": "포니AI, 화요일 주가 23% 상승한 이유는?  Benzinga",
+    "source": "Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQamFkUG1RVlhodjlDRTF5NUFLc2s5aTdnYVQyeVZfMWg0QmkxQ29PWVdabmNGdE53TDM0UDRfbG5DdjJjcjd6MkMwXzVMelo4RlNObVpDaU5uTS1JSUpqNTZ4eWlLQllBblVXMzY0TjV3SW1pV3BVbkxLSUtFNXNyVGM2UmhENUdzWTVkdGZ2anBLQ1JzSjZnZzZ0MFFycUxLZXFpRHNBQzN4ZFRCWnA1d2pKN0o3R2k0amN2N2NTVm8tR0g5R0J6XzRXOXBxMk4xSTNRNHh5dlFQNmhNUlhWajNaZnlfSEhtcmVsb1YxcUo0VUQyVWZlcDA3RQ?oc=5",
+    "published_at": "2025-05-28T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://kr.benzinga.com/news/usa/stocks/%ED%8F%AC%EB%8B%88ai-%ED%99%94%EC%9A%94%EC%9D%BC-%EC%A3%BC%EA%B0%80-23-%EC%83%81%EC%8A%B9%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94/",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "中, 자율주행 스타트업 ＇포니.ai＇ 美 상장 승인",
+    "summary": "中, 자율주행 스타트업 ＇포니.ai＇ 美 상장 승인  한국경제TV",
+    "source": "한국경제TV",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRV0FRclA4LXdQSVdKa004Ry14OGNDWElKNlFNUmIzcFZpYjdhdE9TQUpVYzJBNFJ6TW1HY3J6bFZwNWs1a25wTXhpZjhYb0FnVXNPQXBaazBsYUVYVV9OdldfVW1kc0ZtRDcyaEFlTDhpUE5vMzg0UFJNSGI?oc=5",
+    "published_at": "2024-04-24T07:00:00+00:00",
+    "tags": [
+      "정책"
+    ],
+    "final_url": "https://m.wowtv.co.kr/NewsCenter/AMP/Read?articleId=AKR20240424145500009"
+  },
+  {
+    "headline": "[생생한 주식쇼 생쇼] 쏘카, 자율주행 데이터 경쟁력과 실적 턴어라운드 주목",
+    "summary": "[생생한 주식쇼 생쇼] 쏘카, 자율주행 데이터 경쟁력과 실적 턴어라운드 주목  매일경제TV쏘카, '풀스택 모빌리티' 도약 선언…에이펙스 모빌리티설립해 자율주행 서비스 박차  전자신문쏘카 7개 분기 연속 흑자…카셰어링·구독 '풀스택 모빌리티'로 도약  뉴스1[특징주] 쏘카, 이틀째 급등세…크래프톤 자율주행 투자 기대감 지속  v.daum.net쏘카, 1분기 영업이익 14억원…자율주행 사업 본격화 - 조선비즈  Chosunbiz車 제조 빼고 다한다…쏘카 '풀스택 모빌리티' 기업으로 확장  네이트쏘카, 1분기 매출 전년比 26.1%↓…영",
+    "source": "매일경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFYUp4SVkxZFhnVnJBaVZZbkJhRS1KNlJQVXJPSkhYN3BsdF9YUVZraS1LR0Z0eGUtZVNYLW1pbkcyc3lrSmZUNWV1U3dzbllmeTBXa3RvQWcxeWhuMlpta1VvSFM4eldM?oc=5",
+    "published_at": "2026-05-14T05:17:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005835159",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "수익 개선한 쏘카, 미래 사업 확장 본격화",
+    "summary": "수익 개선한 쏘카, 미래 사업 확장 본격화  뉴스토마토",
+    "source": "뉴스토마토",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TajBhY19pYlpjTnF0cmtYcllvc0FBWGdPcUZBRF9LUkVaVnFpR21QbWZfdFZsNS1iZ09LYm5NU2RZYU1kZ2Y4djFYQmNneWNkQnNXRkczbllJS0Y1NWt5dA?oc=5",
+    "published_at": "2026-05-14T06:43:57+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newstomato.com/ReadNews.aspx?no=1300948",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 7개 분기 연속 흑자 달성…중고차 커머스까지 사업 확장",
+    "summary": "쏘카, 7개 분기 연속 흑자 달성…중고차 커머스까지 사업 확장  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4c0Z1Rm5fMi04N3g1LXRDTnZ5RnliTWwxalZuTkxkcXNwQ2E1Q3FiTEQxY2VJRWVzMlV4UzE0bzJpWVdzcGlYOWVjQTJlNmI3NXZJ0gFTQVVfeXFMUDhzRnVGbl8yLTg3eDUtdENOdnlGeWJNbDFqVm5OTGRxc3BDYTVDcWJMRDFjZUlFZXMyVXhTMTRvMmlZV3NwaVg5ZWNBMmU2Yjc1dkk?oc=5",
+    "published_at": "2026-05-14T05:11:58+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://m.sedaily.com/amparticle/20044069",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 1분기 영업익 전년比 1.8% 감소 … ‘풀스택 모빌리티’ 전환 추진",
+    "summary": "쏘카, 1분기 영업익 전년比 1.8% 감소 … ‘풀스택 모빌리티’ 전환 추진  뉴데일리 경제",
+    "source": "뉴데일리 경제",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwM29ld2dOb2FKNTZnLTM2X0NZWmNDalFsWjdXWks0R1Rhd1JXYkFMV1A3czdFZ3RhTjVWTkVXaDB3YXplaTV6VC1QVlFVc19CWHctX1EtQkdfSHI4REN6VzQtTm1ZOE9DSVpsYkZydUloY0lZWnk2N2p6WQ?oc=5",
+    "published_at": "2026-05-14T05:35:40+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://biz.newdaily.co.kr/site/data/html/2026/05/14/2026051400174.html",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 1Q 영업익 14억원… 7분기 연속 흑자",
+    "summary": "쏘카, 1Q 영업익 14억원… 7분기 연속 흑자  IT조선",
+    "source": "IT조선",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02M0EyYlVPOVgyMmREbllENlZBMGlPUFZCSXpMSjNrYkhUZnhmSldsTTR2Vnpuc0JlUDBGalFxa1I5Z2xIb1YwZjNPODZhT05CRTI0a25DZXUyMl9nUEEtQzFWNFN0bUQ0SzJaVkdXdTHSAXRBVV95cUxOS3VRZkFNV2R6SUwtQUVSYmtoOHhjNkxCQU9tQlpJenI3R1FCVnRDdTJsVHRyUllMRmg1eUFSZ3hWOUJESDd6aHdmNHdKb1pkalRoRV9QUWJSeDdubW5yN2xabmtfT0Y0N3oxakhrVGl6VGE4NA?oc=5",
+    "published_at": "2026-05-14T04:15:37+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://it.chosun.com/news/articleView.html?idxno=2023092162078",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 실적하락 속 챙긴 수익 펀더멘탈…LTV 48%↑",
+    "summary": "쏘카, 실적하락 속 챙긴 수익 펀더멘탈…LTV 48%↑  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QRTBremZyeEdrMVlHQmk2VW9ocXRoZjFtMnczVjJmbE80WUUzdnBZUDVXcThYN2FKZHNjbHN5M2dRdG9yRW1NSWloNTdpdGlrUElv?oc=5",
+    "published_at": "2026-05-14T05:26:11+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260514n22079",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "정의선 “테슬라·중국 자율주행 빠르지만…현대차는 안전 집중”",
+    "summary": "정의선 “테슬라·중국 자율주행 빠르지만…현대차는 안전 집중”  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SRmVRUzhBRlZ1SktCZl9yRmt2bmJ3SGlrLU50enVJbVowM1FuOFZhS05RbkZERWdrdkxoNGVPZjZ0QWI5eU4zakdwSVkzOFE?oc=5",
+    "published_at": "2026-05-14T04:46:17+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/20260514134617650",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "광주 달릴 200대 AI車, 자율주행판 흔든다",
+    "summary": "광주 달릴 200대 AI車, 자율주행판 흔든다  mstoday.co.kr",
+    "source": "mstoday.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TeFVHR1N0OC1vbEtMN3QyXy1qYmxnVjFpWFV3eWZaZDhVbENMUFhoRjVqdVlBa1NHWEdLMEx4anZidE9vekNFby0wZzEyS3pWazJVNUYwNGJWS2Jaa2w3S3FGRHpLaXQxYTFSVA?oc=5",
+    "published_at": "2026-05-14T07:40:39+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.mstoday.co.kr/news/articleView.html?idxno=101511"
+  },
+  {
+    "headline": "정의선 회장, “현대차는 안전 우선”… AI·로봇·자율주행 방향성 제시",
+    "summary": "정의선 회장, “현대차는 안전 우선”… AI·로봇·자율주행 방향성 제시  아시아투데이",
+    "source": "아시아투데이",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OZlpjOEtQOTctM2VFMHpKNmxRMW4tLVNPX08tMkQza3VFcXUtQ3NkN0o5bEM3ajdPUTZsbkxWbmFReG55c0Q0UEtEZ1F6eWE1YUJmY1owQXBxMnFRVkg3N2V2Z1EwQUdnU1NBanR3?oc=5",
+    "published_at": "2026-05-14T04:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.asiatoday.co.kr/kn/view.php?key=20260514010003772",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "[현장] 정의선 \"중동 전쟁 이후 준비할 것, 자율주행은 안전 중심 개발\"",
+    "summary": "[현장] 정의선 \"중동 전쟁 이후 준비할 것, 자율주행은 안전 중심 개발\"  비즈니스포스트",
+    "source": "비즈니스포스트",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FWEhudzFVYTh0WGV2RFlGQUQ1Z09oVXRLN2c2eVlPNnNfazlzeWlyNnJwYUVlOTVqWjFXWldlNGdJV09zTHRxUWZ4Sy1KMWJzVUp1TWRzXzJUd19xeXgyM3RVeWY5ajhvWWFCaFRhZnZfTzg?oc=5",
+    "published_at": "2026-05-14T04:08:53+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.businesspost.co.kr/BP?command=article_view&num=437809"
+  },
+  {
+    "headline": "스스로 가꾸는 사옥 속 정원, 자율주행 조경 관리 로봇 ‘달이 가드너’",
+    "summary": "스스로 가꾸는 사옥 속 정원, 자율주행 조경 관리 로봇 ‘달이 가드너’  Hyundai Motor Group",
+    "source": "Hyundai Motor Group",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYXEyMDBPc1BGZGppUllPS0N4YXZKd2lEdEtHaW80X1A4bHcxMm9GTEJzRHg3YndUWVdwcmxJMGJ1aFhUMi02S1JBdVd2RzgtSVZyZHR5aFFCeHVCcUFoUVY4Zms4MXFPemF2bi1NNWRLYUhVbmx2OTVzZG5CUmVlVEFCUTJaYTR1US1aT2t2NU1EdlFaZ0E?oc=5",
+    "published_at": "2026-05-14T08:25:05+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hyundaimotorgroup.com/ko/tv/dale-gardener-autonomous-landscape-management-robot"
+  },
+  {
+    "headline": "정의선 회장이 직접 공개한 현대차 미래 먹거리는?",
+    "summary": "정의선 회장이 직접 공개한 현대차 미래 먹거리는?  글로벌에픽",
+    "source": "글로벌에픽",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0SzhYZnVoczd1VlZXSF9wejM3Sk9lTms0QjB3Y2wtTDJZOFRQTlJUaGI5QW9Vd2lEMUFoOExJaEhqY29STk1BM0Fob0JFV1BDZmtNOWd5OTJ2M2pKRGZxb1d3UnFGeHZMR3JJVzhmLXF4UFMtN0hVa0JZdWQ?oc=5",
+    "published_at": "2026-05-14T05:27:29+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.globalepic.co.kr/view.php?ud=20260514142548990348439a4874_29",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선 회장 “전 세계 어느 회사라도 배울 점 있으면 배워야…신기술·체질개선 더 다질 것”",
+    "summary": "정의선 회장 “전 세계 어느 회사라도 배울 점 있으면 배워야…신기술·체질개선 더 다질 것”  쿠키뉴스",
+    "source": "쿠키뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1udnRZQk8xWHlsbm8td1l0NFhocjdKZXZ2RHRRcEhTWmFReU9CeDZqSzVjOVNvdC1yN2huRnlMdzlrVlVoVzVsRmR3TlJKbUhxeHZzUldwUEM2RURkTjcxMm1XVQ?oc=5",
+    "published_at": "2026-05-14T01:31:13+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.kukinews.com/article/view/kuk202605140082"
+  },
+  {
+    "headline": "정의선 \"자율주행, 속도보다 안전⋯양재 사옥=피지컬 AI 시험장\"",
+    "summary": "정의선 \"자율주행, 속도보다 안전⋯양재 사옥=피지컬 AI 시험장\"  아이뉴스24",
+    "source": "아이뉴스24",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kalExd0Y5ZjZGZkQ5ZTMxdjFIU2FzZGF5RURIOTZadDFSbjhKV29hem1seGVibnBFZG5XYXFxQ2R1djQ4QW12ZGZiaEc?oc=5",
+    "published_at": "2026-05-14T05:28:30+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.inews24.com/view/1968494"
+  },
+  {
+    "headline": "현대차·기아 '피지컬 AI' 실증…양재사옥 누비는 로봇들",
+    "summary": "현대차·기아 '피지컬 AI' 실증…양재사옥 누비는 로봇들  프라임경제",
+    "source": "프라임경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBidGRDb3U4N1Q0SlUyX0RsQ05tdmo1TUNRa25yc29GT2lhTDUxNGNFLTA3T0ttdzA1NEJvVEgyQnVDaUZFMjRCQ3l1RlI1NXVydHVxd1JpYmdPN1BHSjl2bw?oc=5",
+    "published_at": "2026-05-14T06:28:39+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newsprime.co.kr/news/article/?no=733497",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선 \"자율주행, 조금 늦더라도 안전 최우선\"…아틀라스는 \"시행착오 중\"",
+    "summary": "정의선 \"자율주행, 조금 늦더라도 안전 최우선\"…아틀라스는 \"시행착오 중\"  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lX3p3SXpBRGxkdjVtbGNUTGNJQ25XRGN6dVRGU01pV1o2bTlpcXV2RlVJSEYwQ2Z2dkQwT29SdTlnRk5DeVBRd191U1JNQldpX1NnM19CTkNQd9IBXkFVX3lxTFBpZTZaNGJSU0RYYjZxQ1JMQmZFNUtFVjhRZDQxYmoyYTVCNnZpOG1qT2dsQUVwcXZXRGpHYkdWcml2cHZaek8tZHdJcmVvczdBczVxRVhuRTVsQ19ZV2c?oc=5",
+    "published_at": "2026-05-14T06:32:44+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.fnnews.com/news/202605141428011033"
+  },
+  {
+    "headline": "“자율주행차 200대 광주 전역 달린다”…대한민국 자율주행팀 출범",
+    "summary": "“자율주행차 200대 광주 전역 달린다”…대한민국 자율주행팀 출범  투어코리아",
+    "source": "투어코리아",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IaDkzM1pEajBaekpqQ1pET2gxbnBCUi1ETDZVRC1xV00tMU5TSk1CRFlnR2Z3cExRZ2t4M2x4anNmcGZuRDE4bmViQlVfUkVPSDA2VkQ2eHhyVW43aGxTTkU2dHdoOGswQkFHemxn?oc=5",
+    "published_at": "2026-05-14T03:07:49+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.tournews21.com/news/articleView.html?idxno=135041"
+  },
+  {
+    "headline": "정의선 회장 “체질 개선 중요…AI·로봇은 현대차의 미래”",
+    "summary": "정의선 회장 “체질 개선 중요…AI·로봇은 현대차의 미래”  디지틀조선TV",
+    "source": "디지틀조선TV",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzN1RJY0pLR3B1dFhYeE1oenByRzNCdno1SEF2OVQ1V3VUWVBCT3lrYm83bUtPbUZUYWN1QUdSQ2NMMjhFdVB0SVowc0VQekw1UFZsUGV2ZGtEaEROY1V1emZ0ZlRSUUJnS1BoeE9rN1psVEc0UVJzbnY3cTI?oc=5",
+    "published_at": "2026-05-14T08:38:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.dizzotv.com/site/data/html_dir/2026/05/14/2026051480165.html",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "광주 ‘K-자율주행팀’ 닻 올렸다…글로벌 실증도시 도약 시동",
+    "summary": "광주 ‘K-자율주행팀’ 닻 올렸다…글로벌 실증도시 도약 시동  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lcWkzY3gyYUZfeXpNSWNLekZQdzlwZzEzYjYyNzB3MDZrNzdNTjNEVEN3UlpTZm9jVXc0OGlfdkpQX3ptNTBBWXE5dmNJeUk?oc=5",
+    "published_at": "2026-05-13T14:04:46+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/20260513230446453"
+  },
+  {
+    "headline": "자율주행 다음은 도시 운영…현대차·기아, 광주서 실험",
+    "summary": "자율주행 다음은 도시 운영…현대차·기아, 광주서 실험  프라임경제",
+    "source": "프라임경제",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95VzJRUjVsNGE5TmlibGthcE44amwzOFlKLUZwbF9CajdSZEtpZ2h2UXVnN2NLRkp1dnZtLVktY2lySHAySmJBckpYSGJ6UElhRWVlSV9pMVNGa2ItMDd3YWhWeVlhUQ?oc=5",
+    "published_at": "2026-05-13T06:56:44+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newsprime.co.kr/news/article.html?no=733329",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "“로봇이 물 주고 커피 배달”… 현대차·기아, 로봇 서비스 개시",
+    "summary": "“로봇이 물 주고 커피 배달”… 현대차·기아, 로봇 서비스 개시  IT조선",
+    "source": "IT조선",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MdEV2eHEyR2dTN3RzT2YxME1kYmwybkhadGFoVXA1UWtMUTZoaHhlRHBldE8xQ0JudHFpckVIVHNCdnFid3RXbkVEdVNMYlhqZFgyQU13VTVKWE8tS3FGcEx3d2tYNWxjamRSckhrTUXSAXRBVV95cUxPb0pvSjBFVEtXSjlLSWh0NE5tTWpYbzE2cDVYVlZTbnBVWFVqa3lXenVOcldLOHhhRVRCRXZURGJPdzBMbjdISTNiM2tFXzRqdDZmV01DOGRCazlWcUI4ckE2SmZ2eGFRREdJd0NvNUtlSHU3Mg?oc=5",
+    "published_at": "2026-05-14T04:19:01+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://it.chosun.com/news/articleView.html?idxno=2023092162083",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차·기아 자율주행차, 하반기 광주 달린다",
+    "summary": "현대차·기아 자율주행차, 하반기 광주 달린다  서울신문",
+    "source": "서울신문",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IRW81Tk41VXdRMTk2WEpraE5IR1k3RkJyc2swcllTZ3NqQnNpb29pLTJpNWotTTNzNG9fMmVPUnlmcXVETlZDV1EzaFYtalYyZHU1Q2VIcUM0TGpQRnhfaXZsOThTdmg0OThMckhOc3Q4b0M5?oc=5",
+    "published_at": "2026-05-13T15:06:27+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.seoul.co.kr/news/economy/car/2026/05/14/20260514030004",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선 \"자율주행 조금 늦어도 안전이 우선\"…AI·로봇 체질개선 속도",
+    "summary": "정의선 \"자율주행 조금 늦어도 안전이 우선\"…AI·로봇 체질개선 속도  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGcW9paVd2YzFMTmd4MlpaeHllc0NBTklJSnhXd2tLNWFKUVFpckRUemlyczZmUGdFSDRmcE1nUTJvWW9KNFo0R01nWHpBY0hnNVphanlWRmdoUlRV?oc=5",
+    "published_at": "2026-05-14T04:10:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.newspim.com/news/view/20260514000756"
+  },
+  {
+    "headline": "현대차그룹, 양재 사옥에 자율 주행부터 얼굴 인식 배송까지 로봇 3종 실전 배치",
+    "summary": "현대차그룹, 양재 사옥에 자율 주행부터 얼굴 인식 배송까지 로봇 3종 실전 배치  뉴스인사이드",
+    "source": "뉴스인사이드",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tTU8yYTVWdjllbjBnOWxoZlZBcm90czhNZS05b3pDQU9haXR4X09yRks0OUhXWlRHd2h4eDB5YlJHaHVsclFvalN6cl9najl1LTRycGdSUU1PcnRmN3o5T1d4cTB4VmN3N1NfQ3ln?oc=5",
+    "published_at": "2026-05-14T04:45:09+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newsinside.kr/news/articleView.html?idxno=4673048",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차·기아, 양재사옥에 관수 로봇 등 3종 로봇 서비스 개시",
+    "summary": "현대차·기아, 양재사옥에 관수 로봇 등 3종 로봇 서비스 개시  PRESS9",
+    "source": "PRESS9",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44eDBzU1ZTNk9NaUhQbG1CSEJLV3AyR2FpODRka1VYSmxDT3FuR1VsaWlJUDlQVHo5UENjWGk0SWpFZ1E2MHo2UUllZFU5OWpPQTdDaUsxb1pyenNrZkh6Qzc1RFE?oc=5",
+    "published_at": "2026-05-14T06:30:10+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "http://www.press9.kr/news/articleView.html?idxno=76527",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차·기아 양재사옥에 로봇 투입…‘로봇 친화 빌딩’ 실험 본격화",
+    "summary": "현대차·기아 양재사옥에 로봇 투입…‘로봇 친화 빌딩’ 실험 본격화  핀포인트뉴스",
+    "source": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Wdnk5VFl5ZFpOS0xIOFRXeEFyQWdVbDhCb1NoYUdPS0FZc3JMZE90c1hoT3VZWkQtaVFVYkFNVWUyLUxQc0lLZHN0ZkFvMF9wanFYRi1xVDZYZ3dycGFmcm53SW8tU2Q0eE1EWWx0OXZnS2fSAXdBVV95cUxPTGotbGlnUmx6SHNqNjl2Qmp0SEpFRXVHT0Z2dVlJUU9aeV96OVhaNUdJUjIxU3E4eTk1YjZpR2pzMjl3eXhtME53c0hrTU14NkxEelRqTzUxZG91ZEFtUmIyMkExbWNhdXE4dmprRVNybEVELW1kdw?oc=5",
+    "published_at": "2026-05-14T07:10:24+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452773",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
     "headline": "운전의 종말…로보택시 시대",
     "summary": "운전의 종말…로보택시 시대",
     "source": "한국경제",

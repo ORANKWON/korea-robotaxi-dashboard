@@ -4,7 +4,7 @@
       "name": "국토부 자율주행 보도자료",
       "url": "https://www.molit.go.kr/USR/NEWS/m_71/lst.jsp?search_type=title&search_text=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89",
       "hash": null,
-      "last_checked_at": "2026-05-15T04:00:09.794313+00:00",
+      "last_checked_at": "2026-05-15T08:58:04.384871+00:00",
       "last_status": "error",
       "bytes": 0,
       "last_changed_at": null
@@ -13,7 +13,7 @@
       "name": "서울시 자율주행 뉴스",
       "url": "https://news.seoul.go.kr/traffic/archives/category/autonomous",
       "hash": "3f58f05552df8f1191be6b86375be61e4f2443d03d5b23d5fd64a394174f226f",
-      "last_checked_at": "2026-05-15T04:00:09.794313+00:00",
+      "last_checked_at": "2026-05-15T08:58:04.384871+00:00",
       "last_status": "error",
       "bytes": 0,
       "last_changed_at": "2026-04-02T01:46:24.039733+00:00"
@@ -22,7 +22,7 @@
       "name": "42dot 뉴스",
       "url": "https://42dot.ai/news",
       "hash": "e0ced866cbd09fdf6ec98142685c66c49cb5846554e55744c94018cbc5e6e2ef",
-      "last_checked_at": "2026-05-15T04:00:09.794313+00:00",
+      "last_checked_at": "2026-05-15T08:58:04.384871+00:00",
       "last_status": "unchanged",
       "bytes": 512791,
       "last_changed_at": "2026-05-07T19:50:23.065525+00:00"
@@ -31,7 +31,7 @@
       "name": "라이드플럭스",
       "url": "https://rideflux.com",
       "hash": "2c26e98c4e172d40d1507eae45b34ed4e42197f3912317c281568d166b7326fd",
-      "last_checked_at": "2026-05-15T04:00:09.794313+00:00",
+      "last_checked_at": "2026-05-15T08:58:04.384871+00:00",
       "last_status": "unchanged",
       "bytes": 254961,
       "last_changed_at": "2026-05-13T08:54:18.006829+00:00"
@@ -40,7 +40,7 @@
       "name": "SWM (서울자율차)",
       "url": "https://swm.co.kr",
       "hash": null,
-      "last_checked_at": "2026-05-15T04:00:09.794313+00:00",
+      "last_checked_at": "2026-05-15T08:58:04.384871+00:00",
       "last_status": "error",
       "bytes": 0,
       "last_changed_at": null
@@ -48,12 +48,12 @@
     "google_news_robotaxi": {
       "name": "Google News 로보택시",
       "url": "https://news.google.com/rss/search?q=%EB%A1%9C%EB%B3%B4%ED%83%9D%EC%8B%9C+%ED%95%9C%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko",
-      "hash": "0ed492a0b8c7a032fc99721fa45dbef04c51ea002194a8dc8094ba0ad771874b",
-      "last_checked_at": "2026-05-15T04:00:09.794313+00:00",
+      "hash": "6f58e7918623ff9cece8a9bda167cff0b57bc83c8af1cf7da10f5c04c30a440a",
+      "last_checked_at": "2026-05-15T08:58:04.384871+00:00",
       "last_status": "changed",
-      "bytes": 122077,
-      "last_changed_at": "2026-05-15T04:00:09.794313+00:00"
+      "bytes": 120919,
+      "last_changed_at": "2026-05-15T08:58:04.384871+00:00"
     }
   },
-  "last_run": "2026-05-15T04:00:09.794313+00:00"
+  "last_run": "2026-05-15T08:58:04.384871+00:00"
 }

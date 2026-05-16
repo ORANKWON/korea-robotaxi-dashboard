@@ -1,5 +1,401 @@
 [
   {
+    "headline": "테슬라, 운전자 개입 없이 뉴욕~LA 50시간 만에 주파… 로보택시 성큼 다가와",
+    "summary": "테슬라, 운전자 개입 없이 뉴욕~LA 50시간 만에 주파… 로보택시 성큼 다가와  동아일보",
+    "source": "동아일보",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tN191Nk8zTXhIRmt4TXZVd2lVaXBTWE92VjNDV0lvN3pScTJVOHNIaHhVUzVfNWlwMVV4VHRqTlZZeTBzWGhXWV83OTR3bVdvWkVNRHotXzBQWVo0Qzg1WlIydzNSTklnbTE3cjNOVlRWSlAxUUHSAWZBVV95cUxPd3FVQlZMNTNWa0tzVDRWTHpTdWVDRlVWRHcxTXJTMUE5bkpSNHlzbmRrRWlvNWR5YlkxYVhSQmV0c2UwS2pKcVFLMjF3Um5ZRzNvcDFYMC01dFczdE9lMlc3VHFRZVE?oc=5",
+    "published_at": "2026-05-15T23:09:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.donga.com/news/Economy/article/all/20260516/133934368/1"
+  },
+  {
+    "headline": "로보택시 꿈이 현실로…테슬라 사이버캡, 美 대륙 횡단하며 성능 검증 완료?",
+    "summary": "로보택시 꿈이 현실로…테슬라 사이버캡, 美 대륙 횡단하며 성능 검증 완료?  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEOWhMMkRWY21YTXFtT1FBN0ZHZTl2bTZvYVpiV3FYb1UxMXZGSDQ1SnZScTctcFFLNFR2SWJ0VjV6bEdaX29la0U1Z3c3REZHTy0w?oc=5",
+    "published_at": "2026-05-15T06:37:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://news.nate.com/view/20260515n21844"
+  },
+  {
+    "headline": "[머니네버슬립] 웨이모, 로봇택시 3800대 자발적 리콜",
+    "summary": "[머니네버슬립] 웨이모, 로봇택시 3800대 자발적 리콜  딜사이트",
+    "source": "딜사이트",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCZk9iamFSRnZpWVIzNUFKcEdJdFVYdEtPam93V3BiZXQ3eXZabFY2bnBNYjMyOU5ONkhLd2h0WEJfRHMtRVNYdDhNZFBGalZfeElBUXBxUmc?oc=5",
+    "published_at": "2026-05-13T01:15:13+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://dealsite.co.kr/articles/161733/089050"
+  },
+  {
+    "headline": "자율주행 서비스, 로보택시 앱… 테슬라의 공습",
+    "summary": "자율주행 서비스, 로보택시 앱… 테슬라의 공습  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KWmtLYXFkS2VpYVdVdnVtNnY2dDNGa0stZW5kWVYwS0VPanJvQ1pkY0hzSF9TeWZDUXNBbkp4U2NoemF3QTdmV0Y0TQ?oc=5",
+    "published_at": "2025-12-08T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/YVLj0ix2XO?f=p"
+  },
+  {
+    "headline": "[기고] 고도화된 자율주행 레벨2와 DCAS 안전관리 제도 도입",
+    "summary": "[기고] 고도화된 자율주행 레벨2와 DCAS 안전관리 제도 도입  아시아투데이",
+    "source": "아시아투데이",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50V1JINE43alpqY3ZObjJ4aTVaMEpOSWlNeUtwcXhvWGxwYzE1QXNFZHNOT0FpYXVNanZwOXIxZWExUllqOUtVdEtyODlPVnlJck93cG9LWURzZGdyZzhqS2VCalM5dE10eXRvNHFR?oc=5",
+    "published_at": "2026-05-14T09:32:08+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.asiatoday.co.kr/kn/view.php?key=20260514010003735"
+  },
+  {
+    "headline": "광주 시내 자율주행車 200대 달린다…“내년 레벨4 목표”",
+    "summary": "광주 시내 자율주행車 200대 달린다…“내년 레벨4 목표”  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BbVpQdGtUd2x1aGlIZnh3Rl9sNS1pai1QeS1faWZaeVFyY2Jib1VzWlRDbDZQTUlhZ1pxR0d6ZzI4di1xdGkxYUo2RQ?oc=5",
+    "published_at": "2026-05-13T06:47:53+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/pkq6UNkLUc?f=p"
+  },
+  {
+    "headline": "K-자율주행 드림팀 출범…광주서 실증 착수",
+    "summary": "K-자율주행 드림팀 출범…광주서 실증 착수  데일리안",
+    "source": "데일리안",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNb3VmZ1Z2N2JEQmlvRUV5bTlOZnN4UmRBRS1wZERob1UtLUFxMk1KM3NVUndJSXV4Z3JXWWotS2VwU0IzWnlLakE2Sm5BdVJGYy1GY1hOZXVSdlRIaGJkSnhYd0dQVERSSHpMMXNIU05zQWRZZ2FDUGZWblNDbm5iWjNpYlpQdkZWWnVvNDRzd0w0T003Z1E4TFpJZVJuVjRSNno2NTkydHV0TkNzMGE2QU5YZHpLMUpFY3FhcEFVUzNvMzFwcFh3MVY4WWRNUGY2ZjVaRDJjeTEyeTlIeG9xdkxQSXFyLTV5VDR0d1ZYQ3R6TGJYMFFIc1VIRFFETlhmSGNrYjgwdUdINkZl0gGPAkFVX3lxTE1EZV9OVUVrVG10ZE9zVDg1YzBqLTFxN0J5U2tENWtHQXI4c3pMN0M5WU5XRVlETmUyQ0pZMmhiMEZiRnN4ZlFPOTVrZ3NrRXhYalJ3WHNQM3BpVTdkR2t0cmdsY0FnZThGamtuLUQzaU5HR1FkQmJ6WEtURWp2OHRFOWFzTDIzejlTYkdEVUdzVkUwNXhadzNQYmRPVFlwQ004SEVYTV92UHk3RlZBQTVLLVFnSlNGUzJKQkh2TjdRcXVNTEp0M0ZaczNHMXhBV2hJQTlDbkZBV2ZMWkJiblZxYXZsNzRzY20zTndIZUdLb0lmU1NzZ1pnYWV5RFpVa2FmMWZlazFnMmZZMERxOWM?oc=5",
+    "published_at": "2026-05-13T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.dailian.co.kr/news/view/1643811/K-%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89-%EB%93%9C%EB%A6%BC%ED%8C%80-%EC%B6%9C%EB%B2%94%EA%B4%91%EC%A3%BC%EC%84%9C-%EC%8B%A4%EC%A6%9D-2026"
+  },
+  {
+    "headline": "내달부터 '광주 자율주행 실증도시 조성사업' 본격 시작",
+    "summary": "내달부터 '광주 자율주행 실증도시 조성사업' 본격 시작  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFVTk5X2J6WXBFOGJwTENZdVRrSWhDLW96dktfYkxWRTFUbWJCQXRrcTJMNUczTnFZYzhPWlluQ2VteU85UEFxSFpFQVZjS1NxZDdn?oc=5",
+    "published_at": "2026-05-13T08:31:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260513n30857"
+  },
+  {
+    "headline": "KGM, 레벨4 자율주행 기술 고도화 상호 협력 에이투지와 MOU 체결",
+    "summary": "KGM, 레벨4 자율주행 기술 고도화 상호 협력 에이투지와 MOU 체결  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQelUyR280ejlJRTVyb0N6b2ZPQkhrNlB6bGhuQzM2dXV3VVNDTDFiVFVLcnJpbW1nV3phMmtaN3Q5YXVKeS0xXy1mX2VpZldjRGdTczJUYW9MUWtiT2k4akpVWVFJNmtyd25IcjdEMnh3TWJpNUUzMnRSWFpPX05XbWUwcw?oc=5",
+    "published_at": "2026-04-20T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://auto.danawa.com/news/?Tab=N1&HeadText%E2%80%A6&Work=detail&no=5999961"
+  },
+  {
+    "headline": "[이슈&경제] 무인 화물차 시대... ‘사람의 가치’ 고민할 때",
+    "summary": "[이슈&경제] 무인 화물차 시대... ‘사람의 가치’ 고민할 때  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40d3RvVHJrZ09VSllkWEs3c3c1WGtxRGNzQW1MVG9yMmRKNGJrNEZlZ1gtNGhPVkFGcjMtUjNvcGRHcFV6bEZ5d09sRQ?oc=5",
+    "published_at": "2026-05-10T10:26:30+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/GYwgGbV7TJ?f=p"
+  },
+  {
+    "headline": "웨이모, 런던 자율주행 운영 본격화… 연내 완전 무인 서비스 승인 목표",
+    "summary": "웨이모, 런던 자율주행 운영 본격화… 연내 완전 무인 서비스 승인 목표  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGc3T1pSZW1PYTVvVlJGR0RBYWRxckhwU01idWhoZ1FpRnRNU3hfVFF2aENTaG1nWkkwdkhwNldrWktEQ2s4Sll2LVdERGpsX0pUMkx0TjY4dFd2RWdPNjdVT25WVWJmdFJBRERlZkRLeFVJYWE2MnVVVzZtVmppeGtfX1N5RURKR25kMkcxN2R2c3ZxbVhhUThEOGw?oc=5",
+    "published_at": "2026-04-20T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://auto.danawa.com/news/index.php?SearchKey=press&SearchWord=&Tab=N1&Work=detail&no=5999828"
+  },
+  {
+    "headline": "정의선 회장 \"테슬라 잘한다\" 인정···현대차 '자율주행' 변곡점 오나",
+    "summary": "정의선 회장 \"테슬라 잘한다\" 인정···현대차 '자율주행' 변곡점 오나  뉴스웨이",
+    "source": "뉴스웨이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95bVFXS2Ntd2sxSkYwX0gzdkc0OU1VZGVxbV9wUGFQZVN6bjdUdEtmQVUwRnJBajlsd2ZpT3U5eGdNdGhkV0ZyUW5qN21PN2ZpNGV2ajh3ek9oQTNOY1ZReUx3ejZMZ3Zra1E?oc=5",
+    "published_at": "2026-05-16T00:06:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.newsway.co.kr/news/view?ud=2026051513412270681",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 찾은 송경희 개보위원장…\"유연한 자율주행 제도 마련\"",
+    "summary": "현대차 찾은 송경희 개보위원장…\"유연한 자율주행 제도 마련\"  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hMktQaEozSHAxZEs0aENPUDYzb1NfMkp6NE8wYTl2VkpKNlNEVjFxTS0tclRFMWVBd0ZkbldrMEJPQU5NM1g0Y3dzVWdwZnZIR3hySUhOQjYza0xzbGtWN2o4T1czWHEtUnNBVzl0TlY3TU9nUjV2TQ?oc=5",
+    "published_at": "2026-05-15T05:15:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://m.news.nate.com/view/20260515n18079?mid=m05&list=recent&cpcd=",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차·기아, 광주서 자율주행 실증 나선다",
+    "summary": "현대차·기아, 광주서 자율주행 실증 나선다  이코리아",
+    "source": "이코리아",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yMkRmNllmZDdZa3NIZGp1VWJsdFMyWkJ0dUFCeFp6RVRkY0YzcG5GUVlqVF92TUJRc005dllLQThpYUJmbVJ6Nk80ZGQyZ01tOTBES3hfRk1BYzNzOUwxUDVpQ1VkQ2I0T3ZCNGFxRQ?oc=5",
+    "published_at": "2026-05-13T08:32:08+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86022",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "광주서 현대차그룹 '자율주행차' 200대 달린다…실증사업 착수 - 머니투데이",
+    "summary": "광주서 현대차그룹 '자율주행차' 200대 달린다…실증사업 착수 - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkdy1IT0RnQW5WeHgxZGtxWlBrNUxKTmpxYWtxMmVDN005b2FfclVTNWEtTm5ZV1VGeE4wSWxXT2hlX01WT0F5NE1GZnR5R25BbDhBeHI1VkpQSzhaQUd1dXVpZnJFRVNCTGlnSUp0SXVOZ9IBckFVX3lxTFBkdy1IT0RnQW5WeHgxZGtxWlBrNUxKTmpxYWtxMmVDN005b2FfclVTNWEtTm5ZV1VGeE4wSWxXT2hlX01WT0F5NE1GZnR5R25BbDhBeHI1VkpQSzhaQUd1dXVpZnJFRVNCTGlnSUp0SXVOZw?oc=5",
+    "published_at": "2026-05-13T02:22:47+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.mt.co.kr/amp/industry/2026/05/13/2026051311133544189",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차·기아, 광주서 자율주행 200대 실증… \"아트리아 AI 탑재\"",
+    "summary": "현대차·기아, 광주서 자율주행 200대 실증… \"아트리아 AI 탑재\"  디지틀조선일보",
+    "source": "디지틀조선일보",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40bWxrVmQ1TWxjQ2hjenFHYnNaT3JaTTcteC1nNlBjU3pnWm9fLVlibWxBUmEwWkg2YTRhdjhhcHdxZEUtQjlaNFVUZmxFSDVLb1I2aVJFTURQalFicElSWXpGNndhYjUzTXhJbGo2SUktc1oyXzMyTzJSVdIBe0FVX3lxTE40bWxrVmQ1TWxjQ2hjenFHYnNaT3JaTTcteC1nNlBjU3pnWm9fLVlibWxBUmEwWkg2YTRhdjhhcHdxZEUtQjlaNFVUZmxFSDVLb1I2aVJFTURQalFicElSWXpGNndhYjUzTXhJbGo2SUktc1oyXzMyTzJSVQ?oc=5",
+    "published_at": "2026-05-13T11:53:11+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://digitalchosun.dizzo.com/m/article.amp.html?contid=2026051380200",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "자율주행 '아이오닉5' 200대 올해 광주 누빈다…현대차·기아 자율주행 '아트리아AI' 실증",
+    "summary": "자율주행 '아이오닉5' 200대 올해 광주 누빈다…현대차·기아 자율주행 '아트리아AI' 실증  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HVlFkZnY3cHYyR3NIU1k1MGtnUGRMejF0cjc2V1NSSDFOYzdzeFMzSC1va0ROU3ZzSExTTFA2NWZOSXhHZ3AxczVFR3BGeS1rbko4?oc=5",
+    "published_at": "2026-05-13T06:09:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260513n23756",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "라이드플럭스, 국내 첫 ‘자율주행 화물운송’ 허가",
+    "summary": "라이드플럭스, 국내 첫 ‘자율주행 화물운송’ 허가  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54cnRpbTRBLVhUY0VfN05XbjQ3VnYwUHZ2aEVXd19NbWtKV2d2M1NGRy1neTRsNUtzVm1qS1pjdGtXd2FEV2tFdmNYOXJGek9tcmfSAVNBVV95cUxObjBkUFlZdFAyb0RxRUlZdkJDYzN0aXpMdGtsNm1FRnpUT19oUi1oNFRWeG5JTWJodFNockxwSFpwQ0RWYUExUDU5TlJBSU50b28tMA?oc=5",
+    "published_at": "2026-04-17T00:30:47+00:00",
+    "tags": [
+      "정책",
+      "기업"
+    ],
+    "final_url": "https://www.sedaily.com/article/20033665",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "사법리스크 턴 카카오모빌리티, 피지컬 AI 기업 전환 속도낸다",
+    "summary": "사법리스크 턴 카카오모빌리티, 피지컬 AI 기업 전환 속도낸다  디지털투데이",
+    "source": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyeHlObk91RExyeFNyYVRKYXhOLWFIX2NmM0k4YXdySWZ1bk5VSlRveUhoemxnNW82c1doUlNHX0lkMXhQUXBneFpkX2hYT1ZKVUdzS1VsMUFvTU5reWlkcWQyejQ0djY1aUVFVWpSUGZjZ1E?oc=5",
+    "published_at": "2026-02-06T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=627497",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "[모빌리티핫이슈] 우버, 카카오모빌리티 인수?…테슬라 6인승 모델Y L 출시",
+    "summary": "[모빌리티핫이슈] 우버, 카카오모빌리티 인수?…테슬라 6인승 모델Y L 출시  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GZC0wSmdIQ3lScFI1a3FJVlVjN3dzSkRUazFidERsOTQzX0lvN2Fjc0drM1dVQnM5bEdZeGl3djdZdGZ4LUt3STlWbUxra2N2MUx3?oc=5",
+    "published_at": "2026-04-07T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://news.nate.com/view/20260408n00001",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "포티투닷, 누구나 활용 가능한 자율주행 데이터셋 공개 - 플래텀(Platum)",
+    "summary": "포티투닷, 누구나 활용 가능한 자율주행 데이터셋 공개  플래텀(Platum)",
+    "source": "플래텀(Platum)",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9MRHd4UW56QU83YkVmSW90RnFMTkl4RkdVVUlMejhtNktxQUNLY2tfa2kxNmhNMGtyelZ0eDBqTkpucDZ4WU9tVg?oc=5",
+    "published_at": "2022-06-15T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://platum.kr/archives/187536",
+    "companies": [
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "KG모빌리티, 포니 AI·포니링크와 자율주행 기술 개발 맞손",
+    "summary": "KG모빌리티, 포니 AI·포니링크와 자율주행 기술 개발 맞손  비즈니스포스트",
+    "source": "비즈니스포스트",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRdmR3UVBkTTRFbXRRZmdkOXdTQUJJTkhiaXB1UTg5bXQzS0Fib2h5RE84SDU1UmdibjktSjJQRC1tbWtuc3lUVFZXVUpONGpwWlNGQ1JmZjNybXhiQVFKMkFRZlZTVzRpZml1SFJpcTA3dFE?oc=5",
+    "published_at": "2024-07-04T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.businesspost.co.kr/BP?command=article_view&num=357816",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "포니링크, 전환사채 153억원 발행 결정",
+    "summary": "포니링크, 전환사채 153억원 발행 결정  이투데이",
+    "source": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUXkzVnpnck5TcTJhdFVla3p0RWtvbTdMbC1IYU0wb1pRZmNDMW9jcDBJNFEtUm53Wnh1RnZYcHJkWnRZeWNxQUtGdkxraC1WWngxbg?oc=5",
+    "published_at": "2025-01-15T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.etoday.co.kr/news/view/2437655",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "에이투지, HL만도와 맞손…자율주행 제어 기술 개발",
+    "summary": "에이투지, HL만도와 맞손…자율주행 제어 기술 개발  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtdDR4WlBTXzFBY0ZhUmhkUE1vS19laUNES1FDY05mQllBMExQeTVGTUFTTXVveHV0OElwalRyWWdvTzlUaVBKcjU4Z3ZsNS11cmNlaU1oeHhXZFNE?oc=5",
+    "published_at": "2026-05-07T00:51:58+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.news1.kr/press/press-release/6159009"
+  },
+  {
+    "headline": "광주광역시, 자율주행 실증도시 도약…민관연 7개 기관 힘 모았다",
+    "summary": "광주광역시, 자율주행 실증도시 도약…민관연 7개 기관 힘 모았다  시사의창",
+    "source": "시사의창",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUS29ZeksyT1JsOWJsckR2X2lsbmxCdW44UWJuQ0ZqUnYxUDlIVGgxblBySHFwX1dtZjFONW1LSDA4aTdaOFpCVU1fZm0zaGVGVjE0Vw?oc=5",
+    "published_at": "2026-05-13T15:27:07+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://sisaissue.com/View.aspx?No=4077122"
+  },
+  {
+    "headline": "오토노머스에이투지, HL만도와 자율주행 제어 기술 고도화 나선다 - 머니투데이",
+    "summary": "오토노머스에이투지, HL만도와 자율주행 제어 기술 고도화 나선다 - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lVzc1NENBd3I4RHZCTUJISnNENlVfVWprQVp2WXQ2MXNYMkh3dHYxZERJTHhNZkcwQmYyX0I5bmFnTkhKV0kzVWhTV2ZrZm9RVVVJSlNEcjFSNFYxUURodHJwOENYdW8zY2fSAW9BVV95cUxNd0FRZTZoaGpLSFotSWxBRG9hYVFUeHlhWFpZWGs3aWVPT25VTXB0LTBzNGJPdHJPU29nMjd2VS1KQjVjQkNiR3lfVnRiMTJKSEJ4NUFMSXNDZzRQWENiNWl5SjhNV1Z1LW5EWW9Vbnc?oc=5",
+    "published_at": "2026-05-07T06:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.mt.co.kr/future/2026/05/07/2026050709593631817",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "“자율주행차 200대 달린다”... 광주시 ‘K-자율주행팀’ 출범",
+    "summary": "“자율주행차 200대 달린다”... 광주시 ‘K-자율주행팀’ 출범  전남인터넷신문",
+    "source": "전남인터넷신문",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UNlEwd3dXOFV0MnpkdVRZcHJJd013bUFKUGlFaHFCZkVOQWdOR01DMHRKak5CX0RNUEFfdE0zQ2RlVFdDMXV5RHNTU0VEUTIzMHVqZDVVaw?oc=5",
+    "published_at": "2026-05-13T12:24:30+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "http://jnnews.co.kr/news/view.php?idx=426710"
+  },
+  {
+    "headline": "국토부, 광주 전역서 자율주행 실증 개시… 대한민국 자율주행팀 출범",
+    "summary": "국토부, 광주 전역서 자율주행 실증 개시… 대한민국 자율주행팀 출범  아주경제",
+    "source": "아주경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlN29HQWpXZnZzYmdwY2FhZ0xsLXJiQUxfX2NDZ29Kc0ZaZEl4VHNLRkswRXI4TTZxQ01SaTVCVEcyOGoxcmpYbVRwa2JmLXBuRkhIZEtLODBMZ9IBWEFVX3lxTE9DLUdTTFVzb2lQTVBicnR6RHBvLVRrU1l1V0RBeEdJQURkZjhlZ3h0Wk4zcDRTb2E3ZTU4ODRsbkk4UER6ei04Umt4YXJDZWEtV0p4X2k2TTY?oc=5",
+    "published_at": "2026-05-13T05:09:31+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.ajunews.com/view/20260513135316031"
+  },
+  {
+    "headline": "오토노머스에이투지, 중부대학교와 산학협력 체결",
+    "summary": "오토노머스에이투지, 중부대학교와 산학협력 체결  오토뷰",
+    "source": "오토뷰",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aMXoxNDg1SjFMY2laaGtZcEQxakpQb21RWTBmM0hzR3BOS3JCQ05lV24wbjVNYjNRaEFaRlRUQnEzeklHTkF5ZkxFV1lvVjFQNnpNc1RYZ3N2U0dY?oc=5",
+    "published_at": "2026-04-30T02:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.autoview.co.kr/ko-kr/articles/100015",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지-중부대, AI·자율주행 인재 양성 위한 업무협약 체결",
+    "summary": "오토노머스에이투지-중부대, AI·자율주행 인재 양성 위한 업무협약 체결  에이빙",
+    "source": "에이빙",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1b2ZjMlRndV8yUDdORzlGMUZoN2gxSGtiY3JmRmdLd1hfT2hUT3ZOQmR3cmNNd2VPTDVidnN6TVphWVk0QVo5RnNzNmVvdUFIal82MHBqaDBCZ3B0Z1FQM2k2WllYMk3SAWtBVV95cUxOcURHLXE0dDdvcUZMLWNleFg5YUNIZE8xWkRlMEdRanpzRFIzbllfVU1JdlM0MFVybWFnRzhDODgzbmlhZnp5czRCeDFEdUdsMVVHb0lKWXlzb2d1MjJQb2V4di16YUl6UklaSQ?oc=5",
+    "published_at": "2026-04-30T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://kr.aving.net/news/articleView.html?idxno=1810799",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "K-자율주행 국가대표팀 출범…\"광주, 글로벌 실증도시로\"",
+    "summary": "K-자율주행 국가대표팀 출범…\"광주, 글로벌 실증도시로\"  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlYXVpaUljVUFrWGVHVXZ3QU5XN21BdFZaRG5tc0lLWjR4RnZQcWVLYjAzR1AwR3ZaRkhtaXA3d2tSM1JUUmFRM2ZTUFJiT1cta2tj?oc=5",
+    "published_at": "2026-05-13T06:40:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260513n25255"
+  },
+  {
     "headline": "韓 자율주행 택시, 겹겹 규제에 강남 밤길만 달려",
     "summary": "韓 자율주행 택시, 겹겹 규제에 강남 밤길만 달려  동아일보",
     "source": "동아일보",

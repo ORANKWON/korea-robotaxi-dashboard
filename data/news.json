@@ -1,5 +1,268 @@
 [
   {
+    "headline": "오토노머스에이투지, 日서 레벨4 로보택시 상용화 전략 공개",
+    "summary": "오토노머스에이투지, 日서 레벨4 로보택시 상용화 전략 공개  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFNFNJMTZxNjFZcGRrcFR1Zl9pTi1YZ3VBRXNNbTBmMzJ6NlRLNjV6dEJDOFV3RFY2Z1VzX2NsSEJfeWFTWjl0MlY4Z0xCM3VtQklLWE5qZURwd9IBVEFVX3lxTE14WkVYXzkzak11N1FTWDA0QUYwTmFQYmtkS0ozNkZYSEx6bkFMT2RkMHhFRUNXSXVXX1hFRWdUeG5yTlVWLTA0NTFGNXVxM0NyM2xkcQ?oc=5",
+    "published_at": "2026-05-21T02:42:11+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.hankyung.com/article/202605211504i",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "샤오펑, 로보택시 양산 돌입…하반기 시범 운영 개시",
+    "summary": "샤오펑, 로보택시 양산 돌입…하반기 시범 운영 개시  직썰",
+    "source": "직썰",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QZkI1SlNxUXNlZjI4NjVQWlR6V3B5alltZi1MN3FhTUZhSnpORlZuRThfc2s3QzI3VmpObk95MVpwX2FobzQ3a0NBRVNJQ2xaaXlGcGVpNU5adzNiVzRfN001TjZEcFRC0gFsQVVfeXFMTXdyTC1tX3BaLXRzVUk3WFJ3TmxBVFVNdVRDVmp6WWZhdGIzLTgwTmlGS25SeFBiRFZ0VG1wbHlEdDFIZzdyd3haYXE0WGJRSjVTMUhjSGFvOGFTQjNNLUtzWUE0ZDljMU5QVE0y?oc=5",
+    "published_at": "2026-05-19T08:48:16+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.ziksir.com/news/articleView.html?idxno=134392"
+  },
+  {
+    "headline": "자율주행 트럭, 물류 혁신 이끈다···무인 운송 상용화 초읽기",
+    "summary": "자율주행 트럭, 물류 혁신 이끈다···무인 운송 상용화 초읽기  뉴스웨이",
+    "source": "뉴스웨이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KQURkeVlHbzlMdGI4MkVXMmFhb2dEb3JXeEMxZ29lbVJUQXNJSWhwd0xHR1AxNW5aRHhUaklmVmZTLXNacWctVzZLOGFqZjN5bTNfVXQxTVpKTkcydDlsSmN4ZUhVemtJLWc?oc=5",
+    "published_at": "2026-03-26T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.newsway.co.kr/news/view?ud=2026032611492915571"
+  },
+  {
+    "headline": "제주∼서귀포 자율주행 버스 달린다",
+    "summary": "제주∼서귀포 자율주행 버스 달린다  한겨레",
+    "source": "한겨레",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13NVlNQUg5QXNVcFVFQXBZaW8zajVSaEtHWnFVUGpNblh2cHRnT2lhZjlINDl1dm85eWFNUkJqZGd4OEJpNzZMeEd1SkU1T0lpMl81SEphTHItQlA0QmVJ?oc=5",
+    "published_at": "2026-05-16T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hani.co.kr/arti/area/jeju/1150456.html"
+  },
+  {
+    "headline": "서울·대구·경남 등 8개 지방정부 자율주행차 시범 운영",
+    "summary": "서울·대구·경남 등 8개 지방정부 자율주행차 시범 운영  경북구미신문",
+    "source": "경북구미신문",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uRGVrdGdaa244eUFraTFRYzg4TkM3T1p5ZXN4c1pnYlFjREpsc2s0MHRValBVdl82UG5LeE13Z0JQU0dJamtrZ29iM2ZtZlJQcVZoUmMwX1YzOXNFdXZOM3Z3TnRfLUFJNFE?oc=5",
+    "published_at": "2026-02-24T08:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "final_url": "https://www.guminews.net/news/articleView.html?idxno=13756"
+  },
+  {
+    "headline": "TS, 자율주행차 사고 통계 공개 시작…저속에서 경미한 사고 대부분",
+    "summary": "TS, 자율주행차 사고 통계 공개 시작…저속에서 경미한 사고 대부분  전기신문",
+    "source": "전기신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CTGhNWlhoWS0zelllaTZGX01Nb29EZWNMZzZEUlRSNmxQcFRoQVRCQUZsY0h5dVVzdnNkZFJnUHoxQmk4VlJ1eHpkanhsYWhEcTJJVHNKemZQV2plZHRxelhFeTdQQ1FKaDZ2RQ?oc=5",
+    "published_at": "2025-11-28T08:00:00+00:00",
+    "tags": [
+      "사고"
+    ],
+    "final_url": "https://www.electimes.com/news/articleView.html?idxno=362353"
+  },
+  {
+    "headline": "\"엔비디아의 유일한 선택지 될 수도\"…'고래싸움'에 노 젓는 한국車[주末머니]",
+    "summary": "\"엔비디아의 유일한 선택지 될 수도\"…'고래싸움'에 노 젓는 한국車[주末머니]  아시아경제",
+    "source": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xV2VoX1NxLWlRbU1walFaNVVENFVVV2c3YXNWUEtjbEc4b3g2cVBVTHN1eEdwamFydWl5WlVBZkMzeEdRM1BSR19TRVEyaFg3VFZiSVlBN01lM3VGZlBqU2Rn?oc=5",
+    "published_at": "2026-02-21T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://view.asiae.co.kr/article/2026022009054334557"
+  },
+  {
+    "headline": "현대차, 자율주행 내재화 가속…조직 정비·실증 ‘속도전’",
+    "summary": "현대차, 자율주행 내재화 가속…조직 정비·실증 ‘속도전’  ntoday.co.kr",
+    "source": "ntoday.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aeVNqOVUwU1NpS1V5SVllMGduczlyZU9JbFhYUmtDd3AxUDZyV1lNRWxMeFNtR0JJbHZyUGZib0NSN2tJbmoxZk9wVko2Z3BqaXpfWEtxVmg1NUI5UXFnd1lJVy1tQWhucjFsSENTNNIBb0FVX3lxTE9aeVNqOVUwU1NpS1V5SVllMGduczlyZU9JbFhYUmtDd3AxUDZyV1lNRWxMeFNtR0JJbHZyUGZib0NSN2tJbmoxZk9wVko2Z3BqaXpfWEtxVmg1NUI5UXFnd1lJVy1tQWhucjFsSENTNA?oc=5",
+    "published_at": "2026-05-26T11:08:50+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.ntoday.co.kr/news/articleViewAmp.html?idxno=127290",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 포티투닷,美 엔비디아 출신 자율주행 임원 영입…기술 내재화 박차",
+    "summary": "현대차 포티투닷,美 엔비디아 출신 자율주행 임원 영입…기술 내재화 박차  mstoday.co.kr",
+    "source": "mstoday.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96Z0NVMXRKTHdOakg1bWw2amNRZ3B1cWllQThjQnlmWTlMd1JzNlRNMEpRaVBQTVFPRFBfSXhWRlpaT1haUUlVYl9kNlBIWS0tanpGN3RWZ1hsQ3lzbGhrcl9xU3g5el90VmpVajBR?oc=5",
+    "published_at": "2026-05-26T02:14:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "http://www.seouleconews.com/news/articleView.html?idxno=91435",
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "현대차, 초·중학생 대상 '미래모빌리티학교' 참가 학교 모집",
+    "summary": "현대차, 초·중학생 대상 '미래모빌리티학교' 참가 학교 모집  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWNlFRcWt3R2gzLUQxb1JxeW5wZlpibndtdDJJV0hlaDVGMzlFd3F1bW05cE55T3VNTUFWS2R4Y3hVMnBoZG1qOU9tZ043ZWh5czVn?oc=5",
+    "published_at": "2026-05-25T23:56:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260526n05038",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "포티투닷, 엔비디아 출신 또 영입… 자율주행 내재화 속도",
+    "summary": "포티투닷, 엔비디아 출신 또 영입… 자율주행 내재화 속도  동아일보",
+    "source": "동아일보",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LeWJlNWNrRmRpeG53ZUF4N3JFcDZ6MDJEMmdkakl4Mnd5cUVNSnhLRmdCNW05bV9wWkE4UTVvMjJyQXpLcy1qbUxRT1AyY05xbzFNS1hRMmQ2TmQwRXA0VkNvNVZaVFNTaERYSVdHNWRxdHFMNnfSAWZBVV95cUxQM3BQN1ZvXzFRSWV2V2RlOE1tSkdSUS1EZ0VOZHVSVGI4Z2NWWThaQW56V2tUOFlxYlBGczRheWhvN3BwcllLbHBEMlQyNDdHT1l2eV9PYkhZU1RMNXAtOFJXbi1WSVE?oc=5",
+    "published_at": "2026-05-26T15:30:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.donga.com/news/Economy/article/all/20260526/133996319/2",
+    "companies": [
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "현대차,‘미래모빌리티학교’ 모집",
+    "summary": "현대차,‘미래모빌리티학교’ 모집  울산제일일보",
+    "source": "울산제일일보",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82WGVpQzNCcmNJVF9weG5oU0YxRWZIQ0ZzUTJtUmFBWnNaQ3NZMmhTTmRhRndTRTUzMUwzWEFnTVloQ1lvRXppRHZvOWxheDVEVC1pRzdUTlJqMy1iaEtybnBJX1JNdw?oc=5",
+    "published_at": "2026-05-26T11:35:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "http://www.ujeil.com/news/articleView.html?idxno=386276",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 2026년 2학기 ‘미래모빌리티학교’ 참가 학교 모집",
+    "summary": "현대차, 2026년 2학기 ‘미래모빌리티학교’ 참가 학교 모집  미디어인뉴스",
+    "source": "미디어인뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FSVZXNGw3TGtlYkdqb3NsVHVHVXVMc2NnOXZjbnJkOW5xMk15QllDZWczZmpYSDVpbktSS0FBZGUtTWVQSzcwZGJUWGJVWHFReFBXSDV0YnllV1J4UXZOVVhVNHdmQ0xzTDRXbVJn?oc=5",
+    "published_at": "2026-05-26T01:45:02+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.mediainnews.com/news/articleView.html?idxno=45739",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "자율주행 배운다…현대차, 미래모빌리티학교 모집",
+    "summary": "자율주행 배운다…현대차, 미래모빌리티학교 모집  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xcjY0S3EzdFQ1M3dyTTVodDlwUUdGYzJhdDBIZTlvY05FZkZ0TFVzY2hneDZNWHVxVjYtTkJhUEZCVDJGLUd3aDZWMjVPRnBYSWdZ?oc=5",
+    "published_at": "2026-05-26T01:18:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260526n10038",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "성장 멈춘 카카오택시, 피지컬AI 전환 '사활'",
+    "summary": "성장 멈춘 카카오택시, 피지컬AI 전환 '사활'  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15LU53X2NvNlBCUzhzRFAtZkNhMXJENGJ2bEFXWUpUd0JTNjZZd3gyOFI0bi04ekYwUEFwYk80ZE02M1FkNkNPcnRyWTdGMi0ybGMwatIBVEFVX3lxTE15LU53X2NvNlBCUzhzRFAtZkNhMXJENGJ2bEFXWUpUd0JTNjZZd3gyOFI0bi04ekYwUEFwYk80ZE02M1FkNkNPcnRyWTdGMi0ybGMwag?oc=5",
+    "published_at": "2026-05-25T08:37:23+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.hankyung.com/amp/2026052574201"
+  },
+  {
+    "headline": "카카오모빌리티-LG이노텍, 자율주행 솔루션 공동 개발",
+    "summary": "카카오모빌리티-LG이노텍, 자율주행 솔루션 공동 개발  바이라인네트워크",
+    "source": "바이라인네트워크",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOMFBCS0xzWnoyRXdnUXhwck43WnVtVVNMQVVHNmRPTjV6VUp5ektCUFdVNXZnaURDcnMwMTM1TG1GREVMRnhkR19XWUtDZ0VvWURlVHNB?oc=5",
+    "published_at": "2026-05-20T00:54:35+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://byline.network/2026/05/20_19298384/",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티-LG이노텍, 자율주행 솔루션 공동 개발",
+    "summary": "카카오모빌리티-LG이노텍, 자율주행 솔루션 공동 개발  디일렉",
+    "source": "디일렉",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YZ3hIeHhJZUdsOFNJWWtNOFgzYlRZWVUwTUFlWjV1T21Jclc4MmZ4U2lwZTk5bHdjWHI4aVZkYWktaTQ3eFJCbDBjai1QN2dJei1ZdzJSRnh1T3hROHpNT1NTcUNFQQ?oc=5",
+    "published_at": "2026-05-20T02:29:43+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.thelec.kr/news/articleView.html?idxno=56910",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티·LG이노텍, 자율주행 솔루션 함께 만든다",
+    "summary": "카카오모빌리티·LG이노텍, 자율주행 솔루션 함께 만든다  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DMFdSQWt4djhZZTNBOUE1Ukt5OXRaUHhFUDVmalJXY1JpY0ZKeURNNk8xeVlhR25nSHF3dnNzLXpod0JRTUE?oc=5",
+    "published_at": "2026-05-20T01:03:02+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/GBkESNMVTv",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티 “자율주행 분야서 글로벌 경쟁력 확보”",
+    "summary": "카카오모빌리티 “자율주행 분야서 글로벌 경쟁력 확보”  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CMlNIR2xTY2x5eHJCcjJIVF9tNDVUTzQ5aVIwY2lKUG1qSW1idW1RdnNOcjNUeXdlVU5ZRFpPT0RYOFpkZ252bzNVRQ?oc=5",
+    "published_at": "2026-05-05T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/8j3rwI71S4?f=p",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, LG이노텍과 '자율주행 솔루션 개발' 맞손",
+    "summary": "카카오모빌리티, LG이노텍과 '자율주행 솔루션 개발' 맞손  뉴스웨이",
+    "source": "뉴스웨이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56NDROeGlmQVJXNnp2dVZlS1FSclplUlQ2QzlZMUVEU2tpMVk0aml3aS0xcm9YdmowSlhfdU5hNFlRci1JQmpldThzbHh0V2hhX21Ua25pV2o0aVpIb0V5NGRrdmVwcF91bGc?oc=5",
+    "published_at": "2026-05-20T00:33:06+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newsway.co.kr/news/view?ud=2026052009215086222",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
     "headline": "\"PV5 자율주행 로보택시 개발 착수\"...현대차그룹, 글로벌 AV 파운드리 선점 나선다... : 네이버 블로그",
     "summary": "\"PV5 자율주행 로보택시 개발 착수\"...현대차그룹, 글로벌 AV 파운드리 선점 나선다... : 네이버 블로그  Naver Blog",
     "source": "Naver Blog",

@@ -1,5 +1,572 @@
 [
   {
+    "headline": "'현대차 협력사' 中 모멘타, L4 로보택시 주행 허가, 글로벌 상용화 박차",
+    "summary": "'현대차 협력사' 中 모멘타, L4 로보택시 주행 허가, 글로벌 상용화 박차  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uR3ZleWY3YVZTQ05CdEJQVzdWT2xKTGVUOW0zb2diN1Y4QVVTc1cxd1hRQ3ZHVlljd0tJR0RNeWZxa2RPaDJnOXN6aXZrbkZucHVF?oc=5",
+    "published_at": "2026-07-22T02:09:00+00:00",
+    "tags": [
+      "정책",
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260722n12544",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "테슬라 로보택시 운행 거리 정체…누적 착시 뒤에 숨겨진 성장 한계",
+    "summary": "테슬라 로보택시 운행 거리 정체…누적 착시 뒤에 숨겨진 성장 한계  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sSUFlUmZ0VjEybVRpZnpvR01SMzYwNWx3T21fVG9aRGtwTVpiT2lZQUJvVS1VNE1pWm8xem40MFpLMmxaemNhZTFfRFlqbFY4ZnJjRTE5QmtiN3hfSktndHYxbzNZZ2g1V3dYUg?oc=5",
+    "published_at": "2026-07-24T06:28:43+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://mauto.danawa.com/news/?Tab=N1&Work=detail&no=6038648"
+  },
+  {
+    "headline": "웨이모 자율주행차량 습격에 주민들 불안",
+    "summary": "웨이모 자율주행차량 습격에 주민들 불안  미주중앙일보",
+    "source": "미주중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vemhiVEl4di12ZVNhNjBFMWR0OW54RzhUdlAzRDBTQUFIY3AtZWhhdHoxYXJDam9VRFRpaFJZcmdPNFNCZEN0YVFjR2JaOTdrOFgzU2xLUi1uSndZV2lVZG9B?oc=5",
+    "published_at": "2026-05-18T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.koreadaily.com/article/20260518163731295"
+  },
+  {
+    "headline": "정의선 “피지컬 AI 시대 연다”…현대차, 자율주행·로봇·AI 공장 전략 공개",
+    "summary": "정의선 “피지컬 AI 시대 연다”…현대차, 자율주행·로봇·AI 공장 전략 공개  브릿지경제",
+    "source": "브릿지경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGYWtBTno1ekIyWTdvYlNCVTQxcGRvY0U2N1R0UFZ3OV8xVGdHN2dzRjhRdVZ0dWF0VEZwQUl1WmFwUnA0dWxGVVk1Z215TXVENWREanE5ekFKZw?oc=5",
+    "published_at": "2026-07-25T05:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.viva100.com/article/20260725500199",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선·젠슨 황, 한 달 반 만에 재회…현대차 AI 동맹 구체화",
+    "summary": "정의선·젠슨 황, 한 달 반 만에 재회…현대차 AI 동맹 구체화  에너지경제신문",
+    "source": "에너지경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mcG9OOVFPZ1ZNX3lVc2hmM2VWTy1fbTZDN0Q5ZGNVTk1wdGFVN1A4VWZPeFcyUkV4MVFRVmwwaGtzZ1JkR1NhLVROdndiN1Y0OTYyOFNDdXY0ODJSbVBnTWVB?oc=5",
+    "published_at": "2026-07-25T06:37:16+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "http://www.ekn.kr/web/view.php?key=20260725028496103",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선 회장 \"현대차그룹, 자동차 넘어 피지컬 AI 기업으로\"",
+    "summary": "정의선 회장 \"현대차그룹, 자동차 넘어 피지컬 AI 기업으로\"  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pNVFqeWJRVnpYM1k2VTlPQ0VTbDVPVEVDRmtLVVRCU0l5cWxpTFlfOEt6eV9ydFIwdjRiSU1MdHp6bFhlSFZHUGNXYjRMMzQyckxWWGx3?oc=5",
+    "published_at": "2026-07-25T07:38:26+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://zdnet.co.kr/view/?no=20260725160202",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차, 피지컬 AI 기업 변신···정의선 \"로봇·자율주행 고도화\"",
+    "summary": "현대차, 피지컬 AI 기업 변신···정의선 \"로봇·자율주행 고도화\"  뉴스웨이",
+    "source": "뉴스웨이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NcjJSZzlsdEZRcDFPelpuaTNpMEhwVVRoN0JXSnZWZmwxQ3lES2NSSXNCMDVpcFdIRlBvZU5xR05QLTZNWVhGcWxtOU5jWk9ITExUY015UFZkbGc2YUZ5d3BqU25YNXJJUGc?oc=5",
+    "published_at": "2026-07-25T04:16:11+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newsway.co.kr/news/view?ud=2026072513154443649",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선 \"빅테크와 협업해 피지컬 AI 혁신 생태계 구축\"…젠슨 황과 회동",
+    "summary": "정의선 \"빅테크와 협업해 피지컬 AI 혁신 생태계 구축\"…젠슨 황과 회동  블루밍비트",
+    "source": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GZ0o5cDBIaUJQZUN4dmU0V3ZoZE1xT1owOWFNcmFCVEV5NHV1Szl6aVNJby1sZGFWbHJwMHNPaVhGd3ZrQnhUTDYzLW5YS3VG?oc=5",
+    "published_at": "2026-07-25T07:25:35+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://bloomingbit.io/feed/news/116994"
+  },
+  {
+    "headline": "정의선 \"자동차 넘어 도시까지\"…현대차, 피지컬 AI 기업 전환",
+    "summary": "정의선 \"자동차 넘어 도시까지\"…현대차, 피지컬 AI 기업 전환  아이뉴스24",
+    "source": "아이뉴스24",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5na2pxOFlBWnVnSWJuWHVqcjNVYTluRkJYdC1OSVE5N05iSTBqZTdzcWpDOVZ1ZTV2TXlveUtUenJINGRqQ0pDd1Z4MA?oc=5",
+    "published_at": "2026-07-25T07:42:13+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "http://www.inews24.com/view/1988736",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선 “車 넘어 도시 전체 AI로”…엔비디아·구글과 협력 확대",
+    "summary": "정의선 “車 넘어 도시 전체 AI로”…엔비디아·구글과 협력 확대  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94MThvaC1tVDdtN2RSbE93amZMclJuVjZ4TlR4S2EyVXhvci1KQmxUaVJtT1ZBSGRuVzlGODFRcE5mdy03eDNOeXVsRHYwT3A5WGfSAVNBVV95cUxQR3dfcHAwb3BucjlqVlJrQlAzSjZvdGpwemJtU1FWbldmcnJYUVZHSzZIOTIxYVNVQ2FxYmVBdDV5eXZjakZiODhOODRGQU93TE8zYw?oc=5",
+    "published_at": "2026-07-25T05:09:24+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://www.sedaily.com/article/20071791"
+  },
+  {
+    "headline": "정의선 \"車 넘어 AI 기업으로\"…엔비디아·웨이모 협력 확대",
+    "summary": "정의선 \"車 넘어 AI 기업으로\"…엔비디아·웨이모 협력 확대  디지털데일리",
+    "source": "디지털데일리",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82bHk2aVNTajk4dnluSm1sREJhWW5memc0RjNoOEM5ejBwM1djM0hFcDg3ZFk0VEE4d08zclJfME5tRXpWc2dvVExNYXA3OWNGT1gtS29SVjE2ODZ5blplRDUwRnI?oc=5",
+    "published_at": "2026-07-25T05:50:02+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.ddaily.co.kr/page/view/2026072514465358347"
+  },
+  {
+    "headline": "정의선 \"현대차, 피지컬 AI 설루션 기업 전환\"…빅테크 협력 확대",
+    "summary": "정의선 \"현대차, 피지컬 AI 설루션 기업 전환\"…빅테크 협력 확대  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oN043Z194a2FRZG9LTkFxZk5NOGpyWEZZeE5IdWxTM1dXcGNURzA0WmlXczdXWjJaWE93XzBWalU5cHc1SVlLaW1oNEZuY180cU5Ddl9wdzNyU09LNk5Iag?oc=5",
+    "published_at": "2026-07-25T05:47:53+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.news1.kr/industry/auto-industry/6238874",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선 \"AI 팩토리·도시 인프라 통합까지\"…피지컬 AI 비전(종합)",
+    "summary": "정의선 \"AI 팩토리·도시 인프라 통합까지\"…피지컬 AI 비전(종합)  매일경제 마켓",
+    "source": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NNGpGODQ2Vy1obVE0d2pEN2NCRldlNzRNdWx6c3RkSzN5eElpb3M3TV9aRWhpaDBUUkdyY2FRZ2RUVFNsMHJ0OHZqSkVsc2xwMXc?oc=5",
+    "published_at": "2026-07-25T07:00:52+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://stock.mk.co.kr/news/view/1126963"
+  },
+  {
+    "headline": "다시 만난 정의선·젠슨 황…자율주행·AI 협력 구체화",
+    "summary": "다시 만난 정의선·젠슨 황…자율주행·AI 협력 구체화  ER 이코노믹리뷰",
+    "source": "ER 이코노믹리뷰",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuMHRzZHktdUl1V2ZJWkpodkp0dFp0amdVWEE2UmVRYW5BLTR3TXlUZDdPLURtX3JkTG9QeUYtcUlPejBVOTlyNDZHZ0xCaVFDTlo1ZnpiM094RG90anNtSVlHUkZvNVRwZVYzMg?oc=5",
+    "published_at": "2026-07-25T04:15:20+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.econovill.com/news/articleView.html?idxno=746135"
+  },
+  {
+    "headline": "정의선 회장, 美 샌프란시스코에서 빅테크 협력 방안 공개",
+    "summary": "정의선 회장, 美 샌프란시스코에서 빅테크 협력 방안 공개  라이센스뉴스",
+    "source": "라이센스뉴스",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMY3dmcU9FSU9kTXVOYnBQVUM2UkRibkhWRzZuekVPNk9jZ1lKVGdkbk92M0U3Uk4wcjQ3MGZ0R0NIVks5blhIMXFhbkRfUVpJNnF2eHJqSlQ4eXVWSTZ6cjZPb2h6a2ZwdGEw?oc=5",
+    "published_at": "2026-07-25T06:50:00+00:00",
+    "tags": [
+      "해외"
+    ],
+    "final_url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205494"
+  },
+  {
+    "headline": "현대차그룹·엔비디아, 피지컬 AI 동맹…정의선 \"도시 지능화까지 확장\"",
+    "summary": "현대차그룹·엔비디아, 피지컬 AI 동맹…정의선 \"도시 지능화까지 확장\"  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82QWJNd1NtYmRaX2xHbU13Rl9KMThOb1NvOGdoNU5UR2tmWm55SlJRREJzWGRvbmVxcTVnbjRtdExsM1RaeUpodWhTSmk1RG5pbnZoVmpWazVIRGQ0?oc=5",
+    "published_at": "2026-07-25T05:30:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newspim.com/news/view/20260725000072",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차그룹 정의선 회장, 피지컬 AI 비전 공개",
+    "summary": "현대차그룹 정의선 회장, 피지컬 AI 비전 공개  fetv.co.kr",
+    "source": "fetv.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56c2RDYnRIOF9jSkdob1RwVmwwQVh0MEdxcVphUzRqV0sxWXRVWE5kOV91UVQ4NFdlemNMZ2V5MWowN1BJQmpwV0Rud2VSUHNSamthR3FrVFN4MDhRWXNNOEt1Qk1tQzZQ?oc=5",
+    "published_at": "2026-07-25T06:16:20+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.fetv.co.kr/news/articleView.html?idxno=307151",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차, 전기차 다음은 ‘피지컬 AI’, 보스턴다이내믹스가 중요한 이유",
+    "summary": "현대차, 전기차 다음은 ‘피지컬 AI’, 보스턴다이내믹스가 중요한 이유  엠투데이",
+    "source": "엠투데이",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IUW5KU1E3b0Zhc2UtYnN1S1RFeFYyc2V2SWhYZkRnUS1DUHF0NjV1NTg2NkFDbnYwdl9vRXQwMHlmWnhoQWNzQldWRkdwaHpucVdrcDJ0UWFRUVR3Q0dzZTFnY1hzVGJ0NHR5LXFONNIBc0FVX3lxTE5QM3NVLXFGdlNTVkIwVkVBTGZPS2h3NjRJY2tyVG4xNm4wR2JBM2hNVHB0aXluaUhLSjNVbVc4bTItZnFIVGlTOTdsa1dBNnFSczM5X0tLbHd3NkZUVmE3UmJLQlZTeVl0UkRFWW53QllDSU0?oc=5",
+    "published_at": "2026-07-25T04:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546083",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹 정의선 회장 \"피지컬 AI로 간다\"…엔비디아·웨이모 협력 확대",
+    "summary": "현대차그룹 정의선 회장 \"피지컬 AI로 간다\"…엔비디아·웨이모 협력 확대  ebn.co.kr",
+    "source": "ebn.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51dDVCektuMFN6T3A5ZHpidFMxRmc1clU2dTdkNUdvU2wyQUpkc1hoVlExWkNOLVRRUnphWDVtVkFnOWEtZERvZUpONXl0Q19ZdE1ldUhjQThQX3BpMWlyMk5LQW9xNjdo?oc=5",
+    "published_at": "2026-07-25T06:39:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717779",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "정의선 현대차그룹 회장 \"자동차 제조사 넘어 AI 기업으로 전환\"",
+    "summary": "정의선 현대차그룹 회장 \"자동차 제조사 넘어 AI 기업으로 전환\"  더팩트",
+    "source": "더팩트",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MNzF6ZE9pMnhveHg0M2MyUTNOZ2hDeTZsd3kxQWdCOUFLcVczTHgtS202eF9GQWZYVUFTTWpfaE1JVm12aTNHU3ZwRFN6aTBfWmFLQ0p4N1ZoUdIBVEFVX3lxTE9GV3Z1LWpDdE41aE9uOVctVHBOLTRieXgxMk14WW42aWx0aG1VTUhNOEpscjFkWmZwTERvMTFWNEZHT2NpMUNTc2tQOXJEYUJBUlNqeQ?oc=5",
+    "published_at": "2026-07-25T05:39:45+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.tf.co.kr/read/economy/2346998.htm",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "\"車·로봇·공장·도시까지 지능화\" 정의선 현대차그룹 회장의 '피지컬 AI' 청사진",
+    "summary": "\"車·로봇·공장·도시까지 지능화\" 정의선 현대차그룹 회장의 '피지컬 AI' 청사진  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIMlo0dnhOZ1NCOUVxbVZvOVFkYjdfUE9lWTJUNWI1dXliYXdzU2xrT1BsaF9GTmJiOXRiN2llajdGVWFTMnBkZWFYZlZzUjFDLUpJWi0zMnNKZjdicnF0atIBeEFVX3lxTFBDY3c3REhLam9QblhKUUpfdGNnUGtaRF9BYUUxNkFyR0ZSVExXVE41VkFjdVNWTlU1VHMtRXBJaW1FbHcxMmdqUGc1aFE2Yk13MnpmVEJMcGw0MnJ2WldiQ184Qm5XSEREU3N1VDFsdE44U1YxaklQNw?oc=5",
+    "published_at": "2026-07-25T05:45:17+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newsis.com/view/NISX20260725_0003723140",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "GPS는 어떻게 내 위치를 측정할까?",
+    "summary": "GPS는 어떻게 내 위치를 측정할까?  Hyundai Motor Group",
+    "source": "Hyundai Motor Group",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kOHdzSXZiZDFyaC1reExEQW05WmJfNzkwdEJqZkJpekY0d0dNaDBLX21CWHBNVnE1MjV0dm5pakFXMlZEazRrMkpld1ZOTkNpY0RJU242YmtkOFNWWjJtMTdiNXU1TlFwMERQOXV2bjZpZw?oc=5",
+    "published_at": "2026-07-22T08:29:21+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hyundaimotorgroup.com/ko/tv/gps-location-measurement"
+  },
+  {
+    "headline": "정의선, 제조·로보틱스·데이터 결집···피지컬 AI 시대 선언",
+    "summary": "정의선, 제조·로보틱스·데이터 결집···피지컬 AI 시대 선언  뉴스웨이",
+    "source": "뉴스웨이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5POC1rRVJ2SmJOV0VBVllvd0lGVUtzUlVNdHZmRjA2b3NucDh5TmJUVTV0NllsWkVwdktrRzhyUS1DSWpTcUVqdTFOY1E1SGxRMEx1T1luMjladElERlk2WDJvVnI1ZHJhVGc?oc=5",
+    "published_at": "2026-07-25T05:21:06+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.newsway.co.kr/news/view?ud=2026072514191018834"
+  },
+  {
+    "headline": "현대차그룹 '피지컬 AI' 퍼즐 맞춘다…엔비디아·웨이모·구글과 협력 확대",
+    "summary": "현대차그룹 '피지컬 AI' 퍼즐 맞춘다…엔비디아·웨이모·구글과 협력 확대  미디어펜",
+    "source": "미디어펜",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11el9Qc1BQbVRiQjRYeElDRmVEUjBva0ZWZVhFT0VaYndpS25mQ2hzTFBQVW5qcUw4MUVsNmFxT205Z1FIcVFtWjhNNDJLS200LTRSZdIBWEFVX3lxTE5rNlZQdUYzNkRuUlNGU2lOUkxtX2x0ZVpWenFOdDYtNWpCRG50Z21LQzVZQ3dQR18wR1Y4Skp5d1YzRlBERG55Zm45LUhiUFZUaHdvNDY5a24?oc=5",
+    "published_at": "2026-07-25T06:02:37+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://www.mediapen.com/news/view/1112193",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "[샌프란 AI써밋] 현대차그룹, 엔비디아·웨이모·구글과 피지컬 AI 동맹 확대",
+    "summary": "[샌프란 AI써밋] 현대차그룹, 엔비디아·웨이모·구글과 피지컬 AI 동맹 확대  포쓰저널",
+    "source": "포쓰저널",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GTHhiTWR1Vlg3ZFJscWRjYlpDWHh6U3hqMERjOEMtRDRvZkRJaDJnMi1VR25pUFF2MXFUbS12OWpoTnZXRzdheVRtOXlSZ0dqQjFzejQ0blhVTkY2SVU4NzFzdw?oc=5",
+    "published_at": "2026-07-25T05:38:20+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "http://www.4th.kr/news/articleView.html?idxno=2115254",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "정의선 회장, \"자동차 제조 넘어 피지컬 AI 기업으로\"…현대차그룹 미래 전략 공개",
+    "summary": "정의선 회장, \"자동차 제조 넘어 피지컬 AI 기업으로\"…현대차그룹 미래 전략 공개  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DYnhxemU1cDJ1Y3dHaElscE1mT3dYR3J1bE0weFl3TjRmWTczNUw2dU4zS0hwdC1mZWhTZWlIVVI0d2RqbEp1QjZuVDVETEpVWXNr?oc=5",
+    "published_at": "2026-07-25T05:29:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260725n07843",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "정의선 회장, '피지컬 AI' 비전 발표…도시 전체 지능화 구상 공개",
+    "summary": "정의선 회장, '피지컬 AI' 비전 발표…도시 전체 지능화 구상 공개  BBS불교방송",
+    "source": "BBS불교방송",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TbnM2UkZpVFYwRWs0R2lzRDRuT2JVZW5Dcl9uTzR3akY4US1iejhyTWtYckw0VDZPOTdBS3YwYlVSUE5ET2lDUF9od1Vqc1ZBelM4NjdqRE5rSERBWVJScXM1R09kQ0VyTFVR?oc=5",
+    "published_at": "2026-07-25T05:41:35+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4097006"
+  },
+  {
+    "headline": "정의선 \"현대차, 자동차 넘어 피지컬 AI 솔루션 기업으로 전환\"",
+    "summary": "정의선 \"현대차, 자동차 넘어 피지컬 AI 솔루션 기업으로 전환\"  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ld09jRE8wem55bHBLUlBUTy1LNEtNTmFxb3FNRHlYSWg1YVpFMG5WRjBIUy1iZV9pOElEOWNwazNzQmRiUlZPbFlCbUw4cnhBdnk4?oc=5",
+    "published_at": "2026-07-25T04:06:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260725n06764",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선 \"현대차, AI 솔루션 기업으로 전환…車에서 지능화 도시로 확장\"",
+    "summary": "정의선 \"현대차, AI 솔루션 기업으로 전환…車에서 지능화 도시로 확장\"  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvYUFvZ1JpUGZpdi1ZcnhueGxOemQtZE1hS0dEalZHY3ZwLUFtOTRUNmdmMjZKUEpCcTNOLW1TTElUaUJnZk1wUjI5U3BIcC1PdXNz?oc=5",
+    "published_at": "2026-07-25T05:54:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260725n08231",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹, AI 혁신으로 글로벌 시장 선도… 피지컬 AI 도입 가속화",
+    "summary": "현대차그룹, AI 혁신으로 글로벌 시장 선도… 피지컬 AI 도입 가속화  스페셜타임스",
+    "source": "스페셜타임스",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIaDBOZE1hTkJnWVAxQk92MWxfVEV6UGVFR2xFeHFSb2ZTUkQxLUYzN0ctaHVxUHJERTlKUE93aFdFM1dDNUhWVy1WdnZnUUVLWTBRc3FEWF9wZTdGd3diMUZpbmpBeC0xSkpOejNoMmpmdw?oc=5",
+    "published_at": "2026-07-25T07:31:27+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "http://www.specialtimes.co.kr/news/articleView.html?idxno=446220",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "기아, ‘2026 Forum Kia’ 실시 | HMG TV | 현대자동차그룹",
+    "summary": "기아, ‘2026 Forum Kia’ 실시 | HMG TV | 현대자동차그룹  Hyundai Motor Group",
+    "source": "Hyundai Motor Group",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxOHJyR0ZpQ3JpMDNSbVJzaFc4LUhVdEV2bTFvLWpDcmM4MWp2NVFXdjlCUXhvdWxCbFp0MU9iSnpGWVBIRktfcTlDanY4cFpVTzkxMTllVnZrMXdmVnRDQUhXdTc?oc=5",
+    "published_at": "2026-07-24T02:41:05+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.hyundaimotorgroup.com/ko/tv/kia-2026-forum",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선 회장 \" 글로벌 최고 수준 휴머노이드 상용화 시점 앞당길 것\"",
+    "summary": "정의선 회장 \" 글로벌 최고 수준 휴머노이드 상용화 시점 앞당길 것\"  supple.kr",
+    "source": "supple.kr",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45OU5ueENxaEg1ZjZMd0ZaZVFDcWU1dE95VzVsOU9sYnBKVy1YMjJQRFY1S2NzV2pMRkFRNDAwZW9aRTFzZ2JVbVNJc1NNNHdxN2pjUlp4VmFJUkJ0?oc=5",
+    "published_at": "2026-07-25T06:46:02+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://supple.kr/news/cms00iut8001j11d31d0ctqfc"
+  },
+  {
+    "headline": "정의선 회장, 샌프란시스코 AI 서밋서 '피지컬 AI 솔루션 기업' 전환 선언",
+    "summary": "정의선 회장, 샌프란시스코 AI 서밋서 '피지컬 AI 솔루션 기업' 전환 선언  엠투데이",
+    "source": "엠투데이",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zNUg3c0dpcDRSZ1V0UFQzQWdsS1d3OEJxQ3ZNdXQ5UGlHZ1Y5N1B1SFdmcFlHbG1IZGNBM28xaUNZdGV0VV80M0gxSThhdFRpa3V1Qy1zT080S2pGUnRXV2JPNEZ6a3NxQmRkRVdYNNIBc0FVX3lxTE1qVFYwd0dwbTRIY0ZUTy1mcmMwdUtNOHFCcXk4UGRGX3hOcGhOZWVPeTN2eDZtZTBJRll1YlRvb2tYYWNxT3A3bVY2QWdoU3RXSHYya09iR0lWZjk3WTBxRVV1ZHVieDVlYmVVQ2RSZ0RBSTA?oc=5",
+    "published_at": "2026-07-25T05:50:00+00:00",
+    "tags": [
+      "해외"
+    ],
+    "final_url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546104"
+  },
+  {
+    "headline": "정의선, 현대차그룹 ‘피지컬 AI’ 청사진 공개…도시 전체 AI로 잇는다",
+    "summary": "정의선, 현대차그룹 ‘피지컬 AI’ 청사진 공개…도시 전체 AI로 잇는다  edaily.co.kr",
+    "source": "edaily.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYVZzQV9HNUxneUxWZ3d6Nmxuam5XUWIxcVl3VDZKcjMyelFFbzR2THJqcEJzRkhwM1lEU3g4R0x2VS1Nd3lqWmNtQmNsdDR6RnY1ZVpRd2tnNWxzUlBMWG5xQkVyd1ZfYTE2US1RckpNVTlpSUQxZldqaER1UWhVVA?oc=5",
+    "published_at": "2026-07-25T05:38:30+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.edaily.co.kr/News/Read?newsId=02269766645518128&mediaCodeNo=257",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차, 피지컬 AI 시대 혁신 생태계 조성…엔비디아와 플랫폼 구축",
+    "summary": "현대차, 피지컬 AI 시대 혁신 생태계 조성…엔비디아와 플랫폼 구축  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1a1VQbU1zc3dDallTa251bThPYWpIMTFfY090eWJ4Y0NlVkk5UlNSTjQ4dlMwblgwTzNUUjlodzlOVUFVZUR5WFJxblE2bVpYZUdR?oc=5",
+    "published_at": "2026-07-25T06:59:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260725n09014",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹 ‘포티투닷’, 모빌리티 AI 경력직 70여 명 모집...자율주행 개발 가속",
+    "summary": "현대차그룹 ‘포티투닷’, 모빌리티 AI 경력직 70여 명 모집...자율주행 개발 가속  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PRU40bUUxcUlCUmZEcldTRGtwQ3MwSnJEZ3ZEaDh5V2JraGl5ZXJhVzF6RWVLRUppenRLcXRXUnF4T09QMUVjVVhZMzBjZXVFNVHSAVNBVV95cUxQdEpGMnhGT2dKcUZyR1FEeUJFZEhseU5wc2p0aEJVaVNNakhhNG4zaFRkVmNaZmswTVlVZG9tUjh5ZGt6a0s1M3ZUYkVsb2JuejQwNA?oc=5",
+    "published_at": "2026-07-23T01:23:39+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.sedaily.com/article/20070889",
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "정의선 \"현대차, 피지컬 AI 기업으로 전환\"…글로벌 동맹·투자 본격화",
+    "summary": "정의선 \"현대차, 피지컬 AI 기업으로 전환\"…글로벌 동맹·투자 본격화  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nTW5lVl9TNC1tbUNuSzBzSm1sTHlNamhwMktxZ3ZYUVItS0EtSl9YOHR3RnhqWU9Kem1WYVZWQnBXNU1yV0Y5T3pQckh5cG1FOERR?oc=5",
+    "published_at": "2026-07-25T05:13:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260725n07630",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "광주 간 자율주행 스타트업, GPU 절벽에 ‘발동동’",
+    "summary": "광주 간 자율주행 스타트업, GPU 절벽에 ‘발동동’  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MUFlXRVY3cmtrdEt3TFZ3YWVQdG9EU1BNeDVFTExfNXNDcGgzYjYxamx2a0d3ZWJ6NGhySEtQTnVJWm40UVFjaEhjal9PSWVxcnfSAVNBVV95cUxPQV83VjVNeEpiMXFHYmtZWDFzRlYtQjZSc1hDT3QtTEd2bTlXaEFZRS1NR3FWSmhzREVSeG55OVRBSUp4cUtvakZnSDF6WW1pOWczYw?oc=5",
+    "published_at": "2026-07-23T09:18:40+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.sedaily.com/article/20071189"
+  },
+  {
+    "headline": "정의선, 美 엔비디아 본사 방문…젠슨 황과 AI·자율주행 협력 논의",
+    "summary": "정의선, 美 엔비디아 본사 방문…젠슨 황과 AI·자율주행 협력 논의  세계뉴스통신",
+    "source": "세계뉴스통신",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BNE5YeUtxWU1FMkFCRU5FZG5GRDB3QUxhQVNmaDhkWnJpbmZlcklWME1JYU9idVdSd3daSTdXdDFpNW1fdWxqclh3RjhyYmhpbDhqX0FUakpic1RtZ1VFY0QyZklJaVd0YWVJenIxUTNYQVE0?oc=5",
+    "published_at": "2026-07-25T02:20:32+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.segyenewsagency.com/news/articleView.html?idxno=638788"
+  },
+  {
+    "headline": "인도 카지노 전문가들이 알려주는 핵심 노하우 - 성공을 위한 로드맵",
+    "summary": "인도 카지노 전문가들이 알려주는 핵심 노하우 - 성공을 위한 로드맵  centrserdce.ru",
+    "source": "centrserdce.ru",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vVmtWUXBBWW1IQnNHMHo4MzlsdU5hQmVaRFVIU2U4eXRlRGVlYy1VX25jeUtJSTBrdlU2SU9fd0k0Rmc0V210UlJldC1qTUJFandsdkRDdU1tRkRHcXBUMTd5djVjYXc?oc=5",
+    "published_at": "2026-07-23T17:37:32+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "http://www.centrserdce.ru/?GameID=2026-07-24/psfdiq.html"
+  },
+  {
+    "headline": "카카오모빌리티, 기아와 자율주행 전용 차량 개발 기술 협력",
+    "summary": "카카오모빌리티, 기아와 자율주행 전용 차량 개발 기술 협력  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tZE5BMU1RWU11aFFHbXRzQ1NRQUZYRTcxNnIta0d0bHZOdURhMFRDTEJwZG90LUp0aUlpS3RJbFh0QW10Y1l3TkstbnByNHJzaEZOTg?oc=5",
+    "published_at": "2026-07-16T05:30:39+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260716143039472?f=p",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 기아와 손잡고 자율주행 서비스 전용차 개발",
+    "summary": "카카오모빌리티, 기아와 손잡고 자율주행 서비스 전용차 개발  매일경제",
+    "source": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wdmlVLWtoNVE1MmV0SU9wYndYYURGV3FVNUdHam80SVVmVGNOUUxlZWVJX1JIUzlQT2tQYkpteEdUTy1Jc1hlUWN4cDBtUQ?oc=5",
+    "published_at": "2026-07-16T02:18:27+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.mk.co.kr/news/it/12100109",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
     "headline": "웨이모, 우버와 '결별' 수순…2028년부터 로보택시 독자 운영│Global Money Club",
     "summary": "웨이모, 우버와 '결별' 수순…2028년부터 로보택시 독자 운영│Global Money Club  중앙일보",
     "source": "중앙일보",

@@ -1,5 +1,346 @@
 [
   {
+    "headline": "미국 독립기념일 정체에 줄줄이 견인…자율주행택시 웨이모 방전 사태",
+    "summary": "미국 독립기념일 정체에 줄줄이 견인…자율주행택시 웨이모 방전 사태  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2d0ZMVHVJU0NPemtkcFNZNEEwWGk2OHdxTlRaUjRZUEdSMUtHSUs3VUkwUGdWdmFIVTQxazVpRmVBNU01MkEzUGpUVQ?oc=5",
+    "published_at": "2026-07-06T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/u7RfXgWIG7?f=p"
+  },
+  {
+    "headline": "운전의 종말…로보택시 시대",
+    "summary": "운전의 종말…로보택시 시대",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Vc3p1MmEyY1ZaWVFlR3FsYmc2aDk3QWwxaXhxclozNi1uRU5BWDIxRTN1b1dKU0JxNjQycHc3aHJ4SDdYQkgya2NTYUpaRTNYZnNYT0EtYklKQQ?oc=5",
+    "published_at": "2026-05-11T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hankyung.com/article/2026051188741"
+  },
+  {
+    "headline": "실증도시 넓히고 규제 합리화…글로벌 3대 자율주행차 강국 도약",
+    "summary": "실증도시 넓히고 규제 합리화…글로벌 3대 자율주행차 강국 도약  아주경제",
+    "source": "아주경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waXN6cjF5TUFpU0hiTklLaW51NHRGck83R0tXODZCaW9XVVBnRFZBcnlvRWhWY01NcEFzWHdKaDBubnJxVjQweVNfZzZYUXVhaUtDeXBnY0VpUdIBWEFVX3lxTE9MMFRmMmJXbHVnUUotREw5amFObnctWlJXTUFoXzY5bW5vUXhTTG11SHV0c0lVZkFXblRCMktJdGJuMFNlTUU0YlpqN2c3aWdwamR5MmNpeUc?oc=5",
+    "published_at": "2025-11-26T08:00:00+00:00",
+    "tags": [
+      "정책"
+    ],
+    "final_url": "https://www.ajunews.com/view/20251126082608881"
+  },
+  {
+    "headline": "교통 체증에 멈춰 선 웨이모",
+    "summary": "교통 체증에 멈춰 선 웨이모  미주중앙일보",
+    "source": "미주중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fU1lTV2pZSkc4eXhYY042YkIyYkdnS1lWV0dzTmUtc2VuZXQ4Tjc2Z004T2l0SDl5dFhtYzI2elplSjd0amw4ajAxa1I2TGtmbURURzBTYTN5TjdjMzIyZk9R?oc=5",
+    "published_at": "2026-07-06T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.koreadaily.com/article/20260706200807390"
+  },
+  {
+    "headline": "바이두·포니ai, 중국서 첫 로보택시 유료서비스 시작[강현우의 중국주식 분석]",
+    "summary": "바이두·포니ai, 중국서 첫 로보택시 유료서비스 시작[강현우의 중국주식 분석]  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByN0xQQXB4TlZGZjJxejNSSUd6VDdJUjlkVGNKRi0xdlJhU2pJNTZ6MUNqLUZ0aW5qcEkxU19rY2tlR0JUWXZPUlA2WGxFMzM0Yks2WnREcnVLZw?oc=5",
+    "published_at": "2021-11-26T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://www.hankyung.com/article/202111266650i"
+  },
+  {
+    "headline": "정의선 회장 “현대차그룹, 피지컬 AI 설루션 기업으로 전환”",
+    "summary": "정의선 회장 “현대차그룹, 피지컬 AI 설루션 기업으로 전환”  매일일보",
+    "source": "매일일보",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TNjZuRGVHTUZudkdYc0J3NmlzSlFqUDZQMUVqMFNKNDVnR0xXWFFWTGJvQWYtY1RjSUlaSjA0bDJDbUVOSExwVWZzNU12WUR3MUxJcnptTC1EV1RrVUx1UlRMQko?oc=5",
+    "published_at": "2026-07-25T06:53:11+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.m-i.kr/news/articleView.html?idxno=1395239",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "정의선 회장 ‘피지컬 AI 승부수’…엔비디아 손잡고 제조·자율주행 대전환",
+    "summary": "정의선 회장 ‘피지컬 AI 승부수’…엔비디아 손잡고 제조·자율주행 대전환  지피코리아",
+    "source": "지피코리아",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxRGNmMmhVRHY1NVpCTXBmZUN6cWp6LTF6MTJodHZ1MVdyaWgydGV2enNIT3dDUm1aN2JFclJQTHVvTGVMT0ZnZlVUTExqOUlhZHFtTUlvS01RWmljODd2MllVNFFzaXZsdkHSAW5BVV95cUxOMjJnVnl0dTNVVTNoaUtIMFUzWjhjUnYwS0NrTXlhS01yTmQ0aXV3eVNlajNXM0JnNnhsUktJN21pcjhOcUJ2ZlotaWNwZVMxVXlVX00wQkt1Q2F3a3N6V3g3WEJtYVp4RG9nSDhEZw?oc=5",
+    "published_at": "2026-07-25T13:24:43+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.gpkorea.com/news/articleView.html?idxno=145052"
+  },
+  {
+    "headline": "정의선 “AI팩토리·도시 통합...엔비디아와 로봇 플랫폼 구축”",
+    "summary": "정의선 “AI팩토리·도시 통합...엔비디아와 로봇 플랫폼 구축”  매일경제 마켓",
+    "source": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oRDlVZlZfNGExaUZKSW5OaUJWVXVFOUJra3dpS0xBSjdQemJlcGJIcGZhQk9PSzF0UDN0WWxLbXo5RC1fZGs5SWFWZDZnYW14U1E?oc=5",
+    "published_at": "2026-07-25T09:14:59+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://stock.mk.co.kr/news/view/1126969"
+  },
+  {
+    "headline": "엔비디아부터 새만금까지…현대차가 그리는 ‘한국형 피지컬 AI 벨트’ 는?",
+    "summary": "엔비디아부터 새만금까지…현대차가 그리는 ‘한국형 피지컬 AI 벨트’ 는?  이코노미스트",
+    "source": "이코노미스트",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoem9CVTIwTTZsaW5TcHhJZjJZSHUxYk9XazZCck1NY1NtS21XWldxa0dlRlJfVEJvZ3BSWUlER1Q1MXdjaUNFcVlOeGZhd2h3NkRkQ2ZFOEVRMjdNaFlnSDR3?oc=5",
+    "published_at": "2026-07-25T02:45:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://economist.co.kr/article/view/ecn202607250011",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "[K-사절단 新실크로드 ③] 정의선, 車 경계 허문다…현대차, '피지컬 AI' 대전환",
+    "summary": "[K-사절단 新실크로드 ③] 정의선, 車 경계 허문다…현대차, '피지컬 AI' 대전환  데일리한국",
+    "source": "데일리한국",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xaEFEeG9FVUhaQlYtckxHekpJTGZheDZwXzFXNGRmczl1ekNMMlNSSlRrUFA4TmZGNzBGamdtSmxncTdXeTFaTkxRQWpNeThSMllDS3hxeEg3SzF1ek9KQ3V0X3NuNWFhZDlzYThUd9IBc0FVX3lxTE5iU1JDUnp1cDQxY1gwMF9IVU4xUU91YkdNQmdGX044c2hQRm1TbTFzMkxCNl9UcExMQTQtakJTX213RDNxZjNVMDF5bkNqWjJFM1ZaaW5ackJCZ1hieE1ScnBScGFvVXh5MjRIU0ZEUWZ3SlU?oc=5",
+    "published_at": "2026-07-25T08:29:38+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://daily.hankooki.com/news/articleView.html?idxno=1389373",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선 \"현대차, 車기업 넘어 '피지컬 AI 솔루션 기업'으로 전환…韓산업 도약 이끌 것\"",
+    "summary": "정의선 \"현대차, 車기업 넘어 '피지컬 AI 솔루션 기업'으로 전환…韓산업 도약 이끌 것\"  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Odl9XdGVfSHVRNzZGTFRCekk4R0VuWWRlSkIyZURueDFhX1RsWnhpWjMyUzhmU1lISUdNS3BFNHE3Qzlkb0w3Slh5Y2laanR6aVY5emtRRFNWcE1nMk1EYdIBeEFVX3lxTE01M1h5MFljd2h4cjJoMG1iRFgwaHM0bGxwOEN3eDhqOE5yQmJNS3psTDhBNmtjUnN1Qko5RjRPX082Wm1MUDhlU25BVlV5TE9MRFpiM0hDUlVCbHZmTG1Qd3lJZjFySE5fdlRxcUF6blRVbEphcFBWUQ?oc=5",
+    "published_at": "2026-07-25T01:38:39+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newsis.com/view/NISX20260725_0003723009",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "젠슨 황 “SK와 5000억달러 파트너십”…삼성·현대차·네이버와도 협력 - 조선비즈",
+    "summary": "젠슨 황 “SK와 5000억달러 파트너십”…삼성·현대차·네이버와도 협력 - 조선비즈  Chosunbiz",
+    "source": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2FtaXNPRWo1N0syTWtBM0RaY25uWFY1Z0hqTFpFNHFDUkFiWi1FX1JPQ0lRZmhKeFhiMmhvRXhKang5X044aTRkaTRpb3FtQi1tUG45eFBsbUpDZ09nc1ZERG43OGEtandRVmFKWEJnYU9XYUtfSXVfLWl5eWJiRFJYQTjSAZgBQVVfeXFMTi02S0VULTE0Y21YQkl5bW9wTHJiWkI0YVoyNGpla1pTUG5yMmdaSFBxZWNZVFZLUVpTYk1Zb0NvT3pwVkdyLVA0NGE2WGRrcXJJRjBVTEFVLUdsTUVtZVRDSVBwSFV3c3RLeWhMbnF3cEY0eWJJcXg1dERidXY0VFJ6WEoxZTlVSFk1UnFsb0JTQjlXaHFTWGc?oc=5",
+    "published_at": "2026-07-24T23:48:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://biz.chosun.com/industry/company/2026/07/25/3F3I7GAX4JH7NLATFPN2BRBLXQ/",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선-젠슨 황, 로봇·자율주행 사업 면담",
+    "summary": "정의선-젠슨 황, 로봇·자율주행 사업 면담  동아일보",
+    "source": "동아일보",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RNWRDLVNzNEhURW41SGRtOFNzOFp3S2JpUEdYcW9WQWFJRHBxMm1teGs2NGw0RGVtNlRTRjQ1Vmxrd0sxZkwxU0Y3NUt5aHItWllDSERLbHBseUo3Z3p1TC1VTms3R2lLcXY00gFmQVVfeXFMTmZGOVFwel92cFpydmthcFM5cHpvRHhyeV9qOG1zZHROYnREQ09DMnpLczJhWUUwYlZNeHBCWTdzel9ULVNaXzJOQUxpNnZWRVVsSWVlck5FV2FxMFF0Z1FmNkV6eDFR?oc=5",
+    "published_at": "2026-07-25T01:12:37+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.donga.com/news/article/all/20260725/134362829/2"
+  },
+  {
+    "headline": "정의선 \"현대차그룹, 피지컬 AI 기업으로 전환\"…엔비디아·웨이모 협력 확대",
+    "summary": "정의선 \"현대차그룹, 피지컬 AI 기업으로 전환\"…엔비디아·웨이모 협력 확대  이코노뉴스",
+    "source": "이코노뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XVXp4V0JDLXItYVZDSHhrc1FuV1QwXzhwMHRJZXE2eUtKdnhoZzc5TEFqcHV2RE5uN1haVXZ6NDFWT09LRWlOQzRwMWdUVHhJa1FWWG9PWGlpWnRDOTRlTVFtZzJ0UnNOSFBBcnh3?oc=5",
+    "published_at": "2026-07-25T06:26:36+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "http://www.econonews.co.kr/news/articleView.html?idxno=441799",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "이재용·정의선·최태원·젠슨 황 회동, 'AI 동맹' 본격화…엔비디아 \"SK와 5000억달러 파트너십·현대차와 자율주행 공동 개발\"",
+    "summary": "이재용·정의선·최태원·젠슨 황 회동, 'AI 동맹' 본격화…엔비디아 \"SK와 5000억달러 파트너십·현대차와 자율주행 공동 개발\"  나눔경제뉴스",
+    "source": "나눔경제뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BaTUxWkZpbmRsLURmWWJ6UklURGVfeVVwdUszcEdLOUNVaEJyZmVRUlliZW9tUTRJMktxbE5rYzRKTnZPcEx3S182eXlBMjRtTVBoOXNHWUE1YjBLanQ3SlZoUHFKV2hvQURubA?oc=5",
+    "published_at": "2026-07-25T08:50:27+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.nanumy.co.kr/news/articleView.html?idxno=4008471",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "정의선 \"엔비디아·구글과 피지컬 AI 가속\"…도시 지능화 청사진 제시",
+    "summary": "정의선 \"엔비디아·구글과 피지컬 AI 가속\"…도시 지능화 청사진 제시  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CNThpbGhnaVExT2djUHlXeGtjQllJZkdRQmw5SE11NFkxbnJwZGVDYjFkZGR6VjRIeFJLZmI2OGxrWktGcDFURkQtaWNIb3VUeTlJ?oc=5",
+    "published_at": "2026-07-25T01:56:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://news.nate.com/view/20260725n05193"
+  },
+  {
+    "headline": "자율주행차 200대 광주 도심 달리는데…시민은 안전할까",
+    "summary": "자율주행차 200대 광주 도심 달리는데…시민은 안전할까  네이트 스포츠",
+    "source": "네이트 스포츠",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVbERYaVExVURDd2VwNzFDT2FwRTJZckZrckQxb2pGTVBveEtjdmI2c0VaaHd1aDFsc1Z0MHJrMmwzaDlmWUFiOWR3d1BBbURINDdxRF9wb3JYR2xaVlZUZk52ODFaa291YXJ6a29fYzRqdGs4NmVF?oc=5",
+    "published_at": "2026-07-22T21:15:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://sports.news.nate.com/view/20260723n02592?isq=11001&mid=s0601"
+  },
+  {
+    "headline": "기아, 카카오모빌리티와 자율주행 서비스 전용 PBV 개발 협력",
+    "summary": "기아, 카카오모빌리티와 자율주행 서비스 전용 PBV 개발 협력  뉴스와이어",
+    "source": "뉴스와이어",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WMmdCeUNfcEdrYTJONUlaUjloUDlfYjhnUjNpczJ6TGZ0amxfYU1XMlhLXzRjZXlvdVVwQUtRb1BoOGViZXp2NHBXc3ZSaVhoX2pnZlV0WS0waXlaTEtn?oc=5",
+    "published_at": "2026-07-16T01:44:56+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.newswire.co.kr/newsRead.php?no=1038747",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "기아, 카카오모빌리티와 자율주행 서비스 전용 PBV 개발 협력",
+    "summary": "기아, 카카오모빌리티와 자율주행 서비스 전용 PBV 개발 협력  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TVnMycTZrUU9TN1VUUlQ1Y0Q4TjV3VXd5OUhiWWFtTlVhRXFpWVVDb0loQ182bWl2UE9qOTZjNXVmTWlJQThlS0FNSWJjYTg?oc=5",
+    "published_at": "2026-07-16T01:07:27+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/20260716100727659",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "기아·카카오모빌리티, 자율주행 서비스 전용 PBV 공동 개발",
+    "summary": "기아·카카오모빌리티, 자율주행 서비스 전용 PBV 공동 개발  투데이e코노믹",
+    "source": "투데이e코노믹",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NQ1pwWWdqdGl1VVAzQlRKU3JsM2ZuWnNDNGtQN2VYbmhCeEdyczZ2ejVGTl9xdTBkMHlYUU04ck9yQ1pDeW5nbThkV2F0QzZLMmdVdzFTX3FoaFJ2QmU2bjFVeDN4eGM?oc=5",
+    "published_at": "2026-07-16T02:57:38+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.todayeconomic.com/news/article.html?no=31325",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 기아와 맞손… \"자율주행 서비스 전용 PBV 개발\"",
+    "summary": "카카오모빌리티, 기아와 맞손… \"자율주행 서비스 전용 PBV 개발\"  디지틀조선일보",
+    "source": "디지틀조선일보",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1RQQ3hVeW1rWjRTOVJDRFBoZEhhTVJuX3lmcVNLQUpYMW9iZE4xSFg3eW5JTUZNWjRuNXRobU1Gazc0MkZHNlNTX1JteldxRHVvbV9UZUl4cS03SGtJdmdWcFpmVF9ZZjBqV25qa0ZOc1gxQ2o2M3VmMzhibGFMMUdEX01DaGfSAXtBVV95cUxPZVJucXdqUE56Qjd5UmJrUENMcVVqdTgtd0lobkg3Ym83ZDYxa2VUMER4T0ZVSFpoc2R3X2xxOERVN2s3NWxwd01NQlNrWTl2SlBDdTYyOGZhSTg4UTdHUk5LQzBpTjRiTXVIYmkyNWZsVXVVQm1ObzFyRGs?oc=5",
+    "published_at": "2026-07-16T02:07:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://digitalchosun.dizzo.com/site/data/html_dir/2026/07/16/2026071680059.html",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "KG 모빌리티, 강남 자율주행 로보택시 서비스 확대",
+    "summary": "KG 모빌리티, 강남 자율주행 로보택시 서비스 확대  디지틀조선TV",
+    "source": "디지틀조선TV",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ2lmOWM5bmpWVjNUUnZ2ZlBnS1NMajA0Zk1QYmdJd2E2X1lWWURvUndTRGJaOWtfLXVSWFYtOWFGQzJwUUpaZXlaZm9GczdoTlktY1hFOGVlTmlybUkyOXdQOE5YWWdNdXFreG1iSUpsOFl5dk9KSHpjQVZCVWowLUNWb2dmQQ?oc=5",
+    "published_at": "2026-04-06T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "http://businessnews.chosun.com/site/data/html_dir/2026/04/06/2026040680108.html"
+  },
+  {
+    "headline": "포니링크, 5대 1 주식 병합 완료 후 거래 재개...차세대 AI·자율주행 사업 기틀 확립해",
+    "summary": "포니링크, 5대 1 주식 병합 완료 후 거래 재개...차세대 AI·자율주행 사업 기틀 확립해  헬로티",
+    "source": "헬로티",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiN0dsSGN5SkhsT1BfcmpFbHRaU0hQNTd3T3pDUklON3pyY0g5OHdwT0wta0JWSHU2U0pzUXljLWV5cmFuYm0yYVRkUW9VZm9FTHdGc2hQSWY5Zw?oc=5",
+    "published_at": "2026-05-19T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://hellot.net/news/article.html?no=112669",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "현대차그룹 로보택시 모셔널, 서비스 총괄 임원 찾는다…\"상업화 조직 전환 채비\"",
+    "summary": "현대차그룹 로보택시 모셔널, 서비스 총괄 임원 찾는다…\"상업화 조직 전환 채비\"  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GcVVoSjhjTm9KekRzMEI2dG0zN2dJUTdLQlg2YTl0bnkzY2FQcWtZUDB3blgwQUZVZUVaY1BYLXpxN3BWMTdCcU9WdW1VYmozd0pJODhoNGZPdw?oc=5",
+    "published_at": "2026-07-22T06:07:20+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.fnnews.com/news/202607221507197530",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "로라 메이저 모셔널 CEO \"1% 예외 상황이 안전한 자율주행 개발의 핵심\"",
+    "summary": "로라 메이저 모셔널 CEO \"1% 예외 상황이 안전한 자율주행 개발의 핵심\"  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03TGpEWnhDdlZhWlhibEl1Z2ZzRGZpbHU3SnJQODZNdWNNcXVEYXdBYnhpRHYxQVlCZ3NZLTRHbENHNmI4djFtQ1RhakxmZm1UUHBsbWgtWDRQaE1u?oc=5",
+    "published_at": "2026-03-08T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newspim.com/news/view/20260308000074",
+    "companies": [
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "자동차가 바꾸는 일상, '이동'이 '경험'이 되는 순간",
+    "summary": "자동차가 바꾸는 일상, '이동'이 '경험'이 되는 순간  Hyundai Motor Group",
+    "source": "Hyundai Motor Group",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zNTE1R1JkLWx2TTQ5UGREdTFLVUxhbUM0YzZQRENHWFdBWFZGbEZBR2Z5SERyQUM3NzN2eVZYX2pyWkMtdUJPMTFUbTAxV203TkVGcHUxcTAxckk0VjBCMG5ocVhsWFhQdk12VQ?oc=5",
+    "published_at": "2026-04-09T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hyundaimotorgroup.com/ko/tv/CONT0000000000208570"
+  },
+  {
     "headline": "'현대차 협력사' 中 모멘타, L4 로보택시 주행 허가, 글로벌 상용화 박차",
     "summary": "'현대차 협력사' 中 모멘타, L4 로보택시 주행 허가, 글로벌 상용화 박차  네이트",
     "source": "네이트",

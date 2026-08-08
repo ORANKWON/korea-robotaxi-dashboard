@@ -1,5 +1,68 @@
 [
   {
+    "headline": "자율주행자동차 사고, 피해자는 누구에게 책임을 물을 수 있을까",
+    "summary": "자율주행자동차 사고, 피해자는 누구에게 책임을 물을 수 있을까  하이뉴스",
+    "source": "하이뉴스",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SZjBDYzZNd2I3Q1A3QzUtOV9GeHNQc3lJUFNBQTlvYWZycG5IZ1FpeVFINnNTT242VUl1NXhwQThXb29uay1pVHRWdEUweUVrdXNPdVNPcGhmejdmSm4yeDFMM0VpWXZvU0luUmtGZDV3dS1ySnFz?oc=5",
+    "published_at": "2026-08-07T00:00:00+00:00",
+    "tags": [
+      "사고"
+    ],
+    "final_url": "https://www.hinews.co.kr/view.php?ud=2026080510305582759aeda69934_48"
+  },
+  {
+    "headline": "쏘카·에이펙스, 자율주행 대여산업 경쟁력 확보한다…다자간 MOU 체결",
+    "summary": "쏘카·에이펙스, 자율주행 대여산업 경쟁력 확보한다…다자간 MOU 체결  아시아경제",
+    "source": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QZVNweGJucFFya1pTODh3RlBMYm5jb3JydEtMLW9taGdEcXVVYUZHd2RaaE5sM2F3SUIwYVA4Q1BMRWFZb1RKdkt3Wm4zcDFwc0hTYTN0N2JqR25qaGt4cg?oc=5",
+    "published_at": "2026-08-03T23:53:37+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.asiae.co.kr/article/2026080408533829371",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "현대차·A2Z·라이드플럭스, 자율주행 실증도시 참여기업 선정",
+    "summary": "현대차·A2Z·라이드플럭스, 자율주행 실증도시 참여기업 선정  yna.co.kr",
+    "source": "yna.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83YzRfMVVpZ2ppRXh6WHhsQUI1NnpHSVlQb0xIaTFZOW8zNVhaTDYwQnpuVU4xdEFDWEwwc3JCSGctWkRMamJxczkwM095em5IVFFDa0VqSjhGYmM?oc=5",
+    "published_at": "2026-04-28T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.yna.co.kr/view/AKR20260428050700003",
+    "companies": [
+      "현대자동차",
+      "라이드플럭스 (RideFlux)",
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "\"중국산 밀어냈다\"…에이투지, UAE에 110억 자율주행 수출",
+    "summary": "\"중국산 밀어냈다\"…에이투지, UAE에 110억 자율주행 수출  아시아경제",
+    "source": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80MFF5QkRjTU1hRFl1WDh2OGYwZ3phQzhncnJUWTV1a0NPVUJrV1BTOGZUZkw4aHpQYnN5bDg2QXlQOGtwaHg3LXFCT2xvbWFSdXVvTjlyQUFaaTZkUWZJQWZR?oc=5",
+    "published_at": "2026-08-03T23:30:38+00:00",
+    "tags": [
+      "해외"
+    ],
+    "final_url": "https://view.asiae.co.kr/article/2026080408303808640"
+  },
+  {
+    "headline": "K자율주행도 수출길 동행…에이투지, UAE에 110억 공급",
+    "summary": "K자율주행도 수출길 동행…에이투지, UAE에 110억 공급  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96akdDWEJobWd3S3dpdWRnR05XZEVQWU96TUtmUm9GemVUeFJ2aVRhbkFHeEFOX3l0ZDUyY01OcDVmd3VFZkY3UW04VktpZHJyTWNSNW5hT1Z4QXFtenJpaQ?oc=5",
+    "published_at": "2026-08-04T08:49:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260804n28078?mid=n0100"
+  },
+  {
     "headline": "엔비디아, 로보택시 자율주행차용 프론티어급 개방형 모델 ‘알파마요 2 슈퍼’ 상업적 이용 가능",
     "summary": "엔비디아, 로보택시 자율주행차용 프론티어급 개방형 모델 ‘알파마요 2 슈퍼’ 상업적 이용 가능  케이벤치",
     "source": "케이벤치",

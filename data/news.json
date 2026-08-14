@@ -1,5 +1,197 @@
 [
   {
+    "headline": "Uber and Pony.ai Expand Robotaxi Fleet with 2,000 Autonomous Vehicles",
+    "summary": "Uber and Pony.ai Expand Robotaxi Fleet with 2,000 Autonomous Vehicles  TIKR.com",
+    "source": "TIKR.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHJHTlBja1c5ZWZFODNyTk5RU2hObDlPLWhsaDJzOGUxbU4xU0NnM0FDZ1FXREdvUmM4WVBXaW4taFBISm5CaUNEOFB0WDh2bTVCZHRHTlp5NTZ0Q0w2MWg3RmNKMzlUSTB6cl9oSG85QXZwcVctX3BpTjlSZ3lTMEt3Z1ZZUQ?oc=5",
+    "published_at": "2026-08-14T14:01:15+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.tikr.com/ko/blog/uber-stock-pony-ai-robotaxi-fleet-expansion-europe",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "성산 관광형 자율주행 버스 ‘일출봉Go!’ 무료운행 끝… 8월부터 유료 시동",
+    "summary": "성산 관광형 자율주행 버스 ‘일출봉Go!’ 무료운행 끝… 8월부터 유료 시동  서울신문",
+    "source": "서울신문",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xM1B5MDdUV0xsZ0RudmZyTGMxLUNVMGlYc3R1cFhRWlRBMGlOSUwxR2QxZl9Xa1llby1jZ1czdXE2bXlRbnVkVjFKRnFHSW92Xy1RcFNnNUtqUFRYVVkwR3lfZl8ybExNV2FtS08tS3RST0JIWEpB?oc=5",
+    "published_at": "2026-07-06T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://amp.seoul.co.kr/news/society/2026/07/06/20260706500050?cp=go"
+  },
+  {
+    "headline": "천안시, 자율주행버스 운행 확대…11월 정식 서비스 개시",
+    "summary": "천안시, 자율주행버스 운행 확대…11월 정식 서비스 개시  충남일보",
+    "source": "충남일보",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yOUVnWVVPLU41bHdha2tVT1JPOUtEZmxLOGNjdkVSc1o4V2Roa09pRG9mYk83dFdKM0pBTnRwWVNUOTM5S3hsQjd0TEJFbDUzcFhxR0pqV0V2cl9wS3NndHd4SHZnSGJib0dETFFtcUwwVXM?oc=5",
+    "published_at": "2026-08-11T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=903953"
+  },
+  {
+    "headline": "중국 AI 앞에서 몸 낮춘 김민석 “성장의 비결 듣고 싶다”",
+    "summary": "중국 AI 앞에서 몸 낮춘 김민석 “성장의 비결 듣고 싶다”  OBC 뉴스",
+    "source": "OBC 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UUTlhYUdpWVdQQ0lsdnl2RmxqbjdIRnlRZ1c4cEJsN19WNHRYSExZYjJnLUgyRXhSOHFWcEdSN3BfZkphMHE5ekpYX3FZb1hNei1sd0dpSEMxNnhKbWdqUkRZLUVWWkJq?oc=5",
+    "published_at": "2026-06-22T07:00:00+00:00",
+    "tags": [
+      "해외"
+    ],
+    "final_url": "http://www.theonetv.kr/news/articleView.html?idxno=247188"
+  },
+  {
+    "headline": "쏘카, 비수기에 첫 당기순이익…하반기 자율주행 사업 확대",
+    "summary": "쏘카, 비수기에 첫 당기순이익…하반기 자율주행 사업 확대  news.nate.com",
+    "source": "news.nate.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmdVJ1MTEyTTNhUEdHVmRBQzhDOGZ2Qk1wZUtqVUgxUWhvZFpudm43VFNTY0dXa2lpQnlnaGRzRkxVaVQxbjZ4SUVYM3dscXJSUnFZ?oc=5",
+    "published_at": "2026-08-11T08:29:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260811n27563",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 비수기에도 순이익 냈다…카셰어링·주차 동반 성장",
+    "summary": "쏘카, 비수기에도 순이익 냈다…카셰어링·주차 동반 성장  news.nate.com",
+    "source": "news.nate.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MQUNveUNobHF3T1hUQl9yM3RJVzVQazE0Tk5nUTNmQjZmODVhUW1vZFZPWWVTZ19Yd1F0alhzMzhRS3pjNExfR1hOOXZQbkZwQ2Iw?oc=5",
+    "published_at": "2026-08-11T11:07:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260811n32264",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "국민대, 현대차와 자율주행 3D AI 경량화 기술 개발",
+    "summary": "국민대, 현대차와 자율주행 3D AI 경량화 기술 개발  news.nate.com",
+    "source": "news.nate.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13ODlUck8xUzhSZXNNbi05QlRJV3VwYlpxak5aQ2JfQU04NGhqWkwwT01YcFhxVUticm04ZG1LYUwxYWlIdVNnbmV3aGJvMVNPMnFV?oc=5",
+    "published_at": "2026-08-12T00:33:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260812n07441",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "류긍선 카카오모빌 대표 \"자율주행, 피지컬AI 분야로 확장될 것\"",
+    "summary": "류긍선 카카오모빌 대표 \"자율주행, 피지컬AI 분야로 확장될 것\"  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zUjlKOFNhTjNwNnZkYVpzb2llSmlIeFJlaWZBdHFhZUVUQjFQUV9xckRBaXo1SVp5dS14d0pacWhXai15QXRGS2dQcw?oc=5",
+    "published_at": "2026-07-28T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/VxUWQRx2Hg?f=p"
+  },
+  {
+    "headline": "포티투닷, 자율주행 기술 '아트리아 AI' 고도화…50여명 개발자 채용",
+    "summary": "포티투닷, 자율주행 기술 '아트리아 AI' 고도화…50여명 개발자 채용  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZFFuWXM0UVREUkRrQ2RNUGJVWGJ2bncxYUJKaktXdWk1dHBjSDZLNnctWjA2SFNyaDdaM3NzU1NFTkY1eXZmbE9RN2Y2NEM4dlBQeHYwUmRwdHNEVDFLSdIBZkFVX3lxTE5wVWh1T0tlRzF4c2l4ak1YdU56aDdGRjNsN1c4amJSS1pBbUNqcEdQdFlfUTlaU0RuM20yTWItZDhnMm5MempCQmhsRVVxc01pMWtIVWhUTHRhSUM4UWZ3QUItQlAzUQ?oc=5",
+    "published_at": "2026-01-26T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.news1.kr/industry/auto-industry/6050475",
+    "companies": [
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "자율주행 ‘코드42→포티투닷(42dot)’ 사명 바꿔...“모빌리티 정체성 강화”",
+    "summary": "자율주행 ‘코드42→포티투닷(42dot)’ 사명 바꿔...“모빌리티 정체성 강화”  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yNHJGNHBrbTFMYjdpaG5SSG9XNUFkbHUtOG4zODdRNnNldHgtUF8zMGFqRXp1YzVnQzllZ0p3eU1KWEJKTWdfN05JNTZQQXN0bWc?oc=5",
+    "published_at": "2020-08-03T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.sedaily.com/article/12780699",
+    "companies": [
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "처음엔 췌장암, 이번엔 알츠하이머·파킨슨병...젬백스 '17년째 이어지는 희망고문'",
+    "summary": "처음엔 췌장암, 이번엔 알츠하이머·파킨슨병...젬백스 '17년째 이어지는 희망고문'  데일리한국",
+    "source": "데일리한국",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xRURlWTljbHU4aVVheHJic1EtbVZFY2tEQjlOb2VBOElmbzFSX3E5MllLRWRuZnhsZ21TNjBfOGdmdmNtS2E4TFo5QTNHMS1CRXdBTWVFdG4wSkhjYkNTMDY2Z2EyNXoyRHhGNkZyQdIBc0FVX3lxTE56RUFtZUh5d00wdEZIeE1Oak43Ty0zb2NUbEpEMEV2dFlqVk5jd0RFTjZBNG1CUmx3a3hNbVN6cG9ZNU1WS0lab19uakthSjFZQUs4bmdEb2lydllERTBaeUNTUDNmZkhzM28zVUtzeVNIUUU?oc=5",
+    "published_at": "2024-12-06T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://daily.hankooki.com/news/articleView.html?idxno=1155855"
+  },
+  {
+    "headline": "포니링크, 주가급락 사유없어…정상 경영활동中",
+    "summary": "포니링크, 주가급락 사유없어…정상 경영활동中  hankooki.com",
+    "source": "hankooki.com",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0Szk1N3dpRTdPSm9vZmR3V1h4SmpNUWxOMlU0NG1pdGRabXJ6UUt0bFdfYURaVElsMFUtd1c2d2tKNmZDTklwT0xMVGVzWUdmVU1WWnJoMWlTM3ZQZmJucUNobG9ySk1TeHhj0gFvQVVfeXFMTlIwdTlmVmJyWDVyak1xb2l0QlRNd2RoZGNQTXpZa3lEd1IyTE81Q0RJVkVCMzNCODhOQ0ZYNWY3X19nT2pHRzB5RERJd3FPYzNQQ1dhZXNzWERMYjdzSHRFdUJLSlJTVTJ1Q3E5elFB?oc=5",
+    "published_at": "2024-08-13T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.hankooki.com/news/articleView.html?idxno=182317",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "\"라스베이거스 누빈다\"…현대차 로보택시 '모셔널' 올해 상용화",
+    "summary": "\"라스베이거스 누빈다\"…현대차 로보택시 '모셔널' 올해 상용화  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53X0xVRjk1eGpsZXowRGwwaTdLUjJyQXJ6TUVfWk5lMjlWRVNTUFM0WUk1enMwWVZYUnhBWEVmMFVPekVCU0UtbUt5aTR2ZDZxVnhybi0xdVRVb004dXg0eNIBZkFVX3lxTE1KZzktZWVnaTJEdnFZSG5qQXlmdnVZbkNNVnJtQ25BYVBCd1dlUGF6amJQOGVYVnU4b3ppUThYdmhoUlhMV3pNX1g5YmhBTHhTcjhjV0MtQmdwckJIT0hrTjdQMmJfUQ?oc=5",
+    "published_at": "2026-01-12T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.news1.kr/industry/auto-industry/6035084",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "서울시가 운영 중인 청계천·청와대 자율주행버스, 3개월 성적은?",
+    "summary": "서울시가 운영 중인 청계천·청와대 자율주행버스, 3개월 성적은?  hellot.net",
+    "source": "hellot.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYbFgxY0ZPdGZaMHAwbGlDNHFJQ2JodXJWeTFpaHRva1U2eDh2eGJGUVlQTkc2aEpEUWhPUXFxZW9nUkt3NGJsUEFrOGRJWUlOeklZUGxRYTB5YVU?oc=5",
+    "published_at": "2023-03-19T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://hellot.net/mobile/article.html?no=76322"
+  },
+  {
+    "headline": "[2TV 생생정보 맛집] ‘회전 초밥’ 맛집",
+    "summary": "[2TV 생생정보 맛집] ‘회전 초밥’ 맛집  Queen 이코노미퀸",
+    "source": "Queen 이코노미퀸",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1NnlzN2VYNUNYZUtNN2JjTjQ5a0Mtc2VFODQ4NHhrd09nQkw4OE5jaXAxbmxhNDdUenZ6NW9BUlhyMUFvY3kxSFd2c2N0M2FOQm56WmhfZjJmc2hZYzl1UUpZT1VxNl9p?oc=5",
+    "published_at": "2023-12-28T08:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "http://www.queen.co.kr/news/articleView.html?idxno=402897"
+  },
+  {
     "headline": "중국 로보택시, 유럽 시장 확장 가속화.",
     "summary": "중국 로보택시, 유럽 시장 확장 가속화.  Vietnam.vn",
     "source": "Vietnam.vn",

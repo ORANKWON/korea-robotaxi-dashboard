@@ -1,5 +1,317 @@
 [
   {
+    "headline": "더구루",
+    "summary": "더구루",
+    "source": "더구루",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CNWpxMU9IZkxIYmZWa3Y3MWZHUnQydHlpSDFFcFBPWlc2M25xaDU0VERNM3ZqZUJ4WFFXcTNJTnBZQWM5Z3M3dHdKMkpwTmFEUk1jZ29HdWd3dnpuaEV4b0xaWFk?oc=5",
+    "published_at": "2026-08-13T21:28:54+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://theguru.co.kr/news/article_print.html?no=53737"
+  },
+  {
+    "headline": "자율주행 기술 질주하는 카카오모빌…발목 잡는 ‘실도로 데이터’",
+    "summary": "자율주행 기술 질주하는 카카오모빌…발목 잡는 ‘실도로 데이터’  쿠키뉴스",
+    "source": "쿠키뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SZDJTV1EwaWhMZ29ESDJmM090T1FUckFSbVpCNFgxNXhhMWRTYWV0VmRqOGR0M0VKc0RQbW9aY3AzT1I3MDNQNkxoWUhvSVducFBaX3d1X2JpOG03UHUxOHkzUQ?oc=5",
+    "published_at": "2026-08-13T21:00:18+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.kukinews.com/article/view/kuk202608130182"
+  },
+  {
+    "headline": "중국 포니AI, 우버와 손잡고 유럽 진출…로보택시 2000대 이상 배치│Global Money Club",
+    "summary": "중국 포니AI, 우버와 손잡고 유럽 진출…로보택시 2000대 이상 배치│Global Money Club  중앙일보",
+    "source": "중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pNXA5N0F0V2FiU0lGZGZEaGtyUEFoZ0R5TDc0OGtvbkFWYVZ3WERMNU1KLWpYZlVxQ01kUXp2LVJ2SmhtelJCbkFSMW93MURGZENmQVpObVduSjA?oc=5",
+    "published_at": "2026-08-14T02:11:42+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.joongang.co.kr/gmc/article/25453345",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "디도스 공격에 웨이모 50대 먹통…로보택시의 허술한 민낯",
+    "summary": "디도스 공격에 웨이모 50대 먹통…로보택시의 허술한 민낯  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCaDZWLW9hV2ZZUlNwYnFtdzRFamRwS2RIQnRvSl94WHZXcGxWVWxyWHo3T2FVTGRTN0hTbm5feXNuMmJBUzQ2UFNvYl9GZGNYOEtN?oc=5",
+    "published_at": "2026-08-14T00:16:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260814n06680"
+  },
+  {
+    "headline": "[단독분석] 아마존 죽스 로보택시 유료 운행 시작… NHTSA 면제 승인과 우버 100억 달러 투자 배경",
+    "summary": "[단독분석] 아마존 죽스 로보택시 유료 운행 시작… NHTSA 면제 승인과 우버 100억 달러 투자 배경  한국데이터경제신문",
+    "source": "한국데이터경제신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44eTVMb21LWkVyXzE2RGNhS3ZKLUdSZmg1dnVPaDByLXdob1dRcXlZeE1uRVRoVlJ3VTUwcFAyTTNQVGp6NjQxV0gwVXo4Mm4wQnBUUWNrNjB1U20wQkd0QnFua1BmMkNLNktOVDJuRE7SAXRBVV95cUxNQUlvLVVCaVNnV1oyVzJUYVYtekZvYmYyc1Y5amNXaFFCd3Y1SUpiSTF0dHkxOGV5SjJLX29kTnVMb0VXNnVUdEdjbTZxYU5WSjJpcjJ4UE9pXzVHczcwdVhuNi1xTWRlc0I3ekl6T3R2OG5ndg?oc=5",
+    "published_at": "2026-08-12T21:10:00+00:00",
+    "tags": [
+      "정책",
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.dataeconomy.co.kr/news/articleView.html?idxno=41792"
+  },
+  {
+    "headline": "운전대 없는 로보택시가 요금을 받는다…죽스, 8월 10일 라스베이거스서 유료 운행 시작",
+    "summary": "운전대 없는 로보택시가 요금을 받는다…죽스, 8월 10일 라스베이거스서 유료 운행 시작  AI 매터스",
+    "source": "AI 매터스",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IVDNiRmc2c0ZVTzRFMzlSOWVhN0pFckVTdXN4dE1GSTd1SVdOWFBQX2M1SzI1WkJlSFF0WldnSDRBTVdLRmpvX1B4Zi1Iak55al9jaQ?oc=5",
+    "published_at": "2026-08-07T01:39:48+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://aimatters.co.kr/news-report/48198/"
+  },
+  {
+    "headline": "충북TP, 탄금공원에 레벨4 자율주행 셔틀",
+    "summary": "충북TP, 탄금공원에 레벨4 자율주행 셔틀  todayenergy.kr",
+    "source": "todayenergy.kr",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZHJyeTZYVE5zbHE1OHhPclpSazhKekNrOVE5QXhVcHVfTjJybTh1SVJFN2stenVWTTVsZy1OOE01OXhoMUVoWHE2cFBaM3VEcTlJalVyQ1pyclhHNll4V19DSUJoeTB5R0VQcENn?oc=5",
+    "published_at": "2026-08-14T00:55:32+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.todayenergy.kr/news/articleView.html?idxno=301563"
+  },
+  {
+    "headline": "충북TP, 15일부터 충주 탄금공원 순환 자율주행 셔틀 서비스",
+    "summary": "충북TP, 15일부터 충주 탄금공원 순환 자율주행 셔틀 서비스  BBS불교방송",
+    "source": "BBS불교방송",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IbzJVV3gydW9Ud3RjRWE3dUtpX291am96RmtrODQ3ejg5dXF0SlppM29pV1Jrd200WmoxQm5obnduaDlRX1VjcXRaMy1qMDEyTll3dEJZb3FIdW9JOUtEM2x0VUNDNWNZTzZj?oc=5",
+    "published_at": "2026-08-14T00:43:46+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4100801"
+  },
+  {
+    "headline": "자율주행·피지컬 AI 기업 IPO 나선 우리투자증권…1호 스팩까지 띄운다",
+    "summary": "자율주행·피지컬 AI 기업 IPO 나선 우리투자증권…1호 스팩까지 띄운다  이코노미사이언스",
+    "source": "이코노미사이언스",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kMnpJNmphX0hTeU5DaXRKbkMxRnJWSE1qeUxQMm5nUkp6MGN6RmtobzNfaFlhdzJSWHVZTkJhUFFxeXZ4X04wdENUNjgzMVhOdGhVTDk3amxoNFJvWjVKRGJUbTJsbEtOUVQ4Q3RpZw?oc=5",
+    "published_at": "2026-08-13T21:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.e-science.co.kr/news/articleView.html?idxno=133498"
+  },
+  {
+    "headline": "부산항 신항에 ‘무인 자율주행 물류’ 구축… 454억원 투입",
+    "summary": "부산항 신항에 ‘무인 자율주행 물류’ 구축… 454억원 투입  전국매일신문",
+    "source": "전국매일신문",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NWGE0Y2t0Uk9BUWkyWGthTUFxakNpX0tPZlFacEIxZGF2RjZPS0VlYVFyT2pYaHFtRmFCUnFUXzBfYkdwWTB2Q1Axa2I1UkRxcG45VGQyRVlOOUlFUHUzbWh4ZXJfQzBiZjBzTkxn?oc=5",
+    "published_at": "2026-08-13T08:18:24+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284008"
+  },
+  {
+    "headline": "[자율주행 어디까지 왔나②] 자율주행 예산, 차보다 도로 데이터 확보가 먼저",
+    "summary": "[자율주행 어디까지 왔나②] 자율주행 예산, 차보다 도로 데이터 확보가 먼저  조달경제신문",
+    "source": "조달경제신문",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMWktmdFRQNy1nd0hqMldlRGNWSm1YU2lWVXhfR04ycnI4TVRnTXBWbXpGSXNmM3JLamZfMzdiY1c2Q1Vvb050T3FheWMybFJoa3luV2hwcmZyOGRHMmQyVUhSaW5WMjg3dDVXU3Jn?oc=5",
+    "published_at": "2026-08-14T01:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.jodaleconomy.com/news/articleView.html?idxno=2946"
+  },
+  {
+    "headline": "천안시, 자율주행버스 운행 확대…11월 정식 서비스 개시",
+    "summary": "천안시, 자율주행버스 운행 확대…11월 정식 서비스 개시  매일일보",
+    "source": "매일일보",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82V3ZjZ2M1eGZnUkRjR0g3aGRGRFp4bVBKWUQ4dTFYclI1Q1lnV3dXczhQS1RURElCak5qejA3US1LbXlLWmdjY3N0MmxQbjlHLWtONzVBXzdNXzFjSFJuTVIyNUs?oc=5",
+    "published_at": "2026-08-13T05:24:01+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.m-i.kr/news/articleView.html?idxno=1402101"
+  },
+  {
+    "headline": "충주 탄금공원, 자율주행 셔틀 'ROii' 15일부터 운행",
+    "summary": "충주 탄금공원, 자율주행 셔틀 'ROii' 15일부터 운행  충북뉴스",
+    "source": "충북뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14dmF6UlQtSy16bEdZaWNyNENwQnFQcUt5aVhtQkEzQ1lzUnJUQUZjelBGOUNnazVHOEkzN3p2T2x0bEdzSWlsY3A1OG9NMi1mT2x6cnVSS1lkVkQyNmhLa092SXhsdw?oc=5",
+    "published_at": "2026-08-14T01:15:18+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "http://www.cbnews.kr/news/articleView.html?idxno=243755"
+  },
+  {
+    "headline": "충주 자율주행자동차 시범운행지구 신규 지정",
+    "summary": "충주 자율주행자동차 시범운행지구 신규 지정  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFUE9QQlhIUlgxR1ZWeEwzQlpDRFlzLWlHZklnOXJaM1BJRXNRaURyNlNNTlRDdXltS21lcmVlSDVLUmhfR0J1YlhOMTB5VlJOclQzOVFWRU1HZ2RObDk40gFkQVVfeXFMT1FaWlhSZlB3MEFSdHNRblA4TWhSZG5yMDZHMXZRM1JfS1kyUHJWRk5Ib0wxMlpUeTdWaS0yMWFrRTA3T240VXBLcXpiTTdyNzVZZUFNM205eVhzT2NnTDktWnJTcw?oc=5",
+    "published_at": "2026-07-06T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "final_url": "https://www.news1.kr/local/sejong-chungbuk/6219260"
+  },
+  {
+    "headline": "쏘카, 2분기 영업익 68억원…전년比 271%↑",
+    "summary": "쏘카, 2분기 영업익 68억원…전년比 271%↑  IT조선",
+    "source": "IT조선",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VdEpURVlLN0FjX25LWFk0MWZaZm8zNlNRYXZoSnUxN0I3UjdNQmJRcU5Uc2FPRk9Zc2l5dzR1dFE1dDVhbVY1bUxSWFpuVWl0aWs2b19CMmU5ZlRSdE95UDl5WmJnay11NnNHMzhReG3SAXRBVV95cUxPUXNkYm9BY0c5WVlEdTBCQ19kR1J6MnQzQ0I5bHpDa08yWjRMcGpSbHZXdWJfUnk2WVk3V0pCZWhhRU1HeUxZZVpJLXA1azh3T3BKTEJhaUxlaHVZcFhUSDFKNFhlajhIaGdha3dHNGczdDYxWA?oc=5",
+    "published_at": "2026-08-12T07:14:51+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://it.chosun.com/news/articleView.html?idxno=2023092167991",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "쏘카, 비수기에 첫 당기순이익…하반기 자율주행 사업 확대",
+    "summary": "쏘카, 비수기에 첫 당기순이익…하반기 자율주행 사업 확대  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pWlhpVVZIZ2RWSVA1SF9DOXhhR0xiZGhBWFNWdlhMRlkzZGljenR0bGxQU1I4aC1Nb0I0SkQydEJ1NDV2aDhkQi1oX0xHOGJVTDJHM1Jib2ZLalp4ekZMMg?oc=5",
+    "published_at": "2026-08-11T08:29:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260811n27563?mid=n1101",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "현대차-삼성, '생존 동맹' 영역 확장…\"배터리·자율주행칩·IoT·로봇까지\" [biz-플러스]",
+    "summary": "현대차-삼성, '생존 동맹' 영역 확장…\"배터리·자율주행칩·IoT·로봇까지\" [biz-플러스]  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxNTB1Zlg5ZXhRUENhbHF4WVZnSm0xSTRvN3UyclRBNzlOQ3dWUUFaMXl5a3JVMFh2czExeUpFT0tuS0pKcGFEQWRnQ2VFSmhUX1k0?oc=5",
+    "published_at": "2026-08-13T21:31:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260814n03119",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹 자율주행 ‘삼각편대’ 로…‘원팀’ 시너지",
+    "summary": "현대차그룹 자율주행 ‘삼각편대’ 로…‘원팀’ 시너지  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UTzJLZ0VOeElVeEZ6NkthWXBQUjA3Z3BCTjAtR3lVcW1zU25qUUJfZDNHc1ZOeVcwUFV5aU96MnA4RjEtUkE?oc=5",
+    "published_at": "2026-08-02T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/UiYQFZ5TWv",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "젬백스링크, 포니링크로 사명 변경…남경필 대표이사 신규 선임",
+    "summary": "젬백스링크, 포니링크로 사명 변경…남경필 대표이사 신규 선임  이투데이",
+    "source": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12elJfbDNuM19GSURRUElfZ3FqNUJzZnRKZjgtRjE5ZmVHa212ZVhXNkFHU1pGaC0wbnhMcWxENlA1UXoySTdMVDRnd3FidWdQMjUxTw?oc=5",
+    "published_at": "2024-06-11T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.etoday.co.kr/news/view/2368462",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, Space42와 100억원 규모 UAE 자율주행 공급 계약",
+    "summary": "오토노머스에이투지, Space42와 100억원 규모 UAE 자율주행 공급 계약  디지털데일리",
+    "source": "디지털데일리",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFS201OXllVm0ySTlfMVN1ZlQxLXVPTEJyWWMtOFR4QlhtSmNlZVpDUldYVnNYX3htVWFUbU4zNTE2VmVGYTYzaWo4TFgyZ2xaZVRBZVZVTFR0M3YtQ3hxZVlvVXE?oc=5",
+    "published_at": "2026-08-11T03:27:24+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.ddaily.co.kr/page/view/2026081112271694551",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "HL클레무브-오토노머스에이투지, 완전 자율주행(L4) 시스템 공동 개발",
+    "summary": "HL클레무브-오토노머스에이투지, 완전 자율주행(L4) 시스템 공동 개발  와이즈경제",
+    "source": "와이즈경제",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KUEhKbUxDUnV3U21WQmJuVHpiZmY3dXpia2hWODJjMnFZT0lSbnRKUXhKMlp2WXpFbmUzc2g3SXNuVjZoQmhKaUJfZGNIZ2JWMkFJMk85TG9xWmpVc0lzbnJoUG9IUnA4SFE?oc=5",
+    "published_at": "2026-08-05T07:05:56+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "http://www.wiseenews.com/news/articleView.html?idxno=51787",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "HL클레무브-오토노머스에이투지, 레벨4 자율주행 시스템 개발 ‘맞손’",
+    "summary": "HL클레무브-오토노머스에이투지, 레벨4 자율주행 시스템 개발 ‘맞손’  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oY3kzc3RxeWUtTnMyWTJzZTI1NDRmUWUxOUt3ZHh5TktQSV9DQnpzRWhaRkRLTy03d0Q2c3Bxdmp4a2ZFRm9ZRFlxOVg2NzdTb2c?oc=5",
+    "published_at": "2026-04-08T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.sedaily.com/article/20029805",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "中과 기술 격차 3년, 누가 K 자율주행 발목 잡나 [뛰는 차이나, 기로의 K산업]",
+    "summary": "中과 기술 격차 3년, 누가 K 자율주행 발목 잡나 [뛰는 차이나, 기로의 K산업]  한국일보",
+    "source": "한국일보",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KaGVnLUhKelo5ODRDUmhpaUJ4TXFhcURrSGRrdlVpajhwREktSFByNUNMbDJMUjBqS056UzE2Ry1oaVAwQXdSOVRjczlMWVlsczA3akJXV0VjZmNnUGJuSkZlU3pxZ0FyemNKUm1n0gFzQVVfeXFMUDdFdW5lY25kaWdaY1RENDR4OC1vX01acGdhMmlJNzBFSlYzeE82YXZJT3pJTEl4VGhfUVd5cnJXcmtzX2hBRzladF8tUEpEalM4X1VrUmh5ZlVoRFZ3eEhrYWtva1JDajEwRTNJWnFGX0dZTQ?oc=5",
+    "published_at": "2025-05-20T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.hankookilbo.com/news/article/A2025051519030002288"
+  },
+  {
+    "headline": "카카오모빌리티, SUM과 자율주행 상용화 협력",
+    "summary": "카카오모빌리티, SUM과 자율주행 상용화 협력  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMeldzQWdLMXBPTTBzelhSZUdEdlhWVmJ4Y1BJTU82ZFZpM1UzeEhHdTVTZ2lnVnFrcHZMRmc2SlFaWndPRjZ2Z3U2QWxTaGR6Tmc?oc=5",
+    "published_at": "2025-09-22T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.sedaily.com/article/14120632",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "[세계 첫 심야자율주행버스 타보니]주행은 완벽…“느려서 답답\" 불만도",
+    "summary": "[세계 첫 심야자율주행버스 타보니]주행은 완벽…“느려서 답답\" 불만도  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BenFsc2ZWY1BVSFZ1SjlDXzhmX21PbF9RNnNzOGlvUGZUa1pQeVFVdjNfR0JvUDJjMlpCb1NOSmJaY0FCMlhOM2lEdElVVWtvVzVn?oc=5",
+    "published_at": "2023-12-05T08:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://m.sedaily.com/amparticle/13802178"
+  },
+  {
     "headline": "[경상시론]울산, 이제는 자율주행자동차 미래도시로 나아갈 때",
     "summary": "[경상시론]울산, 이제는 자율주행자동차 미래도시로 나아갈 때  경상일보",
     "source": "경상일보",

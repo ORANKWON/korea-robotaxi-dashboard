@@ -1,5 +1,103 @@
 [
   {
+    "headline": "'사람 없는 택시'는 일상…샌프란시스코에서 본 자율주행의 현주소[르포]",
+    "summary": "'사람 없는 택시'는 일상…샌프란시스코에서 본 자율주행의 현주소[르포]  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DclNmUElIRmZFbkZUVUxwbHRpbW4wMEVJQWZsM2JRV19zOWtmMVpxUG1fZElIbFNyenZjVllpSDZwMGFLX0F5em5aVndNR1U?oc=5",
+    "published_at": "2026-08-21T23:00:09+00:00",
+    "tags": [
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/20260822080009361"
+  },
+  {
+    "headline": "일반택시 요금 ‘강남 심야 자율택시’, 기존 7대서 19대로 늘었다",
+    "summary": "일반택시 요금 ‘강남 심야 자율택시’, 기존 7대서 19대로 늘었다  헤럴드경제",
+    "source": "헤럴드경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zb3U3am4zSUxUck5nU0pQVDI4LXZnZFBEQ0NYLXFKQlBDV3E2Y3Q2OE1uenl5Mk9heF90QUtyalRhZzFqejA2dko0bVZ4WGhRandiS1Bn?oc=5",
+    "published_at": "2026-08-21T23:45:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://biz.heraldcorp.com/article/10847263"
+  },
+  {
+    "headline": "'로보택시' 상용화 앞두고…'모셔널 적자' 현대차그룹 3사 손익 덮쳤다",
+    "summary": "'로보택시' 상용화 앞두고…'모셔널 적자' 현대차그룹 3사 손익 덮쳤다  블로터",
+    "source": "블로터",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02Qlc5ckFtTzFXMzRpUkJ0XzYyMDRlMGk0dGJtckxmazV6WVVvRHNyQzFZdUFiLW9zY0dGUG5wcnRuZFkyWEVoTG5NTURtMDJFSGVHdXRvWGZDT01GdWFIcWxvcloxbGs4aG5MONIBbEFVX3lxTE02Qlc5ckFtTzFXMzRpUkJ0XzYyMDRlMGk0dGJtckxmazV6WVVvRHNyQzFZdUFiLW9zY0dGUG5wcnRuZFkyWEVoTG5NTURtMDJFSGVHdXRvWGZDT01GdWFIcWxvcloxbGs4aG5MOA?oc=5",
+    "published_at": "2026-08-20T01:00:52+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.bloter.net/news/articleViewAmp.html?idxno=671305",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "모셔널, 무인 로보택시 상용화 준비 진행",
+    "summary": "모셔널, 무인 로보택시 상용화 준비 진행  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PWmd1MTFzY2p2N3dYS1BXMjFra1pndkdiVWdnZ2FOTnJKYlBSZFJTNldERThuOVlOcVVJYnJaSmY4Y19GTVE5Qnl3bzFtdl9HaWhPYm5QeXdvVTdnZ1RsUQ?oc=5",
+    "published_at": "2026-03-08T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.newsis.com/view/NISI20260308_0021200059",
+    "companies": [
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "[특징주] 현대오토에버, 완전자율주행 로보택시 상용화에 13%대 강세",
+    "summary": "[특징주] 현대오토에버, 완전자율주행 로보택시 상용화에 13%대 강세  아주경제",
+    "source": "아주경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BVGxOdW0wV3lGbGVITXRBQ0YyQTZvWk9uSkxfaHA5RjlKdWVERjNUdFZZOFl1cG12blJoY21JVFNTcW9JRmlXVEp4d2Jsc251ZG1oQk1CZ0Y4d9IBWEFVX3lxTE53enh4Q2ZlOXg3OVhNYWVBVXkwNWplNXBPZGxwOFJXbXp1cDFpVzFDRWhPT3F2LW01R1ltZHI2SE5wY0Z6NmQ4eElza3NHMXl6d25XOGJod2k?oc=5",
+    "published_at": "2026-01-13T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.ajunews.com/view/20260113095620612"
+  },
+  {
+    "headline": "공항 나오자 자율주행·호텔에선 AI 마사지…'미래 여행지' 된 美 LA",
+    "summary": "공항 나오자 자율주행·호텔에선 AI 마사지…'미래 여행지' 된 美 LA  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43VTRxM3Zpa0UwUFJUQklIRjhBdE14MGp0YmMwMEVzcDdUNloyRVZmdFBSbFJBSEVGNDJYNi1sTElVN0NRUHBDZUFoYUNNN3phN21uVHZLZ1JVMm5UaDh0ONIBZkFVX3lxTE11QXJkWDBDbjdOM1RpU1Q2cGZlbFdiNGJCSVRvUlN4WUVqdUhLNzlzdXRlWGF1YXBMT1BaMUFGMkpCNnNOX2dDang2b1pyc21YQWpTc1JhQ2I1SG1YM1FkYS1OdW5KUQ?oc=5",
+    "published_at": "2026-08-21T21:30:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.news1.kr/industry/hotel-tourism/6265251"
+  },
+  {
+    "headline": "“운전석 없는 차량, 강문까지 달렸다” 강릉 자율주행 시대 성큼",
+    "summary": "“운전석 없는 차량, 강문까지 달렸다” 강릉 자율주행 시대 성큼  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZRW1RQmN4ZUZJR3Y3amFwREhDNjRRck9iVHBaeEZyTU9mX2h5d1JaOHlZNkFYNElDcHRaelpJb3JXU1ZVVXRmVi0zY3l6TUxjVzV3ag?oc=5",
+    "published_at": "2026-08-06T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/20260806000642497?f=p"
+  },
+  {
+    "headline": "서울시, 2030년까지 자율주행버스 500대 도입… 대중교통 접근성 전수조사 추진 - 디스커버리뉴스(DISCOVERYNEWS)",
+    "summary": "서울시, 2030년까지 자율주행버스 500대 도입… 대중교통 접근성 전수조사 추진  디스커버리뉴스(DISCOVERYNEWS)",
+    "source": "디스커버리뉴스(DISCOVERYNEWS)",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12YV9DWXN2TUpPUTZ2Mndndlc4Y3BRSDJsVTE4MEV1Y1FtazhEdnZPTXZ5bFB4ZTNZMlJDNDVqMmthVTdGWmdTa3ZVQ3QtLWlFbDJPSU1lbmNLQk9WanhhbHlSU095RGctR2tWcE93aU9iUQ?oc=5",
+    "published_at": "2026-08-22T00:33:52+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.discoverynews.kr/news/articleView.html?idxno=1099275"
+  },
+  {
     "headline": "서울, 강남 심야 자율주행택시 19대로",
     "summary": "서울, 강남 심야 자율주행택시 19대로  서울Pn",
     "source": "서울Pn",

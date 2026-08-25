@@ -1,5 +1,471 @@
 [
   {
+    "headline": "테슬라, 로보택시 사이버캡 양산형 모델 9월 3일 공개",
+    "summary": "테슬라, 로보택시 사이버캡 양산형 모델 9월 3일 공개  연합인포맥스",
+    "source": "연합인포맥스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mYVJROUxjVUN6X3kzRUp4UjE4OVczdTBhdVVJbVBud1kweE10SGUzZnhYMWxLcU1OR1ljXzFkMVJHSUFGdWhaTWVxc3FUdHRLRThISHZPeHNzRVpMbzNqalhhRGZ4NmlPQTdxQzRMX18?oc=5",
+    "published_at": "2026-08-25T01:58:17+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431650"
+  },
+  {
+    "headline": "자율주행 택시",
+    "summary": "자율주행 택시",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPUFJGZ1VHU0dIS1R6TXl3ekxNM1NUYjczNWhQSU9WeFFNVlNQX28tTi1GM3ZRbHlrcnAwWDhkZmgxa0NVZnUwcVJDNHdXWWc5Zk1QZERXbGlOY0N3Yk40VA?oc=5",
+    "published_at": "2026-08-25T03:59:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260825n16918?mid=n0600"
+  },
+  {
+    "headline": "'사람 없는 택시'는 일상…샌프란시스코에서 본 자율주행의 현주소[르포]",
+    "summary": "'사람 없는 택시'는 일상…샌프란시스코에서 본 자율주행의 현주소[르포]  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zbnRJZnVRVGtJaHFHSnU0ejhUQTF2b0xuS2tydTNSRlVyUFBjaVRkU3NsSHRsN2JKSkkyVTdIb0hVbU5zWkpWYTh2TzV3RTZ0TVNhcw?oc=5",
+    "published_at": "2026-08-21T23:00:09+00:00",
+    "tags": [
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/20260822080009361?f=p"
+  },
+  {
+    "headline": "韓 자율차 실험장, 中 우한의 26분의 1…정부 \"광주 실증도시로 2027년 레벨4 상용화 추진\"",
+    "summary": "韓 자율차 실험장, 中 우한의 26분의 1…정부 \"광주 실증도시로 2027년 레벨4 상용화 추진\"  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRWNDaUcySHk4WUhhdFFPdnI4bEdYbFRXcjF2RnRxYUd0TjZCWVF6T1RIbW1RV3l6em9TWk5pUTQzVF9UblgzMXA5bXRIRkdINlp1S0RRelZ0Zw?oc=5",
+    "published_at": "2026-08-25T05:43:08+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "final_url": "https://www.fnnews.com/news/202608251247198468"
+  },
+  {
+    "headline": "[르포] 스마트 충전부터 로보택시까지…달라진 전기차 생태계",
+    "summary": "[르포] 스마트 충전부터 로보택시까지…달라진 전기차 생태계  메트로신문",
+    "source": "메트로신문",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pcl9iWDVIYTNkNl9EVjF6aDVPQlVzejVpWl9OeHNPT0J4SkdvX1lYeXZjQ1dTSEg5bF9WQ2t4dGtJSXRYR3RWRmVUNUtNbFJGN01sckZwV2g2NGd4V3NiRg?oc=5",
+    "published_at": "2026-08-25T05:06:43+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.metroseoul.co.kr/article/20260825500338"
+  },
+  {
+    "headline": "로보택시 허용할까 말까 끝났다…美, 이제는 '몇 대까지' 싸움",
+    "summary": "로보택시 허용할까 말까 끝났다…美, 이제는 '몇 대까지' 싸움  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TVnNUMElYM3pTSDJZTWI5ZkkwYnFIbFNxSDRfeU0ydWlqV2pIVTFxZ1FCQ2FBRlN1aFJnZ213SS1zZTFhaDhMRWM3bGdoOF9sZDRB?oc=5",
+    "published_at": "2026-08-25T02:11:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260825n12919"
+  },
+  {
+    "headline": "강남 '심야 자율주행택시' 19대로 증차...어린이보호구역도 달린다",
+    "summary": "강남 '심야 자율주행택시' 19대로 증차...어린이보호구역도 달린다  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxVHR0RnhKeFVRdFVkcEdOQmo0S1l2UFNWRTBPdzItdGdRRFlEVzhaREEwMWh3S0doUExTQThYSWlvU2hiYkZQVVEtN014elVBUDZqZGlFUVdHZw?oc=5",
+    "published_at": "2026-08-19T02:15:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.fnnews.com/news/202608191003130247"
+  },
+  {
+    "headline": "내일부터 서울 강남 심야 자율주행택시 7대→19대 확대",
+    "summary": "내일부터 서울 강남 심야 자율주행택시 7대→19대 확대  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uOElXUjZhSDJuWW5Nb253dWFZOVZmbnFuMEdiOVV4bjJrY0lhRWx2Zk11allmUlVoZm1uQ1pUT2ZmX01oeTdZNllWaUFCTmdnMjRtamN3RDlrX0tIUkhZb9IBeEFVX3lxTE1ZNk5CZXVKX2djaURQVE9yNGtyTFdPY3hNdTE4WFA5OE9waHp1VWJLTmtSZEdMWmtmU0JhNnZrSGJ1VUNDUlBac2tOX2hpM0dicEVVM2lPVEF5aEZIaEJyRW9OTDFuVHlVYUdJb1pYYkRLSV9nZzd0bg?oc=5",
+    "published_at": "2026-08-19T02:15:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.newsis.com/view/NISX20260819_0003753958"
+  },
+  {
+    "headline": "\"운전석도, 앞뒤도 없다\"‥아마존 무인택시 '죽스' 타 보니‥",
+    "summary": "\"운전석도, 앞뒤도 없다\"‥아마존 무인택시 '죽스' 타 보니‥  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BSklUbWlrdU42MmVYYWRXT3loc2NNTVJRcjF2dWszclNtRkdTbFlSdHotMk1DN18wSlUwbkpwQXAwVy1sVnJ2dmZ3Nms5SHc?oc=5",
+    "published_at": "2026-08-24T11:31:13+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/20260824203113960"
+  },
+  {
+    "headline": "[비바100] AI가 운전대 잡은 '로보택시'?233조 시장 열린다",
+    "summary": "[비바100] AI가 운전대 잡은 '로보택시'?233조 시장 열린다  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSU1vYW1hXzNYT1c3d3hPTWdhdkpYakhPRlVmaVJiRW9DdVRBVFhZa3VyYnN2Z3BnOGQ0V2J1TnYxMjNGQTM5M3c1V1lXeEppak9r?oc=5",
+    "published_at": "2026-08-23T21:26:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260824n02871"
+  },
+  {
+    "headline": "美.中 무인택시 상용화 단계...손 놓고 있는 한국",
+    "summary": "美.中 무인택시 상용화 단계...손 놓고 있는 한국  맑은뉴스",
+    "source": "맑은뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xcEFjX0pwdmo0N2JZSmpNRHhMZlJVX3RVckxpZmdEN3RGSkJKVFZ3b050NnlNM2ZZMnJUaHk5TC1hakE3NGNXMzR1MnJXX0RjZnF3UFhGaDNyeVZvYkladzRpX3VmSzA?oc=5",
+    "published_at": "2026-08-24T19:45:42+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.ccnn.co.kr/news/articleView.html?idxno=22765"
+  },
+  {
+    "headline": "로보택시부터 물류로봇까지 ... ‘2026 자율주행모빌리티산업전’ 개막",
+    "summary": "로보택시부터 물류로봇까지 ... ‘2026 자율주행모빌리티산업전’ 개막  워크투데이",
+    "source": "워크투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wRC03OEJFWW92RVNBUTRNZW5BQl96c3A3cWtEdlRlQ0hsX29wTjFZbThZTi1WNFROb1lrTTcwWUNIb2JyVlBBeHR6akoyOW5xZjV3dUtUVVlvdVFGZ0FQS3BXR0JMQUNOSkxUSg?oc=5",
+    "published_at": "2026-08-25T01:26:35+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88356"
+  },
+  {
+    "headline": "웨이모, 도쿄 로보택시 출시 예고",
+    "summary": "웨이모, 도쿄 로보택시 출시 예고  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UmZTLW5jU1FEQVhoQlNJRUl5amF1YzJIMzJJOC16eGtScUtTTnI3MTZ5a25BQTdlRXp5UkFJMS1nTU9zLVhhcHhUbEFaTGxsRExZWUg0WHB1Z1JoSzNhNWkxekkwcVBOMFE?oc=5",
+    "published_at": "2026-08-21T06:07:45+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://auto.danawa.com/news/?Tab=A&Work=detail&no=6049282"
+  },
+  {
+    "headline": "롯데이노베이트, 자율주행 셔틀 확대 운영",
+    "summary": "롯데이노베이트, 자율주행 셔틀 확대 운영  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fR0R0ZzAtbVBPaW5jYTBUZjN2aHNHeVd4bzR1YUM5cFU4WWRlN3M2WnBRUHF0Vjk5UHRnTUdQdnFSRFdxWFlqa1RZblF4V0ZDVEsxTUZGOWJuQQ?oc=5",
+    "published_at": "2026-08-24T09:12:15+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.hankyung.com/article/2026082495731"
+  },
+  {
+    "headline": "제주 성산서 운행되는 '자율주행버스' 8월1일부터 유료로 전환",
+    "summary": "제주 성산서 운행되는 '자율주행버스' 8월1일부터 유료로 전환  미디어제주",
+    "source": "미디어제주",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZU0hvT2RHeVc1enJBc1hyYjlVVFhHWFB4QkVraXdaS2tjZFhMMFVENWwtU1JOYTQ5Uk9GS2lESGpQMlZSSjR4Vy0tbmZHRmNRSHJOdDBhS2VJbkFBTmJuS0c1Uk5DTG52QmJ6ZQ?oc=5",
+    "published_at": "2026-07-07T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.mediajeju.com/news/articleView.html?idxno=365046"
+  },
+  {
+    "headline": "[현장] 정부 \"2027년 레벨4 자율주행 상용화\"...기술·실증 동시 확대",
+    "summary": "[현장] 정부 \"2027년 레벨4 자율주행 상용화\"...기술·실증 동시 확대  뉴스투데이",
+    "source": "뉴스투데이",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkU1ZnYnBTeVZTa2RNTEUybmRnakswT0ZIcndWSTVVOHdXSGo4MUxLUHBGaWpTTUtubWIyUUYxMlBUWDJDY2t5NnlYeGdpOVJmekdpRE5XR2d6T1hrVEE?oc=5",
+    "published_at": "2026-08-25T06:10:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "final_url": "https://www.news2day.co.kr/article/20260825500203"
+  },
+  {
+    "headline": "레벨4 자율주행 규격 선점한 中…韓 완성차, 검증 부담 커져",
+    "summary": "레벨4 자율주행 규격 선점한 中…韓 완성차, 검증 부담 커져  edaily.co.kr",
+    "source": "edaily.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNXVqcVQ5ZTk3WWJDdjhNQnVDQlEtNW1VZjhIWXpTNEFjM2VHOXZTT2pwa3NQNVlDblFiaWswRlhCRWdLQ2Z6bWUyZDF3OUl0eDVXcm1oQmRUMndjMVNoQWtTSkViVTFoZ1hvaGE4dHMyMy1JekFKT0Qwb0dQeHZpMg?oc=5",
+    "published_at": "2026-08-24T09:17:29+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.edaily.co.kr/News/Read?newsId=04224646645550600&mediaCodeNo=257"
+  },
+  {
+    "headline": "레벨4 자율주행 셔틀 '로이'",
+    "summary": "레벨4 자율주행 셔틀 '로이'  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43amRFdGZIQU1DUi1rRFFGSzlOWHJXWk1pUzdBVVpIVmZEUDVVaEVMdFd6QXBOVVdUX0VMS1lEVk9UTUlkcmdRRGJkcVF6bXlhdnQw?oc=5",
+    "published_at": "2026-08-25T06:17:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260825n22580"
+  },
+  {
+    "headline": "서울 시내버스도 '자율주행'…2030년까지 500대 투입한다",
+    "summary": "서울 시내버스도 '자율주행'…2030년까지 500대 투입한다  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sNjRIR2c3dTZ4Mm1VczVwMUU1NURneDNIVXFpbERUcld0ZXlHQlFZZjhOR1F5S3pGVDFCb0VsMk0xV0dDYW1mWXVhM2V1LU3SAVRBVV95cUxPNWFEbXV3QTRKMEN5YmJhV3dqZ2xPMWdSM3kyLV94YzZIU1hHcFg5dE9PTWU3Uzd6UzJVVF84cmZxbXBrQWVNTDNDd0JKZGE3Z0U0eHI?oc=5",
+    "published_at": "2026-08-21T02:15:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.news1.kr/local/moi/6265295"
+  },
+  {
+    "headline": "코엑스에 모인 자율주행 기술…AI 넘어 물류로봇까지",
+    "summary": "코엑스에 모인 자율주행 기술…AI 넘어 물류로봇까지  물류신문",
+    "source": "물류신문",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2RjVrN1I5N2tLOXlpdlVRZVpqZ0JxQVZLdFhEOTVjajVyMG1ubEZzbjNEa3pGTVBvcmk4TXlZcmZ2Uk05NWk3MjV6TFNWMkFGWWFCSXdydGgzMENCaXlWRWh3Z2hYT1I1RjR3?oc=5",
+    "published_at": "2026-08-25T01:42:10+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.klnews.co.kr/news/articleView.html?idxno=322451"
+  },
+  {
+    "headline": "전기차·AI 자율주행·드론 등 총출동…‘2026 퓨처 모빌리티 위크’ 개막",
+    "summary": "전기차·AI 자율주행·드론 등 총출동…‘2026 퓨처 모빌리티 위크’ 개막  경향신문",
+    "source": "경향신문",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0VVE1UDNkWnJqZG5xY3NIdGpuRnhlaFptaUVlLVBLT0hTUEFMVmRKQ1pZeHdOZlllSW55S3NMNDE3RFRTejdVSmlpNjZRM2kyWkRtT1I2bzdKQdIBX0FVX3lxTFBPb0RSTTFJM1k4dGk5UFFxUlNPOThaYndTd0NWb2ducHpKLWNQMWdsT1pLZHp1XzZUUDVOZjRxS3FoNVM0QTI4TTF5TTBnY2RxaWNVSW9lNzd2VVgyOXlj?oc=5",
+    "published_at": "2026-08-25T05:04:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.khan.co.kr/article/202608251404021"
+  },
+  {
+    "headline": "풀스택 역량 강화…기술 고도화 잰걸음",
+    "summary": "풀스택 역량 강화…기술 고도화 잰걸음  톱데일리",
+    "source": "톱데일리",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GRUY2YTE3OE1qdkRsTEhhVGVUVHRYNTdLRTAyOWhXOHotSUhMSmJ1ZEJfNV9HSGFpSEM1VUk1aUNzM1NYdW5TR1NhcU93ejQ?oc=5",
+    "published_at": "2026-08-25T05:13:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "http://www.topdaily.kr/articles/111610"
+  },
+  {
+    "headline": "‘전기차+자율주행+무인 안보’ 기술이 한자리에",
+    "summary": "‘전기차+자율주행+무인 안보’ 기술이 한자리에  매일경제",
+    "source": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5WWVyY1hZeHZqTUNxLU5lbkhTMDFuaHV6NjByWnp3eWZtaC1wc24zVTNVb2laWVcycXIxbHR5ckR5WW1PWk14STRRWmtiVmRPdDhuX053?oc=5",
+    "published_at": "2026-08-25T05:37:56+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.mk.co.kr/news/business/12135726"
+  },
+  {
+    "headline": "[포토]AI·자율주행 탄 무인수색차량",
+    "summary": "[포토]AI·자율주행 탄 무인수색차량  아시아투데이",
+    "source": "아시아투데이",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SdE5mTzcwRFdCZ1FhaTBickMtSzUxcjNXV2V4Z2FqdGZIYzV4NVg1SHRNZnMwZHFFZG9iQVNKM1VBNW5ZRUtwTlpibnppM0kweWhqUHFlNVFDc0MwZUJ6VENKa255ZVVpYUtrQ093?oc=5",
+    "published_at": "2026-08-25T05:35:58+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.asiatoday.co.kr/kn/view.php?key=20260825010008383"
+  },
+  {
+    "headline": "전기차부터 AI 자율주행까지…'퓨처 모빌리티 위크 2026' 개막",
+    "summary": "전기차부터 AI 자율주행까지…'퓨처 모빌리티 위크 2026' 개막  뉴스;트리",
+    "source": "뉴스;트리",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IQjlnMEQxWXhIYXVDUjJVNEhJQUJlQ0pUZmkzbl9TT3VROEtkVFNOVWJESm1XTmNSNnVZaDZtY2hBSkZnSk53SUJsX2xfaWR6YTRMcWZhVnA4aVBQ?oc=5",
+    "published_at": "2026-08-25T02:02:27+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.newstree.kr/newsView/ntr202608250005"
+  },
+  {
+    "headline": "AI가 이끄는 자율주행 미래 한눈에…'자율주행모빌리티산업전' 개막",
+    "summary": "AI가 이끄는 자율주행 미래 한눈에…'자율주행모빌리티산업전' 개막  파이낸셜신문",
+    "source": "파이낸셜신문",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QdkJLQ0pzbjBHaFhZSTZDZGowenEwOXllOFBpa2hfOW13aXJxNkd6eVB5OWpkTWduZ19OSU1xRmZIak9Scm9mLXRxdE9vSWxsYXpTNi1hWmpUa053bFJGRU5kQl9kcW5welJv?oc=5",
+    "published_at": "2026-08-25T02:48:53+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.efnews.co.kr/news/articleView.html?idxno=131862"
+  },
+  {
+    "headline": "AI로 진화하는 자율주행의 미래…‘2026 자율주행모빌리티산업전’ 25일 개막",
+    "summary": "AI로 진화하는 자율주행의 미래…‘2026 자율주행모빌리티산업전’ 25일 개막  carmgz.kr",
+    "source": "carmgz.kr",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HWGpiVXRnMVFrbGk4VGszdENmTnlwZWo5YXNVckN1QnMwdzBRWnFsbWpTR1hUNmV6RGNOSU55akVrU2NLa2ozajRVNmg5akNlWHA5cU5jb3JhWXdTOGwybGEzWm5QQQ?oc=5",
+    "published_at": "2026-08-25T06:30:24+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.carmgz.kr/news/articleView.html?idxno=22379"
+  },
+  {
+    "headline": "전기차부터 자율주행까지 한자리에...'퓨처 모빌리티 위크' 개막",
+    "summary": "전기차부터 자율주행까지 한자리에...'퓨처 모빌리티 위크' 개막  뉴스투데이",
+    "source": "뉴스투데이",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tMElKMUd1TVhsY0xTMEI2TktubFhxZ0JfcHdVaEZUM3N0RHBoWC16WUtZbmtEWFNjb1dYejVNUkZ6aHY0QjhvemdOeVBCa0V1dWx4anYyaEI3aVh5WWc?oc=5",
+    "published_at": "2026-08-25T04:55:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.news2day.co.kr/article/20260825500112"
+  },
+  {
+    "headline": "통나무도 못 피한 테슬라 FSD…완전자율주행, 아직은 먼 미래기술일까",
+    "summary": "통나무도 못 피한 테슬라 FSD…완전자율주행, 아직은 먼 미래기술일까  녹색경제신문",
+    "source": "녹색경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Y1J5RGN2T0xjUjR2bkFrSWZEQ1FxRVBGZFZaSzRvTlk0VHlHb2JOaXNsWEpKd3Qtak4xQzRHWDZtUEhIR2l4UEF4eldMTlRvMEJISFpZa2w0WXd4TEd6Wm9fNHJtU2M?oc=5",
+    "published_at": "2026-08-25T05:54:41+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "http://www.greened.kr/news/articleView.html?idxno=348357"
+  },
+  {
+    "headline": "첨단 기술 한자리에…퓨처 모빌리티 위크 개막",
+    "summary": "첨단 기술 한자리에…퓨처 모빌리티 위크 개막  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sOFFYUmhKQ0F1WkRVeXNTVmpFSUJDdlYyZTlOR01pb3p0SF80bDU2SnpxdHk2ZWRNX1RjZkdwRGRITHlEZWNqTUc2MEdTUU54Q3pKeWcwNDdORmEyUXJicUk1amN5WWVuWVhXYmdFTHF6YmJnQjBIZw?oc=5",
+    "published_at": "2026-08-25T06:50:46+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.yna.co.kr/view/IPT20260825000009365?section=gallery/index"
+  },
+  {
+    "headline": "자율주행모빌리티산업전에서 만나는 자율주행 무인지게차",
+    "summary": "자율주행모빌리티산업전에서 만나는 자율주행 무인지게차  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkbUhlVHV0TURqVWNNMF93NURkX3l2MVNzbjZuRG11UTdxM2dydE1XNEdGOVo3eUxSMXpBMUY4RndsVXJkcFBqbjVmRXpYc0Y0ZVdYZUdpTDFKOUJhZWc2eQ?oc=5",
+    "published_at": "2026-08-25T03:59:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260825n16920?mid=n0105"
+  },
+  {
+    "headline": "“미래 모빌리티 한 자리에”… 퓨처 모빌리티 위크 2026 개막 [FMW 2026]",
+    "summary": "“미래 모빌리티 한 자리에”… 퓨처 모빌리티 위크 2026 개막 [FMW 2026]  IT조선",
+    "source": "IT조선",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XT1BxOFViN3ZKS2NmZEZYdm9IeTU5V1pLYVFQRDZISlM2ZkxpQUM5eXhUZnNVU2VNVV9jeXcyZURrT0FWT0F3SE1IbzVTaHlQOEtQeU1Pa0xNZFNMbEw1QWlZNHNacGR3TjFCUHViS2zSAXRBVV95cUxOTGplWUp5N2xyejVCUDh0dmNRdjVPamNXVWxrZW1aVTJtSWVPRWRoUUdWbk56eUpUUENpMHZxREM2RjBKQWN4S3ZPU2V5ZUhTT01aekVycENFOE5UVEViN2ZReFU4a3BEcklNSHpDZFNFcWs5Tw?oc=5",
+    "published_at": "2026-08-25T04:59:50+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://it.chosun.com/news/articleView.html?idxno=2023092168784"
+  },
+  {
+    "headline": "전기차부터 AI 자율주행·무인이동체까지 한자리에",
+    "summary": "전기차부터 AI 자율주행·무인이동체까지 한자리에  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pNmk4Mmh0RXBySWZMeHp1NmZ3bGF5aEt3eUJSSFFLUEdORFZLdlcyNzFaRTZubVZmc1BoU2VDU3luMXNreFZyWTBxMV9CMmJ1X1dN?oc=5",
+    "published_at": "2026-08-25T03:59:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260825n16923"
+  },
+  {
+    "headline": "'자율주행 무인 지게차 모습은?'",
+    "summary": "'자율주행 무인 지게차 모습은?'  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wclgwcTRwN29kMXZpY3ktQzlXUzdzVUwyVFB2cUo0bHducG1rd0g4M1JJb3l1cGpSSUpuZUhteHozQkRXWGVoTnRXVXRCSURCbDJJ?oc=5",
+    "published_at": "2026-08-25T04:31:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260825n17798"
+  },
+  {
+    "headline": "[현장] \"도로 위 전기차부터 무인기까지\"···퓨처모빌리티위크 개막",
+    "summary": "[현장] \"도로 위 전기차부터 무인기까지\"···퓨처모빌리티위크 개막  서울파이낸스",
+    "source": "서울파이낸스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90azhEWUVwVGlkYU9iWG1mUTBaTV84R1daMmZkUVBUZ2V6S1prWUN5LVVQZVVJZG1pbURsSHVjM1FLWVl0SWpTSHh0d2k0T2VoV293SkVlN1pRN3FsTVJ4MElYUng3Tm1VdWc?oc=5",
+    "published_at": "2026-08-25T05:02:09+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.seoulfn.com/news/articleView.html?idxno=636361"
+  },
+  {
+    "headline": "'전기차·자율주행·무인이동체' 한자리에… 2026 퓨처 모빌리티 위크 개막 [TF사진관]",
+    "summary": "'전기차·자율주행·무인이동체' 한자리에… 2026 퓨처 모빌리티 위크 개막 [TF사진관]  더팩트",
+    "source": "더팩트",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBON0w1LXA3MWdQRVVnNDlsNS05Zm96U21GQjdLcndIclFqc09sQ0hYUGF6VnNWT1A5OExBTXdfUkttSGh3NlJxUVFGZEx0bXVzTjRDOWhFVWpUaTFnWVHSAVhBVV95cUxNSXVFaEMwSm5kT1dxeEtpU3k3MEYzdnlpOGR2WTcyNTVYZTBVeWliWmg4Z1F0aE42Yk9KMXhEdWdYMkVTd1IwRTJfdk52ZzBZbTR5bDc2bHBN?oc=5",
+    "published_at": "2026-08-25T04:21:53+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://news.tf.co.kr/read/photomovie/2357675.htm"
+  },
+  {
+    "headline": "2026 자율주행모빌리티산업전 8월 25일 개막",
+    "summary": "2026 자율주행모빌리티산업전 8월 25일 개막  레이스위크",
+    "source": "레이스위크",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5MXpjOU4zTUtXc3BGbXMtTzlDenV0aEs4YmtleWVrYklfYWc5NDdQQk9QcF9yVDhqbGtxTVhVWGxaY1JBSkE?oc=5",
+    "published_at": "2026-08-25T04:01:08+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://raceweek.co.kr/?p=38833"
+  },
+  {
+    "headline": "AI·SDV 중심 ‘2026 자율주행모빌리티산업전’ 25일 코엑스서 개막",
+    "summary": "AI·SDV 중심 ‘2026 자율주행모빌리티산업전’ 25일 코엑스서 개막  핀포인트뉴스",
+    "source": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53emNQYmpZYzFsWHFzMnI3UGV2LW9FSWFSZnFjdFNwSnh2RkpqVEtJWERtV2lJcEpEcWdKTEpPU1NueVI1b29aWDk4YUp4V3BJVFdzUXp1dm9YNlpBZ2hEYS03ZGRNR2J0RlJjWk5fZXNvSVnSAXdBVV95cUxOdmEza3FYblFXTldZaTJleHRCVzJDbkhEbG5NUUROSmFjNTBEakRaa2VTQUdfWXp0Q3NlQmR1LVJ5bUh4emZEQnNtZnhwbXBKT1FBQWxfUmJiQUZ0Q2FtRHcxM1BUaVd2SFpnOG9iVHRzSnlRbXV5bw?oc=5",
+    "published_at": "2026-08-24T23:57:12+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480245"
+  },
+  {
+    "headline": "[포토] 고성능 무인 헬리콥터 ‘로봇헬기’",
+    "summary": "[포토] 고성능 무인 헬리콥터 ‘로봇헬기’  서울Eye",
+    "source": "서울Eye",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBicGRNY2V1OVZyX3U3cFE3NGx1cHl6TE5CNC1EUWk0YkwweGtWWDBTSEJPaTF2QUdKaFJNdTJWNzN2TTZiRmdMY2lkRnczWjhpYkhZcEwzRGk4Uzc0UEJpYU43eEloS2xhcjhlODU0cG1IaWZFWHM4c0NuT2tmZw?oc=5",
+    "published_at": "2026-08-25T04:51:36+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://m.eye.seoul.co.kr/news/economy/industry/2026/08/25/20260825800004"
+  },
+  {
+    "headline": "[포토] 2026 무인이동체 X 민군협력엑스포",
+    "summary": "[포토] 2026 무인이동체 X 민군협력엑스포  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQXJXc0x3QWZ4Rk01WUtLUFhlMW9GQXB0WWhZSFJwYVJWRnhicWRRLUNMRVNUQmVWcEFyNjZ1TEMzTnZBNmpJWGtLakFZTkpnbW1mOGlJSEE4UQ?oc=5",
+    "published_at": "2026-08-25T05:05:29+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.hankyung.com/article/202608251361i"
+  },
+  {
+    "headline": "\"운전대 잡는 AI\"…AME 2026 코엑스서 개막 [2026 퓨처 모빌리티 위크]",
+    "summary": "\"운전대 잡는 AI\"…AME 2026 코엑스서 개막 [2026 퓨처 모빌리티 위크]  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51QlZ0cWQ1bGI5QUpKdFVxb1hfOGFVZkt5VjZWQjdOWnZnWkVaZUo2eXpwRkQ0eTlaODBVWTRQTG0tYUE4UmhYM0xNaTdzY1hzYXk0?oc=5",
+    "published_at": "2026-08-25T02:09:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260825n12828"
+  },
+  {
+    "headline": "JDC, 제주첨단과학기술단지 자율주행 서비스 운영",
+    "summary": "JDC, 제주첨단과학기술단지 자율주행 서비스 운영  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtYXcwT0pJQUp2ZXdhY1d0ckxaMVhNNUxlWVJLdWhlM01LNnFvU19fQmV3RXk2RUhoOHZ6emtRZkI5UWpKRHhIMWRkNTVnTE9mWmFDag?oc=5",
+    "published_at": "2026-08-24T07:57:48+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/20260824165748868?f=p"
+  },
+  {
     "headline": "\"운전석도 핸들도 없다\"‥'로보택시' 무한경쟁",
     "summary": "\"운전석도 핸들도 없다\"‥'로보택시' 무한경쟁  MBC 뉴스",
     "source": "MBC 뉴스",

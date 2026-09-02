@@ -1,5 +1,286 @@
 [
   {
+    "headline": "\"서울 도로 남들에게 내줄 판\" 美·中 로보택시 몰려오는데, 'K자율주행'은?",
+    "summary": "\"서울 도로 남들에게 내줄 판\" 美·中 로보택시 몰려오는데, 'K자율주행'은?  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGeThpb293WWpJWFhOVnNGaThQMzl6anN5amR3Zjc5OV9YTmJkNFFRT3dnOC1QRHA4V2xxUjFERnlvMDBwQ0IyS2xOWnZWdGJvbG8yUDAwN0pNTW13TVYzM9IBeEFVX3lxTFBvZk9wLTZQNlExdUVqeElXWXhWb3BNSDJqWjVNaGs3aG1zQlZScmpSS0Q1RTlsOVkwelM5dy12WWdlZlo0U1paUXBwTkozVG1jRlBjREdjZzlLeUVFVWNha1FTSzh2ckZUWmVCYzdhbkxBcFQxQnc0Yg?oc=5",
+    "published_at": "2026-08-31T20:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.newsis.com/view/NISX20260831_0003769220"
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 로보택시 서비스 확대",
+    "summary": "KGM, 구역형 자율주행 로보택시 서비스 확대  연합뉴스강남 누비는 ‘무인 토레스’…KGM, 로보택시 더 늘린다  데일리안KGM, 토레스 EVX 자율주행 로보택시 투입…강남 전역으로 서비스 확대  이투데이",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MRnhQNWZUbzZ3cTR4Y0ROaTF0cmtyWnhRZjRzZTF4X3liNnlNQlg5MHhkWVhac2d2Mm1MbnhOY2RQMWxYMHhoU0Z1Y05DdU1xWVEyNkxLcFdMb0U?oc=5",
+    "published_at": "2026-09-02T01:55:36+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.yna.co.kr/view/RPR20260902003300353"
+  },
+  {
+    "headline": "中 로보택시 200대 '공습' 예고…K-자율주행 아직 '실증 단계' 왜?",
+    "summary": "中 로보택시 200대 '공습' 예고…K-자율주행 아직 '실증 단계' 왜?  news.nate.com",
+    "source": "news.nate.com",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBcnJvTDlWRlRmVXQxb1NaMUl5a0k2TkZJcWJpRjlXYjljbDFlS24zLUN6d3gzck41cGozS2Ixd1ZERE81TzlKOWxOYzYxa0NUOUN0OUt2NHlwczQ5VjZQLQ?oc=5",
+    "published_at": "2026-08-31T22:30:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260901n03620?mid=n1101"
+  },
+  {
+    "headline": "[카드뉴스] 중국 무인 택시가 온다고?!",
+    "summary": "[카드뉴스] 중국 무인 택시가 온다고?!  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LN1A1aDVnSkNreXNwLWMySmxDX2xfdWhtbEhDNHkwZVQ3dlU0ZjV2V3B3dVQzN21kTVViYldJNDdQZl92SmNIT042UTlpMmMwZDNzNnhn?oc=5",
+    "published_at": "2026-08-31T10:51:39+00:00",
+    "tags": [
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://zdnet.co.kr/view/?no=20260831094032"
+  },
+  {
+    "headline": "SWM과 서울법인택시조합, 로보택시 상용화 위한 공동 운영체계 구축",
+    "summary": "SWM과 서울법인택시조합, 로보택시 상용화 위한 공동 운영체계 구축  news.nate.com",
+    "source": "news.nate.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40MmV2bXlkbHBlM2FFZGJPeU5QbjJGM05RUVgySl85UTFYM080U1l5ajE2WXMyWVZNMi1WTG5LbVU1WTd5ZkJLb2FkcTEyRkZQYWpV?oc=5",
+    "published_at": "2026-09-02T01:28:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260902n11181",
+    "companies": [
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "KGM, 강남 자율주행 로보택시 서비스 확대 2세대 ‘토레스 EVX’ 전격 투입",
+    "summary": "KGM, 강남 자율주행 로보택시 서비스 확대 2세대 ‘토레스 EVX’ 전격 투입  스포츠경향",
+    "source": "스포츠경향",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aN2NFdlJ1enFhUjJ5Z0VraUNXMlpiaGVlZWkwMVRmR3IzdEItU3M4QklRRmFidHFmX05SSmU2UHdPYU0teXFFeXJBNHBva2ctdGpOU2hGZFNXeGZOSEHSAWNBVV95cUxNYmdteGRrN0M0YlNtVlZQMlhJZTVRT3ZaYnNDWWFGYXRXcVViZmswUUk0dUJxbjV1X0pTTG5FM094UlpVLUhyV25mUFBfVDdZbndXVjJxWFFqUy1pemlYTEJDY1U?oc=5",
+    "published_at": "2026-09-02T01:48:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://sports.khan.co.kr/article/202609021048003"
+  },
+  {
+    "headline": "KGM, 자율주행 로보택시 확대...'토레스 EVX' 투입",
+    "summary": "KGM, 자율주행 로보택시 확대...'토레스 EVX' 투입  아이뉴스24",
+    "source": "아이뉴스24",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1va2FTUHY4MTVLWmVoMzlNbENlVTBMY0VfUmtSeURnM2FINU1ZWlNHWDJadWJ1a2R4MTg0NnhZQXFuLThGaWlVbzFmZw?oc=5",
+    "published_at": "2026-09-02T00:52:13+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "http://www.inews24.com/view/2000774"
+  },
+  {
+    "headline": "KGM, 강남 심야 로보택시에 토레스 EVX 투입…운행구역 확대",
+    "summary": "KGM, 강남 심야 로보택시에 토레스 EVX 투입…운행구역 확대  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DYlNhZ1FpN3FfTlU3LTgzS0VYVU9QT3ZOOWVfRU1Ed3NJOGZzRi04OUx5akxaT2lHNk9sdU1jR2lXenVnVWVDRzJ5SjRqX3JtZ293YWFR?oc=5",
+    "published_at": "2026-09-02T01:19:46+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://zdnet.co.kr/view/?no=20260902101946"
+  },
+  {
+    "headline": "KGM, 서울 강남 심야 자율주행택시 사업에 2세대 토레스 EVX 추가 공급",
+    "summary": "KGM, 서울 강남 심야 자율주행택시 사업에 2세대 토레스 EVX 추가 공급  news.nate.com",
+    "source": "news.nate.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55MUc1TzF5am9wX0JpQkVZaC00b2tpVE4wYl9SVVk3U2sxSEVhWW1TOTFreG5qOHNqcE9ybW1IaW5JcWtvVXVEbmxJazE5MVBJcEVB?oc=5",
+    "published_at": "2026-09-02T01:14:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260902n10404"
+  },
+  {
+    "headline": "대로선 능숙·골목선 멈칫… 강남 8.7만㎞ 달린 中 로보택시 타보니 - 조선비즈",
+    "summary": "대로선 능숙·골목선 멈칫… 강남 8.7만㎞ 달린 中 로보택시 타보니 - 조선비즈  Chosunbiz",
+    "source": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93bW9ISHN3NHpXa095NkpsbkxBU1RQRkxybGR6U0dpTU1MZTUzR056dHRQdGhkbVJ3QWJMSklPUkV5WDYtdlVfUkh4cEh4VWVhT2dnaV9qSk5yR21PMGxlc29WZmVuOWJyWGlCdldJV3RiQ2ItSkJXS295bDdsdGvSAZMBQVVfeXFMTzhldlBkdEU2dmZYM1Z1cXo0a2IwblR4bkhuYkNleFRDZ0VidTJQam5KenhGdC10aXI1LUdBeHZlVU1WdnF5X3ZsQ1hxMTBaVG52TS1VcHRXeUJQTGlpSXlsc2pfSlZaV01pNDZNeUtyTXRPUjhFT0kxcUFlZndxX1FFSEhDalF4Mk80UVpSN25TR29V?oc=5",
+    "published_at": "2026-09-01T21:06:06+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://biz.chosun.com/industry/car/2026/09/02/7RFSF563RZH57FFNZRMSOYSWXA/"
+  },
+  {
+    "headline": "KGM, SWM.ai 손잡고 강남 무인택시 운영 확대한다",
+    "summary": "KGM, SWM.ai 손잡고 강남 무인택시 운영 확대한다  교통뉴스",
+    "source": "교통뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UOFU3Rjl6dVRZTVgwZnBsb2lsNGNiQWpjUWd0VHdTeXJVWEdld0JPakZDR1hOeG5DZVNuLUgxTHFMZjdLTFBHLUlfME5lUmRHdTdIbzV4TkRwV25CMnp6bDU3bkMtak5xMjc4Xw?oc=5",
+    "published_at": "2026-09-02T00:52:47+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.cartvnews.com/news/articleView.html?idxno=702269",
+    "companies": [
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "KGM 토레스 EVX, 강남 로보택시 투입…운행구역 넓힌다",
+    "summary": "KGM 토레스 EVX, 강남 로보택시 투입…운행구역 넓힌다  ddaily.co.kr",
+    "source": "ddaily.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80d0NHUkpRM1BScFRPb1J3OWt2QzZGQW9xOFVsb0RzRGJrekdqZjZxbUw1SFNSN1dVeXdpX0hZTjkwNzJ1MHNfVElXQzh1RzM3Nl96Q2FjR0JhRUs4SzRFZk96Tno?oc=5",
+    "published_at": "2026-09-02T00:45:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.ddaily.co.kr/page/view/2026090209295966865"
+  },
+  {
+    "headline": "KGM, 구역형 자율주행 로보택시 서비스 확대... 2세대 토레스 EVX 추가 투입",
+    "summary": "KGM, 구역형 자율주행 로보택시 서비스 확대... 2세대 토레스 EVX 추가 투입  M포스트",
+    "source": "M포스트",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZU2lLOThRcFpvSWhrYmlUT0NyZGoxMFVNVUpWaFRDVklOWlJwZ0tGT3FYNE55dFYxNy1qTUdlaXRwQlZFcDVjYXdOVkJEWVl6dVM3d3VrQUstd2xmbFdqRF9Rc3A4bHpnM3VGakJzWjQ?oc=5",
+    "published_at": "2026-09-02T01:22:49+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.mobilitypost.co.kr/news/articleView.html?idxno=4222"
+  },
+  {
+    "headline": "SWM, 서울법인택시조합과 로보택시 운영 인프라 협력 확대",
+    "summary": "SWM, 서울법인택시조합과 로보택시 운영 인프라 협력 확대  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qQWdJOGhFUXpWcUNmWjRLcXBySFZZMGJSamlkRUxIRTlHblkyeGloQVQ4Z0JjZE9ZRGhDQTIzVVNsS25PSS1xTHRqVlNDUzg?oc=5",
+    "published_at": "2026-09-02T01:56:40+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/20260902105640225",
+    "companies": [
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "강남 누비는 토레스 EVX…KGM, 2세대 자율주행 로보택시 확대",
+    "summary": "강남 누비는 토레스 EVX…KGM, 2세대 자율주행 로보택시 확대  월요신문",
+    "source": "월요신문",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wUFRCUVhjR2hHS3V4Zlg3RG1sYUd3Z1B4WHRST1JyV2tSZjZjX216aUQ2OWMtNUVKOHpsMzNnSG9CSGVOTHZ1YV84TFFybnY2UEFMNDFHekh1YXlkZVc2U0h2eWRCYzgtMmc?oc=5",
+    "published_at": "2026-09-02T01:16:23+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317234"
+  },
+  {
+    "headline": "KGM, 강남 로보택시에 토레스 EVX 추가 투입…자율주행 서비스 확대",
+    "summary": "KGM, 강남 로보택시에 토레스 EVX 추가 투입…자율주행 서비스 확대  news.nate.com",
+    "source": "news.nate.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aOHZQbUpvd1B2UUdkdVVNVzBVaVNYbDMwR1B6Z2tWbVVETU55Z2hyS2lFenFHbUt3Mm5SdXJkX2lKck1fclJOcWJXUTVNNUZQZDJF?oc=5",
+    "published_at": "2026-09-02T01:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260902n09424"
+  },
+  {
+    "headline": "1만3214건 달린 강남 로보택시…2세대 토레스 EVX 투입",
+    "summary": "1만3214건 달린 강남 로보택시…2세대 토레스 EVX 투입  news.nate.com",
+    "source": "news.nate.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVMUFMUjlHNDZyUDBmdUtPVUJyYVpwaTFOUExkdWxWUUNWcFZDWUdwaU9kbkRtN2lHakdqLWdMYlNWTU52WmplcnNTYnBNVTFES1dN?oc=5",
+    "published_at": "2026-09-02T01:14:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260902n10413"
+  },
+  {
+    "headline": "中 로보택시 200대 들어오는데…한국 자율주행 ‘상용화 역량’ 시험대",
+    "summary": "中 로보택시 200대 들어오는데…한국 자율주행 ‘상용화 역량’ 시험대  에너지경제신문",
+    "source": "에너지경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55U21TdTV5MTkxMG9RMFZVTUFhQlg4emcxM1BtUUVUWWw2bFRZS1prX3ZWazM5ek5rV3k0Ymh2RGQ5azNISnE1TUQ5TGlxVXNjRUp3RlBkNUFoXzA?oc=5",
+    "published_at": "2026-09-01T05:30:06+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://m.ekn.kr/view.php?key=20260901022139069"
+  },
+  {
+    "headline": "[미국 특징주] 아마존·알파벳, 미국 로보택시 서비스 지역 확대",
+    "summary": "[미국 특징주] 아마존·알파벳, 미국 로보택시 서비스 지역 확대  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnOExSbEtoUXpLNnEybEpKT25FZmJqMVVVWEVPWFJBWjRQTDRXZG9MOHVRLW5XUEo4c0U4TGlLeHRuNVhQb2x0dXpLWVhlNVJzeW1JZzNDeHBQaHQz?oc=5",
+    "published_at": "2026-09-01T23:12:00+00:00",
+    "tags": [
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://www.newspim.com/news/view/20260902000090"
+  },
+  {
+    "headline": "KGM, 강남 로보택시에 토레스 EVX 추가…운행구역 20.4㎢로 확대",
+    "summary": "KGM, 강남 로보택시에 토레스 EVX 추가…운행구역 20.4㎢로 확대  한국면세뉴스",
+    "source": "한국면세뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BVWtXM2hZQVBsSDVMak9EajA1QURza3lBUmMtMHp5RHEycWRJc3IyME05S1EzVEVNR2tRT1lMcXZfLVI0Wkdzc3RCQnhHaDVweXlGM1RyMWNQYnRRWmhWLXRVTWRhZnIwS0E?oc=5",
+    "published_at": "2026-09-02T01:13:25+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.kdfnews.com/news/articleView.html?idxno=187416"
+  },
+  {
+    "headline": "[AME 2026]에스더블유엠, 강남 누빈 심야 자율주행택시 출품…차세대 컴퓨팅 플랫폼 ‘AP-700’ 공개",
+    "summary": "[AME 2026]에스더블유엠, 강남 누빈 심야 자율주행택시 출품…차세대 컴퓨팅 플랫폼 ‘AP-700’ 공개  디지틀조선일보",
+    "source": "디지틀조선일보",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGp5RVVSQTlFNlJwVWVqLUQyb2tOTXZEcEpMVjA5dkl5NlhBVnVzUmtWZDUyV29BYUNuTV96eUdWTm15QVA1VHlybjN0V0VTVHhRZy05RjJPdEtxcTQ1VDJWWjBXbEVLbk9UQUpOQTJSSi03SHl6d0kzRll1ZVR4el9wS0FUUHPSAXtBVV95cUxPVHZmV0tDTlpPUDlPRmZHZ3NJYnpBRXE3b0gxb0xoSnhZUmFaejAwS284cU5OVGZjU2RFWVJ5eFlTMDhzZUVEbURxcC1BeGVtRHBDSkRNUXk3NnkwTFVWVU9ZdFlldkRVc1B1cHU1VFliSzh3OVhYcVpmajg?oc=5",
+    "published_at": "2026-08-31T10:33:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://digitalchosun.dizzo.com/site/data/html_dir/2026/08/31/2026083180173.html"
+  },
+  {
+    "headline": "웨이모 한국 법인 설립! 테슬라를 이길 수 있을까?",
+    "summary": "웨이모 한국 법인 설립! 테슬라를 이길 수 있을까?  mocar.kr",
+    "source": "mocar.kr",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6X0VubHBkWlQzalNsRFRUOThPSVZCdGViekNKTGwtOVZQbHloM1NIazA0UW03OEhIN0RscTVnekZ1ckZQR1dYb2pMeF9YNVFzNm84RUZzelRoV2xnRnZUblhuOA?oc=5",
+    "published_at": "2026-09-02T01:00:38+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.mocar.kr/news/articleView.html?idxno=1255"
+  },
+  {
+    "headline": "현대차, 통학차 안심 솔루션 협약... KGM 로보택시 외[시경Today-자동차]",
+    "summary": "현대차, 통학차 안심 솔루션 협약... KGM 로보택시 외[시경Today-자동차]  시장경제신문",
+    "source": "시장경제신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10azd6RXNvT01yUG92cDFGZjRqVlBrbFd3LXZ4V21DbFhKSmJlQ1RNZTAyT01BdjQybFMwWW5YTlBLT2VyUEdWMEpDMV9mZEFWTmhDekxNVXEtLW50T3F0eEN5Z2R2dDdramk5YUpaV2g?oc=5",
+    "published_at": "2026-09-02T01:57:53+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.meconomynews.com/news/articleView.html?idxno=201115",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
     "headline": "한국 자율주행 아직 걸음마인데… 중국 로보택시 200대 한국서 달린다",
     "summary": "한국 자율주행 아직 걸음마인데… 중국 로보택시 200대 한국서 달린다  v.daum.net",
     "source": "v.daum.net",

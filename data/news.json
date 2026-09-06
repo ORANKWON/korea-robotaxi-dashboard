@@ -1,5 +1,213 @@
 [
   {
+    "headline": "첫 자율주행 택시 운행 런던 시작, 도쿄 시험운행 예정",
+    "summary": "첫 자율주행 택시 운행 런던 시작, 도쿄 시험운행 예정  nhk.or.jp",
+    "source": "nhk.or.jp",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwZzNzLVo0TFZRMGxRTElZX0duVERIVmNXSWtqM21JQjJUSXNoeGVvVXVnSzQ0UlFfOXZjbk00MnNWU3NDQ3NFWktadzhGRWhMUHA2bjR3eEZvMWVaV3F5NEl3?oc=5",
+    "published_at": "2026-09-04T14:04:34+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www3.nhk.or.jp/nhkworld/ko/news/20260904_B3/"
+  },
+  {
+    "headline": "'강남 심야 자율주행택시' 7대→19대로 확대… 심야 이동편의 높인다",
+    "summary": "'강남 심야 자율주행택시' 7대→19대로 확대… 심야 이동편의 높인다  한국방송뉴스",
+    "source": "한국방송뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QYVo0RnRtb3QwbUM1ZEdjSy1oeE0wZUU5eDYtM2pTSmNyYWkwWjYxLWtTaGR2NTZlVnhpQjltODk3bVlDR0xUQjNxUUltMHhnLVh5N1RBYy02Zjhtbnc?oc=5",
+    "published_at": "2026-08-20T02:20:06+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.ikbn.news/news/article.html?no=213737"
+  },
+  {
+    "headline": "고품질 특허에 집중... 무인 로보택시 연내 상용화 [지식재산의 날]",
+    "summary": "고품질 특허에 집중... 무인 로보택시 연내 상용화 [지식재산의 날]  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBPS0RHaS1iLUM4bV9xZVlnTDdOTGhSdlJaVHhrVXAyTi1obkNvcVZVWVNZcnU3ZkZ4cFpYckp0ZklrQkxydkE?oc=5",
+    "published_at": "2026-09-03T08:42:15+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/158sje71Sk"
+  },
+  {
+    "headline": "현대차, 美서 연말 아이오닉5 로보택시 상용화…2028년 아틀라스 배치",
+    "summary": "현대차, 美서 연말 아이오닉5 로보택시 상용화…2028년 아틀라스 배치  SBS Biz",
+    "source": "SBS Biz",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oNUNWSjVZOHMwdkh0dUtRWHZ3UG5QMnFhcldvWGZvVnhXZnBseVI4WFBiSWp3QUlKMGMzMk95dVl4MzFhSUhxVGNRbW1hb1dpaXJn0gFYQVVfeXFMTmUyUmhTTjJ3Q1dMWTlycng4VmhudDROeXpmSVV5YnJBQUdtS0hoTGRya3RyQng0Ry1jdEdmamZqczl2RUJublc5Sl81WGIza0xhMVFRbkJGSw?oc=5",
+    "published_at": "2026-08-26T06:19:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://biz.sbs.co.kr/article/20000330898",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "[자율주행 어디까지 왔나④] '개문발차 주행' 언제까지…레벨4 무인버스 도로 위 달리는데, 입법은 여전히 로드맵 위",
+    "summary": "[자율주행 어디까지 왔나④] '개문발차 주행' 언제까지…레벨4 무인버스 도로 위 달리는데, 입법은 여전히 로드맵 위  조달경제신문",
+    "source": "조달경제신문",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rNVhwc3lIUTRNTU1jaFdlQVBwSHVkZzc0c2EtMzBRLUNvcDJNNnY2eVhHR3V3RFJsOTBXN21OcW1rZlVoTTRqLUFkZDItQS1LOUh3eVV1eU9lOGYyaE1xbndwYW9ORDd1XzFJcF9B?oc=5",
+    "published_at": "2026-09-05T22:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "final_url": "https://www.jodaleconomy.com/news/articleView.html?idxno=3030"
+  },
+  {
+    "headline": "운전자 없는 ‘레벨4’ 자율주행차…광주 도심 달려도 안전할까",
+    "summary": "운전자 없는 ‘레벨4’ 자율주행차…광주 도심 달려도 안전할까  진일보",
+    "source": "진일보",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11VlpaYWszbXhFdjJ0X1p6LXlKeW8tRHU5NHpBN2t2N2dyRnFHTGRoZ2U1LVg4MmI5bjU5dlk4NlhHNHloSTd0dng0TjVtWDNoZTRyZjhpb1lqYjhCOUpGUHAzMElWbzd3MXVCTTItcw?oc=5",
+    "published_at": "2026-08-29T17:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.jnilbo.com/news/articleView.html?idxno=90000060078"
+  },
+  {
+    "headline": "오토노머스에이투지, 범용 자율주행 기술로 글로벌 시장 공략",
+    "summary": "오토노머스에이투지, 범용 자율주행 기술로 글로벌 시장 공략  대한경제",
+    "source": "대한경제",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xNEtiQ3pfRGM0RktndG1samxWZzdWazllblB1eFV1UUlvVmRIdVotSWdneEdSd3p3REhyaVk0aUhGdFpKVGpaanVGbEFZTm9CbTBvR3VJVEluamlxVDRUd0dvWTJub09mSzVOdGxEVDRPTmc?oc=5",
+    "published_at": "2026-08-24T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://m.dnews.co.kr/m_home/view.jsp?idxno=202608240924284790009",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수",
+    "summary": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91ZjZRNVVPSTRGc2RGY3h6UHJmbVlzWWR5LUpBTENUN0t5SkpsTldIM0QxNl8xbnF1RjZ0VGQyMjFSR1ZQOERtZ09sbGdWRFpCS3VoMWtR?oc=5",
+    "published_at": "2026-09-06T00:37:58+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://zdnet.co.kr/view/?no=20260905214157"
+  },
+  {
+    "headline": "텅 빈 운전석, 그 뒤엔 많은 인력과 거대 차고지... ‘무인’ 택시의 역설",
+    "summary": "텅 빈 운전석, 그 뒤엔 많은 인력과 거대 차고지... ‘무인’ 택시의 역설  조선일보",
+    "source": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnVuVzBFaXo3Z3BOaEtPeVQ3ZnZDUjQzeGtQZU5kdG5Db0Nja1lfYlFxaXlWUHdhOVJkTGdRMXJNWkVBLXVoMDdIbzdFSmUtQjBZeThQaDZrVmMxMDdINzB5ZE56dlZqV2lvOXJvRzVPWUFiWW1raHdkR3hHbDlPUlpXTQ?oc=5",
+    "published_at": "2026-09-02T21:03:20+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.chosun.com/economy/tech_it/2026/09/03/5V2FNNQ4ZNBAFMZYRT6SOTQZPY/"
+  },
+  {
+    "headline": "테슬라, 운전대 없는 '사이버캡' 오스틴 도로 투입…무인 파일럿 본격화",
+    "summary": "테슬라, 운전대 없는 '사이버캡' 오스틴 도로 투입…무인 파일럿 본격화  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTb002NkdoQkVSemJCSUxmR0JaM0tva1loSldkRk1JcW5fVC1ScElzczV6Q2p1RHMyQjNfSDU2M1czbk9Vd2dxYk42LW9jZw?oc=5",
+    "published_at": "2026-09-04T00:08:59+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://www.etnews.com/20260904000035"
+  },
+  {
+    "headline": "‘실험 끝’ 자율주행차, 사업성 ‘턱’만 넘으면 혼자 달린다",
+    "summary": "‘실험 끝’ 자율주행차, 사업성 ‘턱’만 넘으면 혼자 달린다  경향신문",
+    "source": "경향신문",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWxVNzlnU1ZvNGQ5Q1B0TDh6bThFVEgzNzNiMC1sUlh4LV9ESVdudGNQR1plc0dUNng2amt2U2ZLR3ZYN0NUQV9Wd0xsbmtzdzQxUWcyellWd9IBX0FVX3lxTE5lVk92aGl5aXBibWZXM0tVTURTVzQyVVdpY0FNdjZkdGY3X2tEdjJtUHhLYkRlaGgzYjNIWWk4dDRualR3S1hoZUVqZnpmeVpQc0gxM3RHU2NMZnItYzBv?oc=5",
+    "published_at": "2026-08-30T11:35:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.khan.co.kr/article/202608302035015"
+  },
+  {
+    "headline": "테슬라, 美 오스틴서 무인택시 '사이버캡' 공개 도로 주행",
+    "summary": "테슬라, 美 오스틴서 무인택시 '사이버캡' 공개 도로 주행  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yNnQwQmRCSXhYZlNvSHE2S2VmU3RZNTF3SVY3S3hiLWJoWW43LWFHNWFvTFdKeEI3ZDl0U0ZwZkk5Y2g2UG43TDU2RXl2WmZWOHBlZThYZFBOZw?oc=5",
+    "published_at": "2026-09-04T01:11:04+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://www.fnnews.com/news/202609040942154000"
+  },
+  {
+    "headline": "[2027예산] 자율주행 실증 차량 200→3천대…도심항공교통 상용화 박차",
+    "summary": "[2027예산] 자율주행 실증 차량 200→3천대…도심항공교통 상용화 박차  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ETlhmeVNGdzd6eTVaTXJfN0xqX0NIcTBGSU9sRlVKRFgxS2lCRE5iLU41eU1MWGJPMWFjOGlfbjNsbk9seWt2bTdLcWs4c1M1RTlQQ0hmUjlaRGfSAWBBVV95cUxOWDAwRDJSdFRRLXJ0NGJxRHJyWHlOclNnVW5VNGk0c0t0MzB4STU3ejJXUnE4NFhCQ0FleFFkT2tXdmZoODlYaHRManFmc1J4ekhuZk0xSmFEVlJad2lOcmY?oc=5",
+    "published_at": "2026-09-01T02:46:05+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.yna.co.kr/view/AKR20260901039900003"
+  },
+  {
+    "headline": "테슬라 노페달 '사이버캡' 공개… 상용화 규제 벽 넘을까",
+    "summary": "테슬라 노페달 '사이버캡' 공개… 상용화 규제 벽 넘을까  초이스스탁US",
+    "source": "초이스스탁US",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEY3B4TGdJUmtnVzhCakpsZV9xR2hhRU1IUEZVaDVINkpod2c1eHJQT3l6cnBBYW9XRm40YmNhazloU0NsemRZbm1LcUxiSzJNVE9RQzQtY2duX25jU3o5SXFB?oc=5",
+    "published_at": "2026-09-03T19:29:00+00:00",
+    "tags": [
+      "정책",
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://www.choicestock.co.kr/stock/news_view/181698"
+  },
+  {
+    "headline": "AI로 진화하는 자율주행의 미래… ‘2026 자율주행모빌리티산업전’ 개막",
+    "summary": "AI로 진화하는 자율주행의 미래… ‘2026 자율주행모빌리티산업전’ 개막  로봇신문",
+    "source": "로봇신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DdWZYSlpET1NJYW5xeEYtZDRsS0tqT0tNbzJobTI5N1N5V2lfRWRicFZHMEtjV3ZKcEs5WV8tTnF3WXhDNnJVa3VDWE9ZcXJCUXA1NEZrOVNUaXpDekJIX19rRlFVNkFiY1pGcg?oc=5",
+    "published_at": "2026-08-25T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.irobotnews.com/news/articleView.html?idxno=48092"
+  },
+  {
+    "headline": "테슬라의 ‘중국산 질주’와 유럽 자율주행 시험대…모빌리티 경쟁축 이동",
+    "summary": "테슬라의 ‘중국산 질주’와 유럽 자율주행 시험대…모빌리티 경쟁축 이동  한국면세뉴스",
+    "source": "한국면세뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OTmJDMXdSSWNxZUwxai0tXzBDYVdwcGRmXzN3SDJpUlBMRXR6cjdhRktqWFVRVEgzZGttdjJwMEdlZndhZ0NTZXFDREp5LXJwdWV6YmJGWE9aby16RVhCNDZVck9DQ284enc?oc=5",
+    "published_at": "2026-09-04T06:29:24+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.kdfnews.com/news/articleView.html?idxno=187551"
+  },
+  {
+    "headline": "A2Z, 자율주행 물류 모빌리티 '코이' 개발 중단",
+    "summary": "A2Z, 자율주행 물류 모빌리티 '코이' 개발 중단  딜사이트",
+    "source": "딜사이트",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Qc2Vaanl4cHQwdnI5YUhUV1g2RnJCMU52SVgwcGZpZjVUaDlLN2JYcXNhRlp3blVmMnBNTlZQVVctRy1Qcl9rWXgyeFRkazg?oc=5",
+    "published_at": "2026-08-30T22:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://dealsite.co.kr/articles/168024",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
     "headline": "런던서 자율주행 택시 첫 영업…우버 앱 호출에 \"10만명 줄섰다\"",
     "summary": "런던서 자율주행 택시 첫 영업…우버 앱 호출에 \"10만명 줄섰다\"  v.daum.net",
     "source": "v.daum.net",

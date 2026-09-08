@@ -1,5 +1,300 @@
 [
   {
+    "headline": "'서울 로보택시' 카카오T 독점 깨졌다 - 머니투데이",
+    "summary": "'서울 로보택시' 카카오T 독점 깨졌다 - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xaV9iekxYajl4NFowYXdOU09sbGczMVFuVE1RYmpsTF9Fb2RCUVcxY2FOY0ozRTE1emJNR0lfdWszdEcyUXRDX3pLZHRXM2ROQjdGWEZkelpUeTlNUGZPWkUwMkFXR1nSAWxBVV95cUxQMHZRU24yakd2c2g3bWJMaVQ3Y1NRdkhWRU1na2xNWlNhS2xJU29ibDA1ZEpoZXBDTjlxY2JhclJOVVA3c2o5UGh3SlgzQTI0UGk5dE50WFlEQ0pxYVh6ZHpHSFJmT2FVMzhrV1Q?oc=5",
+    "published_at": "2026-09-07T18:05:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.mt.co.kr/tech/2026/09/08/2026090719573147537",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "현대차, 서울서 로보택시 첫발 … 종합 ‘이동서비스’ 기업으로 도약할까",
+    "summary": "현대차, 서울서 로보택시 첫발 … 종합 ‘이동서비스’ 기업으로 도약할까  뉴데일리",
+    "source": "뉴데일리",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BUWhzSVVSTEg1TVd6NndUWVp6OTRSYXc2ckRJZUlKTE9VZjRQRFgtbTczczV4Z2NyT1lMSVV2MGdjUjhrbmZvYzhpMGZzR1FOTWIza3ljek1yVVFtMVR6bzJKRW0zNWJwTTkzZGtqc2NNRm44WVhLVWV6ONIBgAFBVV95cUxOQ3pOUEViMmtCb2liV2VKdl9TMGRuMXQxdHlEWE1nZUYwYW9XMEE0M2lINHVRQTd2R01BcmZTQ0c4N2tyOV9ZLTVwRktvdWNDSTdZaDYyVllSNmxwQmhKdXdtRjlVOHdxbmRvcW80d1M4VFEyOGl6T1A3WVQ0UkhjMg?oc=5",
+    "published_at": "2026-09-08T02:05:45+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://biz.newdaily.co.kr/site/data/html/2026/09/08/2026090800122.html",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "[FSD 온로드] 테슬라·웨이모 로보택시, 한국행 조건은",
+    "summary": "[FSD 온로드] 테슬라·웨이모 로보택시, 한국행 조건은  블로터",
+    "source": "블로터",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZem1KdEVGWFdOcUpSQ0xiMmh3WnktZ2Jhei1Gc2tGdE42eFVQSUVxSktCTlY3QkxMZ2V1LUlhUXZ6WUhpeGUwaGkxN2h1VVMyRGlvQW1yenZoeXdnTURjb3A1OThEYnFT0gFsQVVfeXFMUHVQcjBud05RU25rS05YcWF0WFpQYXFYOTF1eXo2OTdTVnhBN2tQSmFQUm9PVU9sTEVwbmxjemFNeWFkb19kOC15NmlPNUVoZV9fRG5Gem0xSDkzYVVPX0N6Vk1uYWl6eFBuYmhJ?oc=5",
+    "published_at": "2026-09-08T00:50:17+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.bloter.net/news/articleView.html?idxno=673001"
+  },
+  {
+    "headline": "대한민국: 서울시가 자율주행 택시 '로보택시' 플랫폼을 확대한다.",
+    "summary": "대한민국: 서울시가 자율주행 택시 '로보택시' 플랫폼을 확대한다.  Vietnam.vn",
+    "source": "Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZUo3NFNBMmdKakZtdmFnOFlnOUN2NXhZQ1NzN1BUMHFsdW9tckhWZXk4RGY1cFBvZV9EUEN3RnV3dGtIN2kxcFd2WUFXMmx1ODlWVmZaN2Rtenk2N0hVQmp6RlNUY21BTFdpajV3ZHUweGhIRkhJTlhvRW1MNmFrVFZtelQxOENua3ota0VDTmZrdw?oc=5",
+    "published_at": "2026-09-08T02:23:35+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.vietnam.vn/ko/han-quoc-thanh-pho-seoul-mo-rong-nen-tang-taxi-tu-lai-robotaxi"
+  },
+  {
+    "headline": "엔비디아도 참전한 자율주행 경쟁...한국은 여전히 시범 운행 중",
+    "summary": "엔비디아도 참전한 자율주행 경쟁...한국은 여전히 시범 운행 중  조선일보",
+    "source": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcnJQR0pmS3luNVV6T3ptX0hyZU1OLVdYWlBaSW1ncDhUNE9VeWVZUzFLSXotUTFFNEFZb05Bak16NDg5Nml3NHhLZ25TX2tPYmxBLUs3UWIzNWNtTFpQLUNPNC0xemRYQ0FFS1lKWWN5UXZabnJpZkk1OXdUanUzeGFzZw?oc=5",
+    "published_at": "2026-09-07T21:11:26+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.chosun.com/economy/tech_it/2026/09/08/HLYWAPE6WVGAJPVWIDJ7J3B2ZQ/"
+  },
+  {
+    "headline": "런던에서 최초의 자율주행 택시 서비스가 시작되었습니다.",
+    "summary": "런던에서 최초의 자율주행 택시 서비스가 시작되었습니다.  Vietnam.vn",
+    "source": "Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uQXd2OS1vaW1LQ0E2dDZ6ZXkzU2FLVjJXdFFoWjI5a2tBUm9WSHRPOUJFZnFBWHEtUHpNc1BIbGYzT0FCSzRxSGM0dFBCbmNLQkVmNnB3UUhSTVNpTUxJV3J1cWN3QkNBRFdJY2xZcWVJaXlDU3R1LUd5TV8?oc=5",
+    "published_at": "2026-09-07T12:15:46+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.vietnam.vn/ko/dich-vu-taxi-tu-lai-dau-tien-ra-mat-tai-london"
+  },
+  {
+    "headline": "골드만 \"테슬라, 사이버캡으로 로보택시 가격경쟁력 확보할 듯\"",
+    "summary": "골드만 \"테슬라, 사이버캡으로 로보택시 가격경쟁력 확보할 듯\"  KB Think",
+    "source": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDX1E5QzBJTWkzbDYtN1pwRElIeEpHeXg3V3FWcmJNaWFGMTZXYnZWbHpaWUE2cjU2UjVoOEp6MGFIRDBMcHBId2NMY0ZCd2t2QnctZGZTYnRJaGtIbzRoNmpxbmlENjNRTkE1dTUyTTRfZw?oc=5",
+    "published_at": "2026-09-07T00:57:13+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://kbthink.com/news-list/view.html?newsId=20260907095714662"
+  },
+  {
+    "headline": "테슬라 로보택시, 다음달 24시간 운행?…AI 책임자 발언 눈길",
+    "summary": "테슬라 로보택시, 다음달 24시간 운행?…AI 책임자 발언 눈길  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yaG5JdnUxVGJ3Z2RNU3lFMzFFbUFYeDIySDZsZ2dhbllTeHBnLTY3RjEtUE9yVzhVSjNpcnAxMV8weC1wOTBqM3BWT0Q2MFk?oc=5",
+    "published_at": "2026-09-06T08:57:07+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/20260906175707632"
+  },
+  {
+    "headline": "운전대도 브레이크도 없다…테슬라 ‘사이버캡’ 공개되자 벌어진 일",
+    "summary": "운전대도 브레이크도 없다…테슬라 ‘사이버캡’ 공개되자 벌어진 일  중앙일보",
+    "source": "중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kckM3UTRDT2w3eFl3aHI0NlNHaDc2WGlRN3ZVVnFWdUhxQWlCTGp2bXVFUGR5UGJzdVRNUXhlLWJFVE1IUGI2aC1YVWdlVkVWRFVKNml3?oc=5",
+    "published_at": "2026-09-05T04:02:18+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.joongang.co.kr/article/25459343"
+  },
+  {
+    "headline": "\"로보택시는 주가 떠받치기용 환상\"···테슬라 사이버캡에 날 세운 고든 존슨",
+    "summary": "\"로보택시는 주가 떠받치기용 환상\"···테슬라 사이버캡에 날 세운 고든 존슨  Benzinga",
+    "source": "Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQb0xfRjdmUERiNDk0T1NST3BjY0xIa3dYYzJpZ0xkSm9aSGpTbFowYkRENFd4S3Z1a3V5dGdlR2RIbGtzNGZNQXVFNnFFVHctQ0cya01wNDRralVHUE1kb2VjR2VjdERVekZ6OWlzNXJKcUlwaDNsR29tWklUVmpRVnhMdW1VNVY4NDlaY0xmTkdKcGx4c1ZfX2JFcldMM25KYVY3emEzSUExWGdaNzhTc3JKSXlGZF9hMUFkZU9DeEJLellYX2t1SlF0aWhyd3lGT2ZiUW1lcl96QzRsU2YydVdyM0hXcjVLQmFEc0E4V1JKbHVScEdudmZnYTVYQVJ1czNhZEhpU0RwR29ENHZxN09MUnFxQlhhdmtVZXZYZUgxZXhBYTl2RHFfa2hXWHV0bVdYNTR2M1ZlSWxwc1FkMENxYlR4ZTQ?oc=5",
+    "published_at": "2026-09-08T03:23:15+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://kr.benzinga.com/news/usa/analystratings/%EB%A1%9C%EB%B3%B4%ED%83%9D%EC%8B%9C%EB%8A%94-%EC%A3%BC%EA%B0%80-%EB%96%A0%EB%B0%9B%EC%B9%98%EA%B8%B0%EC%9A%A9-%ED%99%98%EC%83%81%ED%85%8C%EC%8A%AC%EB%9D%BC-%EC%82%AC%EC%9D%B4/"
+  },
+  {
+    "headline": "中 로보택시 200대 '공습' 예고…K-자율주행 아직 '실증' 왜?(종합)",
+    "summary": "中 로보택시 200대 '공습' 예고…K-자율주행 아직 '실증' 왜?(종합)  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NcU44LVJRUldxSVByc2hONEFYb1ZaTGxiTzIxVTZ1TG5ScF90MnJVTjhFZGJ4MjZCQnVKTVZXeWY3ZkFoWjduV0RfY0dlLVlYeWdiM0lGVTBQMDNqX0c3ddIBZkFVX3lxTE0yQTVGM1RDSllscDVocDNEem82ZTdpZEJNa3VhcUpMLXlab1VOUmhmY0JINUJMckREckliQ2ZmdEcwLXY5UUhkRm9kOGVCTDJIUTBDeW1aU1prMnlzTF8xZUVwVWVDUQ?oc=5",
+    "published_at": "2026-09-01T07:41:32+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.news1.kr/industry/auto-industry/6276575"
+  },
+  {
+    "headline": "현대차, 연말 아이오닉5 로보택시 상용화… 자율주행 ‘데이터 승부’",
+    "summary": "현대차, 연말 아이오닉5 로보택시 상용화… 자율주행 ‘데이터 승부’  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BcThxNmxabWJYUmpPR1BabFUtZkUzM3I2eEZuNTNqRkt4RjRsV2ptek04ZTFtcW1ONEVHeWY0aWpDVlNzT1RWbmhLSQ?oc=5",
+    "published_at": "2026-08-26T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/0R7CNGMVyS?f=p",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "웨이모, 독일 뮌헨서 매핑 시작... 로보택시 상용화는 2027년 말",
+    "summary": "웨이모, 독일 뮌헨서 매핑 시작... 로보택시 상용화는 2027년 말  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUVLOTQ1cjRpeDlINkhJQ0Fkd2Q1bUJHajN2aEZjeVFDRzgzMHFQa1FzVkF2bHU0eXBhOW9QeXpSZ3N0bV9WdXJzOUtLeGZacXBzdGFXd0Etdy1LM0liMlkyOTFQdFJ6MDBxc3p6NEU3aGpmaExqbWJtXzVSRlY1bkpDWm5yUUlrZXI3R2RLZk1Qd1NRSXowUWg4LW5UUmVvWHpfcTU5SWoyazloZDgxT2Uwa18xMWlJVnpVNXhzbmwyMElMSk1sbGtxbkY2VHJrQ2NVRi10cGxtY19xaWNpaFhEclQ?oc=5",
+    "published_at": "2026-08-26T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://auto.danawa.com/news/?SearchKey=press&SearchWord=%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%98%A4%ED%86%A0%EB%89%B4%EC%8A%A4&Tab=N1&Work=detail&no=6051339"
+  },
+  {
+    "headline": "광주 도심에 11월부터 자율주행차 200대 달린다",
+    "summary": "광주 도심에 11월부터 자율주행차 200대 달린다  MTN 머니투데이방송",
+    "source": "MTN 머니투데이방송",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45eUZiRWpROUhkYUgwMmoxNnA2LW9IX09YVjJBVEV5ZzdhV094NndweVkzX1VvN3ZYaG9FZzl0VWtCRkhNZEk5NUlyTVRSUlVraDJncXF4QnZLNllJZWd3N20tTEU?oc=5",
+    "published_at": "2026-09-08T01:40:38+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.mtn.co.kr/news-detail/2026090810180587856"
+  },
+  {
+    "headline": "중국, 레벨3·4 자율주행에 첫 국가 안전기준 수립..그 의미는?",
+    "summary": "중국, 레벨3·4 자율주행에 첫 국가 안전기준 수립..그 의미는?  dailycar.co.kr",
+    "source": "dailycar.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hSE1VU1lXWUdzV2xOX0lULXMyUzVoZG9pbmdOMjhJMmVFVDdaa19tRUNZUkRDelVmY3hGYmFrV24wUmtRaGUybExMTlBBQzNYUlVmNVI0MUl6bS1SLTFweXptN2hNaU1ZS05kRUNwRWNldmlfb1E?oc=5",
+    "published_at": "2026-09-07T23:48:25+00:00",
+    "tags": [
+      "해외"
+    ],
+    "final_url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62485"
+  },
+  {
+    "headline": "국내 첫 자율주행 화물운송 넘어 양산으로... 타타대우, 레벨4 트럭 로드맵 구체화",
+    "summary": "국내 첫 자율주행 화물운송 넘어 양산으로... 타타대우, 레벨4 트럭 로드맵 구체화  오토트리뷴",
+    "source": "오토트리뷴",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaWWM0VExodmo5RjdSLUUyWGxfclhoN0E4Q2hTMEdVbmpOQ1otYTAzaU1OVmdodGtQal83Z1g0c3RFV212LUNqelpuS3lBZ3ptVFB4clNoc2dCemlnQ2ItaENVNFF6cHJSY21OV2pNMEw?oc=5",
+    "published_at": "2026-09-07T21:13:23+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.autotribune.co.kr/news/articleView.html?idxno=45390"
+  },
+  {
+    "headline": "타타대우모빌리티·라이드플럭스, 자율주행 기술 협력 MOU",
+    "summary": "타타대우모빌리티·라이드플럭스, 자율주행 기술 협력 MOU  cartvnews.com",
+    "source": "cartvnews.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xaDRQM285c1JBNVVoV3VuV1ZpWEl6V2tvLTZwN1kyZVRJbzFHRjRVbWs3VFB3NDB1dXVTZnFpNVlyRlU0b0VabnBQZXlFUlA0OXhhNkZZOUV4dlc4OEFYdk5DdTZUTzNOX3Q2aA?oc=5",
+    "published_at": "2026-09-07T21:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.cartvnews.com/news/articleView.html?idxno=702317",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "타타대우모빌리티, 라이드플럭스와 자율주행 기술 협력 강화 “레벨2+ 양산차 적용 및 레벨4 상용화 기반 구축”",
+    "summary": "타타대우모빌리티, 라이드플럭스와 자율주행 기술 협력 강화 “레벨2+ 양산차 적용 및 레벨4 상용화 기반 구축”  이슈투데이",
+    "source": "이슈투데이",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zSGpHcjdxZ2VZSkxvRFVSajlpd2hGaDNiblQ3MExkSFhwTEZPOWlzVVdJMGdXRWZ2S0ZmNGwwNzZKX3MxbUFpZWhnRHVWNGozd1hVRmZOSHNyWE5WaTNEZllQVU8tUQ?oc=5",
+    "published_at": "2026-09-07T11:10:58+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.issuetoday.co.kr/news/article.html?no=59378",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "웨이모·포니AI는 이미 달린다…韓 자율주행 상용화 과제는",
+    "summary": "웨이모·포니AI는 이미 달린다…韓 자율주행 상용화 과제는  마켓인",
+    "source": "마켓인",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByT19Ya0F2Z2lDZER6a3l3V21XaGpLeEYxTGVuRFg1SGdtMHpJRE5ySG10MXFjdUM1Wk1zTEE5dkpDZzJuSlFWRmFEZDctUm4xTWpKVVRMUkwzTVBnMHA2X21iOTJmRjVHeHB6dzNHdFpoZUE?oc=5",
+    "published_at": "2026-09-07T07:37:11+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03693286645577824",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "라이드플럭스-타타대우모빌리티, 상용차 레벨2+ 자율주행 개발 위해 맞손",
+    "summary": "라이드플럭스-타타대우모빌리티, 상용차 레벨2+ 자율주행 개발 위해 맞손  헬로티",
+    "source": "헬로티",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yamFOX1lXSURxTWktU0J3NlQzdzlmM3pRT3FCNURzOGl3U1NWMVlsOEc4blVIQnptOFd5VVNKUFY5WnlpQ3pqQnVBc1NZa0luN0lFdU92S1lSQndING9B?oc=5",
+    "published_at": "2026-09-07T00:34:35+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.hellot.net/news/article.html?no=114804",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "라이드플럭스-타타대우모빌리티, L2+ 자율주행 협력",
+    "summary": "라이드플럭스-타타대우모빌리티, L2+ 자율주행 협력  디일렉",
+    "source": "디일렉",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wTmlGZFVuUlJBSFdsTE5kczBRZzZSWGc5RE9TaVBscFhuNGhtYW1lTm1OTkEtMUNBcjlhRVFNN294bnFrbXFRRnFzUVlBOW5MaGJyMEF2NUNHbmhwT1NRcC1kS1I1QQ?oc=5",
+    "published_at": "2026-09-07T06:00:10+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.thelec.kr/news/articleView.html?idxno=61911",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "라이드플럭스, 타타대우와 레벨2+ 자율주행 기술 개발 협력…\"글로벌 상용차 시장 공략\"",
+    "summary": "라이드플럭스, 타타대우와 레벨2+ 자율주행 기술 개발 협력…\"글로벌 상용차 시장 공략\"  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEcVZTVEo3QWZoN0VxeE5WQWtaNWE4LUZfZUIwUXZKVmF4QmQxcDkwTmcyMm1Wb05tc0g0SElkeXBwUVdJRnc?oc=5",
+    "published_at": "2026-09-06T23:20:42+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/7Myje7vmNi",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "라이드플럭스, 타타대우모빌리티와 레벨2+ 자율주행 기술 개발 맞손",
+    "summary": "라이드플럭스, 타타대우모빌리티와 레벨2+ 자율주행 기술 개발 맞손  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43cE1RVkxaM0h2QzJIcEZKcGRoMjkxb2d1UEVJSnllWTU5MTRkZEt1RWFtNGpUbzlla1E1bzZqbDF0YWNIUms5T3NsTQ?oc=5",
+    "published_at": "2026-09-07T02:18:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/4Fkilo9UTI?f=p",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
     "headline": "2028년 완전자율주행 상용화…‘절반가격’ 로보택시 시장 열까",
     "summary": "2028년 완전자율주행 상용화…‘절반가격’ 로보택시 시장 열까  에너지경제신문",
     "source": "에너지경제신문",

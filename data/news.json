@@ -1,5 +1,432 @@
 [
   {
+    "headline": "서울시법인택시조합, 로보택시 생태계 정책 세미나 연다",
+    "summary": "서울시법인택시조합, 로보택시 생태계 정책 세미나 연다  Nate News",
+    "source": "Nate News",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iX253RF8wYnd2WEJJYUk0aDV6ZTQ3RTVXV0t5ZktpR0tSTEJsUWlzbk9mRlZzVUw4c2hjazdlUFRDak1rLU5TSmROTnV3TGtLejJr?oc=5",
+    "published_at": "2026-09-09T09:49:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260909n35436"
+  },
+  {
+    "headline": "\"돈 안 되는데\"…서울 로보택시 뛰어든 현대차, '데이터플라이휠' 큰그림",
+    "summary": "\"돈 안 되는데\"…서울 로보택시 뛰어든 현대차, '데이터플라이휠' 큰그림  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CM2NOYWE3MmFNWmJaRm9mZ0V3bE4wUUJIUFhidVFJbVBHcTZ5M1JfTERocldScDU1UW1lMm5IZmhuUUFENm5rYXdoVEdnaHM?oc=5",
+    "published_at": "2026-09-09T08:00:19+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260909170019338",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "카카오 자율주행택시, 강남서 1.3만㎞ 달리며 '돌발상황' 학습…연내 E2E로 진화",
+    "summary": "카카오 자율주행택시, 강남서 1.3만㎞ 달리며 '돌발상황' 학습…연내 E2E로 진화  전자신문로보택시에서 잠들고 말았네…카카오모빌리티가 꺼낸 해법은?  ER 이코노믹리뷰카카오모빌리티 서울자율차, 반년간 강남 1만3000㎞ 누볐다  아시아경제",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5feXdjVndQVFdjNnJUNmlSb2VWZnBjSDdNODA4YVdlcU5ZZDFMR3pvSHRmZnprc21mcVVjUzNQUHdXYmN4V0I3N3pscGQ1UQ?oc=5",
+    "published_at": "2026-09-09T05:49:03+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.etnews.com/20260909000306"
+  },
+  {
+    "headline": "[현장] 5개월 운행 강남 자율운행 택시 '서울자율차' 만족도 5점 만점에...",
+    "summary": "[현장] 5개월 운행 강남 자율운행 택시 '서울자율차' 만족도 5점 만점에...  한국금융신문",
+    "source": "한국금융신문",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96XzRaZmZTYV9fdTJMSnNrZ20wUktwRUx2eGhBdEVIRFFoX05iZ2JWeWVIc0dtbHZaMmx5d0RXNFFJeHc1VjdMUlVNU0lRbmlrUGxCb1dZUkpHZzFYX0c1SUxySVhnWGwxMnJ4b1haNTlHWEYtcWg3TGVMeW0?oc=5",
+    "published_at": "2026-09-09T08:10:34+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.fntimes.com/html/view.php?ud=202609091550003045094b7542a8_18",
+    "companies": [
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "강남에서 심야 자율주행 택시⋯카카오모빌리티 \"2000건 운행, 평점 4.97점\"",
+    "summary": "강남에서 심야 자율주행 택시⋯카카오모빌리티 \"2000건 운행, 평점 4.97점\"  inews24.com",
+    "source": "inews24.com",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Nb2R2bTBRR2s3MlVQNC0xcEVWbEdJNy14TEtTZmNrUVFZdld1RGotS20tcFVaNnYxM1NyRWNLN1l3RmRMQmhiSVV6MA?oc=5",
+    "published_at": "2026-09-09T06:48:02+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "http://www.inews24.com/view/2003794",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 연내 'E2E' 자율주행 도입···“핵심은 강남 엣지케이스”",
+    "summary": "카카오모빌리티, 연내 'E2E' 자율주행 도입···“핵심은 강남 엣지케이스”  시사저널e",
+    "source": "시사저널e",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JSWtOakpfdWJ1MjJEbzVsTmZVTkE4ZXRPOUk0Q05XU2dpNUQ1SVdZWF9PQUo5elpvSkdTUWZfdHdscVdGQnhjMVFIa1dKa0J1RDExaVI1dEtGRjFxSjNUWmNfTWsyREhsRExrbm43RTNxQdIBdkFVX3lxTE1OSEZOTFp5X3h4OGVGOEdVQVFMdDItWVFHV2ZwSHNpOWhoeXNUUjVBdDUyXzBtb21OZndFU0dyR3ZsNjVMQkplcERqdTQ1bG9qc29RWk1KaGxqR3dSTXJRUjlvLU5qY2JpckVjQ0t0aUZ3eVJVWmc?oc=5",
+    "published_at": "2026-09-09T07:32:15+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423604",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "\"로보택시, 대립 아닌 협력으로\"…﻿서울시법인택시조합, 10일 정책 세미나 개최",
+    "summary": "\"로보택시, 대립 아닌 협력으로\"…﻿서울시법인택시조합, 10일 정책 세미나 개최  디지털데일리",
+    "source": "디지털데일리",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xTFlCOGQwN0hWNVhMRW8weFRUZDVhZGVlNUhpSWJXMUVrd3RJM1V3cGZZMzRaQU52Zll5RHQtbW45R2lIeW9oZHA1bXh5ZU5pSEs2Ulc0U0NTWTNyaVgtaW9HNHM?oc=5",
+    "published_at": "2026-09-09T07:10:45+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.ddaily.co.kr/page/view/2026090916103102833"
+  },
+  {
+    "headline": "자율주행 '레벨4' 시동 건 카카오모빌리티, 플랫폼·E2E 전환 '투트랙'",
+    "summary": "자율주행 '레벨4' 시동 건 카카오모빌리티, 플랫폼·E2E 전환 '투트랙'  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zcG5TcUhyRW5DRlc2QnQ2a1VtLXdhTk1rdVJ0UDl2RnppU3RSdUlJNloyZF9HbWhNVjJxcEtyNUVBQnR6OVZ3SW9rYTN0cEU?oc=5",
+    "published_at": "2026-09-09T06:43:09+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260909154309342",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "[현장] 택시 잡기 힘든 강남 심야…카카오T로 자율주행차 부른다",
+    "summary": "[현장] 택시 잡기 힘든 강남 심야…카카오T로 자율주행차 부른다  열린뉴스통신",
+    "source": "열린뉴스통신",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LSDJySkdmOTJhRGJFUWZCSWlFeW9MWG0tZGxvRUlGZVpZVDVzZF9VSkxFWVNMQW5hODgwS1U5dmh2TFlMWThCZG5zMC15SmlIQzJrR3ZPNHM2OVdIaGVDd2pTR0wtQQ?oc=5",
+    "published_at": "2026-09-09T06:15:38+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.onews.tv/news/articleView.html?idxno=286695",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "\"강남에서 운전 배웠다\" 카카오모빌리티, 12월 레벨업 자율주행택시 달린다",
+    "summary": "\"강남에서 운전 배웠다\" 카카오모빌리티, 12월 레벨업 자율주행택시 달린다  edaily.co.kr",
+    "source": "edaily.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnJBdG8zalMtLXUwdVNqLVNUMFFKcEppelZGV3BRNGZ4QWZKekZYdUdlR3d5bllFdFljUVRwNTBPVmwwbG1oLUM3V2RXeG1KYlE1MkVGcjNZSUt1M1ZlS0VlZmd4ZjBuWURlVldKUEk1Z2gzdVlvSXZtUHB1ak82bg?oc=5",
+    "published_at": "2026-09-09T04:32:29+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.edaily.co.kr/News/Read?newsId=03608006645578480&mediaCodeNo=257",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티가 그리는 도심 자율주행, 차량 넘어 '운영 플랫폼'까지",
+    "summary": "카카오모빌리티가 그리는 도심 자율주행, 차량 넘어 '운영 플랫폼'까지  월요신문",
+    "source": "월요신문",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ld0FaajEzYWVhTXJiR0NaR0FYOVlUNVBmeUg5ajBvaUluVHhlVFI3c3QwaFl5U2dTV3Vtc01HQlJkd08xZnhRWWNuUklHdWlZU1ZYY3NGRjQ0TnJSTTEtRGJoOW9SMmNWbHc?oc=5",
+    "published_at": "2026-09-09T06:40:14+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317559",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "'우버 반값' 테슬라 사이버캡 美서 '시동'…규제·안전성 검증 과제도",
+    "summary": "'우버 반값' 테슬라 사이버캡 美서 '시동'…규제·안전성 검증 과제도  edaily.co.kr",
+    "source": "edaily.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2pCdVM2QkNFX3lTTnBLT0dwSVNMZ0ZBY3E4R0VEa2Npa0djSTE1S3J3MEVEazZQVDBUamVnZmJyNDhQM1pBSzJiMmozUURYbkVyR1c1OVZsRDc3MWxKZU1ZTmU4UEFOakNXMldLRnpLOUNzcEtldUVva1FsakU5Mw?oc=5",
+    "published_at": "2026-09-09T08:23:47+00:00",
+    "tags": [
+      "정책",
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.edaily.co.kr/News/Read?newsId=04411606645578480&mediaCodeNo=257"
+  },
+  {
+    "headline": "포니.ai, 도하에서 안전요원 없는 로보택시 운행…중국 밖에서 처음으로 상업 배치",
+    "summary": "포니.ai, 도하에서 안전요원 없는 로보택시 운행…중국 밖에서 처음으로 상업 배치  AI 매터스",
+    "source": "AI 매터스",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OTFZNbkkteGgzWk5yTkFULUtMVF9YU2xBaW5iNEFmaDZqejdqYlpDdWJjLUU2cHhDRS1sRFpydHZiSGZfVkViMEc2NVpCNEJDYzVLVw?oc=5",
+    "published_at": "2026-09-09T08:44:32+00:00",
+    "tags": [
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://aimatters.co.kr/news-report/51462/"
+  },
+  {
+    "headline": "카카오모빌리티 서울자율차, 반년간 강남 1만3000㎞ 누볐다",
+    "summary": "카카오모빌리티 서울자율차, 반년간 강남 1만3000㎞ 누볐다  Nate News",
+    "source": "Nate News",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZX0l2SjRVU3Y4ZG80RF9mNGx6WGxKLXAtNHp5Qld1MjlCb3B1Yms4SFQ2WmcwcnZOeHFrRGhqVXNvdmtjVjg1OElVZy1ZbmVnTHBr?oc=5",
+    "published_at": "2026-09-09T05:13:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260909n22057",
+    "companies": [
+      "카카오모빌리티",
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "테슬라, 핸들·페달 없는 '사이버캡' 출시…美 자율주행 택시 경쟁 격화",
+    "summary": "테슬라, 핸들·페달 없는 '사이버캡' 출시…美 자율주행 택시 경쟁 격화  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aWDZIMFpZQkhUclNiQi0xR0N0cURVelRlWWQwYmpSY0drMEM1MXMxY3VfS1g4YklBc3hKVVBWdllzRFRfU0k3eUxmbklkVE8teFljSmRMZ0LSAV5BVV95cUxQMUpjXzZqZVlSRWlod2dBQUpxSFAtd2Nxc1U1SC1XWW1ad1F1dHNkSllYVkU1WEVKampHWVRtcXFuOVJYMkgtNkZ3TlBQbk8wdzZEUVozME9TUXozeGtn?oc=5",
+    "published_at": "2026-09-04T07:06:46+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.news1.kr/world/usa-canada/6280407"
+  },
+  {
+    "headline": "에스더블유엠, WSCE 2026서 '도심형 로보택시' 선보여…\"저전력 컴퓨팅 시스템을 제공!\"",
+    "summary": "에스더블유엠, WSCE 2026서 '도심형 로보택시' 선보여…\"저전력 컴퓨팅 시스템을 제공!\"  Nate News",
+    "source": "Nate News",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hYjlVbE1TSnZqQ1JEVXFmcXRXMTBMTmdnUEhUNEVsNm5zSFdTMmhuUm5yblNQOUM4eE44MVBUZWZxVGcwLTh1OVR6a1FVV3lpS0M0?oc=5",
+    "published_at": "2026-09-09T10:10:08+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://news.nate.com/view/20260909n35881"
+  },
+  {
+    "headline": "KGM '구역형 자율주행 로보택시 서비스 확대'",
+    "summary": "KGM '구역형 자율주행 로보택시 서비스 확대'  스포츠한국",
+    "source": "스포츠한국",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxUTNtX19YTUJVUkk2S2V6aWNtdm45UzhQM2J1WVN2bmdhUEhCVHByY01kRjlvQXNKREVoUzNNc1c0bzBfeEk5VFhfaksxNEwwejRKZmVfWVIxSXhFQlhYdlpYVkVEX2hMOWp5cmp0aTVUbklf0gF0QVVfeXFMUDFRM21fX1hNQlVSSTZLZXppY212bjlTOFAzYnVZU3ZuZ2FQSEJUcHJjTWRGOW9Bc0pERWhTM01zVzRvMF94STlUWF9qSzE0TDB6NEpmZV9ZUjFJeEVCWFh2WlhWRURfaEw5anlyanRpNVRuSV8?oc=5",
+    "published_at": "2026-09-08T07:45:59+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://sports.hankooki.com/news/articleViewAmp.html?idxno=6939317"
+  },
+  {
+    "headline": "핸들·브레이크 다 지운 테슬라…운전자 없는 로보택시 온다",
+    "summary": "핸들·브레이크 다 지운 테슬라…운전자 없는 로보택시 온다  서울신문",
+    "source": "서울신문",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zempMQ0dybjVPQ3RIOWt4V1NWYkpwcG5RODBUYU5yQm5lZjlVSG13MU9hZG83NDZTT2VlT2FKQW5FTExvMm1KQnEtOXBlVlJsTW1Xa0Fya0JuY19vYW1nV0FhUmMxTFFnQjFDTThmaHZIbmJs?oc=5",
+    "published_at": "2026-09-06T09:28:47+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.seoul.co.kr/news/economy/car/2026/09/06/20260906500072"
+  },
+  {
+    "headline": "중국 로보택시 200대 한국서 달린다…2028년 완전자율주행 목표",
+    "summary": "중국 로보택시 200대 한국서 달린다…2028년 완전자율주행 목표  매일경제 마켓",
+    "source": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLeVRnNkZCa05MbkJ4Y1RRSjR0NnZNX1U3eU9fVHZUR1lnXzBXVkNyQTNrZlV5X1MxOHlMNFBGSHZ3cldkNENwYmVYSGtnZTdZY1E?oc=5",
+    "published_at": "2026-08-30T07:00:00+00:00",
+    "tags": [
+      "해외"
+    ],
+    "final_url": "https://stock.mk.co.kr/news/view/1150397"
+  },
+  {
+    "headline": "웨이모 “한국에 꼭 오고 싶다”…진출 일정 미공개[현장+]",
+    "summary": "웨이모 “한국에 꼭 오고 싶다”…진출 일정 미공개[현장+]  블로터",
+    "source": "블로터",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Jb2g1VGZQRTJPeUpkOUhkNlJ2MXd1RUNHOTF4UTlXVFhkQTBESUlQZk1yZkRuQXFjV1JaQ3lzSHZvRkZiWk84M3JaakhQLXhUdTFCdGd0cVVSVmY4RTU1S0l3bE5CQ2p00gFsQVVfeXFMTUdWbVFHQjJTSjFsdWdhZ3pvNXQwZklYeElHYUFEVTJRRzV1ZFpSc1pfYm16bjhvRWVMOVdpdE1GMFNFV0R1ODZwbnFCekliMEJ4aWV5X3MwTXRKeXJHQi1WZWZMTFVmV3g2RHY5?oc=5",
+    "published_at": "2026-09-07T04:28:46+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.bloter.net/news/articleView.html?idxno=672872"
+  },
+  {
+    "headline": "\"한국에도 진출하고 싶다\"…웨이모, 韓시장 진출 의향",
+    "summary": "\"한국에도 진출하고 싶다\"…웨이모, 韓시장 진출 의향  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIZnNmMHgtdkk0M01aVFJsMWJFY05ibVNkRVdTN0hRQ0Z1RGkwVkpaNXE4SHBObWdiQnYtWUd3SWJyaHdnWXphdG1nQVNwajFsMGw3S1NTVXFBSHfSAWBBVV95cUxPbW5FMmowbUVHSFV5WUhUSmM2ZG52SEEzaFd4UWFxMmhTWWhwbXhYUTZCRElORWsybTRXYzlUaDBxXzNGZ1BKU1d4eDhkUTJlZ0RLbVotWGdsMGVmTFFvbVU?oc=5",
+    "published_at": "2026-09-07T04:25:15+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.news1.kr/realestate/general/6282144"
+  },
+  {
+    "headline": "로보택시에서 잠들고 말았네…카카오모빌리티가 꺼낸 해법은?",
+    "summary": "로보택시에서 잠들고 말았네…카카오모빌리티가 꺼낸 해법은?  ER 이코노믹리뷰",
+    "source": "ER 이코노믹리뷰",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sMk1teUJZUXpycVh2R0hHSFpoTmc3ZDktaHRhdnZZZmpTbF94RTBoWmhNc1d5TzQ2b2tDMWRGSEJMQkZqTGNyblE1WUxQVXMwYmpMZUZvb1dudGNrWjlJZU56ak0xWWNVbS1sQw?oc=5",
+    "published_at": "2026-09-09T09:22:44+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.econovill.com/news/articleView.html?idxno=750354",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "SWM·서울법인택시조합, 로보택시 상용화 위한 공동 운영체계 구축",
+    "summary": "SWM·서울법인택시조합, 로보택시 상용화 위한 공동 운영체계 구축  twig24.com",
+    "source": "twig24.com",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VNENadHVrM1pzNmlrZHpaa1NiQ2NHRnkydkFOMWI3NTZiWi1iVmN2dTRxR3doNl9ydmZJQlNHZlVpSGdDZFN5NHd0SzNObW5hMWxyYzkxWjZmQmIwLXU5MnpoYw?oc=5",
+    "published_at": "2026-09-02T01:31:24+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.twig24.com/news/2026/09/02/20260902500074",
+    "companies": [
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티 서울자율차, 강남서 1.3만km 질주…레벨4 상용화 '성큼'",
+    "summary": "카카오모빌리티 서울자율차, 강남서 1.3만km 질주…레벨4 상용화 '성큼'  theguru.co.kr",
+    "source": "theguru.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1laE1DNGo2NWxMQWNTZTNsNm5HVW1ueFBiVTZaLWNNelNoVF9uSnVqMWpPMmJIQzdnTHYwLXVBQ1dIbC1JOXZ1N2JLYUh6VVRMUTFGcEprNHRPaXRGLTltRUk2cw?oc=5",
+    "published_at": "2026-09-09T07:52:18+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.theguru.co.kr/news/article.html?no=106893",
+    "companies": [
+      "카카오모빌리티",
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 자율주행 '차' 넘어 플랫폼·관제로…레벨4 상용화 정조준",
+    "summary": "카카오모빌리티, 자율주행 '차' 넘어 플랫폼·관제로…레벨4 상용화 정조준  Nate News",
+    "source": "Nate News",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NWldHM1dRZFo5ZTJoUFdXSWgzSEV2REwtbXgwa2xfUjNIZVZfazUwdkxtemd0UlNncTYzUlVXZzhlVzBtaEtsc0E4ZWc5TnNJWnFj?oc=5",
+    "published_at": "2026-09-09T06:39:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://news.nate.com/view/20260909n26854",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "운전 넘어 승하차·안전관리까지...카카오모빌리티, 레벨4 자율주행 준비 '사활'",
+    "summary": "운전 넘어 승하차·안전관리까지...카카오모빌리티, 레벨4 자율주행 준비 '사활'  중앙이코노미뉴스",
+    "source": "중앙이코노미뉴스",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ONHFaM1ZHUDBPSmk5OVlrXzRlU3NlRkhmblpVRnpJbVAwS2hZS0p5WjJINUhJUEkxbEU5NnZHUUxNSkhGZ3hrLVVFQ29JTTQwOU9PZ09nVjl2cFpObVIwOVFmcjdFYWdBX01NMjdZSUVoUQ?oc=5",
+    "published_at": "2026-09-09T04:12:43+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.joongangenews.com/news/articleView.html?idxno=546757",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "타타대우모빌리티-라이드플럭스, 자율주행 기술 협력 강화",
+    "summary": "타타대우모빌리티-라이드플럭스, 자율주행 기술 협력 강화  물류신문",
+    "source": "물류신문",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PRWJuZ1BRVjlwd1hPUm1Oc2tpS0tteFAybzNZU21uRmZKQzBMYUhFcUpGZ2lNbXllSVRZeWotVkpNRkg4V0MwVDNkdHozY1l0M2VSZ0l0ZzFsRFJEYVl1TWN0MUJIZkhscmVj?oc=5",
+    "published_at": "2026-09-07T05:02:09+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.klnews.co.kr/news/articleView.html?idxno=322632",
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "도요타 \"'레벨 2++' 자율주행 자체 개발…2028년 승용차 적용\"",
+    "summary": "도요타 \"'레벨 2++' 자율주행 자체 개발…2028년 승용차 적용\"  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2Qm0yVFhPM2k5bDZ0NkpVMTRZUThQa09pZWp3MHdOU0pNZGdDNEFPWTFpT3VQNWc3T0lET0NEZnFWTmx2ZEE?oc=5",
+    "published_at": "2026-08-28T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/6qK0BI9UXU"
+  },
+  {
+    "headline": "카카오모빌리티 \"무인 자율주행, 통합 관제·현장 대응 필요\"",
+    "summary": "카카오모빌리티 \"무인 자율주행, 통합 관제·현장 대응 필요\"  뉴스토마토",
+    "source": "뉴스토마토",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95VmFST3BKVzdYVzRObzBPVU1EQURKLVpqZWl5MXZTZ2RFTll4V0lIZWQ0Zkw0MU83YnJDS1dTN1l2bU1FbjQwSHluX1BfcjkyY3ZmTmNBXzBYZTZjSDZVOA?oc=5",
+    "published_at": "2026-09-09T08:27:20+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.newstomato.com/ReadNews.aspx?no=1313167",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오 서울자율차가 복잡한 강남 밤길 누비는 이유",
+    "summary": "카카오 서울자율차가 복잡한 강남 밤길 누비는 이유  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmakxydjdfcC1KTGNTbmpjNGxPcVkwa3ZQdU9EUGpxRndvTEZGLVl3cUExY2pYWXF1cXhsTUx4cWZzdFl0MWgwZmF4dVJhbThGQmZFaVV3?oc=5",
+    "published_at": "2026-09-09T07:27:34+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://zdnet.co.kr/view/?no=20260909160312",
+    "companies": [
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "[일문일답] 카카오모빌리티 \"서울자율차, 강남 자율주행 귀책사고 0건\"",
+    "summary": "[일문일답] 카카오모빌리티 \"서울자율차, 강남 자율주행 귀책사고 0건\"  Nate News",
+    "source": "Nate News",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tcG1tbjJIOVNzXzlZU2h0NkJFdm5JYjVERnd4RTJPa1R6dWNSTW5nSXZBaFFSM0hhSjJMUzlkYkM2bUFQMFVvR0haZDhtWnhkZGFj?oc=5",
+    "published_at": "2026-09-09T09:13:10+00:00",
+    "tags": [
+      "기업",
+      "사고"
+    ],
+    "final_url": "https://news.nate.com/view/20260909n34389",
+    "companies": [
+      "카카오모빌리티",
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "강남서 ‘1만3000km’ 달린 서울자율차…카카오모빌리티, E2E 자율주행 고도화 [현장+]",
+    "summary": "강남서 ‘1만3000km’ 달린 서울자율차…카카오모빌리티, E2E 자율주행 고도화 [현장+]  쿠키뉴스",
+    "source": "쿠키뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zVmhjdjdZSjZ4NTVnV1ZVaVdqTGw4eFRWclZPMUxDdUphekZ1Vk8xNjRMS2U1ZVdRSmNwVVE2ZDNIOWxEX0VvY1JpRjkyWFpSbE1MRXJMam1xLWRsMmNDRTlOWQ?oc=5",
+    "published_at": "2026-09-09T06:34:36+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.kukinews.com/article/view/kuk202609090163",
+    "companies": [
+      "카카오모빌리티",
+      "SWM (서울자율차)"
+    ]
+  },
+  {
     "headline": "\"3년내 서울서도 로보택시 달릴 것\"",
     "summary": "\"3년내 서울서도 로보택시 달릴 것\"  v.daum.net",
     "source": "v.daum.net",

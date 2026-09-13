@@ -1,5 +1,566 @@
 [
   {
+    "headline": "강남서 1만3천㎞ 달려보니…카카오모빌리티가 찾은 '레벨4 조건'",
+    "summary": "강남서 1만3천㎞ 달려보니…카카오모빌리티가 찾은 '레벨4 조건'  연합인포맥스",
+    "source": "연합인포맥스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MRnkxVnljVmF4UmlkV3Mxa0d6dTJsUlJRT29wM0hXNmpuamdLZEVrWjN1MzlCekNQLXI1ZWE4bGNpbjN3YXFTTWJnS3JGT2F0bXFxdFVmdGI3U1pqRk9mZkJPTTJNeTVBU0VnbFA2eW0?oc=5",
+    "published_at": "2026-09-09T22:47:19+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434190",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "美·中은 기사 없이 돈 버는데…韓 로보택시 '무늬만 무인'",
+    "summary": "美·中은 기사 없이 돈 버는데…韓 로보택시 '무늬만 무인'  이코노미스트",
+    "source": "이코노미스트",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tam84UFRJRDNEM2lWdlVmX1VzcHJTRDYtZnF6TEdUTk9QcXBRMHZRSXZHM0d5NGNoakZfS1NIZ21YU0hoQWpEN01ZLV81YW9LOGJhZEFwWGNNcHpnT2JFS1d3?oc=5",
+    "published_at": "2026-09-09T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://economist.co.kr/article/view/ecn202609090044"
+  },
+  {
+    "headline": "카카오모빌리티 서울자율차, 반년간 강남 1만3000㎞ 누볐다",
+    "summary": "카카오모빌리티 서울자율차, 반년간 강남 1만3000㎞ 누볐다  아시아경제",
+    "source": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nOUNjRDRhQWpESE5TeFVXNk9NYmZRUHYxRmZZb2hQenpqSWVyNTFleVl6aUtIMFVLNjZYRzBXSVV4TlR0RWhxTUVUelBjYnczVFBnZENFZVhZSzVBOHN4QQ?oc=5",
+    "published_at": "2026-09-09T05:12:35+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.asiae.co.kr/article/2026090914001876604",
+    "companies": [
+      "카카오모빌리티",
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "누구나 로보택시로 돈번다…머스크의 '에어비앤비 구상' [김기혁의 테슬라월드]",
+    "summary": "누구나 로보택시로 돈번다…머스크의 '에어비앤비 구상' [김기혁의 테슬라월드]  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oa1hhMnBjWnBPWFFVejJCek5qRHpHMWl3SlVBa3RaZDRCU2FycGxUd1V2Q1g4LTNmTE5BbDhmTjlrdmtyV2lCclQ0RFVzX0ljQjZB?oc=5",
+    "published_at": "2026-09-13T01:59:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://news.nate.com/view/20260913n05815"
+  },
+  {
+    "headline": "“다음 목적지는 한국”…美 웨이모·中 포니AI가 온다",
+    "summary": "“다음 목적지는 한국”…美 웨이모·中 포니AI가 온다  이코노미스트",
+    "source": "이코노미스트",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hekd6SnVERUF5R0tjcWttTm9tYnRCVTVBdDEwcUl1dzVKbFBEazhQRm12UUxxb3ZDWUdGMzJCbVNKbWdPclZsbDVuc3ZTaUtaZnJEQ2l4eTExbUZrNkl0bkV3?oc=5",
+    "published_at": "2026-09-07T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://economist.co.kr/article/view/ecn202609070076",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "같은 숫자라도 의미가 다른 썬더킥 슬롯 추천 표시 항목",
+    "summary": "같은 숫자라도 의미가 다른 썬더킥 슬롯 추천 표시 항목  Calgary Roughnecks",
+    "source": "Calgary Roughnecks",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWE1oc2hZZmIyQ1FWUmp6T0FHcGxuU0lLRDZkaWRqbm5UanpQNExpYWhCMjR0dFlvblpFeFVOTERIYVhjRlJmX1otR2VKSXcxbmpMMDN0dEl4eHhsQzZwekhzM2pSbm53ZjJVS3hjVUdjWDhGelZ4VnQ0eHZta05fQnNQUGc1X2hGQktrT2lkU3NfTzgzaE1VMjF2ZnlKcHE4Wk5Cb1RKekFPU3pTT2FFa1dzOEo4M1p3UFdHOXJB?oc=5",
+    "published_at": "2026-09-12T14:42:57+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.calgaryroughnecks.com/riggers-host-bandits/?ID=%ED%86%A0%ED%86%A0%EB%A1%9C%20%EC%9E%A5%EB%82%9C%EA%B0%90.html"
+  },
+  {
+    "headline": "제주 자율주행 버스, 2900명 태우고 '유료화'… 8월부터 시내버스 요금 받는다",
+    "summary": "제주 자율주행 버스, 2900명 태우고 '유료화'… 8월부터 시내버스 요금 받는다  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZNzQxWmxqQ3dDTFNKZ05wOExyTlZHcWVQVmN0Q2xJWVo0SU9QNzBhSWU4ZHIxT3lMX2xNcFNUQmdBLVRfUzc5NXNsYnVabEE?oc=5",
+    "published_at": "2026-07-07T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/20260707135146463"
+  },
+  {
+    "headline": "미·중 쫓는 현대차 자율주행…“양산 5년 안에 경쟁사 데이터량 추월”",
+    "summary": "미·중 쫓는 현대차 자율주행…“양산 5년 안에 경쟁사 데이터량 추월”  한겨레",
+    "source": "한겨레",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGRzRSQjZMWnhhdlJiWTBMNE04TmVsS2ZYNGxGLTJXVkVkM3hsc2lCNGswZEQ2RjRuLWtJU0xyQmJ4NVk5UlItVVNaTEdtQWYyV1Z5aG5lOVRQTWx3dTdYSW94aEdSYUxuNEloT0tSVWpnZw?oc=5",
+    "published_at": "2026-09-13T01:36:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.hani.co.kr/arti/economy/economy_general/1277494.html",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 2년 뒤 '레벨 2+' 자율주행차 양산…박민우 \"자율주행 없는 차 팔기 어려워질 것\"",
+    "summary": "현대차그룹, 2년 뒤 '레벨 2+' 자율주행차 양산…박민우 \"자율주행 없는 차 팔기 어려워질 것\"  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44MUlmU1lBazJTNnhRUklFTGpZMlV5dlBaVDVBcmQtaENWQjVrOXBNZHVOQzhnT0pBWDJXTHFpaV90V29WWlZWZXBuT3BBb0E?oc=5",
+    "published_at": "2026-09-13T00:01:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260913090137725",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "[이슈하이킥] 현대차그룹, 데이터 플라이휠로 자율주행 기술 고도화",
+    "summary": "[이슈하이킥] 현대차그룹, 데이터 플라이휠로 자율주행 기술 고도화  BBS불교방송",
+    "source": "BBS불교방송",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zenkyRUNseXc2cjkyY3VKUFNPVEx0QnY2b3lGT1J3MjRCT2pTUF9JYXllNWNIb1ZWbDZJQXNxVk5aZVp2THo3WVBRS2djc2xlS0hDWDRJMnpMb0tyTkxvU3Z6LUhyWmNDa3JR?oc=5",
+    "published_at": "2026-09-13T02:08:41+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106224",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 자율주행 데이터 선순환 구축…\"2029년 레벨2++ 양산\"",
+    "summary": "현대차그룹, 자율주행 데이터 선순환 구축…\"2029년 레벨2++ 양산\"  팍스경제TV",
+    "source": "팍스경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xVmtVajlZZ2l4U1JVWDF2blQ2MUR4TFlSVXJ3ZDRDVTZVY2xib2NSTThWTDROZGpQdE1ZLTZXUGJxSTExVEcxOGo4RlVtWTdBb3N0RnF6REdIYlJPM2otUzRTVVFweHRC?oc=5",
+    "published_at": "2026-09-13T03:17:59+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.paxetv.com/news/articleView.html?idxno=281709",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "2028년 엔비디아, 2029년 자체 '아트리아 AI'…현대차그룹, 자율주행 '투트랙' 양산 속도전",
+    "summary": "2028년 엔비디아, 2029년 자체 '아트리아 AI'…현대차그룹, 자율주행 '투트랙' 양산 속도전  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aajgycXA4SEdRQUFSUDhUYmFZNVkxQTc5LVg4bHZnS0hhSVcyUHVCSzZlZ1RoTXNTcUJzMzF1aWNNSTN5S0s4cFJmcWxrQQ?oc=5",
+    "published_at": "2026-09-13T00:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.etnews.com/20260913000001",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 자율주행 '아트리아 AI' 2029년 하반기 양산차 첫 적용",
+    "summary": "현대차그룹, 자율주행 '아트리아 AI' 2029년 하반기 양산차 첫 적용  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DVW5rM3pxMklaenNqeVhyWUd6bzVaYXloUlN3VHRlZUVNR0Q2aXFVdFV6YzZ0S1VRMVVXaUxCX3RqRzZrdEZzN2xWVFJsMF9QMC1naWlBaDBPUUYyQzIwMUtXbzNod0ZuV1hEX3J3T2MwX08zb1Q0OdIBeEFVX3lxTE9DVW5rM3pxMklaenNqeVhyWUd6bzVaYXloUlN3VHRlZUVNR0Q2aXFVdFV6YzZ0S1VRMVVXaUxCX3RqRzZrdEZzN2xWVFJsMF9QMC1naWlBaDBPUUYyQzIwMUtXbzNod0ZuV1hEX3J3T2MwX08zb1Q0OQ?oc=5",
+    "published_at": "2026-09-13T01:19:59+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260913_0003787162",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "\"비보호 좌회전도 하네\"…현대차 자체 AI 자율주행, 서울 한복판 뚫었다",
+    "summary": "\"비보호 좌회전도 하네\"…현대차 자체 AI 자율주행, 서울 한복판 뚫었다  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81dUxPRHY0NUdsMXdtSVlzQmExSkhOeG84WWg5VURHenljaWU1aHJhc21BcHRLaS1MQktnY1dGaDVRRWVqZC00bjFudFBmbUh4M2Rj?oc=5",
+    "published_at": "2026-09-13T00:02:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.nate.com/view/20260913n03641",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "우버 테크놀로지스(UBER), 스페인 첫 레벨 4 자율주행 국가 허가 확보",
+    "summary": "우버 테크놀로지스(UBER), 스페인 첫 레벨 4 자율주행 국가 허가 확보  simplywall.st",
+    "source": "simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV3k0TkVfSFBLaEFxX2VzUGNWdFlyb2tzT1ZzOTVNUk9vMFdwWVZQVHpOX013a1pudC00ajNBdlU2YVpOWlNLbXJaZXpjTnlCNlhTbllqamYzMEh3ZzlvUkVOMmZWX3BRV09yVjNlb1h1N1dQUlBaT20wQlFyVXhCMjJDWE1rSDFTWlJ1SjB6UFVVc1JnZ2Q0TkJQOVhnY1E30gGmAUFVX3lxTE91MnJnTkloa2pvaFJfWjdiT2VtM0d3cWhaa3VSZllycWU1TUd4cXZmS1k4T1ByQUZ6TmVtdVVEaldROWw2djJjeDd5aWJGZlJ0MVhOMDdJQmRJZ0hoY1RoYWw0MGFxQjVramtQNmJZczZPTE1wV3B2eDU5Smc2aWJkdF83R2c0d0xuc3VTVnZ4WkpQQnZscG1tZVJzdE0tVkdRclpFckE?oc=5",
+    "published_at": "2026-09-11T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "기업"
+    ],
+    "final_url": "https://simplywall.st/ko/stocks/us/transportation/nyse-uber/uber-technologies/news/831a7b503c3171f5"
+  },
+  {
+    "headline": "\"운전대 없는 100대 트럭\"… 中 내몽골 탄광, '무인 전기 자율주행' 성공",
+    "summary": "\"운전대 없는 100대 트럭\"… 中 내몽골 탄광, '무인 전기 자율주행' 성공  글로벌이코노믹",
+    "source": "글로벌이코노믹",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQjk1VHFxQmYtcUFXNWY2WEQwN0FlNzVCbjcwUzZVUUw4dnRGMkVVZjJ5SzgySjN2cG1HT0hGVTVMZE9XSlRoajl5eFFLWF9sNVhDcU91LTNyQTJRMk5hQWxlbGRwRUd4Q0VzM243ZEFDRHEwZi10MEpRM1VWVmRaV3dzTmlISmdL?oc=5",
+    "published_at": "2026-09-12T20:50:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.g-enews.com/article/Global-Biz/2026/09/2026091217034419060c8c1c064d_1"
+  },
+  {
+    "headline": "무인항공기 제조 기업 프리뉴, ‘피지컬 AI’ 자율주행 드론 개발 착수",
+    "summary": "무인항공기 제조 기업 프리뉴, ‘피지컬 AI’ 자율주행 드론 개발 착수  KNS뉴스통신",
+    "source": "KNS뉴스통신",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TbG8zMVg0LXU5VEZDeW5ZQUtVQVdITHBDaHdTUERmd1R0LS0wcjNJZy1EOTYwVDJZMEE0ckRRZnN2c0lJSGVGSDJVYXVQTTM5d1gwSXpyeTMySkI3MGJKWWhQeG0?oc=5",
+    "published_at": "2026-09-12T23:22:31+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.kns.tv/news/articleView.html?idxno=1017401"
+  },
+  {
+    "headline": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수",
+    "summary": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMbEhMeVhMaHk2cE15S1VOR1hEbXRBOXpOcVhIbkJVQU1WbUdvV2RMSGt3WWZrLWJ1c1AwWGdCRGF3QUtXdWc?oc=5",
+    "published_at": "2026-09-06T00:39:00+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "final_url": "https://v.daum.net/v/7uIMcZwagh"
+  },
+  {
+    "headline": "파주시, GTX-A 연계 자율주행버스 11월 시범운행 개시",
+    "summary": "파주시, GTX-A 연계 자율주행버스 11월 시범운행 개시  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1lXzlManJPbkRtX1FXZkxrVWpQX2p1YlNnX2d6bnNJMktNVk52bUIwTkxjTGY2eFVZV0VPN3MxYndGbnZCLVE?oc=5",
+    "published_at": "2026-09-08T00:23:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/Uxviuf5TG5"
+  },
+  {
+    "headline": "KGM, 강남 자율주행 로보택시 '토레스 EVX' 추가 투입... 운행 구역 확대",
+    "summary": "KGM, 강남 자율주행 로보택시 '토레스 EVX' 추가 투입... 운행 구역 확대  오토헤럴드",
+    "source": "오토헤럴드",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IS2lyZDNoNjRuZFBYRXAzVlQ5ZjFRbWlxQ0RNSGlFVGZacTRPYzQyTnlIQUw3dmtIQ0dWd1ZHN0dkMTVpT1lhOGxwam9Kcnp1cEFHaUx5bWJKQmxvUV9MN1R2QjIxVlZERzRwc0FB0gFyQVVfeXFMTzFvOWk5ZktfRkxxWTFrNXlmYnlfbjl3b2dkWnl4d3lNSXYzZW5WcmxZMmN6blg0TVNFUnVEUXNnY2R2TWtqSVBySUlkeXd3MXhPUWhtLVZ1WUMxZVY4SFc1R01wUF80NTd2SXUwc1JqZlhR?oc=5",
+    "published_at": "2026-09-02T01:06:11+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "http://www.autoherald.co.kr/news/articleView.html?idxno=61499"
+  },
+  {
+    "headline": "카카오모빌리티, 강남서 달리는 심야 자율차 6대로 증차",
+    "summary": "카카오모빌리티, 강남서 달리는 심야 자율차 6대로 증차  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqUDg2WVRaWTJKVmNPdkl2ZnBnX2g5UUJESjhrR2p5WW9WY2E5UlFWU0dQUWw5TUZfWVM4UnRZQVB1QWk1bnlpWFpuR1ppNnhKN2fSAVNBVV95cUxPUHp3MWJIZWpSeFhINXhZb21LSE8xWUdtNDdQMUxiM0tLdHI3VHY4SXRWLUdwVkhRMV9kWkJ1blJjcUc3YjI5QUZuaWhwQld4aS05TQ?oc=5",
+    "published_at": "2026-08-20T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.sedaily.com/article/20081067",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "‘센서 절반 줄이고 눈은 더 번쩍’⋯ 강남 심야 누비는 KGM ‘2세대 로보택시’ 토레스 EVX",
+    "summary": "‘센서 절반 줄이고 눈은 더 번쩍’⋯ 강남 심야 누비는 KGM ‘2세대 로보택시’ 토레스 EVX  브릿지경제",
+    "source": "브릿지경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UM19xUDNkYU0wWXFVWUJuOHllU3FrdTZvRnFjUElzS3VVX0NnZ2M0T0NKOGtST19sLWtHVm5xMmdnaDBFM0dGbmZyMUNkM19qSXYxNDhLdnhvdw?oc=5",
+    "published_at": "2026-09-02T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.viva100.com/article/20260902500338"
+  },
+  {
+    "headline": "서울 로보택시 사업권 두고 현대차·택시·쏘카 등 격돌",
+    "summary": "서울 로보택시 사업권 두고 현대차·택시·쏘카 등 격돌  모바일한경",
+    "source": "모바일한경",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XMldFUWFrZzhqeDZ6cFRPQXlXMmk0NWR6Mnd3anFJdW8yaGJXazY5cHlPU0tsaklxTk1VR28yb1ZoM3NXcVN5SF94UGxXUnp6ZHpiNWhUcjNYTi12dFVveHh1NWR1S2w1MzdmSzQ3dkFSMDBsN29Da1pYTk1Vb00?oc=5",
+    "published_at": "2026-08-17T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://plus.hankyung.com/apps/newsinside.view?aid=2026081753211&category=",
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "쏘카·에이펙스 \"제주를 자율주행 메카로\"…3단계 로드맵 제안",
+    "summary": "쏘카·에이펙스 \"제주를 자율주행 메카로\"…3단계 로드맵 제안  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52cmJlX2Rfa0M3REdVREg1NHFnYlhyVGNWS19Jbk00dUlKZUVBaDNzWC00eTdDdjNXTDJVY2w3OUxuMndSLVpudms4eWdvNldJbUpVOGJwRjJnazcxQjNIRDlEM2NyZXQxVWNOZ01NSTZob1lKV1VGVQ?oc=5",
+    "published_at": "2026-07-27T00:25:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://m.news.nate.com/view/20260727n06593?mid=m05&list=recent&cpcd=",
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "현대차 자율주행 '아트리아 AI' 공개…2029년 양산 적용",
+    "summary": "현대차 자율주행 '아트리아 AI' 공개…2029년 양산 적용  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9taFZqUkpMb0tUUEtsTmdUQ25nUTJOX1IzZVhKVUJhSzFBYnZtb29tMnJVRUMwbXF6ZW55VEswM0Z1S3RCSTlXUFBfREVZT0tJSjZOZ2hn?oc=5",
+    "published_at": "2026-09-11T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://zdnet.co.kr/view/?no=20260911160207",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 자율주행 바퀴 돌린다…테슬라 따라잡을 수 있을까",
+    "summary": "현대차그룹, 자율주행 바퀴 돌린다…테슬라 따라잡을 수 있을까  경향신문",
+    "source": "경향신문",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzdnlaUHZSZ01PeWJsbHdobzlFSXQ3S3RJQlZSMVlXMkxJVVZnWDJKZVlwNVlyM3NiYmw4YlF0X3htUVlRTFF3V2RQWUhZS2w5UDdacmVhNFFiUdIBX0FVX3lxTFB4Y0JSbFNhWlBJWG1vbVF1bEVFSHJNUTV0LUMzcWU1VC1ONC1pa01MYlBhT1lUSkhLcTEzaFF1ak9SY09TWVZySVVXcWFyN0RmMDROZFk0aTlIdC1sa0xr?oc=5",
+    "published_at": "2026-09-13T00:00:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "final_url": "https://www.khan.co.kr/article/202609130900041",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차 “자율주행? 지금도 되지만 안 판다”…3년 더 기다리는 이유",
+    "summary": "현대차 “자율주행? 지금도 되지만 안 판다”…3년 더 기다리는 이유  데일리안",
+    "source": "데일리안",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQWV0TVpMNGdlWDFBOVZtMDd6V0pmeG5JX2pQT1NlLU9BendEdnZzRVJLbWFoWFNmNVo1cTNjMWE1dGpZVzBfX1l6U1o3ekpNNndQcVltVm9QY3ZHeWxCaHUtb3RLcVVxbG1fY01Qajh3LVk0Q0w5R1R3djlpQXF6X2dlTXFDeS1NZ2o0V1BEV2hMNVJhRW55SnVUd2ZoMlVNeTN4UEQzTUZWbFIyMjRoZExTLWpmN2VvRWYyUWZ0dEhTZVdJYUFteVBTWEVxbjRhQ2V3c1ZFTzhMZXNidVp6RVYzTnY3Wk1HSGFVd0ZtTnV1T21zY0FHRU5TTENXdlJtSHlxUHhIdkNHNDZkRDRpQlNBOThLREdO?oc=5",
+    "published_at": "2026-09-13T00:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.dailian.co.kr/news/view/1689411/%ED%98%84%EB%8C%80%EC%B0%A8-%E2%80%9C%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89-%EC%A7%80%EA%B8%88%EB%8F%84-%EB%90%98%EC%A7%80-%EC%95%88-%ED%8C%90-2026",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "자체 자율주행 로드맵 꺼낸 현대차…진검승부는 2029년부터",
+    "summary": "자체 자율주행 로드맵 꺼낸 현대차…진검승부는 2029년부터  news.bizwatch.co.kr",
+    "source": "news.bizwatch.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95QlE5SGFxam5fMGdkemJORU95TkEwQ1QwejhpZG9oNlliVlNobVV5cy1yLWYtSjhNSDhMb1JIblR5V21uWFc2YTZ2aXhkN21oWmxvNC01WEVQSlBPWnBFWHJJd0lhVTVrQkN6Xw?oc=5",
+    "published_at": "2026-09-13T00:00:03+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://news.bizwatch.co.kr/article/industry/2026/09/11/0032",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 자율주행 승부…2028 엔비디아, 2029 아트리아AI[현장+]",
+    "summary": "현대차 자율주행 승부…2028 엔비디아, 2029 아트리아AI[현장+]  블로터",
+    "source": "블로터",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IZDFBZlEyaFRaQWdJZ3FOUTVPY2ZHMzBuS2RJdWs3THpkLWU2cU9kaktLclZsM0hTZmd0UmRPRGI5c0c2eHdGVno3UGZOZjFWRG5SbzdYak95WUpZNFNrcjJrTVU3Wms20gFsQVVfeXFMTnFZcUpnMFFOVjBBN2lVOTBlbEN0NVd6NTRMblBGQW1QSGJ6ZDA3amR4ZDl6OWMzYk9kVDVqSjkxRWhaSmVmZTktQXBuRGhZRmJsbWNUd01qcWFmMHVtR0xIMFFFeVh6SDhjT1po?oc=5",
+    "published_at": "2026-09-13T00:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.bloter.net/news/articleView.html?idxno=673411",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 자율주행은 모든 게 AI…2028년 레벨 2+·2029년 아트리아 AI 양산",
+    "summary": "현대차 자율주행은 모든 게 AI…2028년 레벨 2+·2029년 아트리아 AI 양산  아주경제",
+    "source": "아주경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xVTg3MGliQ3lOX08tWld5LWxtYUxtcWVIc1pnTFZUUkZIOHNYVzNJSjNUV1poUlNib1Z6ZFdscmlWQ0pkMFBVR0xhX0R1NUVUcF9QV3ZfUFdWQdIBWEFVX3lxTFB2WGhXWkRUanlUVVNWSmUzTTRINzEyT3Myd2FXN3BROUluZGdvNURrQmsxOTFoNzFRbks4VExxS01RVk0taTFuaG5XSHhGRjRVaWJ6clQxQ3g?oc=5",
+    "published_at": "2026-09-13T00:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.ajunews.com/view/20260911170557655",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹, '데이터 플라이휠'로 자율주행 승부수…2029년 '아트리아 AI' 양산",
+    "summary": "현대차그룹, '데이터 플라이휠'로 자율주행 승부수…2029년 '아트리아 AI' 양산  더구루",
+    "source": "더구루",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDcjBjMjdVYU1qc3Ewdkx3ZTRVX3N3XzlZcVBORmZ6TnI5N3RvUzlWcXBiRFBmQjBRb0lOQnpNcUM4TzdMdU4zdzBrRlVDaFBFZmpuYWM4OVdSenlfX2xWckhPRQ?oc=5",
+    "published_at": "2026-09-13T00:00:56+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.theguru.co.kr/news/article.html?no=106998",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "[현장] “5년이면 따라잡아”…현대차, 자율주행 ‘진짜 실력’ 베일 벗었다",
+    "summary": "[현장] “5년이면 따라잡아”…현대차, 자율주행 ‘진짜 실력’ 베일 벗었다  에너지경제신문",
+    "source": "에너지경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51d2RGSE5CRWNadk9tRVpZSXBiSm5sTmFGYzdKRTF4RUFuU2tCeHhlT0s4d1lTVmxhM3NsVW9IREoxWWdIbHlYREx2S1JQTXdCVUFKZ24wM2Yzb1k?oc=5",
+    "published_at": "2026-09-13T00:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://m.ekn.kr/view.php?key=20260912025043866",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 자율주행 '데이터 플라이휠' 가동…아트리아 AI 도로 주행 공개",
+    "summary": "현대차그룹, 자율주행 '데이터 플라이휠' 가동…아트리아 AI 도로 주행 공개  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LTjEySVhxOV9WRUlOOTUtY2dORFpmMUY5Nm5HdjB4NEpFM3d1MlBBYU9FUXFfbzZtVXY4Q3VnRUFZekd4OGtDeTREVk5YbVE?oc=5",
+    "published_at": "2026-09-13T02:57:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260913115700484",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "엔비디아로 먼저 달리는 현대차…자체 자율주행은 2029년",
+    "summary": "엔비디아로 먼저 달리는 현대차…자체 자율주행은 2029년  뉴스토마토",
+    "source": "뉴스토마토",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDMERnN3gzNS1WNFdqM0diaG9kZEtUcmNZRWFTX2xSWlN6VGVWVjlpVnItT2dfOHNINzFjZGRMOEdpNl9yejRvRzk0dHFPcHV0ZHNVS09fX0sxRXpLR2RIbg?oc=5",
+    "published_at": "2026-09-13T00:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.newstomato.com/ReadNews.aspx?no=1313411",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "“어정쩡한 자율주행차 안 만든다”…현대차그룹, 2029년 자체 AI 양산·2028년엔 엔비디아로 먼저 달린다",
+    "summary": "“어정쩡한 자율주행차 안 만든다”…현대차그룹, 2029년 자체 AI 양산·2028년엔 엔비디아로 먼저 달린다  서울신문",
+    "source": "서울신문",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzM0JEVFRCT3F1bEJFMS1tOGJWWTBEQ3RsVHdmSDhZT1ZNQ1htQTRJa2pKVjJ1U1UtdWxCdFVNbDFoMnFFdV84UDduQThldTFQeU1aYUtvMmVRRUNHRXlMWTJGQ2o2ak9wVEtIVHNqTWN3ZnYw?oc=5",
+    "published_at": "2026-09-13T01:16:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.seoul.co.kr/news/economy/car/2026/09/13/20260913500021",
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "\"엔비디아 모델로 시장 진입 후 자체 개발 완성\"… 현대차 자율주행 투트랙 전략 공개",
+    "summary": "\"엔비디아 모델로 시장 진입 후 자체 개발 완성\"… 현대차 자율주행 투트랙 전략 공개  Chosunbiz",
+    "source": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtS213TEI4SzNYRjhoWW84Y2RObWZzeHJWcUNyUVpZWkkzRV9LT3FiNm5nXzU1dWlUT0ZkMGdJZVB0Y2lCdEdWXy1jTE1uM1ZNLTBIUS1qSWhWSk5IT2QzdkRJZVpDMUNTd3hGWTZ3azNTaXVHT0JlNVJQTG9aLVk?oc=5",
+    "published_at": "2026-09-13T00:02:41+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://biz.chosun.com/industry/car/2026/09/13/VRNLLJC7YRHUFBKPNOBY7GUNXQ/",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 투 트랙 자율주행 청사진 공개⋯ ‘28년 L2+·29년 L2++' 상용화",
+    "summary": "현대차, 투 트랙 자율주행 청사진 공개⋯ ‘28년 L2+·29년 L2++' 상용화  브릿지경제",
+    "source": "브릿지경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9COU0xd1RhYnh2SFNiMWtxbVBlMGdmNE9leTdDTEhJOElMZnNJVjd3N0luZU9VZTAxMUo1WjJDdkZ3d3pHQjlKM2NkWHhhdWpTb1lMUDVMN0FRQQ?oc=5",
+    "published_at": "2026-09-13T00:09:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.viva100.com/article/20260913500001",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "어떻게 운전했는지 넘어 '왜'까지…현대차의 '설명하는 자율주행' - 머니투데이",
+    "summary": "어떻게 운전했는지 넘어 '왜'까지…현대차의 '설명하는 자율주행' - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2TWdXUUI4RTFLOFdUZ2ZzLWpBejV5dXlKS25ZRVVfSGFkZlFWZUlFQU5IQWI3MGxBZURFTmpzOEItWERMLUNwQ1k4SHoySkFaT19FZW9WLUNuSzZqUl9EM012eHhvLTkzNGxkS2JQc3FQd9IBckFVX3lxTFB2TWdXUUI4RTFLOFdUZ2ZzLWpBejV5dXlKS25ZRVVfSGFkZlFWZUlFQU5IQWI3MGxBZURFTmpzOEItWERMLUNwQ1k4SHoySkFaT19FZW9WLUNuSzZqUl9EM012eHhvLTkzNGxkS2JQc3FQdw?oc=5",
+    "published_at": "2026-09-13T00:30:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.mt.co.kr/amp/industry/2026/09/13/2026091115582458765",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "비보호 좌회전까지…현대차 자율주행 AI, 서울 도심 뚫었다",
+    "summary": "비보호 좌회전까지…현대차 자율주행 AI, 서울 도심 뚫었다  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUYnNCUnljUUJFQXJxaWdNeDZBUnJYdlJWNU82MmlaTEhFdGJCeVZYcTNwR2U3c1ZtTWRQRlBMWEgyaTV2ckZhNUdQQXctdjg?oc=5",
+    "published_at": "2026-09-13T00:02:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260913090247850",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "강남 출근길·광화문 원테이크 주파⋯ 현대차, 도심 자율주행 실증 영상 첫 공개",
+    "summary": "강남 출근길·광화문 원테이크 주파⋯ 현대차, 도심 자율주행 실증 영상 첫 공개  브릿지경제",
+    "source": "브릿지경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rUkRjTUJQWl9vTkI4N0lqdS1xVDJmQTdrYWlrcXQ3enRxX3RxeU1aX3VGSkRqQk02eFZCbGJLX2w4RU1qX1o3VEltbzcxMGw5MTNOVC1zM0I5dw?oc=5",
+    "published_at": "2026-09-13T01:26:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.viva100.com/article/20260913500312",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "“어정쩡한 자율주행차 안 만든다”…현대차가 ‘자체 AI’ 3년 뒤 택한 이유",
+    "summary": "“어정쩡한 자율주행차 안 만든다”…현대차가 ‘자체 AI’ 3년 뒤 택한 이유  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uVE9PVDduR050Yy0xRHVfTHNlZDZDWWpfbmotTU9KaE5EeS1DM2l6RFpsSXpuR0szM3NGbmt2T2hSN3NnZTNVZ1l0VHZwRFU?oc=5",
+    "published_at": "2026-09-13T00:22:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/20260913092208141",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
     "headline": "밤 10시 강남에 뜨는 ‘자율주행 택시’…19대로 늘자 달라진 서울 밤길",
     "summary": "밤 10시 강남에 뜨는 ‘자율주행 택시’…19대로 늘자 달라진 서울 밤길  인터내셔널포커스",
     "source": "인터내셔널포커스",

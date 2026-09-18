@@ -1,5 +1,442 @@
 [
   {
+    "headline": "웨이모, 2028년 싱가포르 로보택시 상용 운행…2027년엔 수동 주행으로 몬순 도로 학습",
+    "summary": "웨이모, 2028년 싱가포르 로보택시 상용 운행…2027년엔 수동 주행으로 몬순 도로 학습  AI 매터스",
+    "source": "AI 매터스",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DVmR5WFB2bUR4dk94VnR0NU1HU2VmUU9kbWpFMm1fYkw2LU9Sb0tHMnAyMVVvOWFNekwwOGoxRV9xWGxrYjg2eFhGWEE5NEV5dXlibQ?oc=5",
+    "published_at": "2026-09-18T08:26:42+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://aimatters.co.kr/news-report/52551/"
+  },
+  {
+    "headline": "中로보택시 국내 본격 진출…“도로 복잡한 한국이 검증무대”",
+    "summary": "中로보택시 국내 본격 진출…“도로 복잡한 한국이 검증무대”  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tS2V0U29vUWxJQkNpazkxdDZ1YjRoSmQyclZvaFFvTnZwUDM5cmJkY2N2UkVJczhHSkZ5dXNkNFpfT2ZvWWZfelJsT2pNUkxTVVYzaA?oc=5",
+    "published_at": "2026-08-30T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/20260830123236958?f=p"
+  },
+  {
+    "headline": "DXC 엔지니어링과 록소, 기업 규모 자율주행 상용차 조기 도입 위해 협력",
+    "summary": "DXC 엔지니어링과 록소, 기업 규모 자율주행 상용차 조기 도입 위해 협력  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PMnU1UVV0UXpqVXpMTHNaOXlUTy01amxvVkt5S2J2MjBRYW90YmIzTm1xT1N1OXNtZDAxNV9xUVlWWXhnR2FjZU1JNkZzY0hhY3M3b293?oc=5",
+    "published_at": "2026-09-18T13:10:02+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://zdnet.co.kr/view/?no=20260918221002"
+  },
+  {
+    "headline": "위라이드·우버, 스페인 최초 레벨 4 자율주행 허가 획득… 마드리드서 로보택시 시범 운행",
+    "summary": "위라이드·우버, 스페인 최초 레벨 4 자율주행 허가 획득… 마드리드서 로보택시 시범 운행  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNd05BcHBOY2N1b1NZd1FlLWx2YjM0cmdaaTYzWjA5andDdUZ6dU1CaHJVMXR3amE5U0k2N0tQM0RvUHRBZzJXQ3B2dnI0M1d3d1BKTWdjODNKckJDc1F4VEF4cWI5dllVbnZHQlVydjlQN3lxT1RvZTROOWU5aHRQWFNKMVhBeDlDaC1UVUVrbEFFRHd3aGdoRmJORDdwOUNkM19TdmlCaGVzeko0Uk9xcmU1TTh2R3BhdnN6RUE2WjBVRjQ5UG13OXo2Z1dSUXoyRlY4MWpHY1pFekpqUUl0cmF3M0ZaQ3lqMTkxbFVGYno0Y2JCSk4zdXJzYlNsZkkzOUJ2VUpDdXNsM21xOHI0SXoyZEp4MVBiR2tZTjlQeFloM2pUNWpUaVBEekRNcENINTJjOG9wRXROS0twZ1NRMEU0N05sR2M4MmtQaW9xMUpJZE5E?oc=5",
+    "published_at": "2026-09-15T22:13:56+00:00",
+    "tags": [
+      "정책",
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://mauto.danawa.com/news/?Tab=N1&Stab=all&Brand=&Model=&HeadText=&NewsGroup=M20class=f_&SearchKey=press&SearchWord=%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%98%A4%ED%86%A0%EB%89%B4%EC%8A%A4&Punit=10&useOldData=&Page=0&Work=detail&no=6059613"
+  },
+  {
+    "headline": "물자 싣고 방향 바꾸며 자율주행… 한국군 첨단 무인시스템 ‘이상무’",
+    "summary": "물자 싣고 방향 바꾸며 자율주행… 한국군 첨단 무인시스템 ‘이상무’  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbm9KM2MxVTlwSjViQTU1UUtTTlNQdVdCajdLbzJ5ZGNkS2NjbTBmMVhfQ2lIX05GWWdzaVFqaDhDYTN5bUxmOWdwRDZWZHpHUTRvUXoyNzJIeGhNTF9tS3pIOW4yZW8xcFVPazRvM1lmNW1VdWgyWFFxdFlXbkpRdGctQ0M4RDF2UEtlbjRjcXZCNHQyUy11bGlTemg?oc=5",
+    "published_at": "2026-09-17T11:03:12+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://v.daum.net/v/20260917200312970?x_trkm=t&x_imp=Y29udHJvbA==&x_hk=MTJhODEyMTAxMTU0N2M1ZDYz"
+  },
+  {
+    "headline": "AI기반 자율주행에 정찰·수송까지…軍무인차량 아리온스멧 공개(종합)",
+    "summary": "AI기반 자율주행에 정찰·수송까지…軍무인차량 아리온스멧 공개(종합)  yna.co.kr",
+    "source": "yna.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZUXlLbVZzLTA3TGt2S2dHMENRVm1La0lJRzVqTlQ3bHZ5ZTV2WjA3MVlKcmNLYzFCRWZ0b1JLaWpMN2Myb3hEWVNDLVBrM1ItTHBDQmRvMEdHd1nSAWBBVV95cUxOdXl5bXJ3dUtrQW4zMEh2ZjI5a0JmR18xcEVSb2RyQXZmR3gweGFOSzZjU294QkZnY0c4V0UtQ2N5ekNUWmRzWXAyY2NCbDN1UV8yQi1nSWtRdmNHRmRXb0k?oc=5",
+    "published_at": "2026-09-17T06:09:33+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://www.yna.co.kr/view/AKR20260917092751504"
+  },
+  {
+    "headline": "자율주행 반대론자들, '고깔콘'으로 무인택시 무력화",
+    "summary": "자율주행 반대론자들, '고깔콘'으로 무인택시 무력화  미주조선일보",
+    "source": "미주조선일보",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTdYdWZWWFBNZVBROUtITnhQSDlTS01iSVBPeXNPbUltUFliV1dSdHBiWUl2cmoyR1ZFSUd6QjZjQndYWUNHS3ZUekpmQ1l1UXF0MUFnZ2NYMnpxY2lMeTBOVUpNcVdzbFM1WXZaalg4b3lQclk3enBBbXR1UzRjZzVHb0hFZm80VmRXZEtPaUJEemdIMjNjZ25jdDd5cHU0WmJFQjJReGtfYUN1?oc=5",
+    "published_at": "2026-09-17T05:22:06+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://chosundaily.com/bbs/board.php?bo_table=hotclick&wr_id=15012&sca=%EC%82%AC%ED%9A%8C&spt=-14822&page=1"
+  },
+  {
+    "headline": "[K-자율주행]풀스택부터 플랫폼 허브까지…모빌리티 '3사3색'",
+    "summary": "[K-자율주행]풀스택부터 플랫폼 허브까지…모빌리티 '3사3색'  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jZkFPcERFbXpGRmdGcHg3MERqdFAyQjBJd19IRGc4YmxSS2p2V0RmbFdkTldnOThsNVNEMmtpb1ZEUHpkTUE?oc=5",
+    "published_at": "2026-09-16T22:41:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://v.daum.net/v/7MbgZHlwv0"
+  },
+  {
+    "headline": "2028년 엔비디아, 2029년 자체 AI…현대차 자율주행 두뇌 ‘투트랙’ 승부수",
+    "summary": "2028년 엔비디아, 2029년 자체 AI…현대차 자율주행 두뇌 ‘투트랙’ 승부수  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9nZVFtcExyLWJva1cyUUUtWjlUbGs4OC1zdlNoVERtLXR0MjNyaU0tU3NtbEtKRm5YRDdhXzcwckRadkRYYWc?oc=5",
+    "published_at": "2026-09-13T03:08:38+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/WzhETIkLUJ",
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "\"운전석 비우고, 조선소 누비고\"…산업현장 파고드는 K-피지컬 AI - 머니투데이",
+    "summary": "\"운전석 비우고, 조선소 누비고\"…산업현장 파고드는 K-피지컬 AI - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52X1NZOE9QTVM2U00xdkZ1cWlqdjlvUGJwRWR3QkdzOHB6alFFamN5bkYzczltNmExWUVRWkVOc09CWThodm83SkJoOU8yMUh0bDZTamcyYmdGcFR5QmxLbC0tWmZaVE5GR2fSAW9BVV95cUxPTXdGV21YXzZYRjBNLTFQVEl4cFdHYklIdDd0ejVvem00MG1VLWhYdVVvUVJnaUxVY3BfOENrSG1VdE9zVVUyQ09tZlZRbHMweVJDdm1Gcm1XaVMwNFRuNzdoYmxCbW9TU0lBT3ZqSUU?oc=5",
+    "published_at": "2026-08-26T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.mt.co.kr/future/2026/08/26/2026082613471691506"
+  },
+  {
+    "headline": "자율주행 힘주는 카카오모빌리티…'韓 특화 데이터' 앞세워 빅테크와 경쟁",
+    "summary": "자율주행 힘주는 카카오모빌리티…'韓 특화 데이터' 앞세워 빅테크와 경쟁  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tenRYSGJfWkd3M3lyMW9OeGpzcmJjR00zSmF2WGEzZmVESDFsbllzMzU4MXpGc1lENUJuRmxSWlU4LU94V2x4amI3aw?oc=5",
+    "published_at": "2026-09-10T09:23:03+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/UIEsECnQHJ?f=m",
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오 서울자율차가 복잡한 강남 밤길 누비는 이유",
+    "summary": "카카오 서울자율차가 복잡한 강남 밤길 누비는 이유  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83Tk5IaXJ6T2ZPRUw0YkpkS3M2N2N5dHdwOUdvYlNsUjYtaDhQamkzVlhuSk5QWHdHOHpoVHZPblpLVF9McUt3TmRSNA?oc=5",
+    "published_at": "2026-09-09T07:29:48+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/0VIYA1mjgL?f=p",
+    "companies": [
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "KGM, 강남 로보택시 서비스 확대…토레스 EVX 추가 투입",
+    "summary": "KGM, 강남 로보택시 서비스 확대…토레스 EVX 추가 투입  직썰",
+    "source": "직썰",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nQXJtV1lPZ2NsSDRzbWZudUFKeVdLOVhpVkZyckJqckF1Z3FmbFlYZWRxSUUyTlBLVlY0cGJrcUJWQkhPdjBpN2xOVGxUaUZEV3liek5wbXJZRVozRFlZQzByR1ZaTlVI0gFsQVVfeXFMTnV2dG5KNHdqNGQwV2VLN0M2U25MU3J1cVNmYmdLUFZKcTgwbktvOTJyeEdwU2ZSdThFUjd3WktoeWlFa2U1aUg2czYwVzg0OG5hRWd5WVF3S21SYkRubG02ZVI1UmhGOUpiNlV1?oc=5",
+    "published_at": "2026-09-02T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://www.ziksir.com/news/articleView.html?idxno=145067"
+  },
+  {
+    "headline": "\"강남 차고지가 로보택시 기지로\"...SWM-서울택시조합, 상생 거점 구축",
+    "summary": "\"강남 차고지가 로보택시 기지로\"...SWM-서울택시조합, 상생 거점 구축  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXTC12RnhONWExSlZPNU5Rb0JST25ZbHVTYjU0Tm1JOXdxaWtORlQ2dk01eEEyZ1hIQ1J2TU96Y2dZUVZFdTE1SHphRQ?oc=5",
+    "published_at": "2026-09-02T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://v.daum.net/v/GJzcf7vmjl?f=p",
+    "companies": [
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "포니링크, 한국형 자율주행 솔루션 개발 본격화…상용화 가시권",
+    "summary": "포니링크, 한국형 자율주행 솔루션 개발 본격화…상용화 가시권  헤럴드경제",
+    "source": "헤럴드경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ieVNlYlJwUEhfamZ6RFczYXVuWWlpWmF4WVlrSmIxTGk2TjV0dW1YSkhLbU1hd0VWZVVzUE9nam9WOFA1V01jSHBpb3czR2wzS1NGa1pn?oc=5",
+    "published_at": "2025-10-29T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "final_url": "https://biz.heraldcorp.com/article/10604114",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "킹덤컴 재단사 도박 게임 소개와 첫 화면 읽는 법",
+    "summary": "킹덤컴 재단사 도박 게임 소개와 첫 화면 읽는 법  Histoire pour tous",
+    "source": "Histoire pour tous",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHM2VFpkd1lEUnFOcjlXZGg3M3FwcXJxSHRuRlI1UUtaSUdpVmtUeU8wUm1DbkxpNjJvTTdUb2huWEJCNHlsN2toQW9RdEk4UlJTZ3NQcWxBNnZrbjB4MXNNdU9FVmFEcE9oTE5IeTNXTGlZUW10dS1nZ0lYSm1DSUEydjJ6M1FvWlJPN0tVQmIxWjBwZzA5MjM2TUttcGo0SWdjVjFTTkx3RU5TWkVoWVl5aWE0VmIx?oc=5",
+    "published_at": "2026-09-17T18:10:40+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.histoire-pour-tous.fr/histoire-de-france/3725-les-merovingiens-2-une-puissance-fragile-.html?ID=6313.html"
+  },
+  {
+    "headline": "처음 보는 기능은 설명부터, 파워볼 캡틴",
+    "summary": "처음 보는 기능은 설명부터, 파워볼 캡틴  Histoire pour tous",
+    "source": "Histoire pour tous",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM2JhbDhyVzJuNmJ1cGtBR3VMa0VVdjhnUU0zeF8xT2lweC1pNjJUSy1sV0Z5Wkc4Yk00dEkxMmgyOWt6SlJaZE1VdGFUMXF2YlNLOWdXeC0tSEJNRVMyUjhKeG5meVhLSHhqc2dqb2xnV01MTVlJOHF6RS1WdnBQczNwNWl1OHhGcWFkckhmUWkyNFVJSlFuMDhPTy03LTJCNlJBNDBJV212SlI5UURsemtDX1pfcE9JWDg2TUVZSXNjZjhFYUI2bEZiRnFRV3JrREVqbA?oc=5",
+    "published_at": "2026-09-15T09:14:27+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.histoire-pour-tous.fr/histoire-de-france/5596-louis-xv-roi-de-france-?ID=%ED%86%A0%ED%86%A0%20%EC%83%A4%EC%9B%8C%EA%B8%B0.html"
+  },
+  {
+    "headline": "슬롯 큐어 벳 게임 안내의 기호와 범례",
+    "summary": "슬롯 큐어 벳 게임 안내의 기호와 범례  Histoire pour tous",
+    "source": "Histoire pour tous",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSFlpcW1MSnhCR292aFRPeVR6NGpXcWE1Y1hfVExNa05FMVlmQzUyRVNUMmNmeE1GQkM5aUl4aVZycWgzd1h0dk40WWR1eXRfU0gya3JUNm5zWURlSjBqc0gzVjBnMWQ0TTlJUmpJQlY4NGxRbThXMVY0Nl84a1hXLU9ieG1PTGo5R2dlOXlIRnpIcXQzczU1am1memNrTVVRWVAwY3JFenpNUkVSRHg1NzJVZDY0R2dYcTZ6MU53?oc=5",
+    "published_at": "2026-09-17T17:45:14+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.histoire-pour-tous.fr/histoire-de-france/5274-les-ducs-de-normandie-3-richard-ier-sans-peur.html?ID=6984.html"
+  },
+  {
+    "headline": "게임 기록 메뉴가 제공되는지 확인하는 토토 어택",
+    "summary": "게임 기록 메뉴가 제공되는지 확인하는 토토 어택  Histoire pour tous",
+    "source": "Histoire pour tous",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORjdVWW82TnZrQk1MaTBtWFVXNkR6aTZDM3pxRjNreDBTTkE1Wm4zQ1paV3JJMHVsb21UU2t0c1FUWkVfYXZVREFsRFNKMzNfMlNzdllYczRib3ZxZFFNYkgyNVdwdFZiaF9DYjc4Mlg5M3Q2N0s5QmFOMk1QTDVBemJfR1kyWDB0QkhKYnRvWmdsZ1AyTzVmMm9xbTNCUEtHbFNncTNVRmRyYk5pUEJuMEEtY21QUVRlVUNjc2hKOWlISHJYOXNqUDBJWXdMWWNTWFJBNzRuelY?oc=5",
+    "published_at": "2026-09-16T06:33:54+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.histoire-pour-tous.fr/histoire-de-france/4594-marigny-grand-batisseur-sous-louis-xv.html?ID=how%20to%20play%20korean%20poker.html"
+  },
+  {
+    "headline": "파워볼 외국인 세금 2026년 애자일 개발: 현상, 본질 및 법칙",
+    "summary": "파워볼 외국인 세금 2026년 애자일 개발: 현상, 본질 및 법칙  Histoire pour tous",
+    "source": "Histoire pour tous",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlFSVzRiLTRaekQzMEZTMmlBbkh1NUpvSUVhQ2VVYTNYRExwcXkwZ0c2b2RuZmJGeGU5WjdMS21sR013MGl5Qk1kUjV6Q3hEMVRzbUlhS0lVQzYzN3hfemVZOUhOR3o1V0Z3WExDYUx0M0JNM0RCc2FOQnhod0NjY0hnOEFETk5keFR0WFV6clZzRnZQbjhCdDF6SGY?oc=5",
+    "published_at": "2026-09-17T09:21:44+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.histoire-pour-tous.fr/histoire-de-france/207-la-guerre-de-cent-ans.html?ID=8976.html"
+  },
+  {
+    "headline": "토토 배당사이트 프리랜서를 위한 시장 분석 효율적 방법",
+    "summary": "토토 배당사이트 프리랜서를 위한 시장 분석 효율적 방법  Calgary Roughnecks",
+    "source": "Calgary Roughnecks",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1UxWktWdWxOYV9aR2JpbHQtRVBGZ2R5TTZZQzU1dkYyMXp0VW93bDItd1JNOXZhanA4emZNQUphNGJ4dFJWNTZGR1lDNEJpdFZxU2theW9ucXFJRF83QS1aR3hScXg0cldZQnJFcnRFdlJDdUZwS2xQbHVBcmJ5blQ0dlY?oc=5",
+    "published_at": "2026-09-08T10:37:36+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.calgaryroughnecks.com/five-things-03-14-26-vs-ottawa/?ID=6934.html"
+  },
+  {
+    "headline": "카지노 아바타구인 포스트 코로나 시대 디자인 패턴: 핵심 개념과 실제 응용",
+    "summary": "카지노 아바타구인 포스트 코로나 시대 디자인 패턴: 핵심 개념과 실제 응용  Calgary Roughnecks",
+    "source": "Calgary Roughnecks",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbnEzQldoY0tsVS01TkZtbG5OLU9fOEdhZExOVjUtWFJQcjBFV3pGelVWQzZQcEZiTllpczB4Q2hQRmNTTVpzUVpEUTNSWFdzRmpEMmt4dkpHNFhoQUt1R05UX21Xb21Ga01jUnVSblNXWVBMOER3NlpIX0stOXVPb3lmei1mU1lzRUtmQVgzV3ZkdlFqNm5RQ3pIdDRMZTgtNXBDRl9BS00wdHN5R3B6c1ZOQXZkUkgyVEJPdkszZE5fUQ?oc=5",
+    "published_at": "2026-09-10T02:24:06+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.calgaryroughnecks.com/draft_pick/tyson-roe/?ID=%EB%A7%88%EC%9E%91%20%EC%B2%9C%ED%99%94%20%ED%99%95%EB%A5%A0.html"
+  },
+  {
+    "headline": "남경필 포니링크 대표 \"외국 기술 국산화로 우리 자율주행 시장 개척\"",
+    "summary": "남경필 포니링크 대표 \"외국 기술 국산화로 우리 자율주행 시장 개척\"  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ERWdvYnFteUxFbFNsdUZLZlJ6bkJnZ09ZVHBuWklSUVU5dWY1NUlzNm56c0FQV0FFa0RMa2VlbXJ4Q2tITUVoRFFPTmo0Rk9zM1hIYVByOGVyamFTb0NBMjdMQmR3WnpfMVR2MVViYXlxaHhONzBraQ?oc=5",
+    "published_at": "2025-07-10T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://m.news.nate.com/view/20250710n21369?mid=m02&list=recent&cpcd=",
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "슬롯 3+3 : 실용적인 팁과 전략 - 스텝 바이 스텝 가이드",
+    "summary": "슬롯 3+3 : 실용적인 팁과 전략 - 스텝 바이 스텝 가이드  Histoire pour tous",
+    "source": "Histoire pour tous",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnJSX09QTklIUUwycDhVOWUtdmFiUVVqWDBNcUJlTlh1dFJsNEFyRWhWcFNPZ0lTOHBHbnptYkkzQWNzZ24yMjhXbXo3RTdoV1NINzJQNXVKbWN1RWJhVy1jamdUR0xUZ2FJVDViOVBIYjBEek84ZlpXUE8zelJrRXo1TEtyZy1HYkJuVi03aGxLZw?oc=5",
+    "published_at": "2026-09-16T09:54:09+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.histoire-pour-tous.fr/dossiers/2971-francois-ier-1494-1547.html?ID=6157.html"
+  },
+  {
+    "headline": "[파워인터뷰] 오토노머스에이투지 한지형 대표 \"자율주행 풀스택 기업…완성차 영역까지 확장\"",
+    "summary": "[파워인터뷰] 오토노머스에이투지 한지형 대표 \"자율주행 풀스택 기업…완성차 영역까지 확장\"  팍스경제TV",
+    "source": "팍스경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UUW9neDdrMWplbUFRZjg1RHkxQlRUeGxDbkwzeVkwdFpvRDBPV3RYb0Z5MHRsSjJlN0ZXTTlsLUt2MWFsMUEyRFA4RzN5LVVreGZkTU5jZ2g1TzJDS0hBM00xQzR4S0ti?oc=5",
+    "published_at": "2026-05-27T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.paxetv.com/news/articleView.html?idxno=273078",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, Try Everything 2026서 레벨4 셔틀 'ROii' 선봬... \"글로벌 기반 강화\"",
+    "summary": "오토노머스에이투지, Try Everything 2026서 레벨4 셔틀 'ROii' 선봬... \"글로벌 기반 강화\"  에이빙",
+    "source": "에이빙",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LSnZ3N0Rkc05NSlVadk9YTlNVUnZHWjVlQ3lvbHM0RWk0bjBOYmdteGVnbTlVR2s3dndaNlp4ekRIRVVGNkZoTjg1U3Y1d0ZVajJfLTRFd2xORFVPQzdXN1hhSHlrQjQ?oc=5",
+    "published_at": "2026-09-04T03:25:53+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://kr.aving.net/news/articleView.html?idxno=1813993",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 중기부 ‘글로벌 팁스’ 선정",
+    "summary": "오토노머스에이투지, 중기부 ‘글로벌 팁스’ 선정  로봇신문",
+    "source": "로봇신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkb3ZmSVlPZTJnV0pWNFFXbl96bmFOeWFFZC1SNkdUa2dZeGZDSWlUUkpvOHY0OE1wdVZVeDQwZHExc3FfLWpwWDNXOG9zY1VlMV9VVWZZaDNhdUFYSzNoWjNTeVNoYTdDV3JQQw?oc=5",
+    "published_at": "2026-08-24T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://www.irobotnews.com/news/articleView.html?idxno=48077",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "[기자수첩]강남 누빈 자율주행차, 제도 정비도 속도 내야",
+    "summary": "[기자수첩]강남 누빈 자율주행차, 제도 정비도 속도 내야  edaily.co.kr",
+    "source": "edaily.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSWJOektEVzlvaVVsTHB2MThqS3RaclhmeGxaaGNKVXpYVzJsZmEyVjBMOWk5OFJCUlQ0bS16X0RoQTBjWEU1R3F5dFRTR1Bkd2NqbG1QOWJPVFNqVG9YOWwtOGQ3VDBIZkNpYzlHMkZydWZXcG0wNGVnam15dGFhdA?oc=5",
+    "published_at": "2026-09-14T07:51:56+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.edaily.co.kr/News/Read?newsId=03814646645580120&mediaCodeNo=257"
+  },
+  {
+    "headline": "A2Z, 자율주행 물류 모빌리티 '코이' 개발 중단 : 네이버 블로그",
+    "summary": "A2Z, 자율주행 물류 모빌리티 '코이' 개발 중단 : 네이버 블로그  Naver Blog",
+    "source": "Naver Blog",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSl85TGVOSm5FLURpbFo1MzAyNXpILXNQVUNqZklkdzdyS0tfZ2E3c185dzBvWU5tRTJVZ1EtZEt1b0NUeXBEY0dfOWx1YWpQQWVNd0JaWndyU283M29MTXB2QWJ1S3VWMjBtaE1va3lXVTMwNExSWEZRUkFRSzFIUnF5QV9XZG1xUFBrRVRYdw?oc=5",
+    "published_at": "2026-08-31T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224396318033&redirect=Dlog",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, UAE에 110억원 자율주행차 수출 계약 체결",
+    "summary": "오토노머스에이투지, UAE에 110억원 자율주행차 수출 계약 체결  와우테일",
+    "source": "와우테일",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51MmRlRHVqNVkyN1JiZHphQm9ycTludG9TUUZNU0JiTzQxZ1V1T2hSOUVIekJOektyaEZ2cDZfYnZISXY5TGd5Q2hwY2k2QmM?oc=5",
+    "published_at": "2026-08-04T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://wowtale.net/2026/08/04/262376/",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "폭행 맞고소 절차 건강한 생활와 정수: 입문부터 마스터까지",
+    "summary": "폭행 맞고소 절차 건강한 생활와 정수: 입문부터 마스터까지  Calgary Roughnecks",
+    "source": "Calgary Roughnecks",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVFVVRGZCVEplNHBQR0Z1M01pSGZ6aHU1OWpaZ1dWZzZ2SjlSWG5qYTFEMWZESXlTaDB6RzZBY2x5UnZORXNYX0d3OHAwSGdRV3g4dy0yR1RfR05Jd1MyN1BFNjd3SGtzb19RZjlqemhnYUFMeXc3M1I1cmZ3c2ZmUUtQeFBDUGhiX1dhMXJfSUx0VDQyQWNKUVJpQVp3d1k0LTAtUHVod3NQSWtoRS1RbWtDNExFdTZFenBVQVV4dV9aVmNCWGhZd3RYWWxtdUt4dm1id1RUbm5tVmdpcmtkRlFTaU9vMDg?oc=5",
+    "published_at": "2026-09-06T18:07:05+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://calgaryroughnecks.com/roughnecks-announce-2023-24-season-schedule/?ID=%ED%8F%AC%EC%BC%93%EB%AA%AC%20%ED%83%80%EC%9E%85%20%EB%A3%B0%EB%A0%9B.html"
+  },
+  {
+    "headline": "[전자신문] 조기춘 교수, 자율주행 AI 검증 전략 관련 코멘트",
+    "summary": "[전자신문] 조기춘 교수, 자율주행 AI 검증 전략 관련 코멘트  뉴스H",
+    "source": "뉴스H",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hQzA5RDVlVW4xUWRqXzBTdkpxNjFQTURaYzR5anh5eng1SjVYc0Y1aUR6czNoM0xaSGxEa1hVeGVIZ2k0Tl81M3E4TDI2YVhoRWdQdmhEdTd6cllJN21xLXJkWFJpVzdIdFlB?oc=5",
+    "published_at": "2026-09-08T06:28:16+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.newshyu.com/news/articleView.html?idxno=1026201"
+  },
+  {
+    "headline": "“청계천 달리는 무인버스 보고 놀라지 마세요 완전자율주행은 인프라 산업 핵심은 사회적 수용성”",
+    "summary": "“청계천 달리는 무인버스 보고 놀라지 마세요 완전자율주행은 인프라 산업 핵심은 사회적 수용성”  gonggam.korea.kr",
+    "source": "gonggam.korea.kr",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2t1c2NsSXNyeC1WY18ya0pUcHdobV94cG5KQ0V4d2hWcVQtcFN4X09aaF81eXBDVEJ5ZmdQMC14dXIwbHRJSkt4SzlBbE1uYzZYSzNqQUU5bVlNR1VhUU81RnJOMTN4Zy1DempQV1NGVDM5dFBrdDdvMGNkcVIzdmh1TkdFUExOUzMwSUFDWEh2a0ZYZFdIb09QWExVWVpzaGJfbE5idm5mZGFuX09CTDRSX09LOThW?oc=5",
+    "published_at": "2026-03-12T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ],
+    "final_url": "https://gonggam.korea.kr/newsContentView.es?mid=a10214000000&section_id=&news_id=fd3d738c-2cbe-4fc8-b683-4617968dd1de"
+  },
+  {
+    "headline": "전남광주시, AI 자율주행차 실증도시 준비 작업 '착착'",
+    "summary": "전남광주시, AI 자율주행차 실증도시 준비 작업 '착착'  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PYlM0MHp0SnMwRVhzZXFFc1l4RUlNakZFb2l1U21EZC05eHNaNS1QZldBVUdqVjF2Znp0cUhqTG9Cdk1yNElMSUJ3QVpIUQ?oc=5",
+    "published_at": "2026-08-30T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.etnews.com/20260828000002"
+  },
+  {
+    "headline": "2026 자율주행모빌리티산업전, 미리 본 자율주행의 미래",
+    "summary": "2026 자율주행모빌리티산업전, 미리 본 자율주행의 미래  mocar.kr",
+    "source": "mocar.kr",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ec1U2ak8zODBrcEo0cDB3eXBxNHQ3c1E4VmZRODlXR0F2WmhHdnJlSWU5ZW1taUd4NVVHZENvWjVNUVctMlVqdS1jVjFtWEh1TmtVbXBPNTMwZnVPeWdFR1dOSQ?oc=5",
+    "published_at": "2026-08-28T02:14:18+00:00",
+    "tags": [
+      "일반"
+    ],
+    "final_url": "https://www.mocar.kr/news/articleView.html?idxno=1226"
+  },
+  {
+    "headline": "오토노머스에이투지, UAE 스페이스42와 110억 원 규모 자율주행 수출 계약 체결",
+    "summary": "오토노머스에이투지, UAE 스페이스42와 110억 원 규모 자율주행 수출 계약 체결  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVEYtVldlMTFxOUR4VGRRb2FaUmxySjg5RHlQWGFreUppZ0RjZ19UaGRiNHl5eUU4M2dLa2pfeGFKR3hVMTI1NThIZUhqczh1RUlBRk9zNUpfcDNWRk51X2U5ZFBVV0dqeXByb0tRbE43ODR1cDRKMkV2SVh0THQzQV8zY3U1Z1NBN1M4VUNHNm5tYWlkNEdFQTlhYnkxUUJpSHFZMk5yZjVtcFE2UDZPS0FWMVNDM2hicjExcU5qU0tpekRfekRDNVViQkVoV2UwZ1FzbHN0VzBoS0ZpNjJ3b3VZbE4?oc=5",
+    "published_at": "2026-08-04T12:07:16+00:00",
+    "tags": [
+      "기업"
+    ],
+    "final_url": "https://auto.danawa.com/news/?SearchKey=press&SearchWord=%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%98%A4%ED%86%A0%EB%89%B4%EC%8A%A4&Tab=N1&Work=detail&no=6042484",
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
     "headline": "구글 웨이모, 2028년 싱가포르서 로보택시 상업운행…亞공략 확대",
     "summary": "구글 웨이모, 2028년 싱가포르서 로보택시 상업운행…亞공략 확대  뉴스1",
     "source": "뉴스1",

@@ -1,5 +1,438 @@
 [
   {
+    "headline": "[안효문의 車한잔] 자율주행 '레벨2+'는 꼼수다",
+    "summary": "[안효문의 車한잔] 자율주행 '레벨2+'는 꼼수다  데일리한국",
+    "source": "데일리한국",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Zd0ZubFd1MUZ2elNYMVpMdnFYZVpLSVlvYWJRN2dsY0c0MjdnS3RvQWRyTDFiR3BObF9oczNWRGt6QkdJZE04NlQzb3d3bUp6YmRGU3lTU0dKVFJUeFd2REJ3TTdJVmFla2M4bEEza9IBc0FVX3lxTE9EWnBYa2hmRW9xcU1WZUZnS04zR1FMWEpQeUNKQ3ZEdFJyUklLYktqWmdfVjFQdDItNVdRdUFZd1h1VkdRNW9GaGZGeG9hVDFtRTdOMVBEZ0dVejhNbW5za3FmWktmVGphZmJpM1RMQWdIa2M?oc=5",
+    "published_at": "2026-09-23T06:48:46+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "로보택시, 서울로 몰려온다[로터리]",
+    "summary": "로보택시, 서울로 몰려온다[로터리]  sedaily.com",
+    "source": "sedaily.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xYmVSYUMwY2VNYVRrQmhEdXg0a21vcm5NVnFsUHpNWmJ4ZjJoeEt4QzVqTFJIVExDN2tuT2VWLVFweENsWWZ6ZGRSRnlzd0tVRVZn0gFTQVVfeXFMTnFiZVJhQzBjZU1hVGtCaER1eDRrbW9ybk1WcWxQek1aYnhmMmh4S3hDNWpMUkhUTEM3a25PZVYtUXB4Q2xZZnpkZFJGeXN3S1VFVmc?oc=5",
+    "published_at": "2026-09-22T09:07:13+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "웨이모, 로보택시·대중교통 환승하면 승차 크레딧 지급",
+    "summary": "웨이모, 로보택시·대중교통 환승하면 승차 크레딧 지급  디지털투데이",
+    "source": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14ODBxUHdjYV94ZTY2bWNva2pOQVZyclNqOUhobG9oZTFiUG5pdXlQZktvU2F6aFNkNVpXWG1WZzhTZkZ1WFpBZm1qbjlGenRWQmVaZHlrUnlKX0VLdFA3UzBCcmJZRy1GTDljbi1Hb3BqREE?oc=5",
+    "published_at": "2026-09-23T04:10:00+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "아마존 자율주행택시 죽스, 댈러스·피닉스서도 시험주행 시작",
+    "summary": "아마존 자율주행택시 죽스, 댈러스·피닉스서도 시험주행 시작  미주조선일보",
+    "source": "미주조선일보",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ09jN2VhNzV4c3l4emk1UUV1Y1ljTXEtOExBclhWTldzMVAzcVRjblBuOWs1Z2liSTMtOUdBWWpBUGJjVF9Oa0VwcUU4MUpNTkp0bTMwMmcyNzBTZXZxbGNwSGk5WnhWdXRBRWVFWHdwSE5SNGJzZ2ktbUw5VjNjUm1KZzJaRVlJZV9LRHMtNjMtbkZWYlR3dC1DaGFsa1hna01ZTnBfal9HY3Nx?oc=5",
+    "published_at": "2026-09-22T07:47:49+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "[이슈클릭] “진짜 멈추나 볼까?”…자율주행 택시 가로막은 사람",
+    "summary": "[이슈클릭] “진짜 멈추나 볼까?”…자율주행 택시 가로막은 사람  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3RkdkNXJpUmROYUJJaUxnOUlsd3R5anpQeTlmMUZRdE1iam43SjIyWjYyWllDNmFxalRBYUtjejFkVFA0OXNWaEl2LVRKLUR1b0lTVQ?oc=5",
+    "published_at": "2026-09-10T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "\"신호 위반했는데 세울 사람이 없다\"… 국내법이 못 따라가는 무인차 시대",
+    "summary": "\"신호 위반했는데 세울 사람이 없다\"… 국내법이 못 따라가는 무인차 시대  토픽트리",
+    "source": "토픽트리",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHNWaTl2VFNPQkNXUW04Wk8wTTNaZE1ESzhWWUtmNTNNcW05S1dqbXVnWXAyVVpuVmxieFcxb2oybWFCQnBzVENpT0ZUZ0tCQTZ2NlVsNENpc1doSXd6UG56SENVb21pM1lWaWJvNFJBcTh2MHBEVUFUdU9UdTVoUlFocks4eko3cFFmWUhGOVRQc3IwMEtvQ2hkQlNsYmZYdU5R0gGrAUFVX3lxTE9LcU12WWN1eTM5Q1hiV0R4dklJT0pDbGZGT2VtcE5EVXdOMFpBYkQ3dG1ManFIZ2F0TDdncFlUaENqQjlybmxwcVM4NmxCTk9YVzNNYUFaZ2czQ0Jwd0lEWC1YWHVGSWhlMi1QTzZ5MkQ0ZjhpQWd6dVNFdzRacDFMY2phV0FnRjZ3SGhWWF9PZkliY0ZhX05qcXA4MlBzSnYzeFQ5Mk85Z09Ubw?oc=5",
+    "published_at": "2026-09-23T02:43:00+00:00",
+    "tags": [
+      "사고",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "\"사람도 힘든 日도로 누빈다\"…구글 로보택시, 내년 서비스 시작",
+    "summary": "\"사람도 힘든 日도로 누빈다\"…구글 로보택시, 내년 서비스 시작  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVcFh5Z3B5V2p4VWNrVERmSEhDTkl1REg2N3pOcFM3dXhJS3I3LVBtdkdENlN4MGlmVUwyQVlMQmxOUGRtMmc?oc=5",
+    "published_at": "2026-09-15T04:55:51+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "게임 정보가 바뀌었는지 확인하는 pci 슬롯 이란 변경 기록",
+    "summary": "게임 정보가 바뀌었는지 확인하는 pci 슬롯 이란 변경 기록  Histoire pour tous",
+    "source": "Histoire pour tous",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYS0yaUx1S2N0S0RiaGwxUHpCUm9ER0Z2ZUVuNjdzNlhfdmR3MXFKZjB1SU1tWUJOS1RKVTRVck52MG9TaldtdGxkN2VSekphdThpTXpuazhQelRyWWIzQjR3cTJMd2Z2a29hRTMxakNtNDNFX3B5NGVWc2UtQkluR185NVJZVjFoMDJEN3ZQOHBaalVHM0xmWGJHTDRzeVJ5YWx0cXNFdXBTZHpZQmdTWW16U2JnblhSZUZIR2JLMVIyV0tKZ2hMRFpZdW5qMUtrcU5BTzVWZG1vNlVtT3lhUllIOGREakcy?oc=5",
+    "published_at": "2026-09-22T23:58:42+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "어떤 페이지를 먼저 볼지 알려주는 혈관주사맞고부었을때 길잡이",
+    "summary": "어떤 페이지를 먼저 볼지 알려주는 혈관주사맞고부었을때 길잡이  Histoire pour tous",
+    "source": "Histoire pour tous",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjFnMk9wSV9ocEtXNHE3dWtfOERNZ3dYVkcwaTlnUWJibjZOcExlOHBsVlFULVdSZnBYTFp6M19JbXU4WGw5VFpfSEdmS21DMmt1dE1ocDhxdUUxTkxfN0lRNmlpaFlZTHBSczdvUHRZVWd2X1JHNHpsRWJaT2MzR05LNi1UVTNheGdEcWRGbGJ4UHhnOC1lTWRXeGJWMEs5YTl2LUlJRmZadw?oc=5",
+    "published_at": "2026-09-21T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "아마존 로보택시 '죽스' 美 유료 운행 시작…\"운전자도 핸들도 없다\"",
+    "summary": "아마존 로보택시 '죽스' 美 유료 운행 시작…\"운전자도 핸들도 없다\"  segye.com",
+    "source": "segye.com",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SMHY4ODNQWWgtX2c1aWxNVjVSNzd3UXhxVkdZVFBCSWVDcXNGT1JQemNyelZkOTJYbjJPMU1hdHBwampXeG5MMEpHak5YWGg0VDRvekJYZVbSAVRBVV95cUxORlhlU0dLYWlhZUhNb3F3aGJOX2ZlekxTVzlldDdTY0NyQ2RzQy1xcC1QdjNTSFp5VHdpOW5oaVFoMXVHUXpkVE1LWFpONHplVEdkQVE?oc=5",
+    "published_at": "2026-08-24T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "[기고]자율주행, 실증 넘어 기술 상용화 관건",
+    "summary": "[기고]자율주행, 실증 넘어 기술 상용화 관건  fnnews.com",
+    "source": "fnnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RTTRwNElLUFBaUEU0OGt1eWpiSlRBVzUzQkJsWDZsc09CYnpod01PSk83VVF1QjY1eV8yR0xBS3Q0akNMMXMxUTE0UG5DVTFCMXNxM3ZJVnhodw?oc=5",
+    "published_at": "2026-09-23T07:26:51+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "무인트럭 200대 美 고속도로 달린다…오로라의 연말 승부수",
+    "summary": "무인트럭 200대 美 고속도로 달린다…오로라의 연말 승부수  디지털투데이",
+    "source": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wNnZBTEVRWHk5SzFkV0pIdFlWcWVxNWk4bExnRGxzbWRGUU5EemVLbjl6amI1TkFUVVdTLVl1SXpMRWk3VmJmd2RheEZYMFR0bFdEUUdEVU1BNndXODFrdzJDanBHYVBSTndkaDlBY2RzTnM?oc=5",
+    "published_at": "2026-09-22T23:40:50+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "“최소 1만5000km 달려야 상용화”…국토부, 완전 무인 자율주행차 가이드라인 공개… : 네이버 블로그",
+    "summary": "“최소 1만5000km 달려야 상용화”…국토부, 완전 무인 자율주행차 가이드라인 공개… : 네이버 블로그  Naver Blog",
+    "source": "Naver Blog",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWVBxQXp4eVhUak9DZVljWWVJbTJJRTRMY3VRZTEwZDJ6MHlROWJoR3d6UE9WYlo5aTgzR1BQSXBzdm10Q1NyT2hUQmhZNTdqVkxsOTlaRWV4aHZ5WktIN3lGdw?oc=5",
+    "published_at": "2026-07-08T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 토레스 EVX 투입…강남 로보택시 확대",
+    "summary": "KGM, 토레스 EVX 투입…강남 로보택시 확대  서울신문",
+    "source": "서울신문",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wQmE4VUxmcWJGRkpTUms3V3ltSXlQRTVzaGEzM1V3SWJPQlRTWmoydnV1ZWxJbXdwVnZzbk5TeFFPRGt2NDg5Z3VTTWtpREVkRDF6WGNEQ0JraXFKUHZvelRuRHNvQjYydWQxdnhQd0pJbVRI?oc=5",
+    "published_at": "2026-09-02T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "KGM, 강남 심야 로보택시에 토레스 EVX 투입…운행구역 확대",
+    "summary": "KGM, 강남 심야 로보택시에 토레스 EVX 투입…운행구역 확대  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zUFpuamFKbkZZVjZhQ3UwRGlzWHh0Sm1Xdy1jQkJuVjJIWml6dFpuZlloMkRJOTFKN05mTmxub2FyLUZ0cUE5cFpwTU1GUFowZU15OQ?oc=5",
+    "published_at": "2026-09-02T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "이비엔(EBN)뉴스센터",
+    "summary": "이비엔(EBN)뉴스센터  ebn.co.kr",
+    "source": "ebn.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HcFU3dmU5WWlhRmNlRzc4R3NzYnFhc2czTFhNbVFIV1JucXU2QzdGcTJld25Id0hxdGs4X2otR2dHeDJXbXlYRHI4WVpmN0U3TkRMSHNjbjdETkx6OFVxY0QtWEUxZUFfM28tRVJwbkhrNHAw?oc=5",
+    "published_at": "2026-09-07T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "[K-자율주행]풀스택부터 플랫폼 허브까지…모빌리티 '3사3색'",
+    "summary": "[K-자율주행]풀스택부터 플랫폼 허브까지…모빌리티 '3사3색'  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12cmJ2QXlLSTdGRlpfTkpacXg1SG1nRlBHdzNoNUhDd3NmN1VMcDJzS1pMbzhFTkx3NnRyN09wRzZCeUZ2ZktTQXMtRQ?oc=5",
+    "published_at": "2026-09-16T22:41:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "실수까지 공개한 포티투닷…현대차표 자율주행, 이번엔 다르다",
+    "summary": "실수까지 공개한 포티투닷…현대차표 자율주행, 이번엔 다르다  투데이신문",
+    "source": "투데이신문",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwRE9kbmlXeDNtS3Zla1ZHR1dVWHpiQWdCOGxfS3NwVHQxVXJvc3phbUJXVDEtZjY0LVhSeTh2UDM5X21ERE5aa2NHUGQ3S255WWdiZUxrNkZVeWE4UjhiVXh1cVBrWFZuLTdjRWdSZ9IBb0FVX3lxTFBwRE9kbmlXeDNtS3Zla1ZHR1dVWHpiQWdCOGxfS3NwVHQxVXJvc3phbUJXVDEtZjY0LVhSeTh2UDM5X21ERE5aa2NHUGQ3S255WWdiZUxrNkZVeWE4UjhiVXh1cVBrWFZuLTdjRWdSZw?oc=5",
+    "published_at": "2026-09-23T06:24:27+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "현대차 자율주행은 어디쯤 왔을까?",
+    "summary": "현대차 자율주행은 어디쯤 왔을까?  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFA1cWU2YmVPamI0TTdXRFF0LTN5MkZsYkZXb2ZBcFo0MmVVZ2tYN1hBb3VkYWtmQ3h1R2laOS12cUttOFJQYzFtTFJ5RzR1MTlWQVNCWUZMUTVIMGl0UDlTbWVqQlFHUFBUTlRLeHJFUmRZSkhBZHdzeVhqckxFOHFPaGtqZjVrX2lKaURYYVNheWw4NFFodHloR251NU5Jckt5cV93OU1HMVZnRjFR?oc=5",
+    "published_at": "2026-09-23T04:02:19+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대로템, 獨 철도 박람회서 차세대 기술력 공개 | 뉴스 | 현대자동차그룹",
+    "summary": "현대로템, 獨 철도 박람회서 차세대 기술력 공개 | 뉴스 | 현대자동차그룹  Hyundai Motor Group",
+    "source": "Hyundai Motor Group",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmc5bDVSOV8yaFVySVRFQkFiNVhEWFpONlJHQnNPejRxcGY5dmtJMHNIZFFUaGRRLVduZno3VW9USmw1MjRuMm40QzRaWkVqTkhXVTkwZW95amZsM2NEVldUMk9wWlRZeXg1UGc3eURhcUtwd3YwYWFDekNoR09qd29UaWNtcUZSY2JNSWZoV054eURy?oc=5",
+    "published_at": "2026-09-23T06:16:11+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차는 자율주행, 기아는 로봇…신사업 투자 역할분담 주목-삼성증권",
+    "summary": "현대차는 자율주행, 기아는 로봇…신사업 투자 역할분담 주목-삼성증권  PRESS9",
+    "source": "PRESS9",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iZEczLXN3S2U1dHNtcWFMYkYzSWh3aldVeTg0RVZ5aGpqTFY2X3owRm4xXzdnbW5pVXVEa1JubjRPU0h2cFBfTzdNZHk4VFAtZngxOXlqdmV4UUxkX0k0dldHTWw?oc=5",
+    "published_at": "2026-09-23T04:31:13+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "테슬라·웨이모가 연 자율주행 시대⋯현대차의 ‘아트리아 AI’ 승부수",
+    "summary": "테슬라·웨이모가 연 자율주행 시대⋯현대차의 ‘아트리아 AI’ 승부수  이투데이",
+    "source": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03bGdwUzJWNmw5dXdfWW9IZVpyQTNFTkRGaEExUDBlT2tnWmZpU3dlS0NfVmk1VEwzcWtHMVZ3SmtnQ1ZaODFVdnQwRjBMeUEteGVXV3o1ZW1VUnpJRU53b0phM0VQUEpnR2lDWWFB?oc=5",
+    "published_at": "2026-09-23T05:00:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 일본 판매 7% 증가⋯전동화 모델·고객 접점 확대 효과",
+    "summary": "현대차 일본 판매 7% 증가⋯전동화 모델·고객 접점 확대 효과  엠투데이",
+    "source": "엠투데이",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82UWFfckdxWUI5M2g1Vy1iVkZHWGFrY0R2dDlLd0tyak0zNnl5ZXVjbFp1OHFJZEpCYWkxUUVvUl9na3dNV0tuN1pmMXd5Y0xEYkF4bHh5OGRSRGVWSXhDNjBwU3FwdEZwT2hMeTNrUQ?oc=5",
+    "published_at": "2026-09-23T02:40:00+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대로템, 베를린서 차세대 고속철·AI 트램 공개",
+    "summary": "현대로템, 베를린서 차세대 고속철·AI 트램 공개  스페셜경제",
+    "source": "스페셜경제",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnTDhWV3VjcElwX2lhWEd1LUNtTFJFZ2wxVzF4NVRuX21acEgxMTRiWTJUYllKTUU4VGdtcjltcEtqSGdnRVQ5djhTb1ZhMzhJSmxJckhDOWlZSmRTc01jd2U0TXZxVm1rRzk3Zw?oc=5",
+    "published_at": "2026-09-23T05:07:05+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "현대로템, 베를린서 ‘AI 승부수’…고속철 디자인·자율주행 트램 첫 공개",
+    "summary": "현대로템, 베를린서 ‘AI 승부수’…고속철 디자인·자율주행 트램 첫 공개  서울경제TV",
+    "source": "서울경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VaF9rN0FwSlFTNXZfSDBMYVNSN1FYQVh0RF95QUdlNUwxRmszUjkxaU4yUm1xb1EyVUpXb3k5aWJrZUVTXzVadmtwV3BtR0N1d25HUEZvS1oxWXJMRGoxTENvalE?oc=5",
+    "published_at": "2026-09-22T23:37:35+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "현대차, 올해 4분기 美서 로보택시 본격 공급…\"테슬라 사이버캡과 경쟁\"",
+    "summary": "현대차, 올해 4분기 美서 로보택시 본격 공급…\"테슬라 사이버캡과 경쟁\"  fnnews.com",
+    "source": "fnnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16TnJTcW1rWnpuX0xvb2lNVTAxT3hMdmlraUhZQ19LenZQQzlZS3BjeGJFaFdWNEJwMERkRGpDeWxIa3djS000OGhVZ2FUTFJWYzF4UHFoajNqdw?oc=5",
+    "published_at": "2026-09-21T05:08:49+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "AI 전면 재설계…현대차 모셔널, 연말 무인 로보택시 승부",
+    "summary": "AI 전면 재설계…현대차 모셔널, 연말 무인 로보택시 승부  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xMm5VcGh5SHJIaTMySFpVN3dXOTlqMTREWkJ5RzZZeFE4ZmQwZzItUGRCa1dIVmNjbURjZ0ZmTnFESTAzWGxIYThWV28zUnpyQlFCYlVpZ3lRRDFLZ0dTRExrUmZhYlM1T2NkdQ?oc=5",
+    "published_at": "2026-07-22T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "‘우버·리비안’ ‘현대차·엔비디아’… 로보택시 경쟁 본격화",
+    "summary": "‘우버·리비안’ ‘현대차·엔비디아’… 로보택시 경쟁 본격화  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wdzEtdnh4Y05KNUs0V2hXVXRJSDcxMkdVZlRDaE1tWktUdnhudmZzRkRYTUJYSDZITUk2WG9wbEw1VGJJanc?oc=5",
+    "published_at": "2026-03-25T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "태국·체코 교통당국, 카카오모빌리티 자율주행 서비스 체험",
+    "summary": "태국·체코 교통당국, 카카오모빌리티 자율주행 서비스 체험  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56UG5iUThFSnBOUm5ocVhSWWlyTHg4YkF0THE2cDNCSlNDUjl4d0JPTGUzUjljU3p5dWxhcUFkZTJ6Nk9hLWdmVC1Jbi16ejJoTXpSeUxB?oc=5",
+    "published_at": "2026-09-20T02:23:36+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티 미국 ADR 상장에 제동…카카오 \"현 구조 반대\"",
+    "summary": "카카오모빌리티 미국 ADR 상장에 제동…카카오 \"현 구조 반대\"  매일경제 마켓",
+    "source": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51UjI5cm5ZYkpfb1V5am1LS3Q5M1ZPeGZrLVRiTW80MFJoMXlhcFlmY3dSVER1RjVXd29ORGRDOEZKVkw0aWs5Q1dSQVZpNmFVYWc?oc=5",
+    "published_at": "2026-09-23T04:58:02+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티 자율주행, 태국·체코 교통차관도 탔다 - 머니투데이",
+    "summary": "카카오모빌리티 자율주행, 태국·체코 교통차관도 탔다 - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91ZEpZSkJCZGwza2hIUG9VRHh0Slp6MG1mb1NaNWtPanVxMHU2eHBLYmRSVmk5WmdiaHB5c2xxYVNjRnF1VkViMjVTbEFZMTZwcUZRa1M1QW1KUmxvS0s0Yi1xcTJKWHp1SHBSQzhVcm9OYy1G0gF6QVVfeXFMT29sRzdkLTdkemV5R3h0dkE3V1RCa0prdnl6cWx5VUVBdUdEVjlOdk5FbF83dmpmR3kxcFZpVEp0T2djMkd6QWN2ekZreDNYS1lJc2NCZUcxbkRWNl9wTENPMERGUGJkU2IwS25JeHJsSG5jTC1WSzhPaVE?oc=5",
+    "published_at": "2026-09-20T02:25:09+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "카모 “기아-LG이노텍과 함께 자율주행 동맹 확대”",
+    "summary": "카모 “기아-LG이노텍과 함께 자율주행 동맹 확대”  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ILWV5NTl3U29mRFJWOUNmeGRfT3JlOGNsd19UOXVMd0VEWWFyUnJFdzBlbFJzM19ySXFKbEU2am0wN0h5NUxXLU1aZ0xxUkk?oc=5",
+    "published_at": "2026-09-22T15:32:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "현대차그룹 포티투닷, 차세대 VLA 기반 자율주행 개발 착수…\"연말 실차 테스트\"",
+    "summary": "현대차그룹 포티투닷, 차세대 VLA 기반 자율주행 개발 착수…\"연말 실차 테스트\"  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56MndlanFwWjl4SFBDVlhrTG1mZlRNSWhWYm5Sd0hobVFPV3VIZUo3WlhkQUdxN1VyVVB2bWpRN3MtM09PZ01VRFpDRVRIb09lNjVYbnI4M1loTFNNWmVSR9IBeEFVX3lxTE1FOWRBbmhpWHhtN0thUlVHT1FBMDRQa2w4eVUtY2lMMmtfb0hJRVFnejdhcFJmaWZiWG5xcHFUQVhTOXdJbHA2azZ1T3JZeVJnS1NLSnItekFKdk5PMFJaNVg3bm5fR0E4R2NtenF6bXBqY042UFF4Rw?oc=5",
+    "published_at": "2026-09-13T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "사람 눈 대신 카메라가 본다…현대차 SDV 테스트카의 자율주행은[현장]",
+    "summary": "사람 눈 대신 카메라가 본다…현대차 SDV 테스트카의 자율주행은[현장]  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sUXZINjJnQlJwRld3U1gySHYyYVoxZE5EQlhSZ2NXcjRMQ0NkeUNfblpyU3pEN1RHYTB3THVycGhkbGxSbG1EcmNJYw?oc=5",
+    "published_at": "2026-09-13T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "“미래 모빌리티가 온다” 서울 자율주행시범 3곳 가보니..",
+    "summary": "“미래 모빌리티가 온다” 서울 자율주행시범 3곳 가보니..  DealSite경제TV",
+    "source": "DealSite경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92bWNwcm1DdjFGd2hvdHdsUW8yYkhOZHpEeUJVTlNQMEJ2YnZ0VXhEWVFkS3VER0dFMUJvS19Ldm9pVUs4enk5alVMRVRhLWJiU3dBMmdB?oc=5",
+    "published_at": "2024-02-12T08:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 아주대와 미래 모빌리티 인재 양성 맞손",
+    "summary": "오토노머스에이투지, 아주대와 미래 모빌리티 인재 양성 맞손  imaeil.com",
+    "source": "imaeil.com",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXdWtyRlhnZkl6ZmE2aTRUQnVlQk9ENHZNSmdkZVR4WTFVSUJmeC1ZdC1Vc2ZlT3U4enp5TVFDVUxjbGRIR2E1UVVJRmZPVXBjWWVvQ2w5a3pqcjl4NVduUHl3?oc=5",
+    "published_at": "2026-09-23T03:22:57+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "로보택시 호출했는데 일반택시 배차 … 구호에 그친 K-자율주행",
+    "summary": "로보택시 호출했는데 일반택시 배차 … 구호에 그친 K-자율주행  뉴데일리",
+    "source": "뉴데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHJ4RFBoRlpFZ1ZNMDRKQUdiRzQxTFhzNmM5cWdfSnZReUZMWTBfTHdleVhrZ3JiWjZCRW1KcVdXbXRBQVRwOFhEUXBVNnR5eF9CQkQxcGhwbjZFY2llRnA0MHVKZUtkaHdoOE95VmF6WTkxbm45SjJIMmZFZDYzdtIBgAFBVV95cUxPdHJ4RFBoRlpFZ1ZNMDRKQUdiRzQxTFhzNmM5cWdfSnZReUZMWTBfTHdleVhrZ3JiWjZCRW1KcVdXbXRBQVRwOFhEUXBVNnR5eF9CQkQxcGhwbjZFY2llRnA0MHVKZUtkaHdoOE95VmF6WTkxbm45SjJIMmZFZDYzdg?oc=5",
+    "published_at": "2026-09-22T01:43:16+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
     "headline": "웨이모, 이젠 10대가 고객…로보택시 성장 전략 바꿨다",
     "summary": "웨이모, 이젠 10대가 고객…로보택시 성장 전략 바꿨다  디지털투데이",
     "source": "디지털투데이",

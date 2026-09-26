@@ -1,5 +1,55 @@
 [
   {
+    "headline": "The E-STATION",
+    "summary": "The E-STATION  에너지 미디어",
+    "source": "에너지 미디어",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRU9ROWNJZmRHOVB6TE9xd0NQU3N6R3lfTlNNbHZLUVBDQ2FtU29ySXRIWlloenRkbnZtZWhMM2FEVkxtNGg4ZU9EWTRNSU1jZmktbXhvaWJoMS1DV1pxaHQzQ3dLVUpKOC00WV9ISGZ4d2h4V29xd2Q1X1p1VmRMbC1vMDFkVm82bXRjOWNCNnQyd1pUU04yLWVPd1V0M0tVYng3Zl9RUUV6RThpX0k0?oc=5",
+    "published_at": "2026-09-26T06:41:50+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "현대차·기아 서비스 거점 1992곳…수입차 전체의 4배",
+    "summary": "현대차·기아 서비스 거점 1992곳…수입차 전체의 4배  부산일보",
+    "source": "부산일보",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Dd096dndDdDZaRmVocEMyMjRHWm1wWDJZcHBCNWZGWDB6c1VJN2RPT01WR29vaTBwdEJmUmZXRUdTSlFvbTUyMFNxeUVJZDByYVhWQUJRcl9lUXI4TjdjaTQ4RUhIWmhOckUxV3V5UDRWenRk?oc=5",
+    "published_at": "2026-09-26T07:19:29+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "웨이모·엔비디아·현대차 서울 집결…자율주행·AI 모빌리티 미래 논의",
+    "summary": "웨이모·엔비디아·현대차 서울 집결…자율주행·AI 모빌리티 미래 논의  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HQmhGSTRNMmVTLW5qbDNfSTN0d185cktBSHpHaG1mT1F0M0pmd0xfQXRRejJpeUFqQ1V5UndRRlVZVXpnZ1ZSWmRsM3p2QQ?oc=5",
+    "published_at": "2026-09-06T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "스타트업에 밀렸다…자율주행 지각생 카카오모빌리티, 우버 수순? [팩플]",
+    "summary": "스타트업에 밀렸다…자율주행 지각생 카카오모빌리티, 우버 수순? [팩플]  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85cWpfTml2R2Z0ZllvOWJneE0zek40X3lBaTI0MGx3b3lsRURJTGVKRjZQWjFvQzVHdExZYjdwVE5mUVJkZ0hiMlZVcmQ2M1ppc1pBQw?oc=5",
+    "published_at": "2026-09-16T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
     "headline": "웨이모, 美 라스베이거스서 로보택시 상용화…日 도쿄 진출 예고 By The Guru",
     "summary": "웨이모, 美 라스베이거스서 로보택시 상용화…日 도쿄 진출 예고 By The Guru  kr.investing.com",
     "source": "kr.investing.com",

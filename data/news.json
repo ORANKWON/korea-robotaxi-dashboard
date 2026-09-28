@@ -1,5 +1,350 @@
 [
   {
+    "headline": "로보택시 기술 변화 못 따라가는 자동차 안전기준",
+    "summary": "로보택시 기술 변화 못 따라가는 자동차 안전기준  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEd0RYdV9xeF9HUHpVa2NjR2pRVlZ0ZHRzaDB3YjZrQzMyMHZKSFlnSFlwZWpCQkF1VWJhanV3cC1VcGJFYlNUeFJ5NEZfcTA?oc=5",
+    "published_at": "2026-09-27T22:02:38+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "엄태영 의원 “중국산 로보택시 200대 국내 진출…자율주행 안보 대응 서둘러야”",
+    "summary": "엄태영 의원 “중국산 로보택시 200대 국내 진출…자율주행 안보 대응 서둘러야”  충청타임즈",
+    "source": "충청타임즈",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02d0RMNTR3MjVYUE1qdENEWDBHWFdmMURTRTljaDZWcFFKa0tLM1RFNG1MU0tiTHVXVUhHM0dVUndDZVBrLUswNkEzUGw3NEM1S09HdUdCQTVjS0U1SExpWXlOdjlISUJf?oc=5",
+    "published_at": "2026-09-28T02:23:00+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "사고 나면 누가 책임?…자율주행차 설문서 약 90%가 AI 개발자 지목",
+    "summary": "사고 나면 누가 책임?…자율주행차 설문서 약 90%가 AI 개발자 지목  디지털투데이",
+    "source": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96ZldIQ1ZMYTFoNnp4SVRLN3JkMjhVTHJSemZPOUlKQnExVV9iX0VhTzBKMC1xUExhdVBZLUV0emJUc19CcmxMYlhweHk1dDFtaXhoejU4Sk56RXNJT2UyMGFuMllLMDJPQzdvRWVzSTdiUm8?oc=5",
+    "published_at": "2026-09-28T02:28:00+00:00",
+    "tags": [
+      "사고"
+    ]
+  },
+  {
+    "headline": "아이오이·이토추(8001 JP), 로보택시 전용 보험 개발…2027년 미국 판매 목표",
+    "summary": "아이오이·이토추(8001 JP), 로보택시 전용 보험 개발…2027년 미국 판매 목표  알파경제",
+    "source": "알파경제",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82OHJwUGZYUFZIZlBaYVJydmFGaDl5ZmFfbFFqcFZoWEN2MFBfbzc2aUpOaG5ELUp6dkREUzZyWFU3VWpTUVV2c0RSVlduR215RDN0Z2o2YWlCSUlPVWdwUXh6b0JHenZKelFfVURB?oc=5",
+    "published_at": "2026-09-28T02:28:37+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "엄태영 의원 “중국산 SW 로보택시 이미 서울서 운행”",
+    "summary": "엄태영 의원 “중국산 SW 로보택시 이미 서울서 운행”  아이뉴스24",
+    "source": "아이뉴스24",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PUUk2Tjk0WUxheG1BZC02MVE2OWRoS2JNakpmc3BiRllXbENOaUdfNU1BWU9NaE11NUhYaGJabVh1YzNmdkJ0Zmtncw?oc=5",
+    "published_at": "2026-09-28T04:23:17+00:00",
+    "tags": [
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "엄태영, “중국 로보택시 국내 진출 가시화···국가안보 차원 검증체계 마련해야”",
+    "summary": "엄태영, “중국 로보택시 국내 진출 가시화···국가안보 차원 검증체계 마련해야”  선데이타임즈",
+    "source": "선데이타임즈",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oYW1mM1F5NFhiUjZxV1dSWUtyWDB3dEZhV0xpUzBZb2FKejc5eG9JdjczYm9NYUg0U1gyZ2dQZXAwUUJYNFdFdi14enRQNVdfRkF5MlI5RQ?oc=5",
+    "published_at": "2026-09-28T04:42:51+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "[체험기] \"자율주행 모드로 전환합니다\"…카카오T로 부른 카니발이 스스로 달린다",
+    "summary": "[체험기] \"자율주행 모드로 전환합니다\"…카카오T로 부른 카니발이 스스로 달린다  데일리팝",
+    "source": "데일리팝",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yc2Z1cjBjTndObWg4Qk9DMldyZHE3aE4zdWNfRG1Dc2hoOXQtVkthUEVXelByQVBBazY5MFQxRVBIdEVTckN6MDhlRk1qTEhBaDVkd29pSHdENnlJekFSeGtKbFUxZlJH?oc=5",
+    "published_at": "2026-09-28T02:31:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "[자율주행 혁명 시리즈 2부: 500만 일자리 소멸 - 운전자, 교통경찰] 2028-2033년: 도시 택시 및 차량 공유 서비스 운전기사 (50만 개 이상의 일자리). 2033-2038년: 지역 배송 기사 (10만 개 이상 일자리), 2035-2045년: 장거리 트럭 운전사 (350만 개 일자리)",
+    "summary": "[자율주행 혁명 시리즈 2부: 500만 일자리 소멸 - 운전자, 교통경찰] 2028-2033년: 도시 택시 및 차량 공유 서비스 운전기사 (50만 개 이상의 일자리). 2033-2038년: 지역 배송 기사 (10만 개 이상 일자리), 2035-2045년: 장거리 트럭 운전사 (350만 개 일자리)  AI넷",
+    "source": "AI넷",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5Qb1BROVI0Umk2WEpxWXlJV2NMOVJLVXVFazNYdktCUHhWTlEzMXk0ZzBUNGJoNEw0ckt5Rk40YUs?oc=5",
+    "published_at": "2026-09-27T22:21:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "장종태 의원, 자율주행 기술 한국만 뒷걸음질",
+    "summary": "장종태 의원, 자율주행 기술 한국만 뒷걸음질  뉴스티앤티",
+    "source": "뉴스티앤티",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WMUdDSWYxVTdKN0UzcTM4TFJNV09FcWZfYlFCWklKUENSSnJnM05ob2Z6YzhRdThVRUxMUjR1Q25YWW1TZlVOWXBHM1puS1l4ZUFVcTlfcHk2S3VPWjB4a3ZISFNOeVE4THc?oc=5",
+    "published_at": "2026-09-27T08:11:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "[출근길 포인트] \"자율주행 기술, 2년간 제자리 불구 R&D 예산은 되레 43% 감소\"",
+    "summary": "[출근길 포인트] \"자율주행 기술, 2년간 제자리 불구 R&D 예산은 되레 43% 감소\"  pointdaily.co.kr",
+    "source": "pointdaily.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iWDdvVHBOcFpEQjA4YU1ZREdyUFd0Z2l3NVFvWFRFTDhCRnhJMGloY2RNWTZySDIyMU84RWY2VnZHY0l0dnZPbnFPWTZNVUdWOHIwQlFjX2U3Z0lkaHFSRVBfYjZVQTdBc1FKZGF4V1k?oc=5",
+    "published_at": "2026-09-27T19:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "광명시, 철산역~광명동굴 자율주행 셔틀 내달 7일부터 운행",
+    "summary": "광명시, 철산역~광명동굴 자율주행 셔틀 내달 7일부터 운행  kmib.co.kr",
+    "source": "kmib.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTNmpERmtzTVl0UkhjVmlwaldsdG5lcEoyeExxbkI4QnNlLWVTc1hkaE5KM1AwSzBXa2NyZ1ZZMW1wb1VGbTI3bEp4WTYxNTdCcklSUWN6RmpQZkl3bEEtcHp0Tk5OcU1oQWFTR9IBbEFVX3lxTFBTNmpERmtzTVl0UkhjVmlwaldsdG5lcEoyeExxbkI4QnNlLWVTc1hkaE5KM1AwSzBXa2NyZ1ZZMW1wb1VGbTI3bEp4WTYxNTdCcklSUWN6RmpQZkl3bEEtcHp0Tk5OcU1oQWFTRw?oc=5",
+    "published_at": "2026-09-28T02:43:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "광명시, 철산역~동굴 잇는 자율주행 셔틀버스 '지엠1' 운행",
+    "summary": "광명시, 철산역~동굴 잇는 자율주행 셔틀버스 '지엠1' 운행  인천일보",
+    "source": "인천일보",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qcnkweDdDZS03ZmdqTHZqdHA4RC1QM1J4WjRUY20xdld4blIwWkhTQ3p1SzNiemNscm1BQXhJLVZUSUl5cGNacXMxSlVGUEM4X0JfMUt1bnJKTWl5eFd0V0lDb2tSdjVCanc?oc=5",
+    "published_at": "2026-09-27T23:46:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "광명시, 자율주행 셔틀버스 'GM1' 운행…철산역~광명동굴 연결",
+    "summary": "광명시, 자율주행 셔틀버스 'GM1' 운행…철산역~광명동굴 연결  팍스경제TV",
+    "source": "팍스경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMS0puTUQ1VERaUUk3YXd6RDZfU1g0T0tua3lxcFg2SVBRZHl4aEd2b2VIbXlreml5aEFkSHR5MERlOE00bHRKaEVFZFp3eS05UkdrQktzRWJDYUpfTjVZdUpxRjAtNEhB?oc=5",
+    "published_at": "2026-09-28T01:31:14+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "광명시 철산역~광명동굴 자율 주행 셔틀버스 운행",
+    "summary": "광명시 철산역~광명동굴 자율 주행 셔틀버스 운행  기호일보",
+    "source": "기호일보",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yX2ZVTERpSlZZODBfSWZ2aS1aMExYQnNTOEU5WlhPcjZ1NldITEpSM0o3dEhaRkJ1WWpPWTZaMWI1Q0JGa013MmtlWnMwTkZfTHRWcExrZ0p2VTVtVHlKWGtBTXVWWVJUWUVyUjc3UQ?oc=5",
+    "published_at": "2026-09-28T03:24:26+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "“자율주행 버스 타고 광명동굴 가자”",
+    "summary": "“자율주행 버스 타고 광명동굴 가자”  아시아투데이",
+    "source": "아시아투데이",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNekphUEwtTnItMGY2UWw5WGZmNzIxaWU1SHpGcW50Z3lNQWhMNnRHS015R2VmT3kxVlVtMmV5R1BmdUY4RzRuOUIzQkRFbFFBdFhwbnVxeEh6ZTk1RnFpS2VXVHRTTTRZNW1LcExB?oc=5",
+    "published_at": "2026-09-27T23:53:33+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "\"자율주행 버스 타고 광명동굴 가자\"…광명시, 내달 7일 운행 시작 - 보도자료 | 기사",
+    "summary": "\"자율주행 버스 타고 광명동굴 가자\"…광명시, 내달 7일 운행 시작 - 보도자료 | 기사  더팩트",
+    "source": "더팩트",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MOW9Zc21xdTh1Y2VsZEJ0QUxUYmRUdzV2RHI4RTdLVjhRWk9UVjZnaVBLV1Byal93ZjJJQWlybFhJYkZ0RlgzcVNsNFhGQUN1TUJHMVpkUS1wcVdXNUp3?oc=5",
+    "published_at": "2026-09-28T00:43:55+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "광명시, 10월7일부터 자율주행 셔틀 'GM1' 첫 운행",
+    "summary": "광명시, 10월7일부터 자율주행 셔틀 'GM1' 첫 운행  일간경기",
+    "source": "일간경기",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iQk1JRnk1UVhWaTlCLWltbG94bTd6dmdxVVdxTXpaNTNTeDVRTVlUcGJlNEJRVXFGUGVicDQ5eW1xODljbkh2OFRRaUVVejJZQmk2dHlRU3lSWU9kM3BGVkZWQXVvSlNn?oc=5",
+    "published_at": "2026-09-28T02:29:27+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "“철산역서 광명동굴까지”…광명, 자율주행 셔틀 달린다",
+    "summary": "“철산역서 광명동굴까지”…광명, 자율주행 셔틀 달린다  데일리안",
+    "source": "데일리안",
+    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUm1LMTBHVjR6ZC1NNHN4SGh0bGpoQklfcXoyRDFIc3Z1OEtSU1lCUWJUV3VyU0RtaWM1SDRodExsZUYydTN6NnBHc1l2XzdubXFKNW1KODlESDZicnd3QlZJN0F6cUR0cURUU2NiNW9zLVA1MjA5ZG5vOUxfVTgySUx6b0E1UmE1TFRpS0RLYUNQcmNkZjZNdS1OUnBxMDYwaXNvYXdEanBQNkx1RnRsWDNDRHRNWDIxWUNfVHZfMEU4bU5ZSTJ6SFBJYWU4RlNSZ21VdzA2d0tzS0lIc3BZMnZZM1RJWVpyS0IyOU95UzBoeXpSRzJzVjZIbE9yNWN5VWl1ZUY0UzBKNk5lTVBYeU5HNEVKdlVmdzRiV1BYNVJ0SkhCdjdtODB2RVR1QQ?oc=5",
+    "published_at": "2026-09-27T22:13:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "철산역서 광명동굴까지 ‘스스로 달린다’…광명시 자율주행 셔틀 첫 운행",
+    "summary": "철산역서 광명동굴까지 ‘스스로 달린다’…광명시 자율주행 셔틀 첫 운행  cwn.kr",
+    "source": "cwn.kr",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzU0xQdThzd05oYmxTSkt3YzNUcExQM04wb3VsR3VJRERteG1zZE8yYkRYVUV5LTl5STJYcWFWSGVXZlBvSUlOVlpIdjl1WV8zR0dhQWFUb2g1STFpdV92ekxn?oc=5",
+    "published_at": "2026-09-28T03:11:55+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "임시운행 자율주행차 사고 82건... 자율주행 사고 작년만 2.5배↑",
+    "summary": "임시운행 자율주행차 사고 82건... 자율주행 사고 작년만 2.5배↑  newskr.kr",
+    "source": "newskr.kr",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQSjlLVWlOX1QxQ0hQY2NqOWN2bXNMX3htcDRISmgzSnUxWGlxNWIzNy1mbVdjUVBUQl9aa2hvbVFzc0RHRmYxSXN2VXJCbmRZRGczelFTeHp2UlZQVldYZ25JaVFTUdIBakFVX3lxTE1FZndCTVRTSG9JanNUMUM2TVJSZ3Y1Y3RhcklNcHdJYXhCd3ZJRURsREtaNXdQZy1hNDl1NHFHRDdRaHNrbXd2TWoyd3JCX2hGMC12X29KTzUyRW1CdGhiTUppem5FMWtKLXc?oc=5",
+    "published_at": "2026-09-28T00:30:18+00:00",
+    "tags": [
+      "정책",
+      "사고",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "엄태영 제천단양 의원, 포니AI, 서울서 10대 로보택시 임시운행…200대 추가 도입 예고",
+    "summary": "엄태영 제천단양 의원, 포니AI, 서울서 10대 로보택시 임시운행…200대 추가 도입 예고  gukjenews.com",
+    "source": "gukjenews.com",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hVGNlVzBVZUhyRHNybk1fZzZvbk5RV2gwMnBDeGtBQ1NPcElTdmk5ZlVDVDI5N3hWbDY4SVRZWFRfMUFBUVNHWEJ4R1YzZkFDUzVpMUtlSXF3dFQ3bTVzeXpyUk02TDh5Y1FNY2p3?oc=5",
+    "published_at": "2026-09-26T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ],
+    "companies": [
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티 서울자율차, 반년간 강남 1만3000㎞ 누볐다",
+    "summary": "카카오모빌리티 서울자율차, 반년간 강남 1만3000㎞ 누볐다  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tbGtyM01HWlNtRHpWQzBITmxzTXRTa2h6N1VXazFLTnBKeGcxQXRQbDh0ZEVPZ1pKSnR0WHpISlctS0xJalNoM1lhaVg1cFNfeDV4Uw?oc=5",
+    "published_at": "2026-09-09T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "카카오모빌리티",
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "[현대차 자율주행 해부] '팰리세이드' 차로유지보조, OTA로 개선",
+    "summary": "[현대차 자율주행 해부] '팰리세이드' 차로유지보조, OTA로 개선  블로터",
+    "source": "블로터",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DY0VnZERoWkg2UjJJRjBESFVLRmRTSEotc1JtenB5U0hZWHBPZEVpbzNuekc3VmZfTlJrNm4taE1SYkdWSlZBR2lWX2dja2t0bnBlMXpuMWNLNHp6N1RsX3EwR3REQUVh0gFsQVVfeXFMTkR0ZExWczFZWV80aE5KMGU2cEYyT2hQVjk1VFZBOGI5Y0xjQnFLeFlIQjNQSDZDOFU1V1dVbVBVdnhFZUp2UGRHVm9kdWFNQzR6Z2lmOWwzaEJieWFQSG9lRnRHZ29ZTUt4eEUy?oc=5",
+    "published_at": "2026-09-28T01:18:07+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 中 재공략 신호탄 '아이오닉 V' 29일 출시…현지서 2000만원대 가격 승부",
+    "summary": "현대차, 中 재공략 신호탄 '아이오닉 V' 29일 출시…현지서 2000만원대 가격 승부  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44LUxRTHdxNW4xWEFOQkstN21LSEhCOGRDTDRLbXdpLXFWMU5LMzRybXcyczA5M2k1aFRnYUM2RmE2U05ENl9maS1HeERRbFVoWlVlQXNydUs4OVc1SmotOdIBeEFVX3lxTE03TEh0WjM0c2ZodF91ZTNVYUF2a2dIRWVMTVhxbDBkSkprcXBhb3AwaDcxRWdjSFN6SUZLYlRWZmo0Z1FDb0VXaWp2b1hneV93OVBUdVEydmhIUkg2aWJBbmN1MUZPMC1yM0tSX240VmxPQXdGdGstMw?oc=5",
+    "published_at": "2026-09-28T02:17:45+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "서킷서 첫 추월 성공한 AI···빅테크 맞선 현대차·혼다 ‘두뇌 독립전’",
+    "summary": "서킷서 첫 추월 성공한 AI···빅테크 맞선 현대차·혼다 ‘두뇌 독립전’  supple.kr",
+    "source": "supple.kr",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwYUVmWDJSdHJCejV6MDl2Y2hZVUllLWtKa1VVQklmRHhoSnFLclhoM2lqTGx2Z0kyb3ltRHJmcm56dk1CWG9CUmhvX3lockNsUDlxaG5ZR3BLcHlN?oc=5",
+    "published_at": "2026-09-27T23:09:16+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대로템 자율주행 트램, 2031년 나온다",
+    "summary": "현대로템 자율주행 트램, 2031년 나온다  매일경제",
+    "source": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54S0lBYUJxYTJWZXpWeFpsTUUyeUVJa0hPVUdSWTVqR1dyMVdoTkx5eFljZ1A5NHFQdUtlVDVWWTBoQUNabWZ1QnUxZ1V2RU4xaFUzMEVR?oc=5",
+    "published_at": "2026-09-27T07:51:03+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 2029년 출시 자율주행 '레벨2++' 자체 기술 첫 공개",
+    "summary": "현대차그룹, 2029년 출시 자율주행 '레벨2++' 자체 기술 첫 공개  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQLUZleDZQbzhZbThyM05CbzdnbkczMXZ4djkyYWxPR0pyZ180WkRnOFdXZHBHVTFvNlVtTmRqTmEzUklwSGRuUFBwNFJjVlU?oc=5",
+    "published_at": "2026-09-13T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "SWM, 전장 SW 넘어 자율주행·피지컬 AI 시장 공략",
+    "summary": "SWM, 전장 SW 넘어 자율주행·피지컬 AI 시장 공략  공학저널",
+    "source": "공학저널",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PUVJmRVlpNXlvQXQ5b21xWnFlXy1GcFN0VVU2WllLbGFaMGQtSTZwZGFOSlprR3hDaUk0ejB6bjRlNzlHQklsNUZieXdPMDlqQ1RENEY0cWJsVkhtdHlfN0l3cGVlOFJDY1FraQ?oc=5",
+    "published_at": "2026-09-28T01:17:55+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "도움이 필요할 때 찾는 토요일 로또 판매마감시간 지원 정보",
+    "summary": "도움이 필요할 때 찾는 토요일 로또 판매마감시간 지원 정보  mkpsm.ru",
+    "source": "mkpsm.ru",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rMUxDSm5scGM3UTRtM3MxaFd2b0pmSlBNMmlRcXdKU2NZVnQ3X1pQdG13NE9fSEZFTFdDRVhTUlhOeFYwc21QTGIzWFA2QVctZERMZ3RkZks5VENp?oc=5",
+    "published_at": "2026-09-27T10:31:19+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "홀덤 gtd 뜻 게임 정보에서 확인할 제작사 표기",
+    "summary": "홀덤 gtd 뜻 게임 정보에서 확인할 제작사 표기  Calgary Roughnecks",
+    "source": "Calgary Roughnecks",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOOUoycV9maEh1dVpLb3V4X1J5U3NuREN0cEVxeWlVQU5jYVRaVC1SQ3NCRkh0TmZJMUJVREs5Q1RwLUpsa3hYcE5kVk1aSUpadXUtejZZSWd4WnVYaUY5OTdMY1VrMngxV0VCaEh4c3MtbFhYQzIwQnVmeXlWcXVSdGJMRk5ZbThITWxHVjU5N09ydmRJSzZnQUlLUzg5S051Yl85WXl3VThFVzZOSWVySXRBWjNwOVVQdUdUOFlDT0t3RU4yUnhXbVNfTDJhblZTdjY0Tlh3VTNuOUNBLWdZdC1wSWxSM3ZxWEppZTJBMHpkU1ZnQUVHa0h3YjdwN1VUN3g4bGFmREFVMzBmaVEwb01zbjR5eVRBdXc?oc=5",
+    "published_at": "2026-09-12T01:12:03+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "[A2Z IPO 점검] RCPS 부채 턴다…완전자본잠식 해소 '기대'",
+    "summary": "[A2Z IPO 점검] RCPS 부채 턴다…완전자본잠식 해소 '기대'  딜사이트",
+    "source": "딜사이트",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FdUlHbmVYNGdMaUlMcEFINnAtQmFIa3lpRVFScVF4enNLRHpaNkIyLVJMZi00a25mNzRDRi1kZzlhZWNkYkVYRGNUSkRQRmM?oc=5",
+    "published_at": "2026-09-28T00:00:00+00:00",
+    "tags": [
+      "일반"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
     "headline": "운전석 텅 빈 아이오닉5가 온다…우버 로보택시 연내 출격",
     "summary": "운전석 텅 빈 아이오닉5가 온다…우버 로보택시 연내 출격  v.daum.net",
     "source": "v.daum.net",

@@ -1,5 +1,509 @@
 [
   {
+    "headline": "\"광주 다음은 우리\"…제2 자율주행 실증도시 노리는 지자체들",
+    "summary": "\"광주 다음은 우리\"…제2 자율주행 실증도시 노리는 지자체들  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvVGtJT21ZOVB1TnBtcVluNmlSbHhnWko2T1FYVEJMbFNYTVlHZEdZd3BHNjB2WE9fUFpXNzA2UktFOU9TY2U3TEhOc0lIUGJKSDlHU0RB?oc=5",
+    "published_at": "2026-09-29T09:29:48+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "로보택시 기술 변화 못 따라가는 자동차 안전기준",
+    "summary": "로보택시 기술 변화 못 따라가는 자동차 안전기준  주간동아",
+    "source": "주간동아",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiTnRlUHVhdGFGQ2hiMU0wMGtIYm9ZQVlfVmJsb0xhYmNvN0N6SkxfVGo2UTJHSXJpNmlXU3hBUS1FNGlRaUkzd21BX3NQR0JqWm81UTcyWWZTdjhFUFJ0dkVZZDQ0ZXdu?oc=5",
+    "published_at": "2026-09-27T22:00:01+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "엄태영 의원 “중국산 SW 로보택시 이미 서울서 운행”",
+    "summary": "엄태영 의원 “중국산 SW 로보택시 이미 서울서 운행”  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1rY1E2TnZpSTNSUHFaWWN4Tk5lZ05wcjRDZ3pkby1uOHNlWkphOHdnQVhVSTJVY0lJamloRzh3dzQ2bV9uQlE?oc=5",
+    "published_at": "2026-09-28T04:24:33+00:00",
+    "tags": [
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "엄태영, “중국 로보택시 국내 진출 가시화···국가안보 차원 검증체계 마련해야”",
+    "summary": "엄태영, “중국 로보택시 국내 진출 가시화···국가안보 차원 검증체계 마련해야”  sundaytimes.kr",
+    "source": "sundaytimes.kr",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zZTJmTFpjbWhqVnl3QkNFbkVlbUVMX0hJbUU0N1B5bjNPWnNfeWVqVzF2b2dSdk1EeWhhaVZVVkdLbkhZZWZZS09fcE1ZNHdBd1JoU2JR?oc=5",
+    "published_at": "2026-09-28T04:42:51+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "25톤 자율주행 트럭 대구 도심 누빈다…‘무인 물류’ 상용화 시험대",
+    "summary": "25톤 자율주행 트럭 대구 도심 누빈다…‘무인 물류’ 상용화 시험대  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNbTVwZjdtY2hYVVpub1JiMFR2UTgxcHZkc09VUFI2bHNmV2t2MDJKNElNMktFclQ3UW5ubkZWQVZZWlpXSzVrQ2dfdEdKcnc?oc=5",
+    "published_at": "2026-09-29T10:46:19+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "한지형 오토노머스에이투지 대표 - 이동의 빈틈을 메우는 자율주행",
+    "summary": "한지형 오토노머스에이투지 대표 - 이동의 빈틈을 메우는 자율주행  포브스코리아",
+    "source": "포브스코리아",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GeTdNOEt2cU5COXRJX3RQRl9tNHQ1REdwaHZkLWhXQXhTZ21lNTRMLW80SVk5Q2lzRElLZ0NzSHdhd1R4QTB4ZXBidEVWd1dZOUlEeGU5UXRUZTZrTDlpbmY1S2dRZGxVRlQwNWh1RUJYZw?oc=5",
+    "published_at": "2026-09-29T06:06:22+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "오로라, 2030년 무인 트럭 3만대 목표 유지…\"비현실적이지 않다\"",
+    "summary": "오로라, 2030년 무인 트럭 3만대 목표 유지…\"비현실적이지 않다\"  digitaltoday.co.kr",
+    "source": "digitaltoday.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aU0NpcmpnRVdWaG5oZWUxOVFkaVdjUm1GaXctVXl5a2ljaDFHVlJjaWVMbkR6S1FNMVlTSzhVaWlfNk5lT292TjJucnhFeHVPVy1fTHpMOW1SNkdsMjc5emxHTUtuamN2RUxEbXQ3OUVLWFU?oc=5",
+    "published_at": "2026-09-29T05:05:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "자율주행 반대론자들, '고깔콘'으로 무인택시 무력화",
+    "summary": "자율주행 반대론자들, '고깔콘'으로 무인택시 무력화  미주조선일보",
+    "source": "미주조선일보",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR0Q1aUg1RDROVnBxREI3d3Y1NW9aemN0RzZEem9vZl9WeGRYc3RWcWt2RkZnaUxZSmhocWxUdkdxR1dIX1lnN0ZwcEpsOHNWTjJTamJRYXA1ZHZveEJYMzNlSnQtWExrRnNhdEd1cWJOY1hmVE1rNnN4Ym44b1VnV3dZR012VE9FbmZZcWxpUmlXUnhyQjNCQmtxOUpIdXdOUHRYWWM1Z2Zpb29WMEptbmo3eDJlT1VlUm9UUGN3QUcySGdFV3NiSThuYTBlTTlZOHdLUGMtUQ?oc=5",
+    "published_at": "2026-09-23T08:20:09+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수",
+    "summary": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XanR0QjY0Y0hsVjk3b05Eb1JDdC1mTGdFbXd3OEE5anNadngzTjU4NHl0XzJuclFzd1BpVmRKX2lwUjJoM2ozcE1jZDVOQWM?oc=5",
+    "published_at": "2026-09-06T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "대구시·쿠팡·CJ대한통운 등 6곳, 물류 자율주행 실증 맞손",
+    "summary": "대구시·쿠팡·CJ대한통운 등 6곳, 물류 자율주행 실증 맞손  kyongbuk.co.kr",
+    "source": "kyongbuk.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13VXlxdUgxQmZHNFF6VjB4UTduZUdLTWNoN3E1SzZGdHJaRllDX2s5VWNsRGlnMWtkakJTX3huYXhlVi16eXZEYjJUX1VBa2ZmR0tMT2xUckJucUVFd0lKUnBPb3kzMk51YzM3eEZ2WQ?oc=5",
+    "published_at": "2026-09-29T09:37:56+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "10월부터 대구 도로에 자율 차 달린다···대구시, 물류 자율주행 실증 사업 업무협약 체결",
+    "summary": "10월부터 대구 도로에 자율 차 달린다···대구시, 물류 자율주행 실증 사업 업무협약 체결  대구MBC",
+    "source": "대구MBC",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43UGVSMWEwZFdtREpxenNMLWdHUTZPT01ab1N5WFdaVzVwWXk5XzhYVEl1SWZUclBMYnhPdGloZ2FyU1Vtc2tabUxkdV8?oc=5",
+    "published_at": "2026-09-29T07:53:13+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "25톤 자율주행 트럭이 도로 달린다… 대구시, 쿠팡·CJ대한통운과 물류 자율주행 맞손",
+    "summary": "25톤 자율주행 트럭이 도로 달린다… 대구시, 쿠팡·CJ대한통운과 물류 자율주행 맞손  이로운넷",
+    "source": "이로운넷",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jTDBkRktRRUtEZnIwUnhDU3R1eWVJZHU3a1NlS3lmS2FGUmptUGQxTERoZVI4QU9FenVvNkUtcVZzUEQ0WE8ybFp4eUlULTJNQTZNMDhVeXpjSG05T3RvM0Vfd1ZvQQ?oc=5",
+    "published_at": "2026-09-29T08:58:04+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "대형트럭부터 배송차량까지…대구서 '자율주행 물류' 실증",
+    "summary": "대형트럭부터 배송차량까지…대구서 '자율주행 물류' 실증  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iM1FJd19lR0U2M3hQQ2dWOGNPMklUX05OaEFvVGNIOEhUdGRYLWViYXZISFVVc0V0cUhQT2drT1FwRlU0c2hxcHE3MElucWZtbFJudENhWGFvYUnSAWBBVV95cUxNamQ5WlNXaVdMMUlyZ0hBTWl1Y3pRWW8xaU1jNk9PU040M09EV2RKYVdmY0QySFFZaEVPSlRUalpsQjJuRVJ6TU1Kd2RmcXluLUliTV9LVk05UHZYRnBWV04?oc=5",
+    "published_at": "2026-09-29T08:00:04+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "25톤 트럭 ‘스스로’ 달린다’…대구, 물류 자율주행 실증",
+    "summary": "25톤 트럭 ‘스스로’ 달린다’…대구, 물류 자율주행 실증  경상매일신문",
+    "source": "경상매일신문",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03dkU4Vk4wOXl5NFF0TEJsSVRqLXBOaU0waDRpeHE4UzNGRzdHUlptbDlkUUwwQ0NNM3ZMc1pYSGZoV2tVbkVrSVF4Uko3Nlg5NDVfX1lxRFdHZWJNZzFJ?oc=5",
+    "published_at": "2026-09-29T09:22:51+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "“자율주행 화물차 대구 실도로 달린다”…대구시·대기업 물류사 실증 협약",
+    "summary": "“자율주행 화물차 대구 실도로 달린다”…대구시·대기업 물류사 실증 협약  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXRGNXeHppeE5RM2h0bkFUbFU5cUJWTVNvNmhudHBDaS1wWW1VbjlLSnNqMEllZ2ZEM0Q4b3MwRFctem94MEJhUVFnWU84QQ?oc=5",
+    "published_at": "2026-09-29T07:19:06+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "10월 1일부터 자율주행 화물차 대구 달린다",
+    "summary": "10월 1일부터 자율주행 화물차 대구 달린다  매일신문",
+    "source": "매일신문",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3OEdQSUxNRTRGdFpURU5WbVhlbE9KaF9UanpHVzctTnlfV2ZKaGM0cXJFUHd0TGUyX2ZtZmdQd3NOWnJveWlUZENuZ0k1a3kyYWZUVTc0RzI2VlhHOXFLWTdB?oc=5",
+    "published_at": "2026-09-29T08:21:56+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "쿠팡·CJ대한통운 손잡은 대구시, ‘6억 국비’ 업고 전국 최초 화물 자율주행 표준 세운다",
+    "summary": "쿠팡·CJ대한통운 손잡은 대구시, ‘6억 국비’ 업고 전국 최초 화물 자율주행 표준 세운다  뷰티경제",
+    "source": "뷰티경제",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrWl9ncDRjZW5jc0tqMGp1bGF1UkRkUy1hTmdKQ3lzak1DUVpGM1R0YWFCX243QXRoM190cHdvUmFCcnA0dEZ3dnlsUlRfLWxFMlkyemV1cVBaQWdpanZnVmNIbzdLZHdpV0E?oc=5",
+    "published_at": "2026-09-29T08:46:11+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "대구 도심에서 자율주행차가 물류 이동…10월부터 실증 진행",
+    "summary": "대구 도심에서 자율주행차가 물류 이동…10월부터 실증 진행  노컷뉴스",
+    "source": "노컷뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fVEY0QTJxWEF4QVc5OHNPcXhWMnVfYWQyQUk0U3hHSS1DZ2JraWVCOWxjMTk2d2N6X1lMN3NaVjBjN001VFlBVHZ1dlFEbGdWX0E?oc=5",
+    "published_at": "2026-09-29T09:04:11+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "대구광역시, 자율주행 물류 실증사업 7월 시작...12억 투입해 4개 서비스 추진",
+    "summary": "대구광역시, 자율주행 물류 실증사업 7월 시작...12억 투입해 4개 서비스 추진  gukjenews.com",
+    "source": "gukjenews.com",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uNW9qN3BYYnNSejZOcDlrbnBBTlVxVmJGd2QzdHhTQ2dKbGI2MUFrVWxLWlNFMm5xNjZjamlFLU9pSGZJcnlJSEpsd1lxclg5cDNsYVN4d21NY21HWWJpTG1lbEM1UzlmNlVsc3Bn?oc=5",
+    "published_at": "2026-09-29T09:11:50+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "[아통포토] 대구시, '물류 자율주행 실증사업' 업무협약 체결",
+    "summary": "[아통포토] 대구시, '물류 자율주행 실증사업' 업무협약 체결  아시아뉴스통신",
+    "source": "아시아뉴스통신",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PdElqUV9zRnF6UDJqd1gwWHF3RDFGVk9NUXhxWnpHWGVlWXc3Z0FKWGNiNlRSZDhqcHRSbXg3cXZ1YWl4ZkZlYWZXWEN0Q3VnOVlneVUwMTBkc0U0?oc=5",
+    "published_at": "2026-09-29T09:23:41+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "광명시, 철산역~광명동굴 자율주행 셔틀버스 운행 > 뉴스",
+    "summary": "광명시, 철산역~광명동굴 자율주행 셔틀버스 운행 > 뉴스  thekorea.kr",
+    "source": "thekorea.kr",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80ejZLSTFjNGpITHlfQmxuaVg1WEVablhfRHQxMk84RU9VYTc4TE0zNFZESUtxcVlocWllWmctRlBONHE4S0RjOFZBRVozejRSZ3pJV0VucnlGMWVzWkJUVjQtZDIyTTVpZnF0SnJqZTE?oc=5",
+    "published_at": "2026-09-28T18:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "광명 철산역∼광명동굴 자율주행 셔틀 내달 7일부터 운행",
+    "summary": "광명 철산역∼광명동굴 자율주행 셔틀 내달 7일부터 운행  매일경제 마켓",
+    "source": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SWktrUEQydjVCcHFmOWF5VVRwYkN3clZNNV9qc0JtSzBVeXFWVUlPVThlM1JjeW9vTUt2R3JhcWdldWNaZlplWXJvNkxjOTA5N2c?oc=5",
+    "published_at": "2026-09-28T02:42:09+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "광명 철산역~광명동굴 12.3km 구간 '자율주행 셔틀버스' 운행",
+    "summary": "광명 철산역~광명동굴 12.3km 구간 '자율주행 셔틀버스' 운행  일간경인",
+    "source": "일간경인",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFByWTE1NVBBMzBMeXF2T3oybkF5YU0ydmhXakx5UEhvenUxdExwM19jNnQ3cVVSLWpLSUZRU3VVbG9ySTUt?oc=5",
+    "published_at": "2026-09-28T07:10:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "광명시 '철산역~광명동굴 자율주행 셔틀버스' 달린다",
+    "summary": "광명시 '철산역~광명동굴 자율주행 셔틀버스' 달린다  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Id2UwbF9JR09qcUNEbnZueUhjNzRqUF9aWWZCZ0dXY1FrOU1Fc2lLZFFwaklZQjZLUWtjbVZsZE9DTFB5NGt6WlpkRkM3SWUzbnZ4aFpnQlB6ZkktUUFfSNIBeEFVX3lxTFBlSUJfcWZNMUg3YWREQXhNSVpWTUtDeHROaGVLNVJHeHk0Z2VCa0NfS3RwQ01CaEhoZEgyNVNKRjJ4V3E4QWlxelN5blBjdjR1UWVLbmVnWjZBOFVOZUFLSVpNUnI4N2I2ZzRfOWFFT2U0czlLSzRrUw?oc=5",
+    "published_at": "2026-09-28T07:07:13+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "자율주행 모드 켜자 숨는 운전대… 현대차·기아 '韓·美 특허'",
+    "summary": "자율주행 모드 켜자 숨는 운전대… 현대차·기아 '韓·美 특허'  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBndHZMamV2U2Vidm9oSGVsMGlTX2o1Y2w1SWcxc1ZKTWMxY1diVnZJX3pNRkdqblEyTWhPYWtYYXdYb2RTOVp3aUJvU09TVGh5V3RTcjZ5aXNPQQ?oc=5",
+    "published_at": "2026-09-29T09:14:02+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "실리콘밸리 달려간 현대차그룹, 기술 인재 확보 총력전",
+    "summary": "실리콘밸리 달려간 현대차그룹, 기술 인재 확보 총력전  v.daum.net",
+    "source": "v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zVFlTSGowUy1XMDhDaXVnT2ZoWVQxZGZaVDZHdXYxejAwZ1N0elVTYjUzUGUzcUJsYzFmLUlYZU5kU1ctckVVMHZUaFVNMms?oc=5",
+    "published_at": "2026-09-29T11:03:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "“700만대가 데이터 수집기”…현대차, 테슬라식 자율주행 추격 나선다",
+    "summary": "“700만대가 데이터 수집기”…현대차, 테슬라식 자율주행 추격 나선다  gpkorea.com",
+    "source": "gpkorea.com",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JTHJVYXpJZG5ZUEFlSHpXcVd2LUdzTDJpVk9TbHhtR1AwS1dqRl9ZeUxGaHRDYWdJSkprZzJkSWdVbzJCTkxEenZLQ2VqUzY1em9HZjBsYnVYX3N1bGloR2V4UHRkcmx0RnfSAW5BVV95cUxORmhRSmZLUWNwcWl5eHVPbXJGMy1ISnIyMFFMaEdZX0lXUWdnVTFrVkNwQ095S1lrZUN5aEtZeTA2SDhvc0szTmcyM2lvdDRNV0VIUUNHc3dpS0hReGQyRFdpb0pzSkhvREF0U3V1Zw?oc=5",
+    "published_at": "2026-09-29T11:29:55+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 중국에 자율주행 첨단 전기차 2천만원 대 파격 출시, 정의선 '권토중래' 승부수 띄웠다",
+    "summary": "현대차 중국에 자율주행 첨단 전기차 2천만원 대 파격 출시, 정의선 '권토중래' 승부수 띄웠다  비즈니스포스트",
+    "source": "비즈니스포스트",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uVUNjM2tVR2daOGpBWWc4ZzRtZkVhTkQ0dnBDQTVoNC1NUEdWTGVIQWZVT2FFeVh4S0dqajFDd1JuY01lbFd3Q1dHN25RY3pJOGtLZ29XSmdCYWFFVlN0SW5lUkNVRzN2OTRoM1FBSlEzaWc?oc=5",
+    "published_at": "2026-09-29T06:50:47+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 美서 AI·로보틱스 미래전략 공유",
+    "summary": "현대차그룹, 美서 AI·로보틱스 미래전략 공유  EV라운지",
+    "source": "EV라운지",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxNGxXNnY1TjhYZ2hyd0JFN1Q0eHhHNWtnZWR2V3UwUTl0cF9XcURVZVVFWjZLTEtUdVloVXpwZFhIVjN0dTgzUExnSEh3aWl5SWlIb0RidTFEUUwyNVBweUZqX0JBdDIwV2dWRmpXRjBMS0E?oc=5",
+    "published_at": "2026-09-29T08:14:03+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 실리콘밸리서 ‘피지컬 AI 인재’ 찾는다",
+    "summary": "현대차그룹, 실리콘밸리서 ‘피지컬 AI 인재’ 찾는다  매일일보",
+    "source": "매일일보",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtQjlLdGpzV081MThtRVQ2Y2oxcTNReFFIcU5xRDlQcnVfbDY2bU4yTHM1LU9ieFAtb09naGxZSVZUYmJFUFZZek1QeHRTYm0yeHJtYTE4dTVvdHRhQTVhUDlDQ2s?oc=5",
+    "published_at": "2026-09-29T05:52:57+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대오토에버, 美 모셔널에 AWS 서비스 공급…3년간 2028억원",
+    "summary": "현대오토에버, 美 모셔널에 AWS 서비스 공급…3년간 2028억원  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KMzI1WTg0ZklPM1lDUHMyMVZLX1pycXUtM0d0NEduTnN0OUNFTVRvMl9Kak81eV9NWWZCNktETDY5TUFDWGh2UHJlWWlMcFpNOW1jUF9YTjF2amRV?oc=5",
+    "published_at": "2026-09-29T07:08:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 실리콘밸리서 기술인재 380명 모았다...현장 면접도 진행",
+    "summary": "현대차그룹, 실리콘밸리서 기술인재 380명 모았다...현장 면접도 진행  뉴스투데이",
+    "source": "뉴스투데이",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTWWQ3bzdaUC10UXlsbFExZm11M2oxUWZWSTBaaWdkdFRUMzd0MUEydUdDb3J1R3RuZ2xDeE9teG1xZnBRbGRWUWVzdjByU3ZOQXdueGR3Z0Uxa2FHQkE?oc=5",
+    "published_at": "2026-09-29T07:45:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 글로벌 기술인재 380명 모았다... “피지컬 AI 기업으로 진화”",
+    "summary": "현대차그룹, 글로벌 기술인재 380명 모았다... “피지컬 AI 기업으로 진화”  mocar.kr",
+    "source": "mocar.kr",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBU2lSbTViS3kxYUpBXzlQSE44NTFTRXJYSWtIRkhzaklaLUh1VHVmSWx5RnV4NVV0OFpRVGdXVzhpMG1telZ1aThEZmlPMS1XQTNDUjNhaTFldnNEUm9LZkxJMA?oc=5",
+    "published_at": "2026-09-29T08:47:39+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 실리콘밸서 테크 포럼 개최…피지컬 AI 전환 박차",
+    "summary": "현대차그룹, 실리콘밸서 테크 포럼 개최…피지컬 AI 전환 박차  BBS불교방송",
+    "source": "BBS불교방송",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvNWtONUR2UXhHZGRYV1dkWVVGRkNoR1F4MEVfYjZNeWlYdURxU0pWOTMwU3ZibUZwbHVCTHNGMHVQSjJqVl9uRjU3ZTZDOWpTc0FhOEhFWXo2aWoya2lfNlp1ZzNJWjR1QUpj?oc=5",
+    "published_at": "2026-09-29T06:40:59+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 실리콘밸리서 ‘HMG 테크 탤런트 포럼’…피지컬 AI·SDV 전략 공유",
+    "summary": "현대차그룹, 실리콘밸리서 ‘HMG 테크 탤런트 포럼’…피지컬 AI·SDV 전략 공유  테크월드",
+    "source": "테크월드",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zeGRZSDA0RHc4NzlDenpMRkRFbmN2d3I4WVFObW1pdGJ3YU5DUHc1RlZpUExlQzBQaUN1VmhZWThIWk9aY1kxN01LVndsaFdNblJ6anFwYTMyTGdxanlfbEVCNk5pWTRN?oc=5",
+    "published_at": "2026-09-29T07:35:18+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차·기아, 테슬라 FSD 유럽 승인 지연에 대응 시간 확보",
+    "summary": "현대차·기아, 테슬라 FSD 유럽 승인 지연에 대응 시간 확보  PRESS9",
+    "source": "PRESS9",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0UDc2MHpDcW9Wa1lrdU1uOG00Y1BtY0Y3Y1ExbWZJMXBTRjNPTlk4cnJndFQ2c01DM3FxRE1tTl9uREtNdng5cXEwd1B0Q2Y1eFRhaWhPbFVkRFNmaEFwdEU3M3A?oc=5",
+    "published_at": "2026-09-29T05:16:45+00:00",
+    "tags": [
+      "정책",
+      "기업",
+      "해외"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 기술 인재 포럼... 한국타이어, 美 레이싱 대회 타이어 공급 외[시경Today-자동차]",
+    "summary": "현대차그룹, 기술 인재 포럼... 한국타이어, 美 레이싱 대회 타이어 공급 외[시경Today-자동차]  시장경제신문",
+    "source": "시장경제신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81elVWSENpN3dKenczdzBMWXJ0bkVxRTY4NWJxTVgyZTFMcDNwWWZfNTA3NG1iZVJpVEhNWkhrLWVoTlRXdW1TSjVONnJYeHlSZnpzMXcxOHNPdmVOVzJpNVg3NmR4dlU1YmtLM3RlMGI?oc=5",
+    "published_at": "2026-09-29T08:25:24+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차그룹, HMG 테크 탤런트 포럼 개최…피지컬 AI 인재 확보",
+    "summary": "현대차그룹, HMG 테크 탤런트 포럼 개최…피지컬 AI 인재 확보  ER 이코노믹리뷰",
+    "source": "ER 이코노믹리뷰",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRThBLUszR3dUR21OYkRxLWlid1ZEdXR4Y3o0X2x0b1hLOWZoQjc2SnZIcmJnby1kLUl4OUhSYWxub2JnYWQ1STFwTWVudl9CcE5RZmZLOVJneHJEV2Y4Nm1xMWtkR1lHeng2Rw?oc=5",
+    "published_at": "2026-09-29T00:35:20+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "라이브 포커스:프라그마틱 슬롯 무료",
+    "summary": "라이브 포커스:프라그마틱 슬롯 무료  Histoire pour tous",
+    "source": "Histoire pour tous",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd3d1TVRpcUNGN3VvZnlKSWxMLWtMa0ZWVEN1VnlRRE4tZ2lZMk9TSmVzWlVMSjRnWi1sdmV5eHloZktLNnhJYTVoTm5OV2ktcThVNVBKZGVDbGhRNk9jZWlnMFhKaE5wSElLS2JBZk92QU1kT3FnSkVLc2ZrbU5rcmR5dXBDRnhpMjJkLWRJbFRwUWp4M2w2ZlU2NzNENE4yaHNZYjJaRm5Cb2pFQXBuZVhZX2JmdjBPajA4bHNVa0EwdUFUUDBoM0JyN1hYdTN6?oc=5",
+    "published_at": "2026-09-29T05:08:01+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "테마만 보고 선택하기 전에 읽는 맞고 고도리",
+    "summary": "테마만 보고 선택하기 전에 읽는 맞고 고도리  Calgary Roughnecks",
+    "source": "Calgary Roughnecks",
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQeWFsVE9LODh3MmVSeEEwTkJWUFVWODVJOEx5UWg1elN2RWotYmlpekptQ3RrVWdlNnFNQVhuY25URTN2TElpNXlWUVBIN0oxai0zUUt2MVR2VHFUWkpQSXoweHJyU2U4U1hGUVhnT2t6MXJYNnd6c2JkREluZVBkTDJLMENSZFR5RFEtcUNub2VYQVc5WDQydFp1VUF0cjJSb1VTS3ZNTVpXR05aV1pvMEZ2RnZzNDFYSE5qYnV3OUN0YWFpWUpyQlR1MGV6dmt0dm0tR2J3ZHlBVHNEUnljeUdSY0syNjlwUDlEUVVuOTUwVk1QT3NfRlV0V01PLXkwQXBMUlc2SlJWa3hickFZOHV1U0U2OW1pdUh5aUtQbmExSi15NUQ2RlRR?oc=5",
+    "published_at": "2026-09-24T14:11:15+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 반년간 자율차 1.3만㎞ 운행 데이터 확보",
+    "summary": "카카오모빌리티, 반년간 자율차 1.3만㎞ 운행 데이터 확보  매일일보",
+    "source": "매일일보",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrd09zOF9HMTQ0SUp6Q1MtZC1WNjJ5TldTbEYtWWNjU0Iwc1psNC1NODZtSlc4VTJXc0tRMWZ5Q2ZSZ1NKaVZSdC1sVDBTVWwzcXpSanpWWURnZ3pQUG5rRUd3eWI?oc=5",
+    "published_at": "2026-09-09T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 실리콘밸리서 ′피지컬 AI 인재′ 사냥…로봇·자율주행 총출동",
+    "summary": "현대차그룹, 실리콘밸리서 ′피지컬 AI 인재′ 사냥…로봇·자율주행 총출동  메가경제",
+    "source": "메가경제",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YeGV3Vm43eTczanRLbHhDYzNxMUNhZHBNaVZZTEl2SHdpMXp2TGdGYUVoRzM3YTVjMGJ6OGdpSjBEM2JVVlV1TlktVF9RT1ZGelR3czRCektFeEhaNGdfWHJ3V1l1ZXk3ZVU5WHgzLXdsQdIBckFVX3lxTE9YeGV3Vm43eTczanRLbHhDYzNxMUNhZHBNaVZZTEl2SHdpMXp2TGdGYUVoRzM3YTVjMGJ6OGdpSjBEM2JVVlV1TlktVF9RT1ZGelR3czRCektFeEhaNGdfWHJ3V1l1ZXk3ZVU5WHgzLXdsQQ?oc=5",
+    "published_at": "2026-09-29T06:49:08+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차, 기아, 보스턴다이나믹스, 모셔널 등 9개사 테크 인재 다 모였다",
+    "summary": "현대차, 기아, 보스턴다이나믹스, 모셔널 등 9개사 테크 인재 다 모였다  cartvnews.com",
+    "source": "cartvnews.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90SnRWSGZISGNadnh1SkdZeUVSRHotTXBDSjk2bXpOQ3duOEtxMWhjVFRKTWJvNnYzSk96R1NpbHNuNVFfWXJEZmQtLWhXRmVib09TWVgtckJEc055QUhCS3hRMlFYdkh1VEVIaw?oc=5",
+    "published_at": "2026-09-29T05:26:34+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
     "headline": "중국 로보택시, 이제 해외 도심을 달린다…도하서 ‘안전요원 없는’ 자율주행 체험",
     "summary": "중국 로보택시, 이제 해외 도심을 달린다…도하서 ‘안전요원 없는’ 자율주행 체험  대한청년일보",
     "source": "대한청년일보",

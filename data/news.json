@@ -1,5 +1,368 @@
 [
   {
+    "headline": "Tensor와 MTZ, 독일에서 자율주행 택시 최대 500대 운행 위한 의향서 체결",
+    "summary": "Tensor와 MTZ, 독일에서 자율주행 택시 최대 500대 운행 위한 의향서 체결  Unite.AI",
+    "source": "Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY29DYW16NENuVmtuc2xXQzl6aTllN0JOWWFpQ2VfWHRYU2daMW9Lcm96MWhyTXpXMGlyMTh1RHdIMFpMbTlZZXB3M0J5OWgyaVZZd215Ty1FN3A2anNldnVvVmNKYmN0WW44ZS1QMlVkVnU4OFVrcV9jLTBmVkxqM0FtT1FYUzlISW92ZzcxQnJHTWxxeklV?oc=5",
+    "published_at": "2026-10-27T21:21:01+00:00",
+    "tags": [
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "구글·테슬라·아마존 로보택시 3대, 좁은 골목서 '눈치싸움'",
+    "summary": "구글·테슬라·아마존 로보택시 3대, 좁은 골목서 '눈치싸움'  미주중앙일보",
+    "source": "미주중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BOUl0U3hDR2FrY2ZaT3BJNWV3bkdzOVp3Mnl0ZEFWNzJIcDNJLWpsZDR0aURycHE5TTBwZE1sTlNYekxwOU0zMU1KSndsaDk1dG1VWU5SOWVPQUp1YzZiZmN3?oc=5",
+    "published_at": "2026-10-28T18:10:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ]
+  },
+  {
+    "headline": "[영상] 테슬라 \"'무감독 자율주행' 적용\"…택시처럼 손님 받을 수도",
+    "summary": "[영상] 테슬라 \"'무감독 자율주행' 적용\"…택시처럼 손님 받을 수도  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83WXJ6UkMwRFhQWWMwZXF5S1gyRHZ0NWtGNXQyX0RPLWJYb1hfdDMyLTVrYVF2Y1huRzJnQjlBTTVjdHNUelh6LTRRSWF6SF9IXzlqZUdmMmNiQXM?oc=5",
+    "published_at": "2026-10-22T06:57:27+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ]
+  },
+  {
+    "headline": "중국 샤오펑, 로보택시 전용 브랜드 샤오펑 요요 발표… 2027년 상용화",
+    "summary": "중국 샤오펑, 로보택시 전용 브랜드 샤오펑 요요 발표… 2027년 상용화  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2YnVYSGZkcTJXTzd6TlRmZlFXZ0lBNy1zSnJhMFJBQ09vYVp5cjktX2FZaWItSEJwcmJWQjN4M0tQdXFoU2loWEVfQmhDU3RfUnNLNXZnOEM4T2lXYVdRNUVhY0NxR1pmTjRF?oc=5",
+    "published_at": "2026-10-13T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "\"레벨2까지는 운전자 보조\"…ETRI, 세계 자율주행 기준 개정 주도",
+    "summary": "\"레벨2까지는 운전자 보조\"…ETRI, 세계 자율주행 기준 개정 주도  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxR0VMdExfcjdzQ3hzV1VIRVFtbnJ4RmRKMjhaWmxlQTdWVExvNXk0YW9laVB0Z3NsOUdacUZOYUVwbTNDN3VaMHlXdXhhOGtjUUp4WWhZOEIwb2lTNkwtag?oc=5",
+    "published_at": "2026-10-29T03:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "레벨 4 자율주행 시대 성큼… \"개발 기대보다 공급 실적 따져야\"",
+    "summary": "레벨 4 자율주행 시대 성큼… \"개발 기대보다 공급 실적 따져야\"  핀포인트뉴스",
+    "source": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fVWRHNHZ6MHN0Rk53MzgyRi1MdjhNWmpPc0lwQzlBWS1BUmhmTWJOejdzVDVLT0pLY0dQdWpVbWtCMXk2QlJsekNjNGpNQmVRLW94VVNDTVlMaWtLaFR6bHprblFQc1JuRnpyQXU1R19EbTQ?oc=5",
+    "published_at": "2026-10-29T01:15:25+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "韓 연구진, 세계 자율주행 레벨 국제표준 개정 주도",
+    "summary": "韓 연구진, 세계 자율주행 레벨 국제표준 개정 주도  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TN2lGZWJ5SW5wcllFcldGc0pzYTBmNkpNMXROUFp1Z2pBVDlOWWs5U0xlV0IzS1gyRHZ2ZHA5TVQyRG1LWVFwQ1FoUWpwSVl4RzU2NkFpZWlCQjAyc2k5QQ?oc=5",
+    "published_at": "2026-10-29T03:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 무인 자율주행 플랫폼 개발…1.3톤 운반",
+    "summary": "오토노머스에이투지, 무인 자율주행 플랫폼 개발…1.3톤 운반  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aY0pOLUNsNlpGNnRqWlZxZ05Sd3RPUzdtOFJnekhQLS1CNjNZU0JEZ2RHUHBocmFpMkJFaXRTTEE0VE05YzcyMXlPdXJNQkxOU0JUbW9R?oc=5",
+    "published_at": "2026-10-29T01:49:53+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 여객 넘어 물류로...\"무인 자율주행 플랫폼 확장\"",
+    "summary": "오토노머스에이투지, 여객 넘어 물류로...\"무인 자율주행 플랫폼 확장\"  팍스경제TV",
+    "source": "팍스경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iNHRNSjFwN3g1bnpSYUNDUWdnWC1JTlVuSTZXZ3VOQXJGWDl1VFBTMFh3M1MxOWJLX0taVng5VVZOQWt2SXFfemZZR2xiNVM3dGdMMkJoanZHSENoNkU0VDlOYUdWQ1U?oc=5",
+    "published_at": "2026-10-28T23:38:05+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 1.3톤 화물 적재 ‘무인 자율주행 플랫폼’ 시제차 개발..특징은?",
+    "summary": "오토노머스에이투지, 1.3톤 화물 적재 ‘무인 자율주행 플랫폼’ 시제차 개발..특징은?  데일리카",
+    "source": "데일리카",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SWNLRDN5VE9nazdrQ2VTLXdVVmtpMUpObmszcFVzV1p6TklMOGk4UkZQTldqeWpFVXpWcUszZEl5dXhJV0YydDhwZ2xCOVkxVGFuYnpQVWVpN3dPeGxjUlV5V242SzBvWXdlMHJJRFItSDlIdGc?oc=5",
+    "published_at": "2026-10-29T04:03:49+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "운전석 없는 자율주행 심야버스, 주말 내포신도시 누빈다… 11월 1일 첫 시동",
+    "summary": "운전석 없는 자율주행 심야버스, 주말 내포신도시 누빈다… 11월 1일 첫 시동  문화일보",
+    "source": "문화일보",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pbVpjU3daY0hTS3BaY09oa3ZoczFJYzFoQ0RhS1ZXWTZYZ2JSTjNTTlBfTm4zMFBzY2FnX1B6LUM5TzkwOEg5Z2ZzeUpKSEpn?oc=5",
+    "published_at": "2026-10-29T00:32:55+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 물류용 자율주행 플랫폼 개발… 최대 1.3톤 적재",
+    "summary": "오토노머스에이투지, 물류용 자율주행 플랫폼 개발… 최대 1.3톤 적재  모토야",
+    "source": "모토야",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02OVJ1c2hWYVZ6dnhGTk4wS0NQUHF1Mk9zeVFTZ3dIeUtjVjc0WTNYd2E2RlJET0ZUakdkcWRBWHZ5aXd1VWRVY0xhWFBaRzIxX3k0OGdMakF5M2Q3ekxOQVZuZkNkaXRzblE?oc=5",
+    "published_at": "2026-10-29T00:48:25+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "사람 없이 공장 부품 나르는 자율주행차, 오토노머스에이투지 물류용 시제차 완성 - 플래텀(Platum)",
+    "summary": "사람 없이 공장 부품 나르는 자율주행차, 오토노머스에이투지 물류용 시제차 완성  플래텀(Platum)",
+    "source": "플래텀(Platum)",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LSEJ1SW1YZDJ0U1UxMm1DTHdiNkYxcUUtNVVhUEJFWVVDWWdsUzd0bXJaekczUDlJMlVrSE8zZXNsUEtmOHVSYw?oc=5",
+    "published_at": "2026-10-29T03:22:37+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "에이투지, 물류용 자율주행 플랫폼 시제차 제작…1.3톤 화물 적재",
+    "summary": "에이투지, 물류용 자율주행 플랫폼 시제차 제작…1.3톤 화물 적재  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VcjZGcy03dzdvSFU0ZjhYZ20yQUJkS0VUUGZBM1BjcXFxLUxaWENQZDdELVlBSmRtTlRiUlF6dk9nc1ZIemJ4bXJLQk1IaTV6SUk5STUwRXVkRk1UeTJaTw?oc=5",
+    "published_at": "2026-10-29T00:01:22+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "1.3톤 화물 싣고 스스로 달린다…에이투지, 무인 물류차 개발",
+    "summary": "1.3톤 화물 싣고 스스로 달린다…에이투지, 무인 물류차 개발  이데일리",
+    "source": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdjdWZm93eExoX1FkVWNkVEgwVV8zNWJNTVFYb0sxcnhWYlQ1QzlxLW91TEVxSzVTYkhialc5NXplalhjMkVGc09tRmdlUGszTnI5SDFaVkNsYk9EelJvVVBxdFJSVXlYOUp5QkZTUVdMTDB6MUg4UWJQUldwZUdRTA?oc=5",
+    "published_at": "2026-10-28T23:29:29+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "에이투지, 물류용 자율주행 플랫폼 시제차 제작...2027년 GGM 화물 실증",
+    "summary": "에이투지, 물류용 자율주행 플랫폼 시제차 제작...2027년 GGM 화물 실증  디지털투데이",
+    "source": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wbG81bzhyeG5WNUt4OHlpeDBkd2JUbTF3N3BoeVpwZ1lIak15Vm5ZT1g5Ym1GMmxvUzhOMGRSb2Z5Z3lFaWxGc19DVzlkSUlYOTQzb3VJZnZWcnlyVzhVenlYMnJWaWJQNlJ2OXpER1BHNlE?oc=5",
+    "published_at": "2026-10-29T00:16:17+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "장수군, 자율주행 무인 방제 시연·사과 신품종 시식회 개최",
+    "summary": "장수군, 자율주행 무인 방제 시연·사과 신품종 시식회 개최  국제뉴스",
+    "source": "국제뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XV2Myc0g2U2NXeGVSMjdTaW9SMS10X0hYd3lZTDlpaGdxVVo0UE1xNUV5WF95MDI2NkdrUUJNeFl0Rm5nSDNaUm5ZR3VjYjlQUHNWTHl5VWszNk1kOXdEVnA2akhmYVlSWEQ0bklB?oc=5",
+    "published_at": "2026-10-28T02:40:25+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "'뺑소니' 먼저 배운 中 무인 자율주행차 [숏폼]",
+    "summary": "'뺑소니' 먼저 배운 中 무인 자율주행차 [숏폼]  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2NVpUejZmeWlySTFMNTdFRkd2MnhpZEYxM1dYSWRQendWak5pZWI4ZjVGVldkTzNMVlVKNU1FMzJjR1JVbzBJZFpIcU1YZw?oc=5",
+    "published_at": "2023-07-20T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "내포신도시, '자율주행 심야버스' 달린다",
+    "summary": "내포신도시, '자율주행 심야버스' 달린다  더팩트",
+    "source": "더팩트",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SUXczS0dfS3BudkxCRzF1Tm1WVnVWUGp1Q3hmdzFYTXluRmlrbkpSYUdxbURHWXl1aDgwYXg1UzZTems1enN6SFRXQmJIamJwd2FnSU930gFWQVVfeXFMTlJRdzNLR19LcG52TEJHMXVObVZWdVZQanVDeGZ3MVhNeW5GaWtuSlJhR3FtREdZeXVoODBheDVTNlN6azV6c3pIVFdCYkhqYnB3YWdJT3c?oc=5",
+    "published_at": "2026-10-29T01:28:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "인천시, 내년부터 AI 기반 자율주행 대중교통 본격 추진",
+    "summary": "인천시, 내년부터 AI 기반 자율주행 대중교통 본격 추진  일간투데이",
+    "source": "일간투데이",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45YktTZHFMQmdjd2tHd1pIM1VKam9wTFdfeW9BanpxNlE3eUpxS3FKR2kyRm83TDMtX042aWNuMFl1RU45MFpMOUZmc2dJd21lT01mQTB2cm1ES1otY3l6aUVWUl9zajVpMXFN?oc=5",
+    "published_at": "2026-10-13T10:40:15+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "[현장] 인천시, 내년 AI 자율주행버스 본격 도입…교통서비스 확대",
+    "summary": "[현장] 인천시, 내년 AI 자율주행버스 본격 도입…교통서비스 확대  인천일보",
+    "source": "인천일보",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9waE1BcGdiRmFOcEdfbXVqQTBTNzYyT2ZlenZIZTlYLThsRVVGeW8xNFJabDlKUF9Wcm5vdEduY0N0Y1hUUEZuc3VLWmJtNThoTzFmd3c4aThIaXZkVDFHbjlrRTczOFUwZnNmbzZrTVU?oc=5",
+    "published_at": "2026-10-13T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "유기훈 서울시의원, \"자율주행 규제는 혁신하고, 시민 안전은 강화해야\"",
+    "summary": "유기훈 서울시의원, \"자율주행 규제는 혁신하고, 시민 안전은 강화해야\"  timess.co.kr",
+    "source": "timess.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DcnZYVjFqRWUxNW8xZHJrMk5Wb0V4M0JCSngyb2NjWFluRmVob3JkSmplSjdpNWtQMjl2LUFWb3R3dnp2Ym5OYjlYWHNXeGF4MzdpSlJya3BKLWk1bFBTNnBB?oc=5",
+    "published_at": "2026-10-19T10:31:08+00:00",
+    "tags": [
+      "정책"
+    ]
+  },
+  {
+    "headline": "유기훈 서울시의원, 자율주행 규제 손질…안전관리·데이터 연계 강화 추진",
+    "summary": "유기훈 서울시의원, 자율주행 규제 손질…안전관리·데이터 연계 강화 추진  파이낸스투데이",
+    "source": "파이낸스투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlMGZyRFY1VlNkd1pmOUVBQkN2OVdRZ3VBdGVhTWEtMndSN0hhTldBRXhlQWwwNFRnR0VXVkdtQW5mMjdXOXdfai1hdlhUQUI5UGYtQzZYSkNOck9YZDVtcUJ1VmVHUUQyRG9JSQ?oc=5",
+    "published_at": "2026-10-19T14:53:35+00:00",
+    "tags": [
+      "정책"
+    ]
+  },
+  {
+    "headline": "서울시의회 유기훈 의원, 자율주행 시범지구 운영·안전 기준 개편 추진",
+    "summary": "서울시의회 유기훈 의원, 자율주행 시범지구 운영·안전 기준 개편 추진  미디어이슈",
+    "source": "미디어이슈",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LbjRVWlpLQi1YajNnX3k5Mk9uOUoxc3dpMm1yd0J4ZXBjTVRWZHVSclZtNXJsYjlIMHkzOFkzMEhLUU9lWXVKVg?oc=5",
+    "published_at": "2026-10-19T09:38:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "화물 인력난, 자율주행으로 푼다…\"상용화 위해 안전성·제도 정비해야\"",
+    "summary": "화물 인력난, 자율주행으로 푼다…\"상용화 위해 안전성·제도 정비해야\"  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PbW83clhZMkN5aTI4b0Q1d2kwODgxQ2lydGp0SzlEbzNsZlg0VGI0Tm1MRkJLU09pYVg0VDFZUlZxMVpibkxKVXFDb3dIM3AyZ1l0V1JPekRPUQ?oc=5",
+    "published_at": "2026-10-21T08:27:53+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "유기훈 서울시의원, 자율주행 규제 완화·안전관리 강화 조례안 발의",
+    "summary": "유기훈 서울시의원, 자율주행 규제 완화·안전관리 강화 조례안 발의  데일리한국",
+    "source": "데일리한국",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MWUZVdTBnNmZWUGRkRkRxRElKNDM1c2V5MERwVHc3bHpIMlBHSXVfaFg3QUFIMVM5dHdUTnlhQ2twbjktWXg1bjRXVzJ2ZjJtdWxDQWk2QWZBTHBacHM0TVU4TDFQRDBZR1lwWVJIONIBc0FVX3lxTE9EMXlSMnVHc1pmYWpMdGtxZ1RGTWk0RnBFVmRNcV94THFzM0c3cEpZY05fWDdmYVBQTFFacktOYWliXzhwejZkcXB0ZGJNemtNc1dKWnR6aGRQTEE5dEZlQjVGTUxBVFhBXzFkM2lCYnNOQ0U?oc=5",
+    "published_at": "2026-10-19T05:42:34+00:00",
+    "tags": [
+      "정책"
+    ]
+  },
+  {
+    "headline": "유기훈 서울시의원, 자율주행 규제는 낮추고 시민 안전은 높인다",
+    "summary": "유기훈 서울시의원, 자율주행 규제는 낮추고 시민 안전은 높인다  이뉴스투데이",
+    "source": "이뉴스투데이",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54X0dLZEFvSkxueXZONWJMaUhVbnlwTWNEamRISVpyVUg3WjBGVzJVV19vN1QxZmFRVG4wb2IzeVZjTldPaWdsYXZQZ2xTdWlEWHhNbWF0a09NNEkwQlRwNkVGSWxrcmJ2b1JHVXZKd0PSAXRBVV95cUxPdEVhTDU2bjVOZGppcXptLUdmV2g0a3ZsNXlfd1F5XzVaMU5NbnZwSlF5ZmJ4Mm5QWVVxalVUcXNPcUQydGZRajQ5UkREV0hhalRGeDM5LW5SVjFjYWFtMk8xZkpJN3VXLU1NWmhoZ0hFd3h4Zw?oc=5",
+    "published_at": "2026-10-19T05:55:00+00:00",
+    "tags": [
+      "정책"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 자율주행차 임시운행허가 누적 100대 돌파",
+    "summary": "오토노머스에이투지, 자율주행차 임시운행허가 누적 100대 돌파  와우테일",
+    "source": "와우테일",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYY0VmZWJKZ2lwQXBzRWwzWVdIR1dKUlJKbG1uTUMtY0Q5NnMyS1I5NGJ5RDF5TW9ITkRwbWllZmZBNjhoU3VVSkFieVRQTzQ?oc=5",
+    "published_at": "2026-10-20T23:43:20+00:00",
+    "tags": [
+      "정책",
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 자율주행차 100대 돌파…누적 115만㎞ 주행",
+    "summary": "오토노머스에이투지, 자율주행차 100대 돌파…누적 115만㎞ 주행  아시아경제",
+    "source": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3c0RQdXBYYnpieVJNTkx4NWNBLXlCSHBWUGtfeHNIRjNJbHJYY2pSaWsyZnJ0ZEpuQ256Mmhxemd3MmVwaWhLaDJaSmlwOXJ3b3BYTG1tcFA3aTVNOHkzdg?oc=5",
+    "published_at": "2026-10-20T23:08:07+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "임시운행 자율주행차 사고 급증에도 원인 규명은 제자리…조사 체계 개편이 시급하다",
+    "summary": "임시운행 자율주행차 사고 급증에도 원인 규명은 제자리…조사 체계 개편이 시급하다  투데이타임즈",
+    "source": "투데이타임즈",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfWTdybnhIYlFkTUxpRjBhZ284VmlhbkYxa2p6aHZZN0s4a1NDYXhXU3Rab1VGWVZJUUswMnVESkViWUVZVjc3LU43TEFhQnZLSXc?oc=5",
+    "published_at": "2026-10-04T07:00:00+00:00",
+    "tags": [
+      "정책",
+      "사고",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "내포신도시서 자율주행 심야버스 11월 1일부터 운행",
+    "summary": "내포신도시서 자율주행 심야버스 11월 1일부터 운행  충청뉴스",
+    "source": "충청뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPWEpwUXFUNUEyYk5aLWdNMWJGWExNbjVkYnlOVElkYmV6QUdiX1lNaGM3MWtqeDFLcUllN1ZOVGZOc2pfV2lKbV9mRWtkbzc0OTZyQTBxY0tsQm02MmswZUVINGtiWXRuRHowaQ?oc=5",
+    "published_at": "2026-10-29T01:45:54+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "충남 내포신도시에 11월부터 자율주행 심야버스 무료 운행",
+    "summary": "충남 내포신도시에 11월부터 자율주행 심야버스 무료 운행  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZkJGMG8xQUpYRkY1YTE5WjczOFJNTlI0RWFzSU5PX1lJUjIyT0RJaXJBWmE5WW5UOWFJZC14UzZUZGZzRnE3MEVBZV9NNVFRNl9ZekkwQzRtVGfSAWBBVV95cUxQbWlQaVBaVklWMjlRUHFSOW1ZNlhBYUlkb0VHeFo1VDZMdDhBZkN2ZHk0SGkzWC03Y0FtRWFZVWxGdmRQS1haOGloeDItbmxDT2NNRWxoSmJuU1pvc1pBLVI?oc=5",
+    "published_at": "2026-10-28T23:56:59+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "내포신도시에 운전대 없는 자율주행 심야버스 달린다",
+    "summary": "내포신도시에 운전대 없는 자율주행 심야버스 달린다  뉴스파고",
+    "source": "뉴스파고",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5BaTRoV3VoS1g4WWxpczY4R19ZY0ktd0ZkeVZGTUxYMElOX0psMjNPcW51YldMS2FUc2JBX2xlOWJEUW9w?oc=5",
+    "published_at": "2026-10-29T01:06:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
     "headline": "무인택시 ‘성큼’ 택시노동자 보호는 ‘물음표’",
     "summary": "무인택시 ‘성큼’ 택시노동자 보호는 ‘물음표’  매일노동뉴스",
     "source": "매일노동뉴스",

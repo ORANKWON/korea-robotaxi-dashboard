@@ -1,5 +1,180 @@
 [
   {
+    "headline": "로봇택시는 주차장을 줄일 수 있을까? - 머니투데이",
+    "summary": "로봇택시는 주차장을 줄일 수 있을까? - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6T1VNUkh2RVlPcnRjVkJsM1U3d2VrUG9RNXRxYk42QjVON2FuUVBLQXVYOUVNalU0UWZILWRYWDRjZFpIY3I4UHlwUXlYSHBPQmJDd3N4TUp4SWhJcjVJcUFGZ0Ywd2tnMUpJUnFJOE4wakpnSHBFVNIBfkFVX3lxTE1fSWQtNU5KSWNJcjZtYnNHU2plM3JzZGhibU82MXNBUjhjYmlSNTlUUUFBN2ZnZUlvRFM2QkRBc1BDRzZlMkJJZE0zaWx6SkVXTGJqaXAtcGZNN2RTVlVydUdNYzQtbDBwTldIVHAwMTRsRG9RLUxXbXI1eTktZw?oc=5",
+    "published_at": "2026-11-11T03:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "에스더블유엠(SWM.ai) 강남 로보택시 누적 탑승 1만9682건 기록",
+    "summary": "에스더블유엠(SWM.ai) 강남 로보택시 누적 탑승 1만9682건 기록  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HbFl1bzliVVgzdHd2dHhkYmNOMF9Zczl2aGRRdkVSOUJJX0VGTEpJZjR1OEFUU2lhOEl5MzJEMzdxaFNGWXlRTXVaT0FJYXVCMXlsN1l4d1dnMjRl?oc=5",
+    "published_at": "2026-11-09T04:42:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "테슬라, 무인 로보택시 첫 상용 운영",
+    "summary": "테슬라, 무인 로보택시 첫 상용 운영  미주한국일보",
+    "source": "미주한국일보",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydkdOY3lYOEFYeHdQYm9YcVdoM3FleloydHp3QVBxdkxWemc5N1Z1Q1pBakpaWS1ab2VHX0NmOEJXdGVLTHRzSS1SSDZDMlViRUc2djFB?oc=5",
+    "published_at": "2026-11-10T10:04:13+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "\"운전자 없이 달린다\"…제주도, 레벨4 자율주행 상용화 추진",
+    "summary": "\"운전자 없이 달린다\"…제주도, 레벨4 자율주행 상용화 추진  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CeEd0eEJTR0xyQXVPLTlhZWllX2pqTURYOTh1bThVRFlIanNQaHpidm9wN2oyNWtlRlo1TlZ4bnFrYnYtTDR1TXdBVThBVVdVRjZVTGM5dU5qb05OTEdKTtIBYEFVX3lxTE1CeEd0eEJTR0xyQXVPLTlhZWllX2pqTURYOTh1bThVRFlIanNQaHpidm9wN2oyNWtlRlo1TlZ4bnFrYnYtTDR1TXdBVThBVVdVRjZVTGM5dU5qb05OTEdKTg?oc=5",
+    "published_at": "2026-11-11T01:09:33+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "운전대 잡을 필요 없어지나…완전 자율주행 상용화 추진",
+    "summary": "운전대 잡을 필요 없어지나…완전 자율주행 상용화 추진  제주일보",
+    "source": "제주일보",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWcm5rRnoyYlp5cVFfNEZRcXU0aWtHVEtOTzFnYlNqbzZzd0hhTDFLeWxWZUhoaHJHNEVoQnE1ZHRoMkc4UWE4MEhyRzJuemJaWHhuazZBSFZQSnJGX3FhSWpOSXVia0ZXVzFubA?oc=5",
+    "published_at": "2026-11-11T02:06:32+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "제주도, 운전자 없는 '레벨4 자율주행' 시대 연다 ... 상용화 전환",
+    "summary": "제주도, 운전자 없는 '레벨4 자율주행' 시대 연다 ... 상용화 전환  제이누리",
+    "source": "제이누리",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFQzZtNEZBMXFWcTctNXlZX3BwRkxZOXl5N0Q4c0tfd2doY1lYZW40V20wQ1E2MGRibW9GU3pWemZUMFJYN2M1aW1pVlNNMWl5cjc0TjF2VW9ZZlgw?oc=5",
+    "published_at": "2026-11-11T02:32:59+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "제주 자율주행차, 안전요원 없는 ‘레벨4’ 도입될까",
+    "summary": "제주 자율주행차, 안전요원 없는 ‘레벨4’ 도입될까  미디어제주",
+    "source": "미디어제주",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aSkhNWkJZTGJscTVGQVMzMzJTejhxWmxoRnRObmxoTGIteUpjTFNiUi0xRk03Y2NjRDFDTjB1NnpyczBqMFREMC10aUdwbXlBQldfVERzSFQtN0l0QnF3SXFpSE0zX25kN1VPeNIBcEFVX3lxTE5OYXVXdmI3Q2RWM2JOWHJMQ1JiR1J1dUxWd3dGSUszdC1tWmgyUnFyNkhXb1pkZkF0Y0lDWGdwaTJRZ2FhOG1xN29pWVpnY09RWjVDaDlwdF9XWE8wcF9wNWZsbmUzb0FSSUc1bWRkSmE?oc=5",
+    "published_at": "2026-11-11T00:25:50+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "제주도, 레벨4 완전 자율주행 상용화 본격 추진",
+    "summary": "제주도, 레벨4 완전 자율주행 상용화 본격 추진  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jb3JhdE0teDI3SXI1c0Zya2xzUW1Cckp1aG1IT1lJeV9MZFVwWGxVdk5QV2g0QmRlbHBxTHFQR0VaRmlMZ3M4UUEydjRhNy1YcU9QRHlXN3pOY25kbkVIUtIBeEFVX3lxTE9odjhJVFp1Mk9ySUZydGFOQzdOckhwZXJCQkxKX2dnNkZyNW5QbHFqTUtjSEozVVNId1JZcEtiak5vMGNSNkFKdzJ2QzRSWkZDSjJUbUxXaUVWS1ViOHlzeU1NUFZwWGxmbE1wdlRLZHNycmRRdGRvcg?oc=5",
+    "published_at": "2026-11-11T02:19:15+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "제주, 레벨4 자율주행 상용화 추진…국가 공모사업 유치 총력",
+    "summary": "제주, 레벨4 자율주행 상용화 추진…국가 공모사업 유치 총력  제주팟닷컴",
+    "source": "제주팟닷컴",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TTzlyV0lTeGtXREk4T0FSeS1rbzktZHN6YVgxMVhEb25DVlFxcG9LSGwxTERBTHBaeDExYWx4RXpLb1pqNjJMSXdqSVJyRFowVU85RXZtYjZfenVnWGthTA?oc=5",
+    "published_at": "2026-11-11T02:12:46+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "운전자 없이 운행…제주 자율주행 레벨 4 상용화 추진",
+    "summary": "운전자 없이 운행…제주 자율주행 레벨 4 상용화 추진  한라일보",
+    "source": "한라일보",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fU2xpSVczdkhiay1BeXhCNDRsQkx3R2JNbHA5ajNaLWRwVkhsbUtSWjAtZmx4dFVWajdlMTRMbldmcjkyS1U4Q1VodzZDdmVuVFRJQ0dYb2x0enBfV21Da3ZrdWM3MW5tT1E?oc=5",
+    "published_at": "2026-11-11T02:54:40+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "\"제주, 레벨4 완전 자율주행 상용화 추진\"…'2027년 국비 확보 총력'",
+    "summary": "\"제주, 레벨4 완전 자율주행 상용화 추진\"…'2027년 국비 확보 총력'  채널제주",
+    "source": "채널제주",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyRUdHZ25yNFM0azJqNldqZ1BmcnVidkdXZFR1ZjlUVFJHRExQdDR5MHA3LVhzbDI5YlVBZHFsUjA5Rmh0dGpNSUpTVXlIU1BSMWxBZjFTOUVwSnNfbXNIOUxONGhBaDVSSEVxdGs5OA?oc=5",
+    "published_at": "2026-11-11T02:40:08+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "제주도 자율주행 레벨4 상용화 공모 ‘도전’",
+    "summary": "제주도 자율주행 레벨4 상용화 공모 ‘도전’  제주도민일보",
+    "source": "제주도민일보",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jSlVNNzlhVDFIb2xrODlCaE1Sdm5qRVYzNjAxa2VTc0xEVUYyNEx0UEZOdE92c0VqOVNGZ0pBbFRrdm5BMEdWejJUMlBqWFBvYThWeDA1NHZ1M0JzT2h0Z2tGSDZiM29JTzQzTFB4WQ?oc=5",
+    "published_at": "2026-11-11T02:31:55+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "제주 자율주행, 실증 넘어 레벨 4 완전 자율주행 상용화로",
+    "summary": "제주 자율주행, 실증 넘어 레벨 4 완전 자율주행 상용화로  컬처제주",
+    "source": "컬처제주",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LYVhpSC1hdllNZjhfS2VldW94aHpYOTI0cVVRTWk1QXFaQXJxMjVHcWx3X3ctREZLa3VLdVU2b3RNemotcHJaQkt2ODVmR0NEdHR3OS1nVnlqR2tPR2xuLUNoOUgtX0FicW00?oc=5",
+    "published_at": "2026-11-11T02:51:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "\"운전자 없이 차 스스로 주행하는 시대, 제주서 열릴까\"",
+    "summary": "\"운전자 없이 차 스스로 주행하는 시대, 제주서 열릴까\"  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BYUtwX2lrR2FvQ0xVSHprSnBvaEZmMUQ3eEJkdkxEenN3LUpULVVPTEhIcTlqaXdjX1l2d2pOUmpOZGZGaDYtRXAyLS1QMHZ5?oc=5",
+    "published_at": "2026-11-11T01:50:53+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "제주도, ‘레벨4’ 자율주행 상용화 추진…국가 공모사업 참여",
+    "summary": "제주도, ‘레벨4’ 자율주행 상용화 추진…국가 공모사업 참여  싱글리스트",
+    "source": "싱글리스트",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85a0N3dFV5NG1laEhmd0pEa1g4ZDcxdTZqZkVRZFVkdWRKa0FCdFhDLUdtb0lBWmJfSEZWelJzSVREZW14VXlqekM2Qld6d2ZVTFhGZlB1czM0bjhQVFJzX1BjdnNMdw?oc=5",
+    "published_at": "2026-11-11T01:58:04+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "제주, 2027년 레벨4 자율주행 도시 도약 나선다 : 테크/과학",
+    "summary": "제주, 2027년 레벨4 자율주행 도시 도약 나선다 : 테크/과학  재경일보",
+    "source": "재경일보",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XWWIzM2ZGQUM3LVZlMDFtVURSYk9OaUs5ZXRzWHNiTVFRT1ZUTjJxdG5ZXzQyaVRGSzhsbHQ2Z2xmM2sza0gxd1BrSQ?oc=5",
+    "published_at": "2026-11-11T01:47:15+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "제주, 유인 자율주행 넘어 ‘완전 무인차’ 시대 도전… 1600억 국비 확보 나선다",
+    "summary": "제주, 유인 자율주행 넘어 ‘완전 무인차’ 시대 도전… 1600억 국비 확보 나선다  서울신문",
+    "source": "서울신문",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PcGFSNWUydWRZQ21MSG5fU3NmMGRlYkV2VERsLW4tQXhnTGNDWUJPOGs5TlNNc0pLRnZZNlZEaGxtaUVyQW1lUnBDV2JkRS01d2VJRVN5TlZUb1FxUGV1S25WUnFBTmhUeVJkUGFNcw?oc=5",
+    "published_at": "2026-11-11T04:59:11+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
     "headline": "카카오모빌리티·엔비디아 손잡고 ‘레벨4 자율주행’ 개발…기아車에 적용",
     "summary": "카카오모빌리티·엔비디아 손잡고 ‘레벨4 자율주행’ 개발…기아車에 적용  에너지경제신문",
     "source": "에너지경제신문",

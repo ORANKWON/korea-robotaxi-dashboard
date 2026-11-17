@@ -1,5 +1,363 @@
 [
   {
+    "headline": "글로벌은 로보택시 상용화 ‘질주’…한국은 실증 ‘문턱’",
+    "summary": "글로벌은 로보택시 상용화 ‘질주’…한국은 실증 ‘문턱’  아시아타임즈",
+    "source": "아시아타임즈",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zaHRzdDhQY2MxV1gyNG81SnhqbEp2NFdIS1liX3BadzlPWFBDTFpQNWhXZFR2VWV1T2dqeGszdWppNFFITmtXZTdFcFVPR2E2TFoyUUpqNXpVSzVubnc?oc=5",
+    "published_at": "2026-11-17T08:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "[미국 특징주] 우버, 라스베이거스서 아마존 죽스 로보택시 호출 개시",
+    "summary": "[미국 특징주] 우버, 라스베이거스서 아마존 죽스 로보택시 호출 개시  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sdmRzbllJVktZZFFKODZXcnN2a0FEZ245dE8tZ0VQOHJ6WWlFb0c2YzRnQW1yVnV5V3d5dGplVUl1VWxUbElFOTNiWnFhRGtoODRXT1p3STI2UFd5?oc=5",
+    "published_at": "2026-11-17T04:56:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ]
+  },
+  {
+    "headline": "자율주행 '두뇌' 넘어 '발끝'까지…K-타이어, 바퀴 위 혁신 가속",
+    "summary": "자율주행 '두뇌' 넘어 '발끝'까지…K-타이어, 바퀴 위 혁신 가속  매일일보",
+    "source": "매일일보",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pUW1MWVJFcFMyVXFZZTZ5Q2pWOEY2SUs1S2JzUE5jc0dqSC1PZVFRVWFybkNEcWs2WjIxRDNzSGZNWXpfdXhSZmVibFlWR0ppOGZselNhSmQ0akNGTnkwVzZpUkY?oc=5",
+    "published_at": "2026-11-17T05:13:15+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "테슬라, 로보택시 부문 기술적 진전 확인 평가에 개장전↑",
+    "summary": "테슬라, 로보택시 부문 기술적 진전 확인 평가에 개장전↑  마켓인",
+    "source": "마켓인",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vWGJwMl9jWDk4TjNQcDJGcFVjNUJlVTVBM1llWmFCOGJJeVE5QmRDeWUyTGFRaUJvU3dldDVuMHJqWU1zMko5UkhCdVVJemhHYzdXNTdUdnlrV1ZwR1dPZTJPVUxZT2MtWmw3dUpIcUtncWc?oc=5",
+    "published_at": "2026-11-17T12:11:55+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ]
+  },
+  {
+    "headline": "토요타, 中 광저우서 레벨 4 로보택시 공공 서비스 본격 개시",
+    "summary": "토요타, 中 광저우서 레벨 4 로보택시 공공 서비스 본격 개시  스타뉴스",
+    "source": "스타뉴스",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNDlWTUJ4UDZXYVVDbDAxYndVNXJHM19XSU14OGNMeTdBenc4RWZzYnF2NG42QURIc28zRE0xQnN4X3JTLWdDel9CWWF1WEh4X1RYZHJGTWI2VGxFUHByRzdMUXBYQThSWWFLOXItRkZZaERKemtxZE1ZeEVleTg?oc=5",
+    "published_at": "2026-11-17T06:55:19+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "현대차·모비스, 모셔널에 2547억 출자…무인 로보택시 상용화 속도",
+    "summary": "현대차·모비스, 모셔널에 2547억 출자…무인 로보택시 상용화 속도  스페셜경제",
+    "source": "스페셜경제",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45c0dUXzRvbEplTFpacW9DQnNEakVZUnBQTXE1Qmt3Rnoydk9taUpVZjl5c1NYdElSVWNBbUdLcmZCTE5aYnBOOXZRRHJfYkp2SDZNenFtLVFSZjhJQ0wtd0VvUmlid3lqeF92ZA?oc=5",
+    "published_at": "2026-11-17T06:57:32+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "테슬라, 운전대·페달 없는 자율주행차 '사이버캡' 일반 판매",
+    "summary": "테슬라, 운전대·페달 없는 자율주행차 '사이버캡' 일반 판매  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16bDUxNUxhUkdoVU5CaGFWMGcwaW5UWHExNUlhLVp5aWNzLW91eldYQUlyQkdETDRtNkoxREwtNzJIMUl5X1ZtRF8tSG8wSlBzV0dweHNUT2ZFUlXSAWBBVV95cUxQTWNfQUFoaF9VV3FzamtOM2tveHpFSHZONTdkc2lXWV9DVTFFSUtSU2J4Q1ZhOVBmb2dyclRxZ0xnczhKVmNvVDBuWE43Q1pfeC1VWkRnZ2VOek5MUF9JQVc?oc=5",
+    "published_at": "2026-11-16T02:27:15+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ]
+  },
+  {
+    "headline": "아마존 죽스, 라스베이거스서 우버 앱 호출 시작…첫 외부 플랫폼 제휴",
+    "summary": "아마존 죽스, 라스베이거스서 우버 앱 호출 시작…첫 외부 플랫폼 제휴  AI 매터스",
+    "source": "AI 매터스",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ndlVIQ2xxMnNNdldSblNySjhhalR1ZnN2cnBMS3dvRFhFTGpSRGhxN1dneGVYQ2ZWdjFyM1BTZXVENlBzSEZURUNKeDV0dlJzNTRscw?oc=5",
+    "published_at": "2026-11-17T05:15:24+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "현대차·모비스, 모셔널에 2547억 추가 출자…\"자율주행 상용화 박차\"",
+    "summary": "현대차·모비스, 모셔널에 2547억 추가 출자…\"자율주행 상용화 박차\"  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ybUhqMk1NSl9UWFozNE1IOEFEeDRhNGVRVHVPVktPSE81T19sQTdsMzEwYU5FRDBKUHhjWGI4N192RXVfTnZTd2FqVUR5eXpGRDlwQ2FCTGY4REtBUDc5edIBeEFVX3lxTE5TXzQzQWg3ZlBJOEg1Yjh0Q2FielVFeWdJYjFYYTJRbVpZejk2NVZHak9LU3Rtd1g4eG1OUlRwb2Q4Nkd0d255ZHh5MkJzbGctMlc2d2tUdDhCOElJUEFIT0hDYmp2TnJqcFZNR2hvWkljQzN3WFdScw?oc=5",
+    "published_at": "2026-11-17T06:33:32+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "토요타, 2028년 '레벨 2++' 자율주행 양산 목표…\"7부 능선 넘었다\"",
+    "summary": "토요타, 2028년 '레벨 2++' 자율주행 양산 목표…\"7부 능선 넘었다\"  스타뉴스",
+    "source": "스타뉴스",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EcF9vVU1Eay1ONmlac01jZ21UOE5NeGZ1c0tCVURRaDdyYlpiaDRMQkVqNHQxbnFmb1JCdGE2bFQ1cEtPZGU5c2VBX2k2NlU1eVVSNV9NVWhxNGpLZl9FdFZyUFJTaEM5WWplQjhpcUIyaTVocUNadTdFQVhWa00?oc=5",
+    "published_at": "2026-11-17T09:08:34+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "美 자율주행차 판매 시작하는데 한국은 첫 실증차량 투입",
+    "summary": "美 자율주행차 판매 시작하는데 한국은 첫 실증차량 투입  https://www.seoulilbo.co.kr/",
+    "source": "https://www.seoulilbo.co.kr/",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NUEpuVmdpa3MyWFZzaWk1U1pVS2JMbU9QMi1UYkJGR1ZkVUZxU3EyYjRlT09adWxZWjU3bnMtWHkyTmF6SVZhUXJTRG1CakxJZ01pZzhMdFdRcVpvT2dHdVdQZzdLWjM0bjdmendB?oc=5",
+    "published_at": "2026-11-17T07:36:30+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "인천공항공사, 항공기 이동지역 내 자율주행차량 운행기준 제정",
+    "summary": "인천공항공사, 항공기 이동지역 내 자율주행차량 운행기준 제정  한국방송뉴스",
+    "source": "한국방송뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMUXRsdGNPa3BBdFV1alRuZktMV1BvSmxjdUZteTE3YWJsMmdHUllVcDFoLU5WRTVUcFZ3MjNrYXhvTW9xcFNwOTljSnFNeXZQR3Y0TXNaY2Z6OVA2d3c?oc=5",
+    "published_at": "2026-11-17T00:59:24+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "벤츠, 내년 하반기 도심 자율주행 '레벨2++' 한국 도입…선탑재 차량은 OTA로 업그레이드",
+    "summary": "벤츠, 내년 하반기 도심 자율주행 '레벨2++' 한국 도입…선탑재 차량은 OTA로 업그레이드  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40Z08tQ1NKb2xhd3pncmJrZ3lVSjNxblR0YzlSeENVS1MtTDBKNDl0elBJSk5JNlBjd0NqTjVvbkdUVzB3bVNrQjlWMXM3QQ?oc=5",
+    "published_at": "2026-11-16T14:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "만트럭, 獨 뮌헨서 자율주행 전기버스 실증 확대... 승객 태우고 도심 운행 나선다",
+    "summary": "만트럭, 獨 뮌헨서 자율주행 전기버스 실증 확대... 승객 태우고 도심 운행 나선다  카매거진 CAR MAGAZINE",
+    "source": "카매거진 CAR MAGAZINE",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zem44Q0tYcEplY2oyTktWWHFkeFJ0Mlpxb3l1NnVxa0JrVEpvUzFqczBVZS00ZzJ0UFh6RXpjLVZianVjV0hIN05Zc0c1MlEtVkY0Z1RvZkhWaFI4a1RYVUtvblJkZw?oc=5",
+    "published_at": "2026-11-17T01:35:17+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "\"獨 뮌헨 시내 누비는 자율주행 전기버스\" 만트럭버스그룹, 시민 참여형 실증 개시",
+    "summary": "\"獨 뮌헨 시내 누비는 자율주행 전기버스\" 만트럭버스그룹, 시민 참여형 실증 개시  M포스트",
+    "source": "M포스트",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbE1tWmxHektqOTVBMXFqNVBQaFZnTjJyeGRYWThRa2hkR2RFSVhUTEQtR3lOTkpvZmFYcGFIYUhvZkMwbGhQWU8yaGRuOVVRazRnNDhMa19BWWxtVm5rRjhPR18wRzVnbWpkRmtuRE0?oc=5",
+    "published_at": "2026-11-17T00:26:19+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "테슬라 \"獨 공장 증설… 사이버캡 100만대 생산\"",
+    "summary": "테슬라 \"獨 공장 증설… 사이버캡 100만대 생산\"  조선일보",
+    "source": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1dVNPcG8xZnhuakhzMmg5YVJDQ01qU0hSSlFDZ3dIWS1QRGQ2ZUNZMEZwRk9JX0J5UGxIcWtLcE1mNk9ZM09ONzR0bEw5ZW9OSDdQMkdScUVZUExQLXE2MmktaHpEUWJkUzgyQmJ5MVdRTzNXSldidDVIWFZqNGs?oc=5",
+    "published_at": "2026-11-17T15:33:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ]
+  },
+  {
+    "headline": "에이스웍스, 부산항 물류핵심 AMR에 자율주행플랫폼 탑재",
+    "summary": "에이스웍스, 부산항 물류핵심 AMR에 자율주행플랫폼 탑재  카매거진 CAR MAGAZINE",
+    "source": "카매거진 CAR MAGAZINE",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pVG9FLW0wVzV3NkNOeGZORGRkNEgwZ09laFFUMVYwVUNHRm40QU5RbVgwUTVUckg3UF85aHlSSzVjQjRNRTUxY1ZaWkNDVldzQkRyc0t4VFE2ZndDVUxYNlJoRl9rdw?oc=5",
+    "published_at": "2026-11-17T01:18:10+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "호반그룹, 자율주행 배송·무인경비 로봇서비스 시범운영",
+    "summary": "호반그룹, 자율주행 배송·무인경비 로봇서비스 시범운영  아시아투데이",
+    "source": "아시아투데이",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rZFFIQTYxMzFZa2cyZXRYTjRiQlZOeENReXhTUWw2TE82TTk4TGdBYnlVMVNQZ2lGWERjQ24yakxjekp5Z3hGcDNrOExOQ1oxcTlyMmFpSHJ6UlVESDFaMk1fczA4QWpaZURuZUdn?oc=5",
+    "published_at": "2026-11-16T03:50:25+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "충북혁신도시 자율주행 셔틀버스 '모두타유' 운행 확대",
+    "summary": "충북혁신도시 자율주행 셔틀버스 '모두타유' 운행 확대  매일경제 마켓",
+    "source": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jU3Jfa3RLSTEwb1RGQk5iR0FybjNwS1hENFVsZXNBMWpmQ0x0WVRPN1FXV1gtSHlTWUZkNzJvaTZ2RkZaSlQyd2pUOGtJRS1MZUE?oc=5",
+    "published_at": "2026-11-17T07:02:19+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "충북도, 충북혁신도시 자율주행버스 노선 2배 확대",
+    "summary": "충북도, 충북혁신도시 자율주행버스 노선 2배 확대  천지일보",
+    "source": "천지일보",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56VkJsZ0daZi1TMWRjVjY0amhyWGdOWTNCTnVRNXlaS19oY0FUbDBHTk5mX1hPUks5QW5tZ0RtbmJyOWtXV3RKN3M4Q1lUbjFZQVhRUW1jbGF0SkNkSmFnMGlIbmg1Z3JDU3c?oc=5",
+    "published_at": "2026-11-17T11:16:26+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "충북혁신도시 자율주행버스, 국립소방병원·맹동까지 달린다",
+    "summary": "충북혁신도시 자율주행버스, 국립소방병원·맹동까지 달린다  세계일보",
+    "source": "세계일보",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LV2xuU2lHMUNub296NDJQT2xxRi1fb3ZmN25ZY2pZLVIyRERiSHQ2aXJmX1o5WlZTZm9leXlDRkU1ZVVaUC05MDhHaWVMVUpTcGFQM3lpc3nSAVRBVV95cUxPck1uOUMwS3VtUVZfWWtaMUI3RDlYZEdFMXo2RDB4OEZyNVFZbVZKOXJtS2lZbld5dVpkLUJ4eFNreVF0Zk1ZYTE2aHNqVUl6NEpvWkU?oc=5",
+    "published_at": "2026-11-17T04:58:54+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "충북 자율주행 버스 ‘모두타유’ 노선 2배 확대…관광형 ‘C-투어버스’도",
+    "summary": "충북 자율주행 버스 ‘모두타유’ 노선 2배 확대…관광형 ‘C-투어버스’도  한겨레",
+    "source": "한겨레",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3aklBUHRqOTNjTDlNcVJaY1EwOXhZdjNETS0wZmxaWGN2SkIwLXRnTDdZS0xVQnFZZXZncVhHc1IzdENuRWpZZ1c2aXlkLTlMbWpOdzU5SldPbTRWYkt6RHhfLWdEWlNy?oc=5",
+    "published_at": "2026-11-17T07:08:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "충북혁신도시 자율주행 셔틀버스 ‘모두타유’ 노선 2배 확대…맹동면까지 운행",
+    "summary": "충북혁신도시 자율주행 셔틀버스 ‘모두타유’ 노선 2배 확대…맹동면까지 운행  뉴시니어",
+    "source": "뉴시니어",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43NUltQnNQbG8zdF9LeWpMRFpHblU4VGRpRkxiSHpOR2ctYWhGYmQ2YlZSWkVtTi1rV0h0UG80UXZWSFlPNUFzV2dOOVJSNHRhdm1IQnR3RVRXc09fV2U0ekhBTQ?oc=5",
+    "published_at": "2026-11-17T04:55:21+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "충북도, 자율주행 셔틀 노선 확대",
+    "summary": "충북도, 자율주행 셔틀 노선 확대  K-Life TV",
+    "source": "K-Life TV",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zUTdkTUc1aTlvQ3gwVlFLT2kyRmZST0o2cjlvUVJ4MW9Jejd0QWhfeEdTUi1lV0Z4SHhBTUQwbTlrODJBbzl3MTVNbVIxbjhCZzZSSGt0ak1nVHZyVG81ZXRUNEJpV2lrMTRXUA?oc=5",
+    "published_at": "2026-11-17T01:48:38+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "'AI가 운전하는 셔틀버스' 출근길의 일상이 된다",
+    "summary": "'AI가 운전하는 셔틀버스' 출근길의 일상이 된다  충청도민일보",
+    "source": "충청도민일보",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNEl0b1BBcXQ3U0M2NkNYOFR3ZUJyaExOMk05aW0wdjZvY2lueHlwN2pOLVpTZGs5U3FBWTRab25sUlg0Z3ptZGY1Rkp6eVpBWmszUU5fZl90TEdUd1l3cEZ4N0xWM0Rva3Jjbg?oc=5",
+    "published_at": "2026-11-17T09:13:02+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "충북혁신도시 자율주행 셔틀 ‘모두타유’, 노선 2배 연장해 주민 생활권 확대 운행",
+    "summary": "충북혁신도시 자율주행 셔틀 ‘모두타유’, 노선 2배 연장해 주민 생활권 확대 운행  이뉴스투데이",
+    "source": "이뉴스투데이",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hVHo0aE9UOFdwb3l1OWNPOVVNM0hpUWQ3R1dGUnBrel9nUXRfbWJzZjJCbzlCakI5TFVRbTU3RmZ2MHJGbW5aSjQ2N00wa2V2Z3g3a2QzeXJZS3N3RGRucjBxd0FUR1BDWUhiODdQWWnSAXRBVV95cUxPdGxtMW5TWnIzajE2NFVsWVItWVpRZ0xlYXh0Z3ZIaWxkQ2M0WGdLSkdDZjJUb04zQWd4ZmhSblE1eW5CZTVRckRKZDRCNERNWmowZUJFNVQtdzlEbFZRR3dQeU5BRXFNVm1iLUtORGVxbHRNOQ?oc=5",
+    "published_at": "2026-11-17T12:25:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "충북혁신도시 자율주행 셔틀 '모두타유' 노선 12.95㎞로 확대…16일부터 운행",
+    "summary": "충북혁신도시 자율주행 셔틀 '모두타유' 노선 12.95㎞로 확대…16일부터 운행  충북뉴스",
+    "source": "충북뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVbDlmUXk3Z0h0azVfWkZidGV1NU1mdU5oYUs0dUQ5S0FPekpBYzFRR042VzVhNTZ2cVAtUVY4ejJiRDdkN0VfOUtlemVRLUdRQXQ3MkoycTVUdzZldlkwMm1peTZsdw?oc=5",
+    "published_at": "2026-11-17T06:20:47+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "충북도, 자율주행 셔틀 ‘모두타유’ 운행 구간 맹동면까지 확대",
+    "summary": "충북도, 자율주행 셔틀 ‘모두타유’ 운행 구간 맹동면까지 확대  뉴스티앤티",
+    "source": "뉴스티앤티",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRT0lSREJBTTZmdW5jS01wVGFUcTVtVlZlRExYNEJSdk5JVUprQkhBQ2VZamQ3WXF2RWhCZGJCRHdfRUhWaXhvbDB0V1ZHMWF5OHhYdlJUWnNEMnNJRDZVTEMtWTV0QlRLMGc?oc=5",
+    "published_at": "2026-11-17T02:54:14+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "국토부, ‘광주 자율주행 실증도시’에 이달 말 첫 차량 투입",
+    "summary": "국토부, ‘광주 자율주행 실증도시’에 이달 말 첫 차량 투입  이뉴스투데이",
+    "source": "이뉴스투데이",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zbkM5Z2RsZjM0c09YN0tDTFhVZENKcWFuYU9KWGE5YXRuUlR1SE5LX3VjV1JSQXVvYjd5THB2YXhvQ3ZnX2xCdHhwUjdSZXh4UnhqMlJZeHZjQW53WE1aX3FsUnI5Z1FiNkh5OTBERWfSAXRBVV95cUxPSnltQWRuQmRNa3o3dDdKUzZteUFOYURqQ1N6NWpQSTdkMXRUVVFuMWttVERNN1NxaTFOaHA2TDZ2blNXUDROWXlmUkJ3WVVHT05CWkEzbXZRNjdvRUhWSXdhTUlkX0x3eWFIY1pLNmFLTjdXRw?oc=5",
+    "published_at": "2026-11-17T11:01:57+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "‘광주 자율주행 실증도시’ 오는 30일 첫 차량 운행 개시",
+    "summary": "‘광주 자율주행 실증도시’ 오는 30일 첫 차량 운행 개시  대한경제",
+    "source": "대한경제",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJRl9oUHNjNk5aRnBoTkVqRWkwckU1ODNnLWd3T3RGWEF3YVRTTm1PLVgxeWxTMEhLTmhIeFpTVk5ScTJxUzZhZnBrRkJFWmxpODFHalcxbWFqdk41QUhQbGFHV3I1aFp5N0k3RzJWQ1lHRjg?oc=5",
+    "published_at": "2026-11-15T07:06:55+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "국토부, 광주 자율주행 실증도시 첫 차량 30일 투입",
+    "summary": "국토부, 광주 자율주행 실증도시 첫 차량 30일 투입  교통뉴스",
+    "source": "교통뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDQ3pzWVZQd1BVbVRYUmNXS3I1TWpDWjA4aHc4Sm54LVp0N2V0aHF5c1ljeUd0eHE2bXJWLWc3Z2h5cVc0QWM4ZERNTFc4YW16RWlQYV9mcGxGemxnb0dvcS1CdkRvQmlrOXJGMA?oc=5",
+    "published_at": "2026-11-16T21:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "광주 자율주행 실증차 30일 첫 운행…연말까지 120대 확대",
+    "summary": "광주 자율주행 실증차 30일 첫 운행…연말까지 120대 확대  워크투데이",
+    "source": "워크투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxTXI4dHRMTTJqcHA3U1pRRjJ5bEtaaGVTb2dVeFRyVXVlY2NxRDdDMGotTUlyS0I0VEVMSVRGQkVhVTExNUExcFRaSnA3U0QtdzgtN1BkTnF3eG42N1RLZWhKTF9NNkxFNVBhdw?oc=5",
+    "published_at": "2026-11-16T12:18:44+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "국내 첫 심야 무인택시…강남 전역 달린다",
+    "summary": "국내 첫 심야 무인택시…강남 전역 달린다  한국경제",
+    "source": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1NGlLYWRhLTVoNy1ISDRzSlhGS0xpaEhaNnVOYnpsc1ItbG9UR2JNLS1UUlZuLW12WkdWN0FKNXJFVXZqTE8zcjFvcHNHQm1HSVByYnd1cVB2QQ?oc=5",
+    "published_at": "2025-06-15T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스모빌리티와 자율주행 플랫폼·데이터 협력 MOU 체결",
+    "summary": "현대차, 쏘카·에이펙스모빌리티와 자율주행 플랫폼·데이터 협력 MOU 체결  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SR2k0bWVUMXZXS19CRXVMa1c0UUNjT0h3Rk9MWUlaR1NUOXdiVFZsYnBGN1ZDMEt0Q2NxOEFhT0JlTF9IZGhIRE4tUmNMZy1reS1sQTNXRGw0dUdjd19UMjJuMjE0M2tOUE1rZVV6Q2VaaUVlblZNZTJuNUQtNnM?oc=5",
+    "published_at": "2026-11-13T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
     "headline": "포니아이와 토요타, 광저우서 bZ4X 완전 무인 로보택시 상용화",
     "summary": "포니아이와 토요타, 광저우서 bZ4X 완전 무인 로보택시 상용화  초이스스탁US",
     "source": "초이스스탁US",

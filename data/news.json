@@ -1,5 +1,494 @@
 [
   {
+    "headline": "웨이모, 중국 지커가 만든 차세대 로보택시 상용화 '美 3개 도시 전면 투입'",
+    "summary": "웨이모, 중국 지커가 만든 차세대 로보택시 상용화 '美 3개 도시 전면 투입'  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1heGxrdFpkb3JjSDRSTzNNeThDQlZjVmxEX3N5SC1qV2V3WnVXY09URjlzMkt1UXFjV3pzT3ZFUXRUbHdFejgtQ1p6M3FscUJpeTgzam1NdVpySzNvVk4zWHFuU005eS1sTlJENEhkY3BrbDZFYTN3NWdDNA?oc=5",
+    "published_at": "2026-08-21T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "만트럭, 獨 뮌헨서 자율주행 전기버스 승객 태우고 도심 운행 실증",
+    "summary": "만트럭, 獨 뮌헨서 자율주행 전기버스 승객 태우고 도심 운행 실증  파이낸셜신문",
+    "source": "파이낸셜신문",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aLVdIaFVCazU1LWZWbUdIQmlOYWxFejRKSTZYdUFtQzVsRHMwWEF2YklqTUg3Mk1RZHNhMHlqbDdiOXJNdXR4X1RRcjQ4OGtvcG1qVDF0UEZheUdrdDJValktX2M5UEtsRlA4?oc=5",
+    "published_at": "2026-11-17T08:51:24+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "서울 강남 '자율주행택시' 운행시간 늘린다…실증사업 본격화",
+    "summary": "서울 강남 '자율주행택시' 운행시간 늘린다…실증사업 본격화  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zalp2X3phQ3VqTUlycjFBZk9aN3JEZFVtNHRfQy1QSHdneDNzTTY0b0ZTY3JMbnZKOVFid3hRWHZvTnMxUV9Yek9jNGF5dEQxWEhwMTVUS04zdUJO?oc=5",
+    "published_at": "2025-03-19T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "쏘카 자율주행 셔틀, 상반기 달린다",
+    "summary": "쏘카 자율주행 셔틀, 상반기 달린다  시사저널e",
+    "source": "시사저널e",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pUkxKZmp5RWl2MjVpNnJMdk9lb0Q3YVNUR3BDQjNDMmFwczlucTROWXJ0TzJBV0gtWDg5ZkZsY2lMdVNmb1Z4VXNKaXhoNzJjSUNEN1RRZkcyT3ZiODE4V1VtUjdIbTNhcGhXSHcteWxuZw?oc=5",
+    "published_at": "2021-01-05T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)"
+    ]
+  },
+  {
+    "headline": "현대차, LA 오토쇼서 '디 올 뉴 아반떼' 공개…차체 키우고 AI 탑재",
+    "summary": "현대차, LA 오토쇼서 '디 올 뉴 아반떼' 공개…차체 키우고 AI 탑재  뉴스핌",
+    "source": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GQ1c0NmlSUTYyUUI2OHhHZjc1anhUb2ZFNXkxdnIyV1hCYmFURWNjZlpkZ1k4TzVnOS1EOXNKTld2ZGdtVHE4UGEzU1FRZUxEWENzSnFSeElVZlZQ?oc=5",
+    "published_at": "2026-11-20T00:44:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "\"선제 투자가 성장 담보\"..현대차그룹 조직개편 승부수 - 머니투데이",
+    "summary": "\"선제 투자가 성장 담보\"..현대차그룹 조직개편 승부수 - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BRi1FcXNfd0Z3WUJFblVyUTRMWlA0QllkWDJhS01PRWh0eTNQWFBMbjdRVl92Vk1qbjdxMHlTMV81NWV2YjBtSkdRSFctZHBTczkwQm9zeTBuS1NoUE5aeDVFVElxUkxtWHlJSNIBckFVX3lxTE5FamRidFVlVUlnbzBSVGNkZ0dnSGg0b0pIa2k1akNham1FY1FkMk5KMHh6a1BCMk9WaEdjdFFGWURObzVVUV9EZllSODZjbnkyaVZJNzhtWEdkM2VrQlBDTHctaTRQaWtPMWNhVU5VZGhMQQ?oc=5",
+    "published_at": "2026-11-18T08:50:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "무뇨스 사장 \"웨이모에 아이오닉 5 인도…현대차는 피지컬AI 기업\" - 머니투데이",
+    "summary": "무뇨스 사장 \"웨이모에 아이오닉 5 인도…현대차는 피지컬AI 기업\" - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SOUNIcmxtdGVkSUd1M1FuRHRWOTlKSjAzWF83SzRDY2pOalVGS2RHLVRGcFRaVGtJSzVPUG96YWFxRWs2SFhHTy1oa3AzbDg4Q2pxS3lIdnl5MkNHbVJ3NnVDaFdtUFdnY3NBU9IBckFVX3lxTE81RlFTUUJPd1NzR1cyNnpESG83UnkteGNDZ3dWVGR2OV9iaUhYcXBWVy1pWUlrTEwtWFdTUllrRUdoUVN6ZlBCbWFxcGU5alVzOTlhc0ZYYV92OGZnZy00SGE1T2xkSEI5MGVyLTVJSnpVdw?oc=5",
+    "published_at": "2026-11-18T10:02:43+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차·기아 주가 왜 이래?: 위기에 빠진 현대차그룹, 진짜 이유는… 🚗",
+    "summary": "현대차·기아 주가 왜 이래?: 위기에 빠진 현대차그룹, 진짜 이유는… 🚗  뉴닉",
+    "source": "뉴닉",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VY1Fqd1MzRjBuVzBrUUF2YUJ0Y2NRTWVVSk5panZuWi1CRnM5eXlMNk9sV0JReTZWZy1FUWFucE40d3dDN3Q5RGdXYU9vTVBsd0JN?oc=5",
+    "published_at": "2026-11-18T11:10:18+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "현대차, 신형 아반떼 공개…하이브리드 연비 22.5km/L 목표",
+    "summary": "현대차, 신형 아반떼 공개…하이브리드 연비 22.5km/L 목표  BBS불교방송",
+    "source": "BBS불교방송",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxenNwaHJIZWY5cWpvWTdvZndmS3VQWV9sR291dnRNTWQ2V2ROZWpSX01NZm9YY0F1UURFZTdvRFA4OXFiUjlULXdmX2hmcXhtcUpKcnNVdVZzUTdYbUxiUU1CUUpBWklTSXNF?oc=5",
+    "published_at": "2026-11-20T00:41:26+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "무뇨스 현대차 사장 “젠슨 황 떠나도 엔비디아와의 협력 중요”",
+    "summary": "무뇨스 현대차 사장 “젠슨 황 떠나도 엔비디아와의 협력 중요”  Chosunbiz",
+    "source": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0QjBJVFQ1SWtTQXEtWlNxOVFlZHJjbU9VLVhzeTRSMnhzX3h3V3BzS0ZPWHE1WmhXYjhrazRkb082TkRhaldIQ1B6Tl83MWF2ME1DbWh3eWtPMERSZE9ic3ktcFZ3b1k0LWRWVHRoSjFjajRHUWp6SC1oTDZqTUHSAZMBQVVfeXFMTXZrRTBuV0o1eUN2ZWo1RGVGWWo1ZnJDcS1FTlRzb3NQSWIwdGdGaktxVGQyejFVRFd0dmlObmZzeDZURXNqbWROTVZJZTVzRmhRaGNXV0REaFVKeGJWTDhvZnZUUE9OSm83LWs1dW1TeWhxVW5ZenAzZE05QzcybGszcHh0bXN4RmNKNWhKTXZnS3dZ?oc=5",
+    "published_at": "2026-11-18T07:15:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "무뇨스 “현대차는 피지컬AI 기업…아틀라스 로봇 훈련인력 채용중”",
+    "summary": "무뇨스 “현대차는 피지컬AI 기업…아틀라스 로봇 훈련인력 채용중”  매일경제",
+    "source": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpOE5ieXhwMFpMTG9nYkh0NnpyRHJEekpvSXFKOWtWVG1sM0NqWEh6WmdKTy1ObHpxOGUxa095YjdGVlZwT2NhcnVtdWNPcGRrYXVUZVRR?oc=5",
+    "published_at": "2026-11-18T21:06:52+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대모비스, 현대차그룹 AI 투자에 전장·로봇 성장 기대-삼성",
+    "summary": "현대모비스, 현대차그룹 AI 투자에 전장·로봇 성장 기대-삼성  이데일리",
+    "source": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX2hLdEU5SE12Q0Fwczd5RTVhU0xYRDZMN3R1cVlxV3RaYl9jRkhvRjQtWHpyVlNNOUtxMEt6LWRJYWszTEsxZEtpRDg0bERzSGdrTE5sY181WGQ4R0hNR2NndkpsRDFyQ2ZXWlBQTUlXMmtIR3hpb0M2azZYVXBSeQ?oc=5",
+    "published_at": "2026-11-18T23:22:51+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "무뇨스 현대차 사장 \"젠슨 황 사임 파장 커…엔비디아 협력은 지속\"",
+    "summary": "무뇨스 현대차 사장 \"젠슨 황 사임 파장 커…엔비디아 협력은 지속\"  글로벌이코노믹",
+    "source": "글로벌이코노믹",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb0J4NlE5V1I1U2oxcFNkNnA0ektXeGlrZUdpVEluMGhyRDRCbmJ6aHdqZUtZdGJOemtiZlYyNlZ3NGZnV09nRzdWUjVtYm9LWmZ3TUtHNlNOVGpGbzJBOFlBWXk5aC1EQ2hZbHppUkRlYXNwN3FsYVZ2b01XUG1tWUhGV3dPUQ?oc=5",
+    "published_at": "2026-11-18T07:45:46+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "도심을 달리는 현대자동차그룹 자율주행 기술, Atria AI | 판교편 | 영상미디어 | 현대자동차그룹",
+    "summary": "도심을 달리는 현대자동차그룹 자율주행 기술, Atria AI | 판교편 | 영상미디어 | 현대자동차그룹  Hyundai Motor Group",
+    "source": "Hyundai Motor Group",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHd6c2RBUTlkUlhiUDVzSUdqWExHMHdiMXJDUWt0ME14RXp1cHJvbFJtcVV3WDFzdk5xY0ZoVWMtWFNkTWxRVGlSZEFrS2ZibUMzY0NPRWdveEhiMGVYVHZVZ2xSY1JYdmY0VnVkbXU5cFFOLWh1dkNUdk85d01MOGdOYm9jNGlRN2FxMzMtYnlnMnlUTFRjQ3Zn?oc=5",
+    "published_at": "2026-09-13T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "무뇨스 현대차 사장 \"젠슨 황 사임, 업계에 큰 영향…엔비디아 협력은 계속\"",
+    "summary": "무뇨스 현대차 사장 \"젠슨 황 사임, 업계에 큰 영향…엔비디아 협력은 계속\"  디지털데일리",
+    "source": "디지털데일리",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fYjhWWGZ5MlBPYkx0RXctT01mNHI0MGNKSzZVUi1HSE11Y0lnM2NFUndoaEZrMGhBNzhKM1gxMFZqZWxDYVk4Wm8yb2hDdXlNSncyejgxSHI5WmN3OUEtbmVqVFk?oc=5",
+    "published_at": "2026-11-18T07:53:27+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "무뇨스 현대차 사장 \"내달 美 웨이모에 아이오닉 5 대규모 공급\"",
+    "summary": "무뇨스 현대차 사장 \"내달 美 웨이모에 아이오닉 5 대규모 공급\"  매일일보",
+    "source": "매일일보",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KdjhUZHpnV0J2NXd2VlhQMjhIRHpadGpzMTV0eEEtZ1ppdVl4a3NfMjFoRlhSZ0VkTU9HQkJpRi1pcEdzRUo4Qk9NakwtSFpDaHpmZFVEYWpNWm5OVHZkNVFzNHk?oc=5",
+    "published_at": "2026-11-18T04:46:22+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 사장 \"엔비디아, 韓에 매우 중요…젠슨황 사임 큰 영향\"",
+    "summary": "현대차 사장 \"엔비디아, 韓에 매우 중요…젠슨황 사임 큰 영향\"  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CS1NXaEtKdjhxcFFJTU9SUlhFTnFLUHdLcExsbjRheWtUbVdYSnIySTkxQ09TTXJmTjNBdUZueER3dEV0M1Z2MjlkOGFJb2ZScEJLc0lFOHZQQzjSAWBBVV95cUxQdkR3RnJqV2I5dXp2cjFZRUxLS1NZMmdQWG9Ld0pSZHk5TUVjOW4wTzVXemFILVd6cHdGZ2JHRER4M0RmTTd3UXFZU245WmViLXRYZGtVRDdjT09CVXRad1k?oc=5",
+    "published_at": "2026-11-18T04:41:25+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "무뇨스 현대차 사장 “웨이모에 아이오닉 5 공급 시작”",
+    "summary": "무뇨스 현대차 사장 “웨이모에 아이오닉 5 공급 시작”  서울경제",
+    "source": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1td0MzLUpRVC1LZFVfM0MzTzdwYlcyWnlRckxaSU9ycGdFOWpIaThHLWlmYm45VjRsVG5yT2hXWEdmbkdUYXJjRGlNeHZpTFIwRVHSAVNBVV95cUxPM3lKdU9vXzZlQ3hZd01uRFZLRGprSERvU3NaRHl5amdCNXRPNHR5S2d4S2RTVWFzc1RrQTRDT1hXM01XelhUYjVOTTJnUmtPOUJwMA?oc=5",
+    "published_at": "2026-11-18T03:31:30+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "자율주행, 진짜 상용화하려면…車안전학회, 광주서 안전·제도 해법 찾는다",
+    "summary": "자율주행, 진짜 상용화하려면…車안전학회, 광주서 안전·제도 해법 찾는다  데일리안",
+    "source": "데일리안",
+    "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNS05aZnkyV2dudTBnXzl6bnJPYXdPUW1ZN1dIbUhGRnNBeDNJTGNrVHAwc29qdThxUFhKV2VoZ0N1QThYTWl0YWljd1J6ZHZxbklPNnNoelNfMElwUlVRTlB2ajJyaEhTbk5yRVdZMVd1MzBJOWptMDBXV3FUbzNpM1pKeDZkc05KdzlKODRFampZMHc2bnVQcThjaFhGWEVhaDM3XzE0a0lmWDh1Ri1BRHpiNjh3NGRnc1VRekNuNzhjUWtzMUkwaTFKSjQ2STBPV1RDNkFHMWh2NXlxeUhfM1RPM0ZFOXRPNXdaZ0VoVHFsNXBPX21QQ2t2SktaeTNnc3N3X0NERTMtcWg3SkEtOHJoUERSdkJfUHhTZjJTNGx1VmxmbGNIYUdZQVQ?oc=5",
+    "published_at": "2026-11-19T05:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "현대차, 신형 아반떼 美 최초 공개…북미 세단 시장 공략 나선다",
+    "summary": "현대차, 신형 아반떼 美 최초 공개…북미 세단 시장 공략 나선다  엠투데이",
+    "source": "엠투데이",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMGlVR0dEbEt5NlF2T2NBN0VUOVpaSVpCRnZEaWprcjRsc0pncjljZVRLWFQzZVJOeUpaWkU1cFk1TFZKczNpNUQ0ZXpZRTdLb0FQTUlHbWRWYlpvemRwaDlUdGNkdG04ZUZFbTk0WQ?oc=5",
+    "published_at": "2026-11-20T00:30:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 무뇨스 “젠슨 황 퇴진, 車 업계 영향…엔비디아 협력 중요”",
+    "summary": "현대차 무뇨스 “젠슨 황 퇴진, 車 업계 영향…엔비디아 협력 중요”  아시아투데이",
+    "source": "아시아투데이",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QbGhuXzBtN3Z3TllZb3FxNHJvRUVYMXZZS0xPcXlzUUN6SWROVlRFdHMtNjVTT1F6Uk1ESVJIc0FzS1VUZXZ6OWdzM1FNenJsa3VfQ3lJcWRTZDZ4bE1sTFRvUVhoTWNaSkhqZWNn?oc=5",
+    "published_at": "2026-11-18T05:36:35+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "무뇨스 현대차 사장 젠슨 황 사임 파장 클 것…엔비디아, 韓 전략사업 핵심 협력사",
+    "summary": "무뇨스 현대차 사장 젠슨 황 사임 파장 클 것…엔비디아, 韓 전략사업 핵심 협력사  아주경제",
+    "source": "아주경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqaTBHcHBoUVE5SU9wSFluVmdQV0lDY1JMdFF3ZExnLUQ1MFY1QnJsVm4yMGlNc2VGeFg1SF8yQ2VjX1FDcnZoN3M5cDBtb000RC1PWWxrVjc1d9IBWEFVX3lxTE1leHRTbzBIazNmSXBkcVBpSF9waWU2bWVwNUtOX1dHS2kzMUZkZGVvVE4yNDFIczBGTlNtdVluSVVyQ19CdXdUQXQzNmxvbDM5QTJ6M09lblo?oc=5",
+    "published_at": "2026-11-18T06:19:28+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 무뇨스 “엔비디아 CEO 교체, 한국에도 큰 영향” : 기업·산업",
+    "summary": "현대차 무뇨스 “엔비디아 CEO 교체, 한국에도 큰 영향” : 기업·산업  재경일보",
+    "source": "재경일보",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14QWRiLUR6WVhEU2R5eVF1ODlXQ2xBbGVEbWdDSUVhR0R1ZzZsRWQ2Z2RWMlF6bi0tWmM4ZERuRVRxYUdtT3dYemc4SQ?oc=5",
+    "published_at": "2026-11-18T05:02:11+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 무뇨스 사장 \"젠슨 황 엔비디아 사임⋯업계에 큰 영향\"",
+    "summary": "현대차 무뇨스 사장 \"젠슨 황 엔비디아 사임⋯업계에 큰 영향\"  이투데이",
+    "source": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JVXRZUTViZ1U3UEZTLVNmbWl3bkd2ZGlidW1NSXQyall3ZG0xUFJtaU05UDY4UUYxUC0tNHFIeWFlUzdtYTIxNzl2ZmF6ME0yTFZ3LQ?oc=5",
+    "published_at": "2026-11-18T06:28:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "'전국 최초 실증도시' 도심 달릴 자율주행차 30일 첫 시동",
+    "summary": "'전국 최초 실증도시' 도심 달릴 자율주행차 30일 첫 시동  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cTJvcjZrcGlLX0czcEhSLTFDWm9PanJwMDhuWC1idlJtVTNXc0tBRkx3cjRacG5KU3RkanZEOVczUXRTaVdVZlBIOTYtMDVwaTcwT3hnX0ltZw?oc=5",
+    "published_at": "2026-11-15T02:01:46+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "현대차, ST1 기반 어촌 맞춤형 모빌리티 개발⋯해녀 쉼터·이동형 상점 검토",
+    "summary": "현대차, ST1 기반 어촌 맞춤형 모빌리티 개발⋯해녀 쉼터·이동형 상점 검토  엠투데이",
+    "source": "엠투데이",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jX05leWl2QUdKbTRUeFViMFhDaW9zcXd6b293UW1EQ2daQkVfZUVRS1U3SF91NHBWb1A2RXNDY0twTTM4SjZhWVhNYVp3anlFOG0tRGduZkowcU9rWUg5T05qSFNuSGlTQ1hrV2xLRQ?oc=5",
+    "published_at": "2026-11-18T07:45:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "한국車모빌리티안전학회, 2026 추계학술대회 성황리 개최",
+    "summary": "한국車모빌리티안전학회, 2026 추계학술대회 성황리 개최  카매거진 CAR MAGAZINE",
+    "source": "카매거진 CAR MAGAZINE",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUU0wWVdMdHFOczdRS1RIQ1RwYXI4eFFEMmEzdXBJS01QbTlrOWRlTmd1dDc2SEo4bHhSbEV0d1pCVEhlMWZxMl9Bejd0VWQwLXA3YlB4ZzBjY2lDcTVpWlJLVk9udw?oc=5",
+    "published_at": "2026-11-19T07:00:15+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "무뇨스 현대차 CEO “웨이모 공급 이번달 시작…물량 상당할 것”",
+    "summary": "무뇨스 현대차 CEO “웨이모 공급 이번달 시작…물량 상당할 것”  헤럴드경제 미주판",
+    "source": "헤럴드경제 미주판",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUXRYdno3ZTdROUZYcnA3TERGRXJXelpEbV9maWhEdVExSUlkcXVCRnBwdmp0OWphQ1ktVnNYdGhSamEyMXp0V1I5MlV5akMzaGczeHdmcUJveV9McjBSSA?oc=5",
+    "published_at": "2026-11-17T06:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 아이오닉5 美웨이모에 공급… 로보택시 시장 공략 확대",
+    "summary": "현대차, 아이오닉5 美웨이모에 공급… 로보택시 시장 공략 확대  동아일보",
+    "source": "동아일보",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nekF3R1llMlFYcTctdC1adEwtcGd1TnJkcHlSX1RTT0hwczhWOXJkZjBqeGtfUDZBZW1KbW9FenJqcTVKOEZ3ZVZKWWxUR0FFSDhEek5lWGpMcTB0RmdHN3ZYTXRGSjk4UlhUZjdvdE9feUczeEHSAWZBVV95cUxNZEtHSHVIaVJTeUd3MHUxTndrUE11UUJqNUNnX2pwTkZLdXFCR3liNEdILUVoRnhJYnNhSTdXNGJBaVlvX0hRNVpaOExtRGluakljMC1yVjlETm8yeVZiOWdGNXhwaUE?oc=5",
+    "published_at": "2026-11-18T15:30:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "[Why&Next] 웨이모엔 차 공급, 모셔널엔 투자…현대차 '투트랙' 승부수",
+    "summary": "[Why&Next] 웨이모엔 차 공급, 모셔널엔 투자…현대차 '투트랙' 승부수  아시아경제",
+    "source": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jYUhaYWtZbENtc29UbjQ5MndMZ29xekFXVXhENktlWlFKa2pLN215WlJtZUc4Zm9uZjBJVUdWZHBYQ0FtWkhERUM2eWZiNmtVMjZXRXdtUUNENUwyMDFVZg?oc=5",
+    "published_at": "2026-11-19T01:53:30+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "‘젠슨 황 사임’ 변수 일축한 현대차⋯ 엔비디아 동맹 굳히고, 구글에 로보택시 공급",
+    "summary": "‘젠슨 황 사임’ 변수 일축한 현대차⋯ 엔비디아 동맹 굳히고, 구글에 로보택시 공급  브릿지경제",
+    "source": "브릿지경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zQlhncXRKVG1TUG8yaUNNR200ZllQdzUtSGpXTnFxNG55OU9OX1lUZWNQbEdTa1JtenZuTmFGa2tnYWhaeWxuVnlpVk1jTlprVkJXZzVwXzJFZw?oc=5",
+    "published_at": "2026-11-18T04:25:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 로봇 사업에 속도전 ... 무뇨스 “로봇 정비 인력 채용 중”",
+    "summary": "현대차, 로봇 사업에 속도전 ... 무뇨스 “로봇 정비 인력 채용 중”  매일경제",
+    "source": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fOTh4aUZBMllfSnVyT2dpLTl5M3JHVTJoSU5wVnJ4QzBpTl82SFhnSXRGSFNqQnd0LVJuWElaaU5KamRPWGpGRDdDb01QcGNQTWl3dklR?oc=5",
+    "published_at": "2026-11-18T06:09:36+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "호세 무뇨스 현대차 사장 \"엔비디아, 여전히 매우 중요한 파트너\"",
+    "summary": "호세 무뇨스 현대차 사장 \"엔비디아, 여전히 매우 중요한 파트너\"  더팩트",
+    "source": "더팩트",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sU2V0VmxENEJzbmt3aGxTRkRDbTFFdEgybkZRYzlxV1p2bHVWcTlGX09UMnlELVV4MDhON3YyMUprSFlCakVsWWZfZkk3bHNyeVlfUVR1MWkwZ9IBVEFVX3lxTE1fckoxeTFlUC16ZjUwTE9uTldZMC13S0FxaVI0N3NKd00ycVpqenhvZHlKRjd2X3Frc3ZXMlV6TFZsSUNubm1iVklrYlBXYk1uQjBlZg?oc=5",
+    "published_at": "2026-11-18T02:20:24+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "웨이모, 미국 전역 고속도로서 로보택시 운행 중단",
+    "summary": "웨이모, 미국 전역 고속도로서 로보택시 운행 중단  애틀랜타 중앙일보",
+    "source": "애틀랜타 중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9neUd2V1ZKeDFaMm9kY1YzMFRlLUhvQTlIV2RLN1BqTW1WWGdYMkhTbHVvTExhNjBrekN0OWk5RFJfek5IUV9pRUpLblZ0YkU?oc=5",
+    "published_at": "2026-11-18T15:12:41+00:00",
+    "tags": [
+      "기업",
+      "서비스",
+      "해외"
+    ]
+  },
+  {
+    "headline": "웨이모·현대차·우버, 로보택시 경쟁 확대…5만대 공급 논의·1억달러 충전 투자",
+    "summary": "웨이모·현대차·우버, 로보택시 경쟁 확대…5만대 공급 논의·1억달러 충전 투자  임팩트온",
+    "source": "임팩트온",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3aFFBTWd5aGFHck55T3VPMm1qanpYemJDQVJqeGQ3RUk4R29xSHRfS0RnMjVtUDZlZmFBVGVWVHNoNlBKMFBOYUxwQ2ZQRkFsYzA4ZFEyZVhMTWpBQjlTN2hVZGJtOHVDN0E?oc=5",
+    "published_at": "2026-02-19T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "한국자동차모빌리티안전학회, ‘2026 KASA 엑설런스 랩 어워드’ 4개 기관 시상",
+    "summary": "한국자동차모빌리티안전학회, ‘2026 KASA 엑설런스 랩 어워드’ 4개 기관 시상  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IYkU4NWF2ZzBRUUxqcEJMaEduamNOd1gyVmZoeDM4QTBfVXlXak1aV3p2bUlRazNUVjNqakM0bVpGTm5xMnFXbkRkSXhGVVp3WXhDZTBaVDUwa293eU82V2NQRm44aFNoNGwxYW5OTmY1Y1lPbWpB?oc=5",
+    "published_at": "2026-11-19T07:58:32+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "한국자동차모빌리티안전학회, 자율주행·안전 연구 우수기관 4곳 시상",
+    "summary": "한국자동차모빌리티안전학회, 자율주행·안전 연구 우수기관 4곳 시상  메트로신문",
+    "source": "메트로신문",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pdmtIRWlEdmNfUHZmRHRsdHF6SjBGeEs5RjlNTDNqODFnVXBoZWRzbS1aa0phLXFKQS1GdjltQmZnTFRLRlZfV3gxYTRGS3JmdFJXTWxKUVBaX29OZTdQNw?oc=5",
+    "published_at": "2026-11-19T06:19:27+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "광주 도심 누비는 자율주행차…30일 첫 실증차 달린다",
+    "summary": "광주 도심 누비는 자율주행차…30일 첫 실증차 달린다  KPI뉴스",
+    "source": "KPI뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLejM5dGp1MmU4LXdHa1NiODJ1Q2l3NW1WSVg5Q2dUX3o2aDVwUloxUVM1NmZ4TWM5X0FYMlcxQjFveEQ5WlBYdlpDdjJaajlpMlNN0gFTQVVfeXFMUEt6Mzl0anUyZTgtd0drU2I4MnVDaXc1bVZJWDlDZ1RfejZoNXBSWjFRUzU2ZnhNYzlfQVgyVzFCMW94RDlaUFh2WkN2MlpqOWkyU00?oc=5",
+    "published_at": "2026-11-15T12:00:14+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "현대차, 광주 자율주행 실증차량 67대 인도…30일 첫 도로운행 추진",
+    "summary": "현대차, 광주 자율주행 실증차량 67대 인도…30일 첫 도로운행 추진  토요경제",
+    "source": "토요경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2WWp6dUtIR244endldkdxb0FIalh6Yk5CR18wMXJkT3RGcEtiLWF5aVNiN0RwU1laY2YtUEZkVk02c2ZQWC1yeVlwY1Y0ck0zMDUwVkZWSkd1Y1g0MkZYetIBb0FVX3lxTFA4Tl9OdW9HQjBwQVhOLTd6UTA5dVVjYW5rLTE5TUZwZVhDTmRqbXJjR0E1UG5sU0dmRGRYaWxOeDlES3F4SUY4XzB3ZGg0b3pRSVJxYzloLXczUVhKSURLWmJDcHZLeVlST1hoRVNfNA?oc=5",
+    "published_at": "2026-11-16T06:27:09+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
     "headline": "운전대·페달 없이 7명 태우고 달린다? 로보택시 판 키우는 테슬라",
     "summary": "운전대·페달 없이 7명 태우고 달린다? 로보택시 판 키우는 테슬라  중앙일보",
     "source": "중앙일보",

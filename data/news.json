@@ -1,5 +1,382 @@
 [
   {
+    "headline": "머스크 \"운전대·페달 없앤 SUV 모델Y 계획…6∼7인승 로보택시\"",
+    "summary": "머스크 \"운전대·페달 없앤 SUV 모델Y 계획…6∼7인승 로보택시\"  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMcUp0QzNlWUwzYXk1THh6SFNoRENVY2VfZmwySEZybHp4VDJoTzhTNFJIa0JreGJRNWxOMW42WjRtZmYwcTctVnl5cnh5djVEbm56cjd3UWJEVTTSAWBBVV95cUxQVGI5RF83elhLMWtVWlhjTmJsbC12Q0NjR2VTUUZPYzF5eGdjbUJnT1dJM3VRUDRiR2tneHRnMVZyY2FLYlFZLXhvbXpibVZZOXZjVVUtbWZXQ3ZsZ0RkSTc?oc=5",
+    "published_at": "2026-11-20T00:03:44+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "에스더블유엠(SWM.ai), '자율주행 로보택시 시스템' 차세대 세계일류상품 선정",
+    "summary": "에스더블유엠(SWM.ai), '자율주행 로보택시 시스템' 차세대 세계일류상품 선정  전자신문",
+    "source": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PQm9SeDhiMFdYckhfbzdvb2NydlZRZ3pINDB0bXZaY2dhUXF2TmtyajBDU0FGUk96MXpBTHh4MzJrVE1hRTNLSGRoN05Zdw?oc=5",
+    "published_at": "2026-11-18T07:16:32+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "SWM (서울자율차)"
+    ]
+  },
+  {
+    "headline": "웨이모 택시, 캘리포니아 프리웨이서 퇴출 … DMV,시험운행도 금지",
+    "summary": "웨이모 택시, 캘리포니아 프리웨이서 퇴출 … DMV,시험운행도 금지  KNEWSLA",
+    "source": "KNEWSLA",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zd3lfLTM0T0U1MFdQWHp3S0hxNDlfZzhFejlVdlhEMHl0NXRtOVplT2RoSmpBUUZOQVViUkhTdXFTTWNRdk80c2FSNnVxTDNiME1B?oc=5",
+    "published_at": "2026-11-18T04:48:13+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "안양시, 관악역~안양예술공원 자율 주행 노선 현장 점검",
+    "summary": "안양시, 관악역~안양예술공원 자율 주행 노선 현장 점검  뉴스파노라마",
+    "source": "뉴스파노라마",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54MDlPU3NObXNsNGJ3Y3g2RHVQcHg4U0NDSDdXZlRxOElIRnotMmtISTBhc3lMS19XM2N1SGZpZVBreVV5bDNpWkJOUEJJTFpqZ1JEcVQwM3VJT21GVDdTYk5DN2szZlBvTFh5akdiWQ?oc=5",
+    "published_at": "2026-11-18T15:05:41+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "현대차·기아, 400㎞ 물류 노선서 ‘레벨4 자율주행 트럭’ 실증",
+    "summary": "현대차·기아, 400㎞ 물류 노선서 ‘레벨4 자율주행 트럭’ 실증  Chosunbiz",
+    "source": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uZWtmM2IzRHJYY3VKWi1zaGF0SHJTcmNHY2hFUV9LY0x5U1oyYUY4N1F1cmFRZWJnZHdfUXpJbGZlZkk5YmhtOHVGbFV3azlfY042cGVjbHJlOEVSX1NwQ2xhRHlFSFFzbWowcjF6V3VRRmEtakJ0ZFpMQjlHc2s?oc=5",
+    "published_at": "2026-10-20T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "충북혁신도시 자율주행 셔틀버스 '모두타유' 운행 확대",
+    "summary": "충북혁신도시 자율주행 셔틀버스 '모두타유' 운행 확대  연합뉴스",
+    "source": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjbHBia1VfbEFqYmVJd1d5aE1JV0w1UXFDR0ZpWnUzUGJISXVUTzhmdGM1ekYtdl9uTkFRSVZYRTdhUXhfclRWdWtaTEpFMnhHcjFqOVZCRGplZU3SAWBBVV95cUxPbEI2YUZoai1pVzI4SFgxN0ZkRE1mNF95MHhhMXl1TFFCT1FHcXJRNF94WkY3ejZjQW5QT2VjWmhyNTllWVZmU0F4S2NCQjNVX3RrS0VwQjVjWnI5V255LWM?oc=5",
+    "published_at": "2026-11-17T07:02:19+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "“AI가 운전하는 셔틀버스” 충북혁신도시 출근길의 일상이 된다!",
+    "summary": "“AI가 운전하는 셔틀버스” 충북혁신도시 출근길의 일상이 된다!  모빅경제",
+    "source": "모빅경제",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQV1lZTDZyZFVwTHNqYUY4LUJrelBTM1Y0cy1RM1RsYjA0SVZrVEREZUNja29Jc3lOcExtajJER2k3dUN5Z1Y1OU1KQ1lsMkhIU21IdTZYOGRZTk9pbEk1cVNFb3JyUlZiNElJSXZ2UGU?oc=5",
+    "published_at": "2026-11-19T00:36:31+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "광주 자율주행 실증도시 이달 30일 첫 운행…연말까지 120대 투입",
+    "summary": "광주 자율주행 실증도시 이달 30일 첫 운행…연말까지 120대 투입  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Fb2tsMlRkNVZNR1pFZEFOakt0Y1ZwWDRhaldfWFoyck1tVmF5RWdkeTBFb3hCWDZlS25jdFNucy14enZvVlE1U0JiSHlPc3I1bDFoNzRRZE82QQ?oc=5",
+    "published_at": "2026-11-15T02:01:58+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "광주 자율주행 실증도시, 이달 30일 첫 차량 운행…연말 120대 투입 전망",
+    "summary": "광주 자율주행 실증도시, 이달 30일 첫 차량 운행…연말 120대 투입 전망  씨원뉴스",
+    "source": "씨원뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sSmJpMWZCdkowZ2NWbVRpSGsyWHFaYjV3cUd3UGozeFFnY0hraUI0S2hFS0tmYV9qc3R0ZlBPa3BoVDhHUkcyM0sxLXVpS1dsUmhBUmVRcE81blAxcE1lV1htUlBRX1k?oc=5",
+    "published_at": "2026-11-18T23:37:06+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "가천대·라이드플럭스, KASA 자율주행 연구상",
+    "summary": "가천대·라이드플럭스, KASA 자율주행 연구상  동행미디어 시대",
+    "source": "동행미디어 시대",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2NTMtaS02aUxBSG1Kd25ycjQySDJpbTBwWVd4VkhkXzJUT2FBQ0ViZG55WXg3VmNTVWRlS1Z1SjhaY2N3clF4eWt5ekpPRWJxYkZQakJQV3lJZlc3WlE?oc=5",
+    "published_at": "2026-11-19T07:43:14+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "라이드플럭스 (RideFlux)"
+    ]
+  },
+  {
+    "headline": "캘리포니아 DMV, 웨이모 프리웨이 자율주행 중단 명령 - 사회",
+    "summary": "캘리포니아 DMV, 웨이모 프리웨이 자율주행 중단 명령 - 사회  koreadailytimes.com",
+    "source": "koreadailytimes.com",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oNGlOdVlPV3FISmY3TThHYzRLMXBsZXdMd2R3elZoMGhtX2FmWnZtTV84V3Q1N1hadUtRVE1GOVlEMDIzSV8teg?oc=5",
+    "published_at": "2026-11-19T04:24:22+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스모빌리티와 국내 자율주행 생태계 구축",
+    "summary": "현대차, 쏘카·에이펙스모빌리티와 국내 자율주행 생태계 구축  더나은미래",
+    "source": "더나은미래",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxRWMzUnZpb2dfTzBic0ZOMS1oTVJrNThiSU0wWS1sTkgydjBfNzNfWEhNSUkwMEFfNkhvaDlvbFpDNGJ2eTZHclpwWjJWbmdkbmc?oc=5",
+    "published_at": "2026-11-13T09:40:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "쏘카·에이펙스, 현대차와 자율주행 사업 MOU 체결…기술 검증·데이터 협력",
+    "summary": "쏘카·에이펙스, 현대차와 자율주행 사업 MOU 체결…기술 검증·데이터 협력  Chosunbiz",
+    "source": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSnlEWWpYWDhLS1dHbXdTU2VYY1Z2NG55TlllLXNia3k5TGp3QlVseDk1bjdqcXoxallnU0lSalc1QU1GeFZuY0dUam5Lc20tOExkYlFjNjRzZjVGMHRPa1FRd3ZlOWJ3bWFJcUp2N2VYQlR5OE44dko4V2hWQUNoU2tn?oc=5",
+    "published_at": "2026-11-13T01:51:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스모빌리티와 자율주행 데이터·플랫폼 협력",
+    "summary": "현대차, 쏘카·에이펙스모빌리티와 자율주행 데이터·플랫폼 협력  코리아리포트",
+    "source": "코리아리포트",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JWjZtRXBrbFVVY0lsWU0zUFpPMTduOXFYUTFndEZKUVpVUmJWTXVjZnZtdlhTc3NBUVZXSXJlYmQwX3hscFhiTHIzdHExbWUzbkktMDI3NlpLYzZjcVI1UU5QVUNQTVptTEUxeGJfUms?oc=5",
+    "published_at": "2026-11-13T01:51:30+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스모빌리티와 MOU 체결",
+    "summary": "현대차, 쏘카·에이펙스모빌리티와 MOU 체결  이뉴스투데이",
+    "source": "이뉴스투데이",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ncl9id2tDV0JBcFZCa0RwVlJGbHFrek5TUm9SNU1Id3dKTFVLbVh1TE1XN3hERk15X2ZzS1BtSG1yWjc5ZlE5cVNnaDg2NkNHQzF3UkNGQjdQZDIzaVBib3hwYk5DSGE5WUFucFEteXZ6QdIBdEFVX3lxTE0wODI5V1IzQkcxei1ERE5GTkdWT2ZobV9CQlNBTGtaVWE1X0RCcGJ5YlBVY3FIOWloLTY1RXp0UFFRZUlHYlBUNXFZNzhlRWM3OGc4UEFkSW1EdHBQUlVGblFLM3hzUzN5Q1ZUTXR3WE5keUxw?oc=5",
+    "published_at": "2026-11-13T08:37:16+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "'디 올 뉴 아반떼' 공개",
+    "summary": "'디 올 뉴 아반떼' 공개  Hyundai Motor Group",
+    "source": "Hyundai Motor Group",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVHZ2WUk3RlZ6RDZiYzUxZ3IzTGtJdkhSZ01fakM2UjVqRF9IOExhakZPQTZVQ09xcG5yVmxfRjVBZ2lXSFdJMkJiVk56SlVKWTB1SzRPaWU5WldiRXlJUmFIN1ZzWlhtb0NPdTBSYVBHcXZqVjRueTBxMTdmZkNwRHJzZVhOejBYdDQ0X3dWVzhFdw?oc=5",
+    "published_at": "2026-11-19T23:30:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "현대차 \"데이터 플라이휠 격차, 3~4년 안에 벌어진다\"…그룹 4사 '데이터 유니온' 가동",
+    "summary": "현대차 \"데이터 플라이휠 격차, 3~4년 안에 벌어진다\"…그룹 4사 '데이터 유니온' 가동  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pYzg5R3BSODVVSE42TV8xMXJEc01uclpKdXVBdnNqSVBzamlQWVVvZTdZTm8yblN5b25Yd01WTzc5RTlXVWVqb1pZMWJockFhaFJnSURwSUktUQ?oc=5",
+    "published_at": "2026-11-19T22:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 \"자율주행 경쟁력, 데이터가 가른다…격차 갈수록 커져\"",
+    "summary": "현대차 \"자율주행 경쟁력, 데이터가 가른다…격차 갈수록 커져\"  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TNlJrREdOSVBzSXo1UHBrcGw1TFo1Nl8yV3RCWmJ5UjVHWGl6MHJyVENiWXNNMkp2dTBiU3FHWTlnMnI2M2lOWDVCS2NaNGhDaWRvbDE0UkZVUFZSTVRkaA?oc=5",
+    "published_at": "2026-11-19T08:42:15+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대모비스, 전동화·자율주행·로보틱스가 성장 기회…미래 경쟁력 높인다",
+    "summary": "현대모비스, 전동화·자율주행·로보틱스가 성장 기회…미래 경쟁력 높인다  증권일보",
+    "source": "증권일보",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OdnkzeEk3UzN3eUZEWG5zVjAzOGdjeE8xTWl1U1dJcFB1MVdqdjFYd2hMTUU4THdOVkFqa3IzM0dZbHNfZVczV0xvWGdfLXRrdTcxYlBRTFVzdE9pN2FnQQ?oc=5",
+    "published_at": "2026-11-20T00:15:00+00:00",
+    "tags": [
+      "기업"
+    ]
+  },
+  {
+    "headline": "車 팔수록 똑똑해진다…현대차, '데이터 플라이휠'로 자율주행 경쟁력 키운다",
+    "summary": "車 팔수록 똑똑해진다…현대차, '데이터 플라이휠'로 자율주행 경쟁력 키운다  메트로신문",
+    "source": "메트로신문",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12dXdiOXN2WG02WDM5cTNwQklmU0VUUUlBYmUyV1NRX0dHcldfb3RMZEFnMlhkMFV1UXJfcXRWSnY3eHVTU0hzYkRUa1g1TXdzMGg4aVhlZXdZSzFxZXJuTw?oc=5",
+    "published_at": "2026-11-19T08:20:55+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "권정현 현대차 부사장 “스스로 진화하는 자동차 구축…데이터 플라이휠로 자율주행 가속” [ET의 모빌리티]",
+    "summary": "권정현 현대차 부사장 “스스로 진화하는 자동차 구축…데이터 플라이휠로 자율주행 가속” [ET의 모빌리티]  이투데이",
+    "source": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OZWczem9RX09IWkplUkliWm9sZjYyd1QwRG91Qkkwa3lSQUFwNVJBU1A5aV9YWTZsMnhwbjl1dXQwM3lVTFd5QWN1MW5lMEI0TFp5MA?oc=5",
+    "published_at": "2026-11-19T09:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "\"1%로 승부\"···현대차, '데이터 플라이휠' 전략 고도화",
+    "summary": "\"1%로 승부\"···현대차, '데이터 플라이휠' 전략 고도화  뉴스웨이",
+    "source": "뉴스웨이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PN1MxUFktOGg0azM0M1ZaZmNRM0YyRTQ4UHJacXlydkl2U1lOTXE3aVJoMWxWYWZjRF9ITS1rdXlRUmdaY092WGcwS2U4WmpiaXFqcVY5Znp1UThpNkFhMGdJTVhhZ1U3ckE?oc=5",
+    "published_at": "2026-11-19T08:36:34+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "[단독] 현대차·포티투닷, 애플·엔비디아 출신 '자율주행 테크 인재' 공격적 영입",
+    "summary": "[단독] 현대차·포티투닷, 애플·엔비디아 출신 '자율주행 테크 인재' 공격적 영입  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DWEN3OGRyVnBsaXptQnhUa1lEZFZFcDBHS0xlVnJZTkpEWE1yeGZObjlwaFlvbUt3LUdzV2xQUlF1aVBsUWpUa3NyUXVNYTJLWGxwZEI1NF9EWnQwcUppdtIBeEFVX3lxTE1yWnk0WW9jZy03cG5aR2hPNTk5eENTSmsyMFY4TVNwZHJ4MXZlTVZNOUpVTGdsMDJVeFI3bkUwSXg0ZDB6cVhrWlFkc21lX0UyQldId2JNNkc3d3dFcmViRFVTWXJTVHR4NmE5MlNBYTVlTHM5Tkt0OA?oc=5",
+    "published_at": "2026-11-19T02:08:06+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "[현대차 다음 성장 조건] 애플 인재 영입 '자율주행·로봇' 기술 융합",
+    "summary": "[현대차 다음 성장 조건] 애플 인재 영입 '자율주행·로봇' 기술 융합  블로터",
+    "source": "블로터",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JSGFuTVZOV09OZWhiTHo4UnlUazNLSTBzR2F2c3Ztc2RSQ1Q0bFFuWHRLX3EtcEpVTXVkRmpqRjd3QU9YTEhJZU1fN2RsR2EzblBxMDRWRlhzWE9iNnZKZXVOTThtYU9Z0gFsQVVfeXFMT0ctNDhGRXJIelJvNjdSOTBtTy10UzVCZFNLX2ZCNmlOTHczbWplT041VVJSaGVtSWYwSXdtbjduZXVvbXZrTUhSN0hZZV85WFZkZDlrR2VjUzVxdnlLTzZuWHg4TDlkRlpIc1dC?oc=5",
+    "published_at": "2026-11-19T00:36:14+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "\"차 고장도 이제 소프트웨어 탓\"…현대차의 다음 고민",
+    "summary": "\"차 고장도 이제 소프트웨어 탓\"…현대차의 다음 고민  데일리안",
+    "source": "데일리안",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMm0tb3ZRZlZkYm1VT0poNjdxVEFYZGV6d2JXOGFhcDhFY25fWmJ4WG90eS1yZTEzZEFjVTBQNnA2QWJTMHpCYW5rMm9uc0dKaXBSdHlpTFR1Tks3UGxwdjdwTmkxeU5nTmkzTGhLVFFUZkhIVkk4VDNzQmZ4My1SYVFZWkFfdWRBZjZ0SlA3Y3MzeXp2bTV0TE94VWI3LWJndFczWVpicEVkMGtZOC1MMTdNSGZWRi1pNXZYM2xzdEFSLWM5X1BCaE9PRU9kU0ZCQ0lSSWNkcElzcG9YRFNPdlRMMDNjNFF6aE81dWw4cmptQjhWOXlIOGF3RVFnbUZTQk9DTEtGanQzMk5MeUtuRFpiTnVubEU?oc=5",
+    "published_at": "2026-11-19T09:09:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "\"피지컬AI·자율주행 안전 확보\"…車모빌리티안전학회, 산업화 협력",
+    "summary": "\"피지컬AI·자율주행 안전 확보\"…車모빌리티안전학회, 산업화 협력  뉴스1",
+    "source": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VYWVNTFlVVGFCVENUVm1NRGp4UnpOUi0ycU85eVEyRm84bVNzeXJNYVI1NUlVNGZMWTAtZEZ4NkxNS211ODV2SDVnbnZxblJDWHBDZDU5SDJ5ZmlQeFRrTQ?oc=5",
+    "published_at": "2026-11-19T05:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "현대차·포티투닷, 애플·엔비디아 출신 임원 3명 영입…자율주행 개발 강화",
+    "summary": "현대차·포티투닷, 애플·엔비디아 출신 임원 3명 영입…자율주행 개발 강화  이투데이",
+    "source": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tblFhU2VWMU8yNk9IS2g4UDRGVWUyLWZfaThFaFRSa0RkeE0zbmZJQThrVUxJSXNha1h3VXE4UVFyTXJPRTUwRllxSUQyNEFOeWFGTkZRTUNBbno2eFdSa0VXZm0xTjVVOFB2RWZGa0lUZ1NG?oc=5",
+    "published_at": "2026-11-19T06:48:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "자동차안전학회 설립 20주년…추계학술대회 개최",
+    "summary": "자동차안전학회 설립 20주년…추계학술대회 개최  지디넷코리아",
+    "source": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TbEo3SThIUWhaVENCckxBTlQyWFY1cnpNMnM4RGwzMU8wem1WeDdIU05wZUY1MlB0OUlFT1dnNlFvZUxVX2Nma0JYZDB1UnJ4MGV3OVVB?oc=5",
+    "published_at": "2026-11-19T05:01:02+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "현대차, 빅테크 임원 3명 영입 공식 확인..자율주행 상용화 가속",
+    "summary": "현대차, 빅테크 임원 3명 영입 공식 확인..자율주행 상용화 가속  한국정경신문",
+    "source": "한국정경신문",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fN2RpV1hDaHN5cXFtR2RSdklhTTVZMVBNejEyZzF4aUgzZkNkREJjaEZmSW5lcHplOEMtVjdxM3Q1emxsZFhRRjVib0tVbm9LYmc?oc=5",
+    "published_at": "2026-11-19T06:42:14+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "무뇨스 현대차 사장 “젠슨 황 떠나도 엔비디아 협력 매우 중요”",
+    "summary": "무뇨스 현대차 사장 “젠슨 황 떠나도 엔비디아 협력 매우 중요”  ER 이코노믹리뷰",
+    "source": "ER 이코노믹리뷰",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92clR6b19ucFJhOXhsY2dfXzJXaGdDSVJmMVA0aWZ0dHlYRjRQWXFRMzFYNFhsb0xKZVA1WFFVdkhOa2RkSmRfM292RTRMUk5JOW9yYk51TUx4T0owUVA3WDhfYWhvVnZGZ3p5WA?oc=5",
+    "published_at": "2026-11-18T09:02:03+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차그룹, 자율주행 상용화 속도…애플·엔비디아 출신 인재 영입",
+    "summary": "현대차그룹, 자율주행 상용화 속도…애플·엔비디아 출신 인재 영입  컨슈머타임스",
+    "source": "컨슈머타임스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DMDVwdDRXTGFwdmY4NGhhNkhsdm91dWxfcjkwcnNFdDJKQ1pOTG9RT2ZoYzdSRnpHTjFVdHFoUVVrNGk2dXJnUl9obmlzUXNRR2R3RHRPOHJTRnJ3RUF0dnZNSGhXQ1NEanc?oc=5",
+    "published_at": "2026-11-19T04:47:10+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
     "headline": "“리콜 뒤 또 공사 차로 진입”…미 캘리포니아주, 웨이모 로보택시 고속도로 주행 일시 중단",
     "summary": "“리콜 뒤 또 공사 차로 진입”…미 캘리포니아주, 웨이모 로보택시 고속도로 주행 일시 중단  경향신문",
     "source": "경향신문",

@@ -1,5 +1,414 @@
 [
   {
+    "headline": "웨이모·포니AI 한국 노린다⋯현대차·기아, 로보택시 주도권 확보 총력",
+    "summary": "웨이모·포니AI 한국 노린다⋯현대차·기아, 로보택시 주도권 확보 총력  엠투데이",
+    "source": "엠투데이",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ua0U2OERPS2xzVmZkWm1VN1NTeVU3WlduSXJlU2pTVWhDckhweWhyeUhicmkxckFGbGZpU0wyZE9oV21Kc2I0YUg0TE9ORXlTT0xnWWJSd2stRGdCLUFXZ0ZobWdKUk45MHBGSkcyWQ?oc=5",
+    "published_at": "2026-11-22T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "포니링크"
+    ]
+  },
+  {
+    "headline": "중국 자율주행 택시 100대 집단 멈춤…승객들 ‘분통’",
+    "summary": "중국 자율주행 택시 100대 집단 멈춤…승객들 ‘분통’  KBS 뉴스",
+    "source": "KBS 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wX3EzVTFFYTF2M3ctc3F5VWFWNkg1YWpyMm5RZ1haaTRGUzFSZ2RrRUFwdkFBYWVUVHdvdEFabUY1RlNyenVoclFrNXdUcmlBNkpqZVhIX1B6SDQ?oc=5",
+    "published_at": "2026-04-01T07:00:00+00:00",
+    "tags": [
+      "해외"
+    ]
+  },
+  {
+    "headline": "머스크 “운전대·페달 없앤 SUV 모델Y 계획…6∼7인승 로보택시”",
+    "summary": "머스크 “운전대·페달 없앤 SUV 모델Y 계획…6∼7인승 로보택시”  미주한국일보",
+    "source": "미주한국일보",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Sa2lWMGhrSWRMeGhzaTZ0ODV1eWJHZkhsYXpJU1ctV3RLeXlqdW14cjBRSW1fOXczLXU3RXJBaUlYbDBDelh6WHZfczRoTVh3S2pWRkFR?oc=5",
+    "published_at": "2026-11-19T07:30:24+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "광주 자율주행 실증도시 30일 첫 운행…연말까지 120대 투입",
+    "summary": "광주 자율주행 실증도시 30일 첫 운행…연말까지 120대 투입  테크월드",
+    "source": "테크월드",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BWDlpWE51bmNGUWg4TFFvRzh1WDFHNHlxOTdPT3pLTHpUMU9FRWU3S0h6ZzZxY1F5ZUgwejdBRTAyalBOaU1SV3RzaGszWnhadndjMEJsU3lfZ0Vvc1dNRDNkZHgzZ0lL?oc=5",
+    "published_at": "2026-11-16T00:29:08+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "[사진] 심야 자율주행버스, 서울서 세계 첫 운행 시작",
+    "summary": "[사진] 심야 자율주행버스, 서울서 세계 첫 운행 시작  중앙일보",
+    "source": "중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1neDZsWGVHN0NDLUdvUFBJQ2toU2hoVFM0VzZxcDdzME1CZHdIbmptbVBLT1pGeXhmVm1fWG1LWndDQWNQN2I3RC1fSGJvajdVTFlBcUpB?oc=5",
+    "published_at": "2023-12-04T08:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "현대차가 쏘카 부른 이유... 완성차의 새 사업, 남의 자율주행 SW를 얹어 판다",
+    "summary": "현대차가 쏘카 부른 이유... 완성차의 새 사업, 남의 자율주행 SW를 얹어 판다  교통신문",
+    "source": "교통신문",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ydVR0b1dqWHRTQ1Z1clBpUTFrRG81MVFCUHE5UHQybWRRWTVFQTZybV9PTmtUWDEtRS1oSm4xM1BGVVlzUFRQN1ZySk1oX2s4Tmc?oc=5",
+    "published_at": "2026-11-20T15:15:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 美 로보택시·韓 자율주행 생태계 공략…기술 내재화 속도",
+    "summary": "현대차, 美 로보택시·韓 자율주행 생태계 공략…기술 내재화 속도  PRESS9",
+    "source": "PRESS9",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UbTkxY2lZVElibzlQUVNvV1YyMnNFY0pWYUlKdktVWU53aTJZdVQwMktUallfei10YVRYV043TzlJOElCVTNhX3ZZazZDUGtPX0VueGlSTTl6YlVfMEZUbXBJT0FqUQ?oc=5",
+    "published_at": "2026-11-21T03:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "쏘카·에이펙스, 현대차와 자율주행 협력…데이터·차량 실증 추진",
+    "summary": "쏘카·에이펙스, 현대차와 자율주행 협력…데이터·차량 실증 추진  이투데이",
+    "source": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MVV1VnZNVHRJVjJnOHlWWmRjem9MSWpxWHFRWTFqU0NZeWwyLWg5dXlLdTJBSmkxZU1sNVVxXzVBM2Rtb2E4WDlXbzRFc3UxbGlXSA?oc=5",
+    "published_at": "2026-11-13T02:18:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스모빌리티와 자율주행차 개발 협력",
+    "summary": "현대차, 쏘카·에이펙스모빌리티와 자율주행차 개발 협력  뉴스저널리즘",
+    "source": "뉴스저널리즘",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uQTNtQzVlYkY2QnBpSjNFUFItVW05dXlUVUt6RzVvaW01OTJSMTJmV0lzbnZ4czFVWjM1ZEtwQzBoVFp2ajFSNHFhQVQ2RWx1QzVQYjZCenVyNE9vV2RxYnNLcG1ieW1nUjNv?oc=5",
+    "published_at": "2026-11-13T08:33:25+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스모빌리티와 자율주행 협력…실도로 데이터 확보·차량 플랫폼 개발",
+    "summary": "현대차, 쏘카·에이펙스모빌리티와 자율주행 협력…실도로 데이터 확보·차량 플랫폼 개발  중소벤처기업신문",
+    "source": "중소벤처기업신문",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q19raUwzUFJ5cFhmbXpIRGQzNTFwa09ibzFsN0hKaVk3Um13dDQ2WW5vZWstNzVWeW9SQXNMaUxWaXpGWlVMVUdnQV9xcEVEY3ZZZ0l5dGRlQTRaVHZOaGN4S1JCYzg?oc=5",
+    "published_at": "2026-11-13T06:54:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": ": 다나와 자동차",
+    "summary": ": 다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXBmTVdSOFVYNkdSem43OWNibG82a3pwQzJCVjYwaG5VQ1lsUHVqcEMtckVmU2Z6bGtfUm5pdWN2WjVZYWFnZGZTeUtVUXZEeTVlNzNERVZUSEowYjROZS1rX0MwcGJEMHFCS0xJejhGYnZpdWF1MUhmWjVEQ0dmek5NbmJ6NU9ZUFE?oc=5",
+    "published_at": "2026-11-13T10:46:51+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스와 자율주행 차량 개발 협약…국내 도로 데이터 수집",
+    "summary": "현대차, 쏘카·에이펙스와 자율주행 차량 개발 협약…국내 도로 데이터 수집  토요경제",
+    "source": "토요경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0QVg1ZXBMdXdLUm1BaFZLUGRvbUM4Q2Exb2FDdVBfNFlBbU5CV1Azd1A3RG1xdTFTU1FJZEpHRUFXaEVvZnFBMFdnZkpnbE9CdE5CZXo0N2NuWkh5QW9hM9IBb0FVX3lxTE9xeXh1YzE1SnNmMDZaWkg1QXBkSEtaMnZndjk5Q041Q3BUOEZuM1NOa3M1b3dkVTRObXowT1B5VUdFeXdCb3lQeWNCZXB5ODhjNkg2WEFfQzNUanFJQkg5aE8xekRCTEZyMTZtT1h6SQ?oc=5",
+    "published_at": "2026-11-16T01:09:48+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "서울 성동구 쏘카 본사, 현대차와 자율주행 데이터 수집·제공 협력",
+    "summary": "서울 성동구 쏘카 본사, 현대차와 자율주행 데이터 수집·제공 협력  스페셜타임스",
+    "source": "스페셜타임스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yemZkeVM4TlpxUmFQc3dObFdzZUIzQlQ0ZkZlaU1YUi15NTc1VUtPMEZzSU9UWUZtbUFtTDJvRWx6aTB1QUpRVmRBRnhCTTRYVlMyenlaalBCd1l6UERqUEJWczljWHAzRmtKM2ZkWDlScmM?oc=5",
+    "published_at": "2026-11-13T02:00:30+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 자율주행 플랫폼 개발 박차...쏘카·에이펙스모빌리티와 협력 본격화",
+    "summary": "현대차, 자율주행 플랫폼 개발 박차...쏘카·에이펙스모빌리티와 협력 본격화  우먼타임스",
+    "source": "우먼타임스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aT3dYenhBRGN3dU9LZks5bkl5RHk2ZnBNMHN5TXBfc0lsdklSWGN6b2tKX2hJR0JwWkdDNDFrc2ZzZTlyckowVFlZcGZHYjQ2Q1hKdHNDNmEzYnlSczBnd1lpcGJ6MWswNGNfX3VjSEk?oc=5",
+    "published_at": "2026-11-13T00:56:27+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차·쏘카 손잡고 도로 데이터부터 전용 차량까지… 한국형 자율주행 판 짠다",
+    "summary": "현대차·쏘카 손잡고 도로 데이터부터 전용 차량까지… 한국형 자율주행 판 짠다  knpp.co.kr",
+    "source": "knpp.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4tSUNyQWx0c0VDZTBuZExDbkNtV0VveXRZSU94WVdXZWRMU3BGU01CT3Bvb3hGRTF1X21jZXp5LVhiVVU?oc=5",
+    "published_at": "2026-11-14T08:21:39+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카와 데이터 동맹…자율주행 생태계 확장 속도",
+    "summary": "현대차, 쏘카와 데이터 동맹…자율주행 생태계 확장 속도  뉴스토마토",
+    "source": "뉴스토마토",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XcGdwSmVIY0dWakNuMVhMUTJRRzBYaFJyT2FqTHQ1ZmZyNVFrVFVPdUFibzdpenVLS21IUGZPUmJhd0gzTGlzZHZKdnZLaG1xV1QwYWlPWXZ5dlFzUmZLag?oc=5",
+    "published_at": "2026-11-13T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스모빌리티와 맞손…자율주행차 개발·실도로 데이터 확보",
+    "summary": "현대차, 쏘카·에이펙스모빌리티와 맞손…자율주행차 개발·실도로 데이터 확보  지피코리아",
+    "source": "지피코리아",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fZU5weVhlU09UREp3NHdvS2lYTDVJMzJwaDgyanEtUEtQQ1JQcldfYmpMc09vVE1hYVh4QXUxUUZsYzllaTVwdFBQZXcta3NWZ1dHWTJvLXpmVy1Vc1ByakhzTUZ5LVUxZ3fSAW5BVV95cUxNc2NfOV9ydWNNTE9hYzh5bWtfVUI3REdac05OSFhwRVNZcFpKejh2Q0VteEt5N3dZaU40Ym1qUVd1bmE5eGpQWTJiME1XWGgwNzF4Y1F3Wk9ST01LYm44c1B1WjZWeVFHeTZKcm5GUQ?oc=5",
+    "published_at": "2026-11-13T00:50:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스와 맞손…자율주행 전용차 플랫폼 개발 속도",
+    "summary": "현대차, 쏘카·에이펙스와 맞손…자율주행 전용차 플랫폼 개발 속도  쿠키뉴스",
+    "source": "쿠키뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KX0otNjJyN0JtRG54Um5senpvb0F2NFVkSUJsNjB4Sm1CUnBkM2gyYVpWT1dpZTJnYWNCdnlPa3dfYkpmQVRlUGhMc1ZEMG1rc01RWU4tSzZ5OTh0cktKRUJfRQ?oc=5",
+    "published_at": "2026-11-13T01:02:16+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스와 자율주행 기술 협력",
+    "summary": "현대차, 쏘카·에이펙스와 자율주행 기술 협력  중앙뉴스",
+    "source": "중앙뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hMk94d3BNS01MSlJ2NXRwVmh4ZDlNYW5NT3F1c28zaWd5RXY5NUV0R0syU205NmkzR0FMN3ZoRkx6c1VXclNsOUt5c2VBclR5Vm9JUXczY05VempLNmVWVGZJbW9NODNRWFBoMdIBb0FVX3lxTE9fYlVMNkU4MVFObGVoRjJmMy1lYUhJMEt5dmNNN19QTUVRWmROTkliclNYanZhUVphR1JJQ1ZsX3VQNVVrTkF3OG5NS1FlckRaVjRxc2U2SHhvWTJGeEVPd0MwbFdWVU9lZUZsZHp6TQ?oc=5",
+    "published_at": "2026-11-13T02:32:40+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스와 ‘자율주행 동맹’…국내 실도로 데이터부터 라이드헤일링까지 잡는다",
+    "summary": "현대차, 쏘카·에이펙스와 ‘자율주행 동맹’…국내 실도로 데이터부터 라이드헤일링까지 잡는다  뉴스로드",
+    "source": "뉴스로드",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbUtyNnJQUXo3cGd2aHh0dGFiLTFabXZmRUpsZV9KR3N3SHFEYzE0bFBFcDVoVFc0S2lJbTJ1U3NjQW9rRHdIQWczNlZyaF96S09ZQ2hWT2ZVTGtrLW52OGhzYXRQdy1UbXY40gFvQVVfeXFMUGRUc0gtOGlOR3c3RTc3ZTMwUjlhVWExZE9HMms5eUh5UUQwTmRxQWxNQl9hY2hma0k0X0Q1SFFodWs5NWJGbS1vQlFLQ2hQQXlLOGhWUjV0RVZIdHdsam00X21sTy0zanU2QS1DY1B3?oc=5",
+    "published_at": "2026-11-13T03:15:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스와 자율주행 동맹… 'AV 파운드리' 경쟁력 키운다",
+    "summary": "현대차, 쏘카·에이펙스와 자율주행 동맹… 'AV 파운드리' 경쟁력 키운다  팝콘뉴스",
+    "source": "팝콘뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OSy1uakNfcXJSRlBWQnZidkJTWk94aXc1U2d4Vy1XZnBNWXhRNW4zTm1wQmZyMEpManJNOWotc0hXY3JWbVVLeFVBZlFsalQwaEtfcG9QOFY5YW9kMWtYT0VUUk5FdktXM3V0d2F30gFyQVVfeXFMTjBuZ2d5a3o1RTNGRnJJNllTVHNnUVpYdURzOFpMVXl0Z0k0TWFOTkJFUl9KUVIyNFNtT0paSURsX0hnbFA1bVFQRWp5bmN3cG1ieEp0cTJ5enhkbE03SFBuZmxfZW5Za3ZiUTFlZHdfczJB?oc=5",
+    "published_at": "2026-11-13T01:42:59+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대자동차, 쏘카·에이펙스모빌리티와 '자율주행 차량 플랫폼 공급 및 데이터 수집' 업무협약 체결",
+    "summary": "현대자동차, 쏘카·에이펙스모빌리티와 '자율주행 차량 플랫폼 공급 및 데이터 수집' 업무협약 체결  벤처타임즈",
+    "source": "벤처타임즈",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00c0ZpSXdocC12NU9YV2dFSU9qQXpNME1xbDVKUzJCeXMzbXlrejFhWUtFUWdsMWplNDFzMlJtZ3NIUTBZeDB4MFZMOElSY1lydExmcnFZb2s5bXo2aEttSEkxUW9vdw?oc=5",
+    "published_at": "2026-11-16T00:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 사장 “젠슨 황 사임, 큰 영향”…엔비디아 韓에 전략적 중요 - 진일보",
+    "summary": "현대차 사장 “젠슨 황 사임, 큰 영향”…엔비디아 韓에 전략적 중요  진일보 | 전남일보",
+    "source": "진일보 | 전남일보",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jQS1fUDlvTk5tb3BqLXJPMjNZRTE0QXl6TWhHck11cFJsTzhOb19tdU1yeXVFbFlOTThZX0dWOVhKT1BKYWlqSllnYTdBYkpwWjVFajFuNnB1Yk5nT01ZVWJNcWJfZElyT213bkd1Zw?oc=5",
+    "published_at": "2026-11-18T05:21:27+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "지정 좌석 ‘쾌적’, 정차 공간 보완 필요…호출 편의 최고, 비상 제어 기능은 없어",
+    "summary": "지정 좌석 ‘쾌적’, 정차 공간 보완 필요…호출 편의 최고, 비상 제어 기능은 없어  경향신문",
+    "source": "경향신문",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZYWVrUE9uYnNXai1QTjJlbFZ4ZXNpS296SEhoS29tbU1xMnE1Q1BGaHpHVVEwNm9aWjM2UTFTaDQwMzYtZ2tXRmE4WUx2Z2I5SkpzQm9LaTREUdIBX0FVX3lxTE1lMnpVNkdSdTJ6SGZNb3NQZ0k4NW52aml4RmgtQWNNeGF3Ul93akx1blpmN1JRSk02YVliQ2ZCM2gwQkpNUW94WUZmNUV3Ry1jTjNERzJpTmktcGl5Z0tj?oc=5",
+    "published_at": "2026-11-22T11:34:00+00:00",
+    "tags": [
+      "정책"
+    ]
+  },
+  {
+    "headline": "로보택시, 손 모아야 ‘잘나간다’",
+    "summary": "로보택시, 손 모아야 ‘잘나간다’  경향신문",
+    "source": "경향신문",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ram9JUzRSZ1M3M19jMTh5X0lRVXN2cFU4bExTV0xQUEtVRDMwLUdCLTdfbUFTdFNOX3lPNllJSW5XV0Z1TV9CcThNb2JaOVNWQ0t2RjhnZTItVnpuUU8w0gFfQVVfeXFMTWtqb0lTNFJnUzczX2MxOHlfSVFVc3ZwVThsTFNXTFBQS1VEMzAtR0ItN19tQVN0U05feU82WUlJbldXRnVNX0JxOE1vYlo5U1ZDS3ZGOGdlMi1Wem5RTzA?oc=5",
+    "published_at": "2026-11-22T11:34:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "로봇 상용화 관건은 '여러 로봇 함께 굴리기', 카카오모빌리티 '브링온'으로 건물 설비까지 한 번에 연결 - 플래텀(Platum)",
+    "summary": "로봇 상용화 관건은 '여러 로봇 함께 굴리기', 카카오모빌리티 '브링온'으로 건물 설비까지 한 번에 연결  플래텀(Platum)",
+    "source": "플래텀(Platum)",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qSDJBeld1Y296ZzI3MVRqUTlPbTNFbnpZNGVQa2pUMkNUUlVlaW5fRFY5NWpUNVJPX1l4RE9DWXlFQldkNWZOXw?oc=5",
+    "published_at": "2026-11-06T00:46:12+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "“로보택시 일상화 눈앞”… ‘2026 글로벌 모빌리티 콘퍼런스’ 개막",
+    "summary": "“로보택시 일상화 눈앞”… ‘2026 글로벌 모빌리티 콘퍼런스’ 개막  위런치",
+    "source": "위런치",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BVTlpUmdReGl6cmlmd1Z6SVpVamdvNldjQXpKU3RMdjlERXg5SWRfNkp4UFVUQzh0UzhWZTk4S2dlWmo1U1d6aWYxbTZRTGgzYm92a1pKMWFiZm5OT0lXNEoxQS0?oc=5",
+    "published_at": "2026-09-08T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "[단독]카카오 독주 끝…서울 로보택시 운영권, 현대차·티머니모빌도 땄다",
+    "summary": "[단독]카카오 독주 끝…서울 로보택시 운영권, 현대차·티머니모빌도 땄다  네이트",
+    "source": "네이트",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MNHo5dkJ1aFdZMERTMFdJQ0pCeG9WUkdYUmY4X0FsSWoyMUZhMUtzTWI2TW92WGMtSm5TdWd1ZmZ0TVlERnZYZDJqRTl6cmYtY2Rv?oc=5",
+    "published_at": "2026-09-07T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "[모빌리티핫이슈] 카카오-엔비디아 자율주행 동맹…테슬라 사이버트럭 접는다",
+    "summary": "[모빌리티핫이슈] 카카오-엔비디아 자율주행 동맹…테슬라 사이버트럭 접는다  디지털투데이",
+    "source": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BUUJMdzkxc0dHQkp0b19ma1dJeGNNUmM5S0ZJLTZDTUpINDhvOU5TdG5pVnRxblJNTHRZSVRJREJuSWF4NFZTNW1Kc2N2X2lNLWhaTUQxY0lhY0pDeEE2Rk5CVDN0bUxScFk5LWVlV3pFSk0?oc=5",
+    "published_at": "2026-11-11T08:00:00+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ]
+  },
+  {
+    "headline": "\"현대차, 자율주행 스타트업 포티투닷(42dot)에 4천억원 투자\"...로이터통신",
+    "summary": "\"현대차, 자율주행 스타트업 포티투닷(42dot)에 4천억원 투자\"...로이터통신  글로벌경제신문",
+    "source": "글로벌경제신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EZEVGZ2M3cjdZQ3NhT3JaZy1WdnBuck83dWg2b0dDZG9KLXZ0TnlwQ2VtTW9YTFYyTWhMbFpnVHI1VnZ3U3VpVHNBNl9NZmM1RXl0cjRnanZFVzlLZ2RMenlUUGVpV3RlZGxJMNIBcEFVX3lxTE94MUoyMkVFcEhWNEliQVNGUkxpaHNQZEw2elNjR0lfZ29kVlRzTHBoSnNCdU95S0VWOS1IOC1BRDBQb01yNlk3LTJQVW90NS01b3EzdXNmTFB6WlFNem1mc0Z5c0wyZ0FPWUk4aDNrVm8?oc=5",
+    "published_at": "2022-07-29T07:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차",
+      "42dot (포티투닷)"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 日 첫 ROii 투입.. 효고현 도요오카시서 자율주행 실증",
+    "summary": "오토노머스에이투지, 日 첫 ROii 투입.. 효고현 도요오카시서 자율주행 실증  로봇신문",
+    "source": "로봇신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qRm1NVGtBQVpXNENKQndabmpEUGJIYjc2OVdHMGt5SEN3VjB4V0hiTXVVcGJHOWVwd25td01QVkpYVUpoSXV4OGc5VjVveXZsLWlkVmU3Ulh1RHlmQ1N4Q0RGLXUyeXlJU1JOZA?oc=5",
+    "published_at": "2026-11-09T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
+    "headline": "오토노머스에이투지, 韓 자율주행 실증 넘어 해외 상용화로…싱가포르서 성장 전략 공유",
+    "summary": "오토노머스에이투지, 韓 자율주행 실증 넘어 해외 상용화로…싱가포르서 성장 전략 공유  디지틀조선일보",
+    "source": "디지틀조선일보",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckRmR1hTMDBzbTJKS1JpTER5MzV5ZGJ3Z0hGSUhxY2hGQklCTmhKXzdYNHQ0SXVNOFJEVVBKU1pDcWpjTWhfdWRKb1BHbVp3d2JQamE5bEVPS0FrSHNTbmZ6WDczLW91RFZraVJscVJvZldCR1ZyS2pPdUR3TGMtNDFJNGFFSzDSAXtBVV95cUxNOU9kVnhWSGhSVEstOHZIcnlJdll3TVRDaDM4QW9VWjVEVUVEVGlXRDF5R09JaklVNE84R3Z5d0lnVU1UY3BHeFotczlURm5SN3V4NTRzZ29jWDF2SllocDEtejhINW03UElRb0I0eHRMY3NaazUyVkpQRGM?oc=5",
+    "published_at": "2026-11-12T09:45:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "오토노머스에이투지"
+    ]
+  },
+  {
     "headline": "[타보니]부르면 오는 버스, 익숙함 살린 택시…‘사람 손’ 완전히 떼기엔 아직 갈 길 멀다",
     "summary": "[타보니]부르면 오는 버스, 익숙함 살린 택시…‘사람 손’ 완전히 떼기엔 아직 갈 길 멀다  경향신문",
     "source": "경향신문",

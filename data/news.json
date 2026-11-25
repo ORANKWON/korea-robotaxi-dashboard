@@ -1,5 +1,334 @@
 [
   {
+    "headline": "4.5조 쏟은 모셔널, 연내 '무인 로보택시' 상용화 시험대",
+    "summary": "4.5조 쏟은 모셔널, 연내 '무인 로보택시' 상용화 시험대  www.ebn.co.kr",
+    "source": "www.ebn.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SQUhJWjFnZVpaU1JXVGpjUzFvQXR4X0Y0ZE91YVR5VEU2bENob002V1hjc2U2YXh2MUF1U190bHVsa00xRFotZ0p5aElsNkM2RHlKQUx1VGNFcEpiQlJPNmVmcDVtOE9U?oc=5",
+    "published_at": "2026-11-25T21:00:00+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "CES 2027 프리뷰 현대차 모셔널 vs 테슬라 사이버캡… 로보택시 경쟁 본격화",
+    "summary": "CES 2027 프리뷰 현대차 모셔널 vs 테슬라 사이버캡… 로보택시 경쟁 본격화  대한경제",
+    "source": "대한경제",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iYmRMQjkzTGctdEc4S202dzZtX2UxNEhOMVBZTVhGbHJwVWtnZ24tWEQ3NjRBMHpZOGItSFFQZ0xxSk1yQmpmbmxmWjZiNU9OZlFYbnAwTDdIdTZGc0Jncmd2SFJYOWcxbWRpMGstbEdjTm8?oc=5",
+    "published_at": "2026-11-24T05:22:35+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "[SBS] 조기춘 교수, 자율주행 택시 상용화와 기술 한계에 관해 코멘트",
+    "summary": "[SBS] 조기춘 교수, 자율주행 택시 상용화와 기술 한계에 관해 코멘트  뉴스H",
+    "source": "뉴스H",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TeVZBWHNsVFNNbmR3UDlHT21UTnZ5MUJQUnloT2VoRDR6cUVmUTlDOWVqZ2wwSFZCWGh6dzBfMlFSMHI4ZzVtaGZpMUcxNklLby01YW9IVlpOM0JXU1hoVUJsVWpnSmVyUmhV?oc=5",
+    "published_at": "2026-03-25T07:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "카카오모빌리티, 엔비디아와 자율주행 레벨4 개발 돌입",
+    "summary": "카카오모빌리티, 엔비디아와 자율주행 레벨4 개발 돌입  주간동아",
+    "source": "주간동아",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdWh0dHZJdmI5UEpDcFJyeWtwajZFQ1hPZEluVzd3SGZGLTNnUFE2SXdnanhBbGZPTU9vM2VYT3FoNG5GZzlnaWcwUVBEUlU4bEc0MVY4eTZDSUl4YmozZm5xdnhhMF96?oc=5",
+    "published_at": "2026-11-11T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "카카오모빌리티"
+    ]
+  },
+  {
+    "headline": "제주도, 레벨4 완전 자율주행 상용화 본격 추진",
+    "summary": "제주도, 레벨4 완전 자율주행 상용화 본격 추진  뉴시스",
+    "source": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYbVFnTERtTFRpbVAtYXU4UnQ1N3JPOXlqZm1IREJxSVRtS21EanpYendscU05ZjZxSHpOd1dydEhPQm1NYzRET3hUZTNOWndJTGIxdTJGSDVKc1hRUkpiSFhR?oc=5",
+    "published_at": "2026-11-11T02:19:15+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "나비프라, 日 다케나카코무텐과 무인지게차 실증 개시…나비아이 적용 - 머니투데이",
+    "summary": "나비프라, 日 다케나카코무텐과 무인지게차 실증 개시…나비아이 적용 - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56WHpHQXlfWUcyd0RUZ0x1M0RiOVBJZzNvX0c4QkN0TF9kSXdtLU1SUUdic05vdEN5LThOZE81UEtkeUdtdFJDbDQ2Z3VSQzFiOWduLW91MzFLMGFlZmdBbXNtLVczMk1rRkHSAW9BVV95cUxOMlBYV0ltNWFIQmdTUktqWGUtR3RpeHVMYTdFRWZGM1ZCbXRhdklxLUVhZzgxSjdkcDJRX080emxVaE1aeGFjYjhLNVU4MW11OGZlbjJPeXFhdEdFanFMUGV6NUlzM1l2M1JjandCWWc?oc=5",
+    "published_at": "2026-11-25T08:30:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "황희 의원, 전기차 '무선·로봇 충전' 시대 연다「친환경자동차법」개정안, 「자율주행자동차법」개정안 대표발의",
+    "summary": "황희 의원, 전기차 '무선·로봇 충전' 시대 연다「친환경자동차법」개정안, 「자율주행자동차법」개정안 대표발의  일간대한뉴스",
+    "source": "일간대한뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6bUk2b2VIRktRemZMUktGd2RVakxVZGN5YU5TeHRXZGZZbW5SQjBEWUZvRDRmczF2dDUxeTA1XzNYR2Q0VWJfQUViY3JMOTdacGZ0OW5ZMHBocnhJRW94ajNKLUtmZU0?oc=5",
+    "published_at": "2026-11-25T00:04:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "SKT, AI-RAN 무인 자율이송 기술로 전파방송 기술대상 5년 연속 수상",
+    "summary": "SKT, AI-RAN 무인 자율이송 기술로 전파방송 기술대상 5년 연속 수상  테크월드",
+    "source": "테크월드",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JdFBFNnowUEJ3VEt5b2JxcXBPaUxFTkdxUUtlbUp3WFVWakdXUS1xbGtRSVNnakx1SGJhb0VhTkNFQjJSXzczOXJoQldObTVzT09nUEVQZnRldG40Z2ZnVmF6czVsejY2?oc=5",
+    "published_at": "2026-11-18T23:16:23+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "SKT 'AI-RAN 기반 무인 자율 이송 기술'로 전파방송 기술대상 수상",
+    "summary": "SKT 'AI-RAN 기반 무인 자율 이송 기술'로 전파방송 기술대상 수상  뉴스웍스",
+    "source": "뉴스웍스",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IdERmWmt2YjVRc25Ob0JZYmtncGR2WlVGNjczMFVzZ0hMdDdkR0g5dDBrc3g4em9VOFVCWkVHVm9zNENudm5EVS00S2hremJpay12Y2JvbnVfUkpTbnB1ZXZYZFg2T0F6OEFyZUhlTdIBc0FVX3lxTE5sdmZLb0dKNzdibFBZYzRrd3o4YWZ6ZklISHU3RVJLWThBUXdwWHpmWmU3bFdvUWlzaGhLS1JySlpUbmdSbmNYSVpHX0JaTmE5eFVMQmtELVlXSXpPbkRNR2lSNkNNYTRRTGE2UkVjWVE1Mzg?oc=5",
+    "published_at": "2026-11-18T03:00:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "SK텔레콤, ‘AI-RAN 무인 자율 이송 기술’로 전파방송 기술대상 장관상",
+    "summary": "SK텔레콤, ‘AI-RAN 무인 자율 이송 기술’로 전파방송 기술대상 장관상  더나은미래",
+    "source": "더나은미래",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tRnZvVE9waC0yY3FMa3pHRm41TlNrT0VwY0dsQ2VkcHpZNzY5WnRHeS1VUVlrMF95enhGWU9XNGtqN2hOUjVfRmJRWjBnMXhlRVE?oc=5",
+    "published_at": "2026-11-19T01:45:00+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "'광주 자율주행 실증도시' 30일 첫차 투입…연말까지 120대 운행",
+    "summary": "'광주 자율주행 실증도시' 30일 첫차 투입…연말까지 120대 운행  KB Think",
+    "source": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kdWZYbXdKMmtjb3pmQzBHdEJIRXAtQ3VrQ3JlQUtHZEVfalc0VTExU3NsbFlmbWM4NVZLYm9rSlFKYVFnTWRGQ3dCWW54ZGFqdG9Gd1pEMEViNUt5X29BbkRWSm9RWUtFWkRnZE1mLUprUQ?oc=5",
+    "published_at": "2026-11-15T02:00:06+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "웨이모 자율주행차 미 애리조나서 교통사고",
+    "summary": "웨이모 자율주행차 미 애리조나서 교통사고  미주한국일보",
+    "source": "미주한국일보",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03X29DTHFaRzZ0a1N6dHlrLTljS0lEZ1ZVQ0VsMm8xQkcwQlliaEZUdC1UVUc1VlRlYWdodmdiNlpwNHRiY3ZrbGwtbHhXUmlaVENSdQ?oc=5",
+    "published_at": "2018-05-05T07:00:00+00:00",
+    "tags": [
+      "기업",
+      "사고"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카와 자율주행 동맹…실도로 데이터 확보·전용차 플랫폼 개발",
+    "summary": "현대차, 쏘카와 자율주행 동맹…실도로 데이터 확보·전용차 플랫폼 개발  디지털데일리",
+    "source": "디지털데일리",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uUEpBd3M0ZG1CR2xzNXR2NUVtU0J2MW9UUEJicEFiUmFkS1NkSzRFTk0tQkxJemROQ2t5THRaZm53a3hud1R3c2puS3VMay1fbVBkVXNmckRpX1ZhNEtlajdB?oc=5",
+    "published_at": "2026-11-13T02:51:10+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차, 쏘카·에이펙스모빌리티와 자율주행 전용 차량 플랫폼 개발 협력",
+    "summary": "현대차, 쏘카·에이펙스모빌리티와 자율주행 전용 차량 플랫폼 개발 협력  글로벌경제신문",
+    "source": "글로벌경제신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEVDhXbW9tdTF5Tmc3bWI0VmZSZTZxaHpfQkVBNmVWeF9xQU1PemRrUDEwcm9QWTFOcFhNSHlNclo5Yk5meGRDdzI1c2dyVW1Ib3o5c0x5MkFqVWRfOVVOWnJWMXdOOEtNdGZSetIBcEFVX3lxTE9LWFUzZHNBRnBVRmxMM3dMVkUwVDd1c0JMeE5mQ2dkbjE0OGh3U0JNMGdlWkZrbDVvaTRDZ3Z1UGNPUHRoLW1pMF9KT2toazZGLXlGOEwyVlJ4OXRQRjItZTU2ckJBS2pfbkFud21McVU?oc=5",
+    "published_at": "2026-11-13T01:31:30+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "쏘카 (SOCAR)",
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "돌아온 젠슨 황에 한시름 덜어낸 현대차..자율주행·AI 협력 속도 - 머니투데이",
+    "summary": "돌아온 젠슨 황에 한시름 덜어낸 현대차..자율주행·AI 협력 속도 - 머니투데이  머니투데이",
+    "source": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCeEg5cmJJdUsxbU0wUGRLRFZ5ejJITWlIQkdoNmVlbk9iSEJrVDBYWldLQXhHU2NUbmczOC1YR1JvLXVJR0pzdXo5d1pRczNveksxSl9KMkZKcTEwYTZJVlJsXzRIYl9Ea2xzVtIBckFVX3lxTE9WOEhMdG54a0lPUDBtVjZ3cXBhaVJ5Z01KQjM0azVUeWF3dHNxd2NQRHhSMi1VLW5veUpvWDNDWTJqOGFiTmJzR3lXeWZ6MEM5MmNzWncwV3Y2V3pVaXNsN1lBRWRvSndscWdqRU85bE8wUQ?oc=5",
+    "published_at": "2026-11-24T07:50:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "[산업썰전] 자동차 제조는 세계 최고 수준인데…현대차의 초라한 소프트웨어 경쟁력",
+    "summary": "[산업썰전] 자동차 제조는 세계 최고 수준인데…현대차의 초라한 소프트웨어 경쟁력  핀포인트뉴스",
+    "source": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDRVNUZmdCOUpTdllmVlBYZmJzbWZWXzZsN05Gc21UekI5WUdzbDY2VmFlb2Y1ZW9Mak1UdHpFaEowZG15enhhLTFIakNjRTdWd3BTU0FCOHp5Zy1wUzhkUEZ1ck5NMW9tcnZMZG1CYndpekXSAXdBVV95cUxQOU1ybmlOZkN2SFhTUlVxX2hYaUFUVmE5VElkOE5IZk1BQzRVZ0xWNUVGbmZabG5CZ1RoYTR3WVFXaVExSTIwQ3NKZkRxUkdTa2ZRYUhKM0kzQ0QyZEdwV3hkRU9hdW8waWFzOHFsd2MtRlJNQzMydw?oc=5",
+    "published_at": "2026-11-25T02:03:38+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "[특징주] 삼전닉스보다 더 뛴 현대차…젠슨 황 복귀에 11.11% 급등",
+    "summary": "[특징주] 삼전닉스보다 더 뛴 현대차…젠슨 황 복귀에 11.11% 급등  https://www.moneystorm.kr/",
+    "source": "https://www.moneystorm.kr/",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kcmpObWFBMjFxQkY5V05kRFZGZFZtQ2JDZjZCVGt4cmJHMko2V2piV0txN2l3dmt6bUtaVXJCbDBOVUlCbFVJTlFQVF9tUTV2Zkd2NGhHMmhPNWxCZnBtMDRwLWZsWFBnWWc?oc=5",
+    "published_at": "2026-11-24T06:52:10+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "자율주행 기술 테슬라·벤츠·BMW 맞불",
+    "summary": "자율주행 기술 테슬라·벤츠·BMW 맞불  기독일보",
+    "source": "기독일보",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYVE9pNU1zekZhSlRwVU51MTNONzJxSU1LaGNoT0w5S2JUc3dibVJ5ZWR2ZzgtRDZFVEljTnhWd1ZOTkM1TFdWd1hjWjZCa3FDV1lqV3VCWdIBXEFVX3lxTE5CMVhvMDhYQzM2SFFGSDRxS3dvVlgzUE15ejd3bXdPWVNudkY3WUFEQ0h3T0dMcmZ0VFBQSU8xVXFTMmlHN00yblhiX3QwQ2Uyb1BMQXZmTjI2aFBs?oc=5",
+    "published_at": "2026-11-25T01:28:43+00:00",
+    "tags": [
+      "기업",
+      "해외"
+    ]
+  },
+  {
+    "headline": "현대자동차, 2026 LA오토쇼 참가 최신형 콤팩트 세단 ‘디 올 뉴 아반떼’ 공개",
+    "summary": "현대자동차, 2026 LA오토쇼 참가 최신형 콤팩트 세단 ‘디 올 뉴 아반떼’ 공개  국민뉴스",
+    "source": "국민뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZVS1rd21tcTJCMWdKWUN2dFBfOTRJR3IwZnpTT3FidHhFZ3JkUmZNR1ZUQjFCZWJidTNmSGEtWVhOdkhKckJ2NTNR?oc=5",
+    "published_at": "2026-11-22T15:02:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 N 버츄얼컵, 김규민 2점 차 시즌 우승⋯지스타서 최종전",
+    "summary": "현대차 N 버츄얼컵, 김규민 2점 차 시즌 우승⋯지스타서 최종전  엠투데이",
+    "source": "엠투데이",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdFlNN0hFQ215d1c4cnBHUHJiaXZaV1d5VE5ySWRuRkNKeElxdmRzZnRQUGdBdjFSZ1RQQ24tNTdlN1Y2aGdSWXZxcEo4UXQ4LU9PTzE2RHdreU9VaTdITHF3TEZiLUNNRmJILURKcw?oc=5",
+    "published_at": "2026-11-23T08:00:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차 아반떼 N TCR, 2026 TCR 월드투어 정상⋯드라이버 통산 6번째 우승",
+    "summary": "현대차 아반떼 N TCR, 2026 TCR 월드투어 정상⋯드라이버 통산 6번째 우승  엠투데이",
+    "source": "엠투데이",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhUE1mVWVuM0JoVUFBOUxUVDlhU3lGc2pnOF9oZkFIanF0R0h6bTFBWGN2ZC05QkVCZEVZcXB0NlhmOTRYQWxvaG9ma3drY0o1cHFSRHhVOU1WZkdEaEg5bHRtVThnc2FCZVNQU1ROQQ?oc=5",
+    "published_at": "2026-11-23T07:50:00+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "로보택시, 손 모아야 ‘잘나간다’",
+    "summary": "로보택시, 손 모아야 ‘잘나간다’  경향신문",
+    "source": "경향신문",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVaFhpZE45U2lyU0pPUGVvdzk0YUdBdEUzM3ZNanNrdnhHMTl0c2t2TlF4RXpCZUN1RkZRaXQ0enBWek5zQ0lGZ2YyNUNseDNnUzM2TWxlQ2tVZ9IBX0FVX3lxTE1ram9JUzRSZ1M3M19jMTh5X0lRVXN2cFU4bExTV0xQUEtVRDMwLUdCLTdfbUFTdFNOX3lPNllJSW5XV0Z1TV9CcThNb2JaOVNWQ0t2RjhnZTItVnpuUU8w?oc=5",
+    "published_at": "2026-11-22T11:34:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "현대차, 웨이모에 아이오닉5 공급…로보택시 사업 본격화",
+    "summary": "현대차, 웨이모에 아이오닉5 공급…로보택시 사업 본격화  팩트인뉴스",
+    "source": "팩트인뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsU2NCUHM5UlE2OUJMdmdacXVRaTMyNXNvb2gzSDlCaDRhamhVeUptaEp2ZmltYlRDT1dQbVFBVkJ3b0REWkUyZXlkY3Uxc2hka0pzdTRMbXRJTGl2MVZqQnlDR1A2VG5DbXF0VzdMcXbSAXRBVV95cUxPRGNGLVlWUjdFMHV4Z0paUGxubHpNQWllZjNoWGU2VGJnS3lDa1J1ZnN3bUh1R0J6NjdiTy0zVjhUdnA3X0RodWczYmljckYzc1kwUlFiTkxjbWhfZm92RnNRdGFHLXdhdDZnR2hEZER6Y2hSMw?oc=5",
+    "published_at": "2026-11-18T07:50:23+00:00",
+    "tags": [
+      "기업"
+    ],
+    "companies": [
+      "현대자동차"
+    ]
+  },
+  {
+    "headline": "현대차·모비스, 모셔널에 2547억 추가 출자…\"자율주행 상용화 박차\"",
+    "summary": "현대차·모비스, 모셔널에 2547억 추가 출자…\"자율주행 상용화 박차\"  파이낸셜뉴스",
+    "source": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByMHRQOUF3Ty12Rmt4a1g1VUdvZE95ZTZxTjVGTEFmV3JDRXFianp4dHRKdUZrLTFkeEhTNUhhZ1VrTVRNQ3BhZ0hiakhzYmxiNFNkdWVsWEl0Zw?oc=5",
+    "published_at": "2026-11-17T06:34:48+00:00",
+    "tags": [
+      "기업",
+      "서비스"
+    ],
+    "companies": [
+      "현대자동차",
+      "모셔널 (현대차그룹)"
+    ]
+  },
+  {
+    "headline": "한국자동차모빌리티안전학회, ‘2026 KASA 엑설런스 랩 어워드’ 4개 기관 시상",
+    "summary": "한국자동차모빌리티안전학회, ‘2026 KASA 엑설런스 랩 어워드’ 4개 기관 시상  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YdXpNYVFpMDZ2WWZVbnlXaVJNMXdES1JMZm1wNXgwR0dWUUhXZVFmNy1YUVR0UVYtZVV0WUsxbTA5anJCZTNORzBIUGdwMjdYMzQzY1dFeGNKRGEzR3NMSFpPUEJxY2xkRVlYVw?oc=5",
+    "published_at": "2026-11-19T08:47:50+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
+    "headline": "국토교통부, `광주 자율주행 실증도시` 본궤도 진입 … 이달 30일 첫 차량 운행 준비",
+    "summary": "국토교통부, `광주 자율주행 실증도시` 본궤도 진입 … 이달 30일 첫 차량 운행 준비  시사일보",
+    "source": "시사일보",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11NkF6NDVRVVBOY3lBSGQ3QWpObV9odUs1bmJXR3JQNnBrVWVJZTduRDdEc3VXaXljMENKRG5HZjZsVVRMX0tXTkZrN1Y?oc=5",
+    "published_at": "2026-11-15T04:31:00+00:00",
+    "tags": [
+      "정책",
+      "서비스"
+    ]
+  },
+  {
+    "headline": "전남광주통합특별시 광주 도심에 자율주행차 달린다…11월30일 첫 운행",
+    "summary": "전남광주통합특별시 광주 도심에 자율주행차 달린다…11월30일 첫 운행  한국미디어뉴스",
+    "source": "한국미디어뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44Y3MwazFHWW9iMDdOSDZUSTdqR0tJSks1bmszZk9zaTRlNXRmUFg3TlRhVkc4YTVjUVkySFd4VVROb3JDTVgtQXYxWnJPWDlNM0Z2QWVZTGlIZWNuQnMtbnpXQTgxUQ?oc=5",
+    "published_at": "2026-11-15T08:10:30+00:00",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "headline": "자율주행 화물운송, 기술은 진보하지만 제도는 멈춰 서 있다",
+    "summary": "자율주행 화물운송, 기술은 진보하지만 제도는 멈춰 서 있다  다나와 자동차",
+    "source": "다나와 자동차",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zY21HQ1BpV0Y5dzFBOWoxdl85OUFSbF9wSHFOWUVYbDZRYmtRWnhFV1ZMZ09HbUtFMjJoaUMzLWdGa3JpeHBhZ3djZFBqaUpuOGlTYnotUk80NDFBSU45RjZVUUFSdzV2MVVINkFXRnZ3dw?oc=5",
+    "published_at": "2026-10-21T07:00:00+00:00",
+    "tags": [
+      "일반"
+    ]
+  },
+  {
     "headline": "전기차·자율주행차 운행 규제 개선 입법 추진",
     "summary": "전기차·자율주행차 운행 규제 개선 입법 추진  LG헬로비전",
     "source": "LG헬로비전",
